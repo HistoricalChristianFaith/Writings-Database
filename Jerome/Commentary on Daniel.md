@@ -1,5 +1,9 @@
-St. Jerome, Commentary on Daniel (1958). pp. 15-157
-   [Translated by Gleason L. Archer]
+# St. Jerome, Commentary on Daniel
+
+> Early Church Fathers - Additional Texts (1958). pp. 15-157 [Translated by Gleason L. Archer]
+> This text was transcribed by [Roger Pearse, 2004](https://www.ccel.org/ccel/pearse/morefathers/files/index.htm#Commentary_on_Daniel).  All material on this page is in the public domain - copy freely.
+Material in () is the KJV verse no; material in [] is comments by Gleason Archer.  (p.584) is the page number in Migne; (A-D) are the sections on a page in Migne.
+
   
 ### Prologue 
 (P. 491) (617-618) Porphyry wrote his twelfth book against the prophecy of Daniel, (A) denying that it was composed by the person to whom it is ascribed in its title, but rather by some individual living in Judaea at the time of the Antiochus who was surnamed Epiphanes. He furthermore alleged that "Daniel" did not foretell the future so much as he related the past, and lastly that whatever he spoke of up till the time of Antiochus contained authentic history, whereas anything he may have conjectured beyond that point was false, inasmuch as he would not have foreknown the future. Eusebius, Bishop of Caesarea, made a most able reply to these allegations in three volumes, that is, the eighteenth, nineteenth, and twentieth. Appollinarius did likewise, in a single large book, namely his twenty-sixth. (B) Prior to these authors Methodius made a partial reply.
@@ -637,8 +641,3 @@ Verse 63. "But Helcias and his wife praised God for their daughter Susanna. ..."
 [^1]: Here Jerome gives the Hebrew consonants, by mistake substituting he for heth in the last letter. Actually the Hebrew word means: "to the choir-leader." (C)
 [^2]: Not an actual quotation, but a collocation of words from Daniel 1:54-59 according to the Septuagint version. Actually there is no prisai there, but the verb appears as the compound kataprise.
 [^3]: Reading Ecclesiae instead of the meaningless Ecclesiam of the text.
-       
-This text was transcribed by Roger Pearse, 2004.  All material on this page is in the public domain - copy freely.
-Material in () is the KJV verse no; material in [] is comments by Gleason Archer.  (p.584) is the page number in Migne; (A-D) are the sections on a page in Migne.
-
-Early Church Fathers - Additional Texts
