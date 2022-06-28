@@ -1,6 +1,9 @@
-St. Jerome, Commentary on Daniel . pp. 15-157
-  
- 
+# St. Jerome, Commentary on Daniel
+
+> Early Church Fathers - Additional Texts (1958). pp. 15-157 [Translated by Gleason L. Archer]
+> This text was transcribed by [Roger Pearse, 2004](https://www.ccel.org/ccel/pearse/morefathers/files/index.htm#Commentary_on_Daniel). All material on this page is in the public domain - copy freely.
+Material in () is the KJV verse no; material in [] is comments by Gleason Archer. 
+
 ### Prologue 
  Porphyry wrote his twelfth book against the prophecy of Daniel, denying that it was composed by the person to whom it is ascribed in its title, but rather by some individual living in Judaea at the time of the Antiochus who was surnamed Epiphanes. He furthermore alleged that "Daniel" did not foretell the future so much as he related the past, and lastly that whatever he spoke of up till the time of Antiochus contained authentic history, whereas anything he may have conjectured beyond that point was false, inasmuch as he would not have foreknown the future. Eusebius, Bishop of Caesarea, made a most able reply to these allegations in three volumes, that is, the eighteenth, nineteenth, and twentieth. Appollinarius did likewise, in a single large book, namely his twenty-sixth. Prior to these authors Methodius made a partial reply.
  
