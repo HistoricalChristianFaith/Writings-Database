@@ -634,11 +634,11 @@ Verse 63. "But Helcias and his wife praised God for their daughter Susanna. ..."
 ### CHAPTER FOURTEEN 
 "And as soon as he had opened the door, the king (736) looked upon the table and cried out with a great voice: 'Great art thou, O Bel, and there is no deceit with thee.'" The statement of Scripture in this passage, "He cried out with a great voice," may seem, because of its reference to an idolator ignorant of God, to refute the observation put forth a little previously, that the expression "great voice" is found only in connection with saints. This objection is easily solved by asserting that this particular story is not contained in the Hebrew of the Book of Daniel. If, however, anyone should be able to prove that it belongs (B) in the canon, then we should be obliged to seek out some answer to this objection.  
   
-Footnotes moved to the end.  Most of the notes were placed in the body of the text in square brackets.
- 1. 1 Here Jerome gives the Hebrew consonants, by mistake substituting he for heth in the last letter. Actually the Hebrew word means: "to the choir-leader." (C)
- 2. [^2] Not an actual quotation, but a collocation of words from Daniel 1:54-59 according to the Septuagint version. Actually there is no prisai there, but the verb appears as the compound kataprise.
- 3. [^3] Reading Ecclesiae instead of the meaningless Ecclesiam of the text.
+[^1]: Here Jerome gives the Hebrew consonants, by mistake substituting he for heth in the last letter. Actually the Hebrew word means: "to the choir-leader." (C)
+[^2]: Not an actual quotation, but a collocation of words from Daniel 1:54-59 according to the Septuagint version. Actually there is no prisai there, but the verb appears as the compound kataprise.
+[^3]: Reading Ecclesiae instead of the meaningless Ecclesiam of the text.
        
-  This text was transcribed by Roger Pearse, 2004.  All material on this page is in the public domain - copy freely.
-  Material in () is the KJV verse no; material in [] is comments by Gleason Archer.  (p.584) is the page number in Migne; (A-D) are the sections on a page in Migne.
-                 Early Church Fathers - Additional Texts
+This text was transcribed by Roger Pearse, 2004.  All material on this page is in the public domain - copy freely.
+Material in () is the KJV verse no; material in [] is comments by Gleason Archer.  (p.584) is the page number in Migne; (A-D) are the sections on a page in Migne.
+
+Early Church Fathers - Additional Texts
