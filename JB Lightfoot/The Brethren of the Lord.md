@@ -174,6 +174,8 @@ But with these exceptions the Epiphanian view maintained its ground in the East.
 
 The table following gives a conspectus of the patristic and early authorities.
 
+![Table of positions of early authorities](https://github.com/HistoricalChristianFaith/Writings-Database/blob/master/images/jb_lightfoot_the_brethren_1.png?raw=true)
+
 A. <i>Sons of Joseph and Mary</i>: Tertullian; Helvidius; Bonosus; Jovinianus (?); Antidicomarianites.
 
 B. <i>Sons of Joseph by a former wife</i>: Gospel of Peter; Protevangelium etc.; Clement of Alex; Origen; Eusebius; Hilary of Poitiers; Ambrosiaster; Gregory of Nyssa; Epiphanius; Ambrose; [Chrysostom]; Cyril of Alex.; Eastern Services (Greek, Syrian, and Coptic); Later Greek Writers.
