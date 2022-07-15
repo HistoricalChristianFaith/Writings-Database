@@ -28,7 +28,7 @@ The taunt was an old foe with a new face. Long ago the question had been asked, 
 
 There was just enough foundation, in fact, for this taunt to arm it with a sting. It might not be so true now as it had been a century before, when St. Paul uttered the words that there were not many wise after the flesh, not many powerful, not many noble, either among the teachers or among the disciples of the new sect; yet still its converts would be drawn mainly from the less influential and the less educated classes of society. But what then? Was there any ground for assuming that either wealth or rank or education was a necessary condition of estimating correctly the claims of a religion which professed to disregard all conventional distinctions, and to address itself to man as man? This was not the first time, and it certainly will not have been the last, when the noblest and truest impulses, whether religious or moral, have worked upward from beneath. There was nothing in the social experiences of the high-born and wealthy, or in the technical education of the philosopher or the rhetorician, which peculiarly qualified them for appraising the worth of Christianity. Nay, just so far as the higher classes were removed from the hardest trials of their fellow-men, just so far as convention had chilled and stiffened in them the common instincts of humanity, they were absolutely incapacitated as judges. To mankind at large, with its sorrows and its sufferings, with its consciousness of sin and its aspirations after good, the Gospel message was addressed; and from them it found a ready response.
 
-But, indeed, this was a dangerous weapon for the adversaries of Christianity to wield. It was wrested from their hands and turned with deadly effect against themselves. It had been the proudest achievement of Socrates that he brought down philosophy from the skies to the level of common life. But the Gospel achieved a far greater triumph. "Every Christian mechanic," said Tertullian triumphantly, "has found out God, and can show Him to others"; though Plato said that it was difficult to discover Him, and next to impossible to communicate the discovery when made. This father contemptuously rejects what he calls the illusions of civilization. He turns aside from the training of the schools, and he addresses himself to the primary, unsophisticated, unencrusted consciousness of man: " I summon thee, O Soul, simple and rude and unpolished and unlearned, such as they possess thee who possess thee by thyself, the very real soul in its integrity - from the roadside, from the thoroughfare, from the weaver's shop. I want thine inexperience, since thy poor experience is trusted by none. I ask for just what thou bringest to man, just what thoughts thou hast learnt either from thyself or from thy Creator." "We do not talk great things," wrote Cyprian, "but we live them."
+But, indeed, this was a dangerous weapon for the adversaries of Christianity to wield. It was wrested from their hands and turned with deadly effect against themselves. It had been the proudest achievement of Socrates that he brought down philosophy from the skies to the level of common life. But the Gospel achieved a far greater triumph. "Every Christian mechanic," said Tertullian triumphantly, "has found out God, and can show Him to others"; though Plato said that it was difficult to discover Him, and next to impossible to communicate the discovery when made. This father contemptuously rejects what he calls the illusions of civilization. He turns aside from the training of the schools, and he addresses himself to the primary, unsophisticated, unencrusted consciousness of man: "I summon thee, O Soul, simple and rude and unpolished and unlearned, such as they possess thee who possess thee by thyself, the very real soul in its integrity - from the roadside, from the thoroughfare, from the weaver's shop. I want thine inexperience, since thy poor experience is trusted by none. I ask for just what thou bringest to man, just what thoughts thou hast learnt either from thyself or from thy Creator." "We do not talk great things," wrote Cyprian, "but we live them."
 
 But in fact the allegation of Celsus was not true.
 If rank and knowledge did not form any special
@@ -40,8 +40,8 @@ Even in the earlier years of the Apostolic age the
 conversion of a Roman proconsul, Sergius Paulus,
 was an augury of ultimate victory. Before the first
 century had run out, a prince and princess of the reigning house, Clemens and Domitilla, the cousins
-of the Emperor Domitian, suffered for their adherence to the new faith. Soon after, about the year 110, Pliny reports to the Emperor that many " of
-every rank " were infected with the strange superstition. In the latter half of the second century
+of the Emperor Domitian, suffered for their adherence to the new faith. Soon after, about the year 110, Pliny reports to the Emperor that many "of
+every rank" were infected with the strange superstition. In the latter half of the second century
 Irenæus speaks more than once of Christians at the
 Imperial Court. At the close of the century Marcia,
 who was all- powerful with the worthless Commodus,
@@ -161,7 +161,7 @@ all social and political relations is inevitable. Then
 amid the birth- throes of a new order the piercing cry
 is wrung from humanity in its agony and dismay.
 The great day has come which was foretold, when
-there should be " distress of nations with perplexity,
+there should be "distress of nations with perplexity,
 men's hearts failing them for fear." But then also
 the hope, the deliverance, the light, is at hand.
 Men are bidden to look up and to lift their heads,
@@ -207,7 +207,7 @@ his victories over the Dacians, as many as 10,000
 men are said to have fought in the amphitheatre.
 During the year of his ædileship the first Gordian exhibited gladiatorial shows every month, some
 times as many as 500 pairs of combatants, never less than 150. On these occasions the floor would
-be strewn with the bodies of the fallen, " butchered to make a Roman holiday." In the instances given
+be strewn with the bodies of the fallen, "butchered to make a Roman holiday." In the instances given
 the numbers are doubtless exceptionally large;
 but on a smaller scale such frightful spectacles were
 constant. Where pairs of gladiators or troops of
@@ -245,7 +245,7 @@ first two points on which I promised to speak, that
 I shall have to dismiss very briefly the third—the
 social influence of the Christians. The Divine Founder
 had declared that His followers were destined to be
-" the salt of the earth." The author whom I quoted
+"the salt of the earth." The author whom I quoted
 at the outset, as you will remember, puts the same
 thought in other words. The Christians, he says,
 are to the world as the soul to the body - the
@@ -523,9 +523,8 @@ should be allowed to worship any god who had not yet been formally adopted by th
 And the God of the Christians, from the very
 nature of the case, could never be so adopted.
 Hence the large tolerance of the Romans became
-essentially intolerant where Christianity was con cerned. Non licet esse vos— The law gives you no
-standing ground; you are not allowed to exist "
-this was the common outcry against the Christians,
+essentially intolerant where Christianity was concerned. Non licet esse vos — "The law gives you no
+standing ground; you are not allowed to exist" - this was the common outcry against the Christians,
 the legal justification of their persecutors, whenever there was a fresh access of popular fury.
 
 But this was not all. Their own religion was
@@ -1309,14 +1308,13 @@ Neither bad grammar nor defective orthography,
 nor rude art nor cramped space, nor damp nor dark ness can dim or distort the light with which the con
 sciousness of an immortality floods and glorifies these
 subterranean vaults. All here is joy and brightness
-and hope. The often -repeated inscription " In peace "
+and hope. The often-repeated inscription "In peace"
 tells its own tale. The paintings are all conceived in the same spirit. Now it is the dove or the palm
 branch, emblems of love, of innocence, and of victory. Now it is the Good Shepherd, tenderly bearing on his
 shoulders the feeble or the maimed one of the flock.
 And now again it is a heathen subject adopted and
 transfigured by a Christian baptism. Orpheus, thrilling, entrancing, dissolving the souls of men with the
-ecstasies of his unearthly music - not failing now to " quite set free His half-regained " spouse, but pre
-senting her, ransomed and sanctified without spot or wrinkle before the Eternal throne, triumphing over
+ecstasies of his unearthly music - not failing now to "quite set free His half-regained" spouse, but presenting her, ransomed and sanctified without spot or wrinkle before the Eternal throne, triumphing over
 death on His cross and in His grave, and thus in a
 new and a higher sense "Making Hell grant what Love did seek." And even when subjects of a more painful interest
 are chosen, and the Christian is reminded of the per
