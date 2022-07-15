@@ -58,525 +58,69 @@ The other point to which I ask your attention before I close is the influence of
 I have thus endeavoured, however imperfectly, to set before you the struggles and the triumphs of early Christianity in its relation to society. I would only remind you in conclusion that the lists are not closed, that the fight is not ended, that the victory is not won. The conditions of the contest change from age to age; but the underlying principle is ever the same. You, sirs, are the heirs not only of the lessons, not only of the achievements, but also of the responsibilities and the struggles of the past. If you would prove yourselves worthy of your name and ancestry, if you would appreciate to the full the magnificent possibilities of your calling, you must be animated by the same spirit by which the most splendid victories of the past have been won. You must not forget that, with all the engrossing cares of your earthly avocations, you are yet citizens of a heavenly polity; that, though in the world, you are yet not of the world. You must be strong with the strength of the master -conviction that the work which you are called to do is not a work of human in vention; that God has sent upon earth His Eternal Word, to take up His abode in your hearts, and to transform you into His own perfections. 
 
 ### Lecture 2
+On Tuesday last I reviewed the relations of the Christian to society. This evening I shall discuss his relations to the State. On the former occasion I pointed out how he faced the problems of life: now I shall show how he met the terrors of death. 
 
-On Tuesday last I reviewed the relations of the
-Christian to society. This evening I shall discuss his relations to the State. On the former occasion I
-pointed out how he faced the problems of life: now
-I shall show how he met the terrors of death.
+Living, as we do, in an age when the rights of the individual are loudly proclaimed and scrupulously respected, it is difficult for us to conceive the tyranny which in ancient times the State exercised over the thoughts and the actions of the subject. Not content with levying taxes and enforcing service, with maintaining order and punishing crime, the State prescribed to the subject his duties and his amusements, his religion and his mode of life. We talk much, and (though the term is often abused) we talk truly, of the rights of conscience. An ancient politician knew nothing of any such rights. The individual had no claims which were inconvenient to the State, or interfered in any way with its compactness and harmony. He was only a crank a wheel in the vast machinery; and he must move in regular subordination to the whole. Patriotism was the one paramount virtue. Principles of morality drew their authority and their efficacy from legal codes and political institutions. Conscience and toleration were words unrecognized in the vocabulary of an ancient statesman. Conscience was a possible interference with the demands of patriotisml; and toleration was a dangerous encroachment on the stability of public order. 
 
-Living, as we do, in an age when the rights of the individual are loudly proclaimed and scrupulously
-respected, it is difficult for us to conceive the tyranny
-which in ancient times the State exercised over the thoughts and the actions of the subject. Not
-content with levying taxes and enforcing service,
-with maintaining order and punishing crime, the
-State prescribed to the subject his duties and his
-amusements, his religion and his mode of life. We
-talk much, and (though the term is often abused)
-we talk truly, of the rights of conscience. An
-ancient politician knew nothing of any such rights.
-The individual had no claims which were inconvenient to the State, or interfered in any way with
-its compactness and harmony. He was only a crank
-a wheel in the vast machinery; and he must move in regular subordination to the whole. Patriotism
-was the one paramount virtue. Principles of morality drew their authority and their efficacy from legal
-codes and political institutions. Conscience and
-toleration were words unrecognized in the vocabulary
-of an ancient statesman. Conscience was a possible
-interference with the demands of patriotisml; and toleration was a dangerous encroachment on the
-stability of public order.
+Modern society is separated from ancient society by this vast moral gulf. We regard it as the in alienable right of every man that his opinions and his religion shall be free. It may be necessary to control his actions or even his words, but he is at least allowed to think and to worship as he will. The State exists for the individual, and not the individual for the State. 
 
-Modern society is separated from ancient society
-by this vast moral gulf. We regard it as the in
-alienable right of every man that his opinions and his religion shall be free. It may be necessary to
-control his actions or even his words, but he is at
-least allowed to think and to worship as he will.
-The State exists for the individual, and not the
-individual for the State.
+How largely this change has been brought about by Christianity will be evident at once. Chris tianity, indeed, protests against the unbridled license and stubborn self - will which to be the special danger of our age; for it teaches that the units are related to the whole, as the limbs to the body, each working in subordination to the general health, though each performing its own proper functions. But, on the other hand, Christianity has emphasized the individual man, as he was emphasized before. This it has done, because it has taught that he is directly and personally responsible to a greater than any earthly power; that all human claims and interests, even the most imposing, must yield to this higher obligation; that he is not a dying atom in a dying universe, a transient pheno menon, a fleeting breath, but a being endowed with an immortal, unquenchable life. Thus his individuality is a power in the economy of the universe, which demands respect; and his conscience is a sanctuary, which cannot be violated without sacrilege. 
 
-How largely this change has been brought about by Christianity will be evident at once. Chris
-tianity, indeed, protests against the unbridled license
-and stubborn self - will which to be the
-special danger of our age; for it teaches that the
-units are related to the whole, as the limbs to the
-body, each working in subordination to the general
-health, though each performing its own proper functions. But, on the other hand, Christianity has
-emphasized the individual man, as he was emphasized before. This it has done, because it has
-taught that he is directly and personally responsible to a greater than any earthly power; that all human
-claims and interests, even the most imposing, must
-yield to this higher obligation; that he is not a
-dying atom in a dying universe, a transient pheno menon, a fleeting breath, but a being endowed with
-an immortal, unquenchable life. Thus his individuality is a power in the economy of the universe, which demands respect; and his conscience is a sanctuary,
-which cannot be violated without sacrilege.
+Now in Rome the ancient idea was pressed with remorseless logic. The magnificent capacities of legislation and government, which distinguished the Roman, tended to the exceptional exaltation of the State at the expense of the individual. Religion itself was cast in a political mould.. The worship of the ancient Roman was essentially political, as that of the ancient Greek was artistic. His deities were political powers; his ceremonials political functions. Religion ' was the mere handmaid of politics. We ourselves can only conceive of theology as in its very nature firm, immutable, absolute. Otherwise it for feits its claim to the title of theology, because the truth cannot change. This was not the idea of the ancient Roman. His theology avowedly changed with the changing exigencies of the State. It was just as elastic, and just as rigid, as the form of government or the limits of the empire. 
 
-Now in Rome the ancient idea was pressed with remorseless logic. The magnificent capacities of
-legislation and government, which distinguished the
-Roman, tended to the exceptional exaltation of the
-State at the expense of the individual. Religion itself was cast in a political mould.. The worship of the ancient Roman was essentially political, as that
-of the ancient Greek was artistic. His deities were
-political powers; his ceremonials political functions.
-Religion ' was the mere handmaid of politics. We ourselves can only conceive of theology as in its very
-nature firm, immutable, absolute. Otherwise it for
-feits its claim to the title of theology, because the
-truth cannot change. This was not the idea of the
-ancient Roman. His theology avowedly changed
-with the changing exigencies of the State. It was just as elastic, and just as rigid, as the form of government or the limits of the empire.
+1. Thus, for instance, as Rome extended her sway over distant nations, she at the same time enlarged the boundaries of her mythology. With a marvellous power of assimilation she incorporated her conquests; but this incorporation would not be complete unless the religious arrangements kept pace with the political. Accordingly, it was her policy to recognize the religions of the subject peoples. This recognition was not a mere toleration. It was a direct acknowledgment of their value, in some sense of their truth. Each fresh people whom she conquered had deities of its own. She accepted these deities, gave them a place in her Pantheon, adopted them into her theology. It is difficult for us to conceive a state of mind in which such elasticity of religious worship was possible. In theology we hold that a thing either is or is not, and that no change of circumstance ought to make any difference here, because no change can convert truth into untruth or untruth into truth. But with the polytheist the case was different. When the Roman had conquered a foreign nation, he held that he had conquered its gods also; and he felt no more scruple in conceding to them the honour of adoration than he felt in restoring a province to a defeated prince or extending the franchise to a subject people. In this way, as the Roman Empire advanced, the gods of Egypt, of Syria, of the farther East, found a resting place in the Pantheon of Rome. 
 
-1. Thus, for instance, as Rome extended her
-sway over distant nations, she at the same time
-enlarged the boundaries of her mythology. With a
-marvellous power of assimilation she incorporated her conquests; but this incorporation would not be
-complete unless the religious arrangements kept pace with the political. Accordingly, it was her policy to recognize the religions of the subject peoples. This recognition was not a mere toleration.
-It was a direct acknowledgment of their value, in some sense of their truth. Each fresh people whom she conquered had deities of its own. She accepted
-these deities, gave them a place in her Pantheon,
-adopted them into her theology. It is difficult for us to conceive a state of mind in which such elasticity
-of religious worship was possible. In theology we hold that a thing either is or is not, and that no change of circumstance ought to make any difference here, because no change can convert truth into
-untruth or untruth into truth. But with the polytheist the case was different. When the Roman had conquered a foreign nation, he held that he had
-conquered its gods also; and he felt no more scruple in conceding to them the honour of adoration than
-he felt in restoring a province to a defeated prince or extending the franchise to a subject people. In
-this way, as the Roman Empire advanced, the gods of Egypt, of Syria, of the farther East, found a resting place in the Pantheon of Rome.
+2. And again, when the form of the constitution changed, the theology of the Roman was modified also. I allude to the deification of the Emperor, and I will ask your special attention to this point, not only because it is in itself the most monstrous phenomenon in religious history, but also because it is the very pivot on which our investigation this evening will turn. At the very moment when the world had reached its highest point of civilization and culture, when political and legislative ability were achieving their most signal triumphs — in an age of remarkable progress and enlightenment which was unequalled in ancient, and has only been equalled quite recently in modern times — this portentous development of polytheism was invented. The apotheosis of a living emperor, indeed, might be some what exceptional. It was confined, for the most part, to the provinces, where his worship was the symbol and the acknowledgment of Roman supremacy. Yet monsters like Caligula and Nero claimed and obtained divine honours during their lifetime in Rome itself; and Domitian was wont to be addressed as "my Lord and my God." But the deification of the Emperors after their decease became at length almost a matter of course. "Alas!" said Vespasian, when he felt his fatal illness approaching, "I apprehend I am going to be a god." And thus a single generation saw enrolled among the immortal powers, whom it was required to propitiate with sacrifice and adoration, a brutal sensualist like Commodus and a bloodthirsty fratricide like Caracalla. Nay, to such extremes was the principle carried that any relation ship or even connexion with the reigning sovereign might confer the honours of apotheosis. time it was a child of four months old, another a dissolute and effeminate favourite, who was raised to the ranks of the gods. And the world looked on, assented, worshipped, (shall we say?) believed. Here and there a philosopher laughed in his sleeve; but he too accepted the position. One body of men alone held out against this monstrous outrage on common sense and common decency, firm, unflinching, resolute even to death, an insignificant despised sect called Christians. They refused to bow before the hideous idol which Roman statecraft had set up. They held it better to forfeit peace, to forfeit liberty, to forfeit life itself, to be gibbeted on the cross, to be burnt at the stake, to be mangled by wild beasts, than to tell or to act the lie of lies, to put one pinch of incense on the accursed altar, or to offer one word of prayer to the accursed name. In the interests of human progress (I speak not now of divine truth ), do they not deserve our undying gratitude? 
 
-2. And again, when the form of the constitution changed, the theology of the Roman was modified
-also. I allude to the deification of the Emperor,
-and I will ask your special attention to this point,
-not only because it is in itself the most monstrous phenomenon in religious history, but also because it
-is the very pivot on which our investigation this
-evening will turn. At the very moment when the
-world had reached its highest point of civilization
-and culture, when political and legislative ability
-were achieving their most signal triumphs — in an age
-of remarkable progress and enlightenment which was
-unequalled in ancient, and has only been equalled
-quite recently in modern times — this portentous development of polytheism was invented. The
-apotheosis of a living emperor, indeed, might be some
-what exceptional. It was confined, for the most
-part, to the provinces, where his worship was the
-symbol and the acknowledgment of Roman supremacy.
-Yet monsters like Caligula and Nero claimed and
-obtained divine honours during their lifetime in
-Rome itself; and Domitian was wont to be addressed
-as "my Lord and my God." But the deification of
-the Emperors after their decease became at length
-almost a matter of course. "Alas!" said Vespasian,
-when he felt his fatal illness approaching, "I apprehend I am going to be a god." And thus a single generation saw enrolled among the immortal powers,
-whom it was required to propitiate with sacrifice and adoration, a brutal sensualist like Commodus and a
-bloodthirsty fratricide like Caracalla. Nay, to such extremes was the principle carried that any relation ship or even connexion with the reigning sovereign might confer the honours of apotheosis.
-time it was a child of four months old,
-another a
-dissolute and effeminate favourite, who was raised to
-the ranks of the gods. And the world looked on,
-assented, worshipped, (shall we say?) believed.
-Here and there a philosopher laughed in his sleeve;
-but he too accepted the position. One body of
-men alone held out against this monstrous outrage on common sense and common decency, firm, unflinching, resolute even to death, an insignificant despised sect called Christians. They refused to
-bow before the hideous idol which Roman statecraft
-had set up. They held it better to forfeit peace, to
-forfeit liberty, to forfeit life itself, to be gibbeted on
-the cross, to be burnt at the stake, to be mangled by
-wild beasts, than to tell or to act the lie of lies, to
-put one pinch of incense on the accursed altar, or to offer one word of prayer to the accursed name. In
-the interests of human progress (I speak not now
-of divine truth ), do they not deserve our undying
-gratitude?
+And yet this monstrous development was the natural, we might almost say the inevitable, con sequence of a Roman's conception of religion. On the downfall of the Republic, all the chief offices were concentrated in the person of the Emperor. Tribune, pontiff, imperator, often consul, he was the fountain-head of all civil as well as military power. If not in theory, at least in practice, he was the State. Now Roman religion, as we saw, was the mere reflection of Roman politics. It was not, as all true religion must be, a supreme controlling paramount authority, to which individuals and governments alike owe allegiance. In its very nature, therefore, it would perforce adapt itself to the altered circumstances of the time. Concentrated political power demanded a corresponding concentration in the object of religious worship. The person of the Emperor was the obvious response to this demand. The Emperor, therefore, was deified. His divinity was a symbol of the constitution; his worship was a guarantee of loyalty. 
 
-And yet this monstrous development was the
-natural, we might almost say the inevitable, con
-sequence of a Roman's conception of religion. On
-the downfall of the Republic, all the chief offices
-were concentrated in the person of the Emperor.
-Tribune, pontiff, imperator, often consul, he was the
-fountain-head of all civil as well as military power.
-If not in theory, at least in practice, he was the
-State. Now Roman religion, as we saw, was the
-mere reflection of Roman politics. It was not, as all true religion must be, a supreme controlling paramount authority, to which individuals and
-governments alike owe allegiance. In its very nature,
-therefore, it would perforce adapt itself to the altered
-circumstances of the time. Concentrated political
-power demanded a corresponding concentration in
-the object of religious worship. The person of the
-Emperor was the obvious response to this demand.
-The Emperor, therefore, was deified. His divinity
-was a symbol of the constitution; his worship was a
-guarantee of loyalty.
+How then did these facts affect the position of the Christians? We have seen that there was a singular elasticity in the recognition of foreign religions on the part of the Roman government. It was tolerant, and more than tolerant; it was broad and liberal to an extent which is perfectly astonish ing to us. We might, therefore, have presumed that under such a system Christianity would have had the fairest field, and the largest liberty. But a moment's reflection will correct this anticipation. From its very nature Christianity could not expect the toleration which was extended to other religions. Christianity claims to be absolute, paramount, uni versal. If it is not this, it is nothing at all. It cannot consent to go shares with other systems in the allegiance of its adherents. The God of the Christians will brook no rival. If the Christians had been satisfied with a niche for their Divine Founder in the Roman Pantheon side by side with the deities of Greece or Syria or Egypt, with Cybele and Isis and Astarte, the compromise would have been Such a readily accepted. It is even said that Tiberius proposed to the Senate to recognize our Lord among the adopted gods of Rome. The story may not be true, but it correctly represents the religious sentiment of the Roman people. It is quite certain that at a later date Alexander Severus did place an image of Christ in his private chapel along with the other gods to whom he offered his devotions. compromise the Christian could not accept. Christ must have all, or He will take nothing. The Roman was astonished, perplexed, check - mated, by the attitude which the Christian assumed. It seemed to him so unconciliatory, so exacting, so unreasonable. He could not rise to the conception of an absolute religion, of a supreme and exclusive God. His only idea of a religion was that it was a national religion; of a god, that he was a local god. With such he knew how to deal: but here was a novel phenomenon. Celsus, the antagonist of Christianity, treats it as a ridiculous notion that Greeks and barbarians, Asiatics, Europeans, Africans, should all agree in the same religious worship. He lays it down as an axiom that men are bound to worship the gods after the manner of their country. It is a flagrant crime in his eyes that the Christians have broken loose from the national religion of the Jews. In this he only expresses the prevailing sentiment in ancient Greece and Rome. 
 
-How then did these facts affect the position of the Christians? We have seen that there was a
-singular elasticity in the recognition of foreign religions on the part of the Roman government. It was tolerant, and more than tolerant; it was broad
-and liberal to an extent which is perfectly astonish ing to us. We might, therefore, have presumed
-that under such a system Christianity would have had the fairest field, and the largest liberty. But a
-moment's reflection will correct this anticipation.
-From its very nature Christianity could not expect the toleration which was extended to other religions.
-Christianity claims to be absolute, paramount, uni versal. If it is not this, it is nothing at all. It cannot consent to go shares with other systems in the allegiance of its adherents. The God of the
-Christians will brook no rival. If the Christians had
-been satisfied with a niche for their Divine Founder
-in the Roman Pantheon side by side with the deities
-of Greece or Syria or Egypt, with Cybele and Isis and Astarte, the compromise would have been
-Such a
-readily accepted. It is even said that Tiberius
-proposed to the Senate to recognize our Lord among
-the adopted gods of Rome. The story may not be
-true, but it correctly represents the religious sentiment of the Roman people. It is quite certain that at a later date Alexander Severus did place an image
-of Christ in his private chapel along with the other
-gods to whom he offered his devotions.
-compromise the Christian could not accept. Christ
-must have all, or He will take nothing. The Roman
-was astonished, perplexed, check - mated, by the attitude which the Christian assumed. It seemed to
-him so unconciliatory, so exacting, so unreasonable.
-He could not rise to the conception of an absolute
-religion, of a supreme and exclusive God. His only
-idea of a religion was that it was a national religion;
-of a god, that he was a local god. With such he
-knew how to deal: but here was a novel phenomenon. Celsus, the antagonist of Christianity, treats
-it as a ridiculous notion that Greeks and barbarians,
-Asiatics, Europeans, Africans, should all agree in the
-same religious worship. He lays it down as an
-axiom that men are bound to worship the gods
-after the manner of their country. It is a flagrant crime in his eyes that the Christians have broken loose from the national religion of the Jews. In
-this he only expresses the prevailing sentiment in
-ancient Greece and Rome.
+Moreover, the idea of a universal exclusive religion, as it was foreign to ancient conceptions, so also was antagonistic to political expediency. The shrewd courtier and statesman Mæcenas is related to have advised the Emperor Augustus, when he assumed the reins of government, "to worship the gods in all respects according to the laws of his country, and to compel others to do the same," adding, that those who introduced new deities would be misled into adopting foreign laws, and that thus secret conspiracies would be fomented. It was a fundamental maxim of ancient legislation, maintained by the wisest philosophers and statesmen, that no should be allowed to worship any god who had not yet been formally adopted by the law. 
 
-Moreover, the idea of a universal exclusive religion,
-as it was foreign to ancient conceptions, so also was
-antagonistic to political expediency. The shrewd
-courtier and statesman Mæcenas is related to have
-advised the Emperor Augustus, when he assumed
-the reins of government, "to worship the gods in all
-respects according to the laws of his country, and to
-compel others to do the same," adding, that those
-who introduced new deities would be misled into
-adopting foreign laws, and that thus secret conspiracies would be fomented. It was a fundamental
-maxim of ancient legislation, maintained by the
-wisest philosophers and statesmen, that no
-should be allowed to worship any god who had not yet been formally adopted by the law.
+And the God of the Christians, from the very nature of the case, could never be so adopted. Hence the large tolerance of the Romans became essentially intolerant where Christianity was concerned. Non licet esse vos — "The law gives you no standing ground; you are not allowed to exist" - this was the common outcry against the Christians, the legal justification of their persecutors, whenever there was a fresh access of popular fury. 
 
-And the God of the Christians, from the very
-nature of the case, could never be so adopted.
-Hence the large tolerance of the Romans became
-essentially intolerant where Christianity was concerned. Non licet esse vos — "The law gives you no
-standing ground; you are not allowed to exist" - this was the common outcry against the Christians,
-the legal justification of their persecutors, whenever there was a fresh access of popular fury.
+But this was not all. Their own religion was forbidden. Their gatherings were prohibited. If the matter had rested here, their difficulties might have been great, but they would not have been in superable. By prudent reserve and studious con cealment they might perhaps have eluded notice. But the law was not satisfied with these negative demands. The Christians were required to do certain definite overt acts. They were asked to sacrifice to the genius of the living Emperor, to recognize the divinity of the dead Emperor. It was common loyalty to acquiesce; it was sheer treason to decline. Their refusal was a blow aimed at the vitals of the State. If it had been only Neptune or Minerva or Apollo whom they treated with contempt, they might indeed have aroused the indignation of the populace, but they would not have ruffled the equanimity of the government. "You worship Cæsar," writes Tertullian, "with greater awe than Olympian Jove himself." "You would sooner perjure yourselves by all the gods together, than by the genius of Cæsar alone." 
 
-But this was not all. Their own religion was
-forbidden. Their gatherings were prohibited. If
-the matter had rested here, their difficulties might
-have been great, but they would not have been in superable. By prudent reserve and studious con
-cealment they might perhaps have eluded notice.
-But the law was not satisfied with these negative
-demands. The Christians were required to do
-certain definite overt acts. They were asked to sacrifice to the genius of the living Emperor, to
-recognize the divinity of the dead Emperor. It was common loyalty to acquiesce; it was sheer treason
-to decline. Their refusal was a blow aimed at the
-vitals of the State. If it had been only Neptune or
-Minerva or Apollo whom they treated with contempt,
-they might indeed have aroused the indignation of
-the populace, but they would not have ruffled the
-equanimity of the government. "You worship
-Cæsar," writes Tertullian, "with greater awe than Olympian Jove himself." "You would sooner
-perjure yourselves by all the gods together, than by
-the genius of Cæsar alone."
+I trust I have said enough to explain the moment ous character of the conflict. It is quite clear that neither side could yield an inch; that the struggle must be resolute and uncompromising, must be in ternecine. There was an irreconcilable antagonism between the religious ideas of Christianity and the political institutions of the age. It was the instinct of self-preservation which prompted their heathen rulers to persecute the Christians. A far-sighted states man might have anticipated that the political fabric would gradually crumble under the touch of the Christian idea. Hence the most cruel persecutors of the Christians were not always the worst rulers or the worst men. We may be startled to find that Christianity suffered more under Marcus Aurelius than under any of the early Emperors. Mr. J. Stuart Mill regards the attitude of this Emperor towards the Christians as "a tragical fact." It is only tragical in the same sense in which much else connected with this virtuous sovereign is tragical. Is it not an infinitely tragical fact that this same emperor obtained the apotheosis of his profligate wife Faustina, and of his dissolute colleague, L. Verus, building temples for their worship, instituting priest hoods in their names, and in all respects yielding them divine honours? With all his personal amiability and all his philosophical training, he was as much a slave to the system under which he was educated as the most degraded of his predecessors or the most ignorant of his subjects. The deification of imperialism was a primary article of his creed, an absolute necessity of his position. With him it appeared a sufficient claim to divinity in a shameless woman that she was an Emperor's wife, and in a worthless libertine that he was an Emperor's colleague. Humanly speaking, it was impossible for such a man to be a Christian. 
 
-I trust I have said enough to explain the moment
-ous character of the conflict. It is quite clear that
-neither side could yield an inch; that the struggle
-must be resolute and uncompromising, must be in
-ternecine. There was an irreconcilable antagonism
-between the religious ideas of Christianity and the political institutions of the age. It was the instinct of
-self-preservation which prompted their heathen rulers to persecute the Christians. A far-sighted states
-man might have anticipated that the political fabric would gradually crumble under the touch of the
-Christian idea. Hence the most cruel persecutors of
-the Christians were not always the worst rulers or
-the worst men. We may be startled to find that
-Christianity suffered more under Marcus Aurelius
-than under any of the early Emperors. Mr. J. Stuart Mill regards the attitude of this Emperor towards the Christians as "a tragical fact." It is
-only tragical in the same sense in which much else
-connected with this virtuous sovereign is tragical.
-Is it not an infinitely tragical fact that this same emperor obtained the apotheosis of his profligate wife Faustina, and of his dissolute colleague, L. Verus,
-building temples for their worship, instituting priest hoods in their names, and in all respects yielding
-them divine honours? With all his personal amiability and all his philosophical training, he was as
-much a slave to the system under which he was
-educated as the most degraded of his predecessors or
-the most ignorant of his subjects. The deification of imperialism was a primary article of his creed, an absolute necessity of his position. With him it
-appeared a sufficient claim to divinity in a shameless
-woman that she was an Emperor's wife, and in a
-worthless libertine that he was an Emperor's colleague.
-Humanly speaking, it was impossible for such a man to be a Christian.
+Still less could the Christians yield. The war was waged on their side for the most part passively, by careful abstention from politics, by persistent refusal of compromise, by patient endurance under suffering; but their determination was not the less real for this. They felt, for they could not help feeling, the magnitude of the conflict. It might seem a very small thing to throw a few grains of incense on an altar, or to utter a few syllables of adulation to an image; but on that trifling act and those fleeting words hung the most momentous issues which could affect the destiny of mankind. For the alternative offered in the name of religion was simply this: on the one hand, the absolute bondage to a mighty world-power, created and administered by men, a great political engine under whose wheels the freedom and growth of the human spirit must be remorselessly crushed, a gigantic thing essentially of the earth earthy; or, on the other, the free recognition of an eternal First Principle, controlling, inspiring, disposing, condemning, approving the thoughts and actions of mankind, the spiritual communion of the human soul with the Invisible One, who is the absolute centre of Truth and Light and Love. Was not this truly a conflict between heaven and earth, be tween Christ and Antichrist? Could the Christian do otherwise than resist, even at the cost of his life, the blasphemous arrogance of a power which, in the Apostle's language, seated itself in the temple of God, showing itself that it is God? "To the Emperor," writes Tertullian, "we render such homage as is lawful for us and good for him, homage as to a man standing next to God, having received his all from God, and inferior to God alone." "I will not call him God, both because I cannot tell a lie myself, and because I dare not make him ridiculous." "I will not call him Lord except in the common acceptation of the word, and when I am not compelled to use it as synonymous with God; for I have but one Lord, God Almighty and Eternal, who is his God as well as mine." 
 
-Still less could the Christians yield. The war
-was waged on their side for the most part passively,
-by careful abstention from politics, by persistent refusal of compromise, by patient endurance under suffering; but their determination was not the less
-real for this. They felt, for they could not help feeling, the magnitude of the conflict. It might seem a very small thing to throw a few grains of incense on an altar, or to utter a few syllables of
-adulation to an image; but on that trifling act and
-those fleeting words hung the most momentous issues
-which could affect the destiny of mankind. For the
-alternative offered in the name of religion was
-simply this: on the one hand, the absolute bondage to a mighty world-power, created and administered
-by men, a great political engine under whose wheels
-the freedom and growth of the human spirit must be remorselessly crushed, a gigantic thing essentially of
-the earth earthy; or, on the other, the free recognition of an eternal First Principle, controlling, inspiring, disposing, condemning, approving the thoughts
-and actions of mankind, the spiritual communion of the human soul with the Invisible One, who is the
-absolute centre of Truth and Light and Love. Was not this truly a conflict between heaven and earth, be
-tween Christ and Antichrist? Could the Christian
-do otherwise than resist, even at the cost of his life,
-the blasphemous arrogance of a power which, in the Apostle's language, seated itself in the temple of God, showing itself that it is God? "To the
-Emperor," writes Tertullian, "we render such
-homage as is lawful for us and good for him, homage as to a man standing next to God, having received
-his all from God, and inferior to God alone." "I
-will not call him God, both because I cannot tell a
-lie myself, and because I dare not make him ridiculous." "I will not call him Lord except in the
-common acceptation of the word, and when I am not
-compelled to use it as synonymous with God; for I
-have but one Lord, God Almighty and Eternal, who
-is his God as well as mine."
+"A free Church in a free State" has been the dream of more than one modern politician. It is only a dream, wholly incapable of realization. So far as the conception has any value, it must mean that Church and State shall work independently, both advancing pari passu, and neither interfering with the other. But the thing is impossible. The external bonds indeed may be severed for a time; but the State cannot liberate itself from the influence of the Church, and the Church cannot escape from the control of the State. Religious ideas, like scientific ideas, are in their very nature aggressive. Their aggressive attitude provokes resistance and invites repression. Where there is not an alliance there must be a collision. Indifference is impossible; and without indifference there can be no strict neutrality. 
 
-"A free Church in a free State" has been the
-dream of more than one modern politician. It is only a dream, wholly incapable of realization. So
-far as the conception has any value, it must mean that Church and State shall work independently,
-both advancing pari passu, and neither interfering
-with the other. But the thing is impossible. The
-external bonds indeed may be severed for a time;
-but the State cannot liberate itself from the influence
-of the Church, and the Church cannot escape from
-the control of the State. Religious ideas, like
-scientific ideas, are in their very nature aggressive.
-Their aggressive attitude provokes resistance and invites repression. Where there is not an alliance
-there must be a collision. Indifference is impossible;
-and without indifference there can be no strict
-neutrality.
+And so the gauntlet was thrown down, and the challenge accepted. For nearly two centuries and a half the struggle continued, till at length the persecutors retired baffled from the field. On the Christian side the combatants were twofold - those who fought with their pen and those who fought with their lives - the Apologists and the Martyrs. The history of Christianity in the second and third centuries is the history of these two bands of champions. The Apologists did their work well; but it was the Martyrs who achieved the victory. 
 
-And so the gauntlet was thrown down, and the
-challenge accepted. For nearly two centuries and a
-half the struggle continued, till at length the persecutors retired baffled from the field. On the Christian side the combatants were twofold - those who
-fought with their pen and those who fought with their lives - the Apologists and the Martyrs. The history of Christianity in the second and third
-centuries is the history of these two bands of champions. The Apologists did their work well; but it was the Martyrs who achieved the victory.
+And yet it must not be imagined that these persecutions were utterly relentless and persistent. The heathen magistrates, as a rule, were not disposed to extreme measures. When they persecuted, they did so because the political situation left them no choice. But, where magisterial prudence forbore, popular clamour stepped in. An extraordinary drought, or a pestilence, or an earthquake, or a famine, an inundation of the Tiber, or the failure of an inundation in the Nile, was attributed to the anger of the offended gods, and demanding the sacrifice of the Christians to appease them. In vain might the magistrates interpose to moderate the fury of the populace. The position of the Christians was illegal. The sword of the law hung quivering over them; and the slightest breath of excitement would snap the thread and bring it down on their bare necks. 
 
-And yet it must not be imagined that these
-persecutions were utterly relentless and persistent.
-The heathen magistrates, as a rule, were not disposed
-to extreme measures. When they persecuted, they
-did so because the political situation left them no choice. But, where magisterial prudence forbore,
-popular clamour stepped in. An extraordinary
-drought, or a pestilence, or an earthquake, or a
-famine, an inundation of the Tiber, or the failure of
-an inundation in the Nile, was attributed to the
-anger of the offended gods, and demanding the sacrifice of the Christians to appease them. In vain
-might the magistrates interpose to moderate the fury
-of the populace. The position of the Christians was
-illegal. The sword of the law hung quivering over them; and the slightest breath of excitement would snap the thread and bring it down on their bare
-necks.
+It has been said lately, and said with some truth, that there is no practical mean between the policy of Alva and the policy of Gamaliel — between entire extirpation and absolute non-interference. All intermediate courses must be ineffectual; and, if in effectual, they will only stimulate the opposition which they are intended to crush. The Roman government was not prepared to adopt either extreme in its treatment of the Christians. The policy of Gamaliel was absolutely excluded by their political necessities. The policy of Alva was either too troublesome to their natural indolence, or too repugnant to their humane instincts. At length, indeed, their fears were thoroughly aroused; the rapidly -growing numbers and influence of the sect alarmed them; and first under Decius, then under Diocletian, they resorted to extreme measures. But it was too late. The victory was already won. And meanwhile these fitful, feverish, intermittent persecutions defeated their own ends. "Rack us, torture us, condemn us, mangle and crush us," writes Tertullian, "for your injustice is the attestation of our innocence. Therefore God suffers us to suffer these things. And yet all your refinements of cruelty produce no effect. They rather stimulate the sect. We grow in numbers every time you mow us down. Semen est sanguis Christianorum - The blood of the Christians is seed sown. Many of your own philosophers exhort to the endurance of pain and death. Yet their words do not make as many disciples as the Christians by the teaching of their deeds. The very obstinacy with which you reproach us is your teacher. For who that contem plates it is not instigated to inquire what there is at the bottom of it? Who that inquires, does not embrace it? Who that embraces it, is not ready to suffer?" 
 
-It has been said lately, and said with some truth,
-that there is no practical mean between the policy of
-Alva and the policy of Gamaliel — between entire extirpation and absolute non-interference. All intermediate courses must be ineffectual; and, if in
-effectual, they will only stimulate the opposition which they are intended to crush. The Roman
-government was not prepared to adopt either
-extreme in its treatment of the Christians. The
-policy of Gamaliel was absolutely excluded by
-their political necessities. The policy of Alva was
-either too troublesome to their natural indolence,
-or too repugnant to their humane instincts. At
-length, indeed, their fears were thoroughly aroused;
-the rapidly -growing numbers and influence of the
-sect alarmed them; and first under Decius, then
-under Diocletian, they resorted to extreme measures.
-But it was too late. The victory was already won.
-And meanwhile these fitful, feverish, intermittent
-persecutions defeated their own ends.
-"Rack us, torture us, condemn us, mangle and crush us," writes Tertullian, "for your injustice is the attestation of
-our innocence. Therefore God suffers us to suffer
-these things. And yet all your refinements of cruelty produce no effect. They rather stimulate
-the sect. We grow in numbers every time you
-mow us down. Semen est sanguis Christianorum - The
-blood of the Christians is seed sown. Many of your
-own philosophers exhort to the endurance of pain and death. Yet their words do not make as many
-disciples as the Christians by the teaching of their
-deeds. The very obstinacy with which you reproach us is your teacher. For who that contem
-plates it is not instigated to inquire what there is
-at the bottom of it? Who that inquires, does not embrace it? Who that embraces it, is not ready to
-suffer?"
+But the numbers of the martyrs? Here we shall not find it easy to form any probable estimate. If it was the tendency of ancient hagiologers greatly to exaggerate these numbers, it is not less the tendency of modern critics unduly to underrate them. Nor is this a question of great moment. It may possibly be true that throughout the ten persecutions which ecclesiastical historians have recorded, the total num ber of martyrs was not so great as of those victims who were sacrificed to the ruthless policy of their Spanish masters during one single reign in the Nether lands in the sixteenth century, or of those soldiers who lost their lives on the battlefields of France in one single bloody campaign two years ago. Numbers are no adequate measure of the significance of any great event in history. The architectural effect of a building depends far more on the disposition of its parts and the fitness of its decorations, than on the hugeness of its masonry. I cannot consent to regard the battle of Marathon as a poor and insignificant atom in history, hardly worthy of attention, because the Greeks did not muster more than 10,000 men, and the number of their slain did not exceed 200. I feel bound to measure the importance of historical events by their moral significance and their moral results. And at Marathon I see the magnificent spectacle of a huge barbarian army under a bar barian tyrant repulsed and driven into the sea by a small band of courageous patriots, the champions of a free and progressive race; while the alternative which hung on the issue of those few hours' fighting with those scanty numbers in that circumscribed plain was not less critical than this, whether the freedom and civilization of Greece or the barbaric despotism of Persia was to shape the future destinies of the human race. And in the far more momentous conflict which we are now reviewing the standard must be the same. We measure its significance by the spirit of the combatants - their undaunted courage, their lofty self-devotion, their simple faith, their joyous hope.  
 
-But the numbers of the martyrs? Here we shall
-not find it easy to form any probable estimate. If
-it was the tendency of ancient hagiologers greatly to
-exaggerate these numbers, it is not less the tendency
-of modern critics unduly to underrate them. Nor is
-this a question of great moment. It may possibly
-be true that throughout the ten persecutions which
-ecclesiastical historians have recorded, the total num ber of martyrs was not so great as of those victims
-who were sacrificed to the ruthless policy of their Spanish masters during one single reign in the Nether
-lands in the sixteenth century, or of those soldiers
-who lost their lives on the battlefields of France in
-one single bloody campaign two years ago. Numbers
-are no adequate measure of the significance of any great event in history. The architectural effect of a
-building depends far more on the disposition of its parts and the fitness of its decorations, than on the
-hugeness of its masonry. I cannot consent to regard the battle of Marathon as a poor and insignificant
-atom in history, hardly worthy of attention, because the Greeks did not muster more than 10,000 men,
-and the number of their slain did not exceed 200.
-I feel bound to measure the importance of historical events by their moral significance and their moral
-results. And at Marathon I see the magnificent
-spectacle of a huge barbarian army under a bar
-barian tyrant repulsed and driven into the sea by a
-small band of courageous patriots, the champions of a free and progressive race; while the alternative
-which hung on the issue of those few hours' fighting
-with those scanty numbers in that circumscribed
-plain was not less critical than this, whether the
-freedom and civilization of Greece or the barbaric
-despotism of Persia was to shape the future destinies
-of the human race. And in the far more momentous
-conflict which we are now reviewing the standard must be the same. We measure its significance by
-the spirit of the combatants - their undaunted courage,
-their lofty self-devotion, their simple faith, their
-joyous hope. 
+It is enough that, whenever a sacrifice was demanded, a sacrifice was ready; that feeble girls and young children in the presence of death were nerved with the courage of heroes; that the Chris tian leaders not infrequently interposed to check the ardour which impelled men and women alike to rush headlong into martyrdom; that the heathen magistrates often desisted from sheer weariness when they saw the crowds pressing forward to suffer death for their religion. "Miserable wretches," said a Roman proconsul, baffled by their numbers, "if you want to die, you have precipices and ropes." It did seem strange that they would give their lives rather than conform, when conformity demanded so little - just to scatter a pinch of incense on the fire, or to swear by the genius of the emperor, or to say (they might unsay it the next moment if they wished) that they were not Christians. It was a new phenomenon this strength made perfect in weakness. It arrested attention, and it compelled inquiry. 
 
-It is enough that, whenever a sacrifice was
-demanded, a sacrifice was ready; that feeble girls
-and young children in the presence of death were
-nerved with the courage of heroes; that the Chris
-tian leaders not infrequently interposed to check the
-ardour which impelled men and women alike to rush
-headlong into martyrdom; that the heathen magistrates often desisted from sheer weariness when they saw the crowds pressing forward to suffer death for
-their religion. "Miserable wretches," said a Roman proconsul, baffled by their numbers, "if you want to die, you have precipices and ropes." It did seem
-strange that they would give their lives rather than
-conform, when conformity demanded so little - just to
-scatter a pinch of incense on the fire, or to swear by
-the genius of the emperor, or to say (they might
-unsay it the next moment if they wished) that they were not Christians. It was a new phenomenon this strength made perfect in weakness. It arrested attention, and it compelled inquiry.
+For no spectator could look on unmoved and indifferent at these scenes—whether it was the old man Ignatius, burning for the hour when he should confront the wild beasts in the Roman amphitheatre, entreating his friends not to intercede and rob him of the crown of martyrdom, trembling lest he should be found unworthy of this last seal of discipleship, uniting in himself the courage of a hero with the humility of a child; or the still more aged Polycarp, refusing to revile his Lord in that memor able saying, "Eighty-and-six years have I served Him, and He has done me no wrong; how then can I blaspheme my King and my Saviour?" and dying at the stake with the words of prayer and thanks giving on his lips; or the boy Origen, thinking to lay down his life for his faith, his mother hiding his clothes that he might not expose himself to danger, and he himself writing to his father in prison to face death bravely and not to think of his family; or the slave girl Blandina, scourged, racked, and tortured day after day to extort a confession of guilt, thrown at length to the wild beasts, but protesting resolutely to the end, "I am Christian, and nothing wicked is done among us"; or that brave Christian wife who, when brought up to the altar by her pagan husband and forced to offer sacrifice, cried out indignantly, "I did not do it; you did it." 
 
-For no spectator could look on unmoved and
-indifferent at these scenes—whether it was the old
-man Ignatius, burning for the hour when he should
-confront the wild beasts in the Roman amphitheatre,
-entreating his friends not to intercede and rob
-him of the crown of martyrdom, trembling lest he should be found unworthy of this last seal of discipleship, uniting in himself the courage of a hero with the humility of a child; or the still more aged Polycarp, refusing to revile his Lord in that memor able saying, "Eighty-and-six years have I served Him, and He has done me no wrong; how then can I blaspheme my King and my Saviour?" and dying
-at the stake with the words of prayer and thanks
-giving on his lips; or the boy Origen, thinking to lay down his life for his faith, his mother hiding his clothes that he might not expose himself to danger,
-and he himself writing to his father in prison to face death bravely and not to think of his family;
-or the slave girl Blandina, scourged, racked, and tortured day after day to extort a confession of guilt, thrown at length to the wild beasts, but protesting resolutely to the end, "I am Christian, and nothing wicked is done among us"; or that brave Christian wife who, when brought up to the altar
-by her pagan husband and forced to offer sacrifice,
-cried out indignantly, "I did not do it; you did it."
+I wish that time would allow me to linger over these scenes, but I must draw to a close. Before concluding, however, I cannot forbear to direct your attention to a narrative, which is at once the most detailed, the most authentic, and the most touching of these early martyrologies. I only regret that the necessary abridgment will prevent me from doing justice to this simple and pathetic story. 
 
-I wish that time would allow me to linger over
-these scenes, but I must draw to a close. Before
-concluding, however, I cannot forbear to direct your
-attention to a narrative, which is at once the most
-detailed, the most authentic, and the most touching
-of these early martyrologies. I only regret that the
-necessary abridgment will prevent me from doing
-justice to this simple and pathetic story.
+The scene is Carthage or the neighbourhood; the probable year 202 A.D., during the reign of Severus; the occasion the Ides of March, the birthday of the Emperor's son the Cæsar Geta, when the amphitheatre demanded some human victims to grace the festival and to appease the populace. The victims certain Christians, young men and young women. Among them Perpetua, a girlish matron of good birth, twenty-two years of age, with an infant child in her arms, and Felicitas, a female slave, herself also soon to become a mother. The martyrology consists partly of a diary written by the sufferers themselves while in prison, partly of an account drawn up by a Christian bystander, who witnessed the actual scene in the arena. 
 
-The scene is Carthage or the neighbourhood; the probable year 202 A.D., during the reign of Severus;
-the occasion the Ides of March, the birthday of the
-Emperor's son the Cæsar Geta, when the amphitheatre demanded some human victims to grace the festival and to appease the populace. The victims
-certain Christians, young men and young women.
-Among them Perpetua, a girlish matron
-of good birth, twenty-two years of age, with an infant child in her arms, and Felicitas, a female slave,
-herself also soon to become a mother. The martyrology consists partly of a diary written by the sufferers themselves while in prison, partly of an
-account drawn up by a Christian bystander, who witnessed the actual scene in the arena.
+Perpetua was arrested. Her father, a heathen, entreated her to repudiate her faith. She pointed to an earthen vessel that stood by, and asked him, "Can you call this anything else but a pitcher?" "No." "Neither can I call myself by any other name than that which I am, a Christian." She was put into prison. "I was horrified," she writes in her diary, "for I had never experienced such dark O the cruel day! the oppressive heat from overcrowding! the insolent extortions of the soldiers! Above all I was racked with anxiety for my baby." But she soon recovered herself. "My prison," she says, "suddenly became like a palace, so that I would sooner have been there than anywhere else." 
 
-Perpetua was arrested. Her father, a heathen,
-entreated her to repudiate her faith. She pointed
-to an earthen vessel that stood by, and asked him,
-"Can you call this anything else but a pitcher?"
-"No." "Neither can I call myself by any other
-name than that which I am, a Christian." She was
-put into prison. "I was horrified," she writes in
-her diary, "for I had never experienced such dark
-O the cruel day! the oppressive heat from overcrowding! the insolent extortions of the soldiers!
-Above all I was racked with anxiety for my baby."
-But she soon recovered herself. "My prison," she
-says, "suddenly became like a palace, so that I
-would sooner have been there than anywhere
-else."
+Then comes the record of a vision in answer to a prayer. She saw a golden ladder reaching to heaven. Its sides bristled with dangerous imple ments, knives, hooks, lances, which tore the flesh of any one who attempted to mount, if he were at all careless. At its foot was a huge dragon, lying in wait to scare away all who approached. She planted her foot on the monster's head, invoking the name of the Lord Jesus. She was helped up the ladder by a fellow-sufferer Saturus; and when she had mounted she was received and welcomed by one dressed like a shepherd, with white hair and of great stature. "So we knew," she adds, "that we must die, and we began to surrender all hope in this present world." 
 
-Then comes the record of a vision in answer to
-a prayer. She saw a golden ladder reaching to
-heaven. Its sides bristled with dangerous imple
-ments, knives, hooks, lances, which tore the flesh of
-any one who attempted to mount, if he were at all
-careless. At its foot was a huge dragon, lying in
-wait to scare away all who approached. She planted
-her foot on the monster's head, invoking the name
-of the Lord Jesus. She was helped up the ladder
-by a fellow-sufferer Saturus; and when she had
-mounted she was received and welcomed by one
-dressed like a shepherd, with white hair and of great
-stature. "So we knew," she adds, "that we must
-die, and we began to surrender all hope in this
-present world."
+But her father continued to ply her with en treaties. He besought her to pity his gray hairs; to think of her brothers, of her mother, of her aunt, of her infant child who could not long survive her. He asked her to spare them all the disgrace of having a relation condemned as a criminal. He kissed her hand, threw himself at her feet, called her not his daughter, but his lady. She tried to comfort him, saying that she was in God's hands, not her own. 
 
-But her father continued to ply her with en
-treaties. He besought her to pity his gray hairs;
-to think of her brothers, of her mother, of her aunt,
-of her infant child who could not long survive her.
-He asked her to spare them all the disgrace of
-having a relation condemned as a criminal. He
-kissed her hand, threw himself at her feet, called her
-not his daughter, but his lady. She tried to comfort
-him, saying that she was in God's hands, not her
-own.
+Then the day of trial came. The prisoners were placed in the dock. Again her father appeared, this time with her infant in his arms, entreating her to pity the child. The magistrate joined in his entreaties. He put the usual test questions, desir ing to elicit an answer which might save her. But all in vain. "Offer sacrifice for the health of the Emperor." "I will not offer it." "Art thou a Christian?" "I am a Christian." She and her companions were condemned to the wild beasts, "And," she adds, "we went down to our prison glad of heart." 
 
-Then the day of trial came. The prisoners were
-placed in the dock. Again her father appeared, this time with her infant in his arms, entreating her to
-pity the child. The magistrate joined in his
-entreaties. He put the usual test questions, desir
-ing to elicit an answer which might save her. But
-all in vain. "Offer sacrifice for the health of the
-Emperor." "I will not offer it." "Art thou a
-Christian?" "I am a Christian." She and her
-companions were condemned to the wild beasts,
-"And," she adds, "we went down to our prison glad
-of heart."
+Then follows the record of visions, simply told, but instinct with beauty and meaning. They would perhaps be held superstitious by some. I dare not apply this term to them. They would well bear repeating, if time would allow. 
 
-Then follows the record of visions, simply told,
-but instinct with beauty and meaning. They would perhaps be held superstitious by some. I dare not
-apply this term to them. They would well bear repeating, if time would allow.
+At this point the interest of the narrative passes from Perpetua to her companion Felicitas. Felicitas is grieved lest her execution should be deferred on account of her condition. Her fellow-martyrs are very sad at the thought that they shall lose so dear a companion on their glorious journey. She and they pray that her delivery may be hastened. Their prayers are answered. A child is born in the prison. In the midst of her agony she cries out. "If you suffer so much pain now," says one of the attendants, "what will you do then when you are thrown to the wild beasts?" She answers, "Now I myself suffer what I suffer; but then there will be another in me who will suffer for me, because I shall suffer for Him." 
 
-At this point the interest of the narrative passes from Perpetua to her companion Felicitas. Felicitas
-is grieved lest her execution should be deferred on account of her condition. Her fellow-martyrs are
-very sad at the thought that they shall lose so dear a companion on their glorious journey. She and they pray that her delivery may be hastened.
-Their prayers are answered. A child is born in
-the prison. In the midst of her agony she cries
-out. "If you suffer so much pain now," says one
-of the attendants, "what will you do then when you are thrown to the wild beasts?"
-She answers, "Now I myself suffer what I suffer; but then there will be another in me who will suffer for me, because
-I shall suffer for Him."
+The evening before the execution, according to Roman custom, a supper was provided for the criminals with a cruel mockery of kindness, that they might forget their troubles in revelry. By these Christians this meal is converted, as far as circumstances permit, into an agape, or love- feast, the symbol and bond of Christian brotherhood. On such occasions the public were admitted that they might gratify a ghastly curiosity in scanning the looks and anatomizing the feelings of the miserable victims. Saturus, one of the martyrs, turned round fiercely upon these inquisitive bystanders. "Ay," said he, "note our features carefully, that you may know us again in that great day of Judgment." They were cowed by this rebuke; they retired; and many, we are told, believed. 
 
-The evening before the execution, according to
-Roman custom, a supper was provided for the
-criminals with a cruel mockery of kindness, that
-they might forget their troubles in revelry. By
-these Christians this meal is converted, as far as
-circumstances permit, into an agape, or love- feast,
-the symbol and bond of Christian brotherhood. On
-such occasions the public were admitted that they
-might gratify a ghastly curiosity in scanning the looks and anatomizing the feelings of the miserable victims. Saturus, one of the martyrs, turned round fiercely upon these inquisitive bystanders. "Ay,"
-said he, "note our features carefully, that you may
-know us again in that great day of Judgment."
-They were cowed by this rebuke; they retired;
-and many, we are told, believed.
+The day came. Even the spectators shuddered when these two delicate women were led into the amphitheatre. Perpetua was the first victim. She was tossed by a furious heifer. Regaining her consciousness, she gathered her dress about her, and bound up her dishevelled hair, that she might not appear as one mourning in this her hour of glory. Then she gave a hand to her companion Felicitas, who had also been tossed, and raised her from the ground. Then, as if waking from sleep, she asked when they would be exposed to the furious creature. In her spiritual ecstasy she was unaware of what had happened. At length the signal was given by the spectators that they should receive the coup de grace. They rose up gladly, exchanged the last kiss of peace, and presented themselves to the executioner. The gladiator entrusted with this task was a novice; he wounded Perpetua slightly in the side by an ill aimed blow; she directed the weapon in his hand towards her throat, and so she died. 
 
-The day came. Even the spectators shuddered
-when these two delicate women were led into the
-amphitheatre. Perpetua was the first victim. She
-was tossed by a furious heifer. Regaining her consciousness, she gathered her dress about her, and bound up her dishevelled hair, that she might not
-appear as one mourning in this her hour of glory.
-Then she gave a hand to her companion Felicitas,
-who had also been tossed, and raised her from the
-ground. Then, as if waking from sleep, she asked
-when they would be exposed to the furious creature.
-In her spiritual ecstasy she was unaware of what
-had happened. At length the signal was given by
-the spectators that they should receive the coup de
-grace. They rose up gladly, exchanged the last kiss
-of peace, and presented themselves to the executioner.
-The gladiator entrusted with this task was a novice;
-he wounded Perpetua slightly in the side by an ill
-aimed blow; she directed the weapon in his hand
-towards her throat, and so she died.
-
-Here I must close. Even this very imperfect
-treatment of an important subject will not have
-been without its use, if only for a few minutes this
-evening we have realized the presence of the noble army of martyrs, the great cloud of witnesses who
-throng round the arena of our conflicts, the silent
-but sympathetic spectators of our trials and our
-victories.
+Here I must close. Even this very imperfect treatment of an important subject will not have been without its use, if only for a few minutes this evening we have realized the presence of the noble army of martyrs, the great cloud of witnesses who throng round the arena of our conflicts, the silent but sympathetic spectators of our trials and our victories. 
 
 ### Lecture 3
 
