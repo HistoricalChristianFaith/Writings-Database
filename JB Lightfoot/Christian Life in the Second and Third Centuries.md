@@ -1,10 +1,10 @@
 # Christian Life in the Second and Third Centuries
 
-> https://www.google.com/books/edition/_/CzYIAQAAIAAJ?hl=en&gbpv=0&kptab=overview
-> 
 > The Lectures on “Christian Life in the Second and Third Centuries" were delivered in St. Paul's Cathedral on the 19th and 26th November and 3rd December 1872. 
 > 
 > Taken from "Historical essays" By Joseph Barber Lightfoot, John Reginald Harmer, Alfred Plummer · 1895
+> 
+> https://www.google.com/books/edition/_/CzYIAQAAIAAJ?hl=en&gbpv=0&kptab=overview
 
 ### Lecture 1
 
