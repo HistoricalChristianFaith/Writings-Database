@@ -4,7 +4,7 @@
 > 
 > Taken from "Historical essays" By Joseph Barber Lightfoot, John Reginald Harmer, Alfred Plummer · 1895
 > 
-> https://www.google.com/books/edition/_/CzYIAQAAIAAJ?hl=en&gbpv=0&kptab=overview
+> Sources: [1](https://www.google.com/books/edition/_/CzYIAQAAIAAJ?hl=en&gbpv=0&kptab=overview)
 
 ### Lecture 1
 
