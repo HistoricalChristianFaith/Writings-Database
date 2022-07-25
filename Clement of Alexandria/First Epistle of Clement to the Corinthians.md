@@ -301,3 +301,1053 @@ May God, who seeth all things, and who is the Ruler of all spirits and the Lord 
 
   Send back speedily to us in peace and with joy these our messengers to you: Claudius Ephebus and Valerius Bito, with Fortunatus: that they may the sooner announce to us the peace and harmony we so earnestly desire and long for [among you], and that we may the more quickly rejoice over the good order re-established among you. The grace of our Lord Jesus Christ be with you, and with all everywhere that are the called of God through Him, by whom be to Him glory, honour, power, majesty, and eternal dominion,[^259] from everlasting to everlasting.[^260] Amen.[^261] 
 
+
+
+[^1]:
+    In the only known ms. of this Epistle, the title is thus given at the close.
+
+
+[^2]:
+    [Note the fact that the Corinthians <i>asked</i> this of their brethren, the personal friends of their apostle St. Paul. Clement's own name does not appear in this Epistle.]
+
+
+[^3]:
+    Literally, "is greatly blasphemed."
+
+
+[^4]:
+    Literally, "did not prove your all-virtuous and firm faith."
+
+
+[^5]:
+    Eph. v. 21; 1 Pet. v. 5.
+
+
+[^6]:
+    Acts xx. 35.
+
+
+[^7]:
+    Literally, "ye embraced it in your bowels." [Concerning the complaints of Photius (ninth century) against Clement, see Bull's <i>Defensio Fidei Nicaenae, Works</i>, vol. v. p. 132.]
+
+
+[^8]:
+    1 Pet. ii. 17.
+
+
+[^9]:
+    So, in the ms., but many have suspected that the text is here corrupt. Perhaps the best emendation is that which substitutes <FONT FACE='SPIonic'>sunaisqhsewj</FONT>, "compassion," for <FONT FACE='SPIonic'>suneidhsewj</FONT>, "conscience."
+
+
+[^10]:
+    Tit. iii. 1.
+
+
+[^11]:
+    Prov. vii. 3.
+
+
+[^12]:
+    Literally, "enlargement"
+
+
+[^13]:
+    Deut. xxxii. 15.
+
+
+[^14]:
+    It seems necessary to refer <FONT FACE='SPIonic'>autou</FONT> to <i>God</i>, in opposition to the translation given by Abp. Wake and others.
+
+
+[^15]:
+    Literally, "Christ;" comp. 2 Cor. i. 21, Eph. iv. 20.
+
+
+[^16]:
+    Wisd. ii. 24.
+
+
+
+[^17]:
+    Gen. iv. 3-8. The writer here, as always, follows the reading of the Septuagint, which in this passage both alters and adds to the Hebrew text. We have given the rendering approved by the best critics; but some prefer to translate, as in our English version, "unto thee shall be his desire, and thou shalt rule over him." See, for an ancient explanation of the passage, Irenaeus, Adv. Haer., iv. 18, 3.
+
+
+[^18]:
+    Gen. xxvii. 41, etc.
+
+
+[^19]:
+    Gen. xxxvii.
+
+
+[^20]:
+    Ex. ii. 14.
+
+
+[^21]:
+    Num. xii. 14, 15. [In our copies of the Septuagint this is not affirmed of Aaron.]
+
+
+[^22]:
+    Num. xvi. 33.
+
+
+[^23]:
+    1 Kings xviii. 8, etc.
+
+
+[^24]:
+    Literally, "those who have been athletes."
+
+
+[^25]:
+    Some fill up the <i>lacunnae</i> here found in the ms. so as to read, "have come to a grievous death."
+
+
+[^26]:
+    Literally, "good." [The martyrdom of St. Peter is all that is thus connected with his arrival in Rome. His numerous labours were restricted to the Circumcision.]
+
+
+[^27]:
+    <i>Seven </i> imprisonments of St. Paul are not referred to in Scripture.
+
+
+[^28]:
+    Archbishop Wake here reads "scourged." We have followed the most recent critics in filling up the numerous <i>lacunnae</i> in this chapter.
+
+
+[^29]:
+    Some think <i>Rome</i>, others <i>Spain</i>, and others even <i>Britain</i>, to be here referred to. [See note at end.]
+
+
+[^30]:
+    That is, under Tigellinus and Sabinus, in the last year of the Emperor Nero; but some think Helius and Polycletus referred to; and others, both here and in the preceding sentence, regard the words as denoting simply the <i>witness </i> borne by Peter and Paul to the truth of the gospel before the rulers of the earth.
+
+
+[^31]:
+    Some suppose these to have been the names of two eminent female martyrs under Nero; others regard the clause as an interpolation. [Many ingenious conjectures might be cited; but see Jacobson's valuable note, <i>Patres Apostol</i>., vol. i. p. 30.]
+
+
+[^32]:
+    Literally, "have reached to the stedfast course of faith."
+
+
+[^33]:
+    Gen. ii. 23.
+
+
+[^34]:
+    Some insert "Father."
+
+
+[^35]:
+    Gen. vii.; 1 Pet. iii. 20; 2 Pet. ii. 5.
+
+
+[^36]:
+    Jonah iii.
+
+
+[^37]:
+    Ezek. xxxiii. 11.
+
+
+[^38]:
+    Ezek. xviii. 11.
+
+
+[^39]:
+    Comp. Isa. i. 18.
+
+
+[^40]:
+    These words are not found in Scripture, though they are quoted again by Clem. Alex. (<i>Paedag</i>., i. 10) as from Ezekiel.
+
+
+[^41]:
+    Isa. i. 16-20.
+
+
+[^42]:
+    Some read <FONT FACE='SPIonic'>mataiologian</FONT>, "vain talk."
+
+
+[^43]:
+    Gen. v. 24; Heb. xi. 5. Literally, "and his death was not found."
+
+
+[^44]:
+    Isa. xli. 8; 2 Chron. xx. 7; Judith viii. 19; James ii. 23.
+
+
+[^45]:
+    Gen. xii. 1-3.
+
+
+[^46]:
+    Gen. xiii. 14-16.
+
+
+[^47]:
+    Gen. xv. 5, 6; Rom. iv. 3.
+
+
+[^48]:
+    Gen. xxi. 22; Heb. xi. 17.
+
+
+[^49]:
+    Gen. xix.; comp. 2 Pet. ii. 6-9.
+
+
+[^50]:
+    So Joseph, <i>Antiq</i>., i. 11, 4; Irenaeus, <i>Adv. Haer</i>., iv. 31.
+
+
+[^51]:
+    Literally, "become a judgment and sign."
+
+
+[^52]:
+    Josh. ii.; Heb. xi. 31.
+
+
+[^53]:
+    Others of the Fathers adopt the same allegorical interpretation, e.g., Justin Mar<i>., Dial. c. Tryph</i>., n. 111; Irenaeus, <i>Adv. Haer</i>., iv. 20. [The whole matter of symbolism under the law must be more thoroughly studied if we would account for such strong language as is here applied to a poetical or rhetorical figure.]
+
+
+[^54]:
+    Jer. ix. 23, 24; 1 Cor. i. 31; 2 Cor. x. 17.
+
+
+[^55]:
+    Comp. Matt. vi. 12-15, vii. 2; Luke vi. 36-38.
+
+
+[^56]:
+    Isa. lxvi. 2.
+
+
+[^57]:
+    Prov. ii. 21, 22.
+
+
+[^58]:
+    Ps. xxxvii. 35-37. "Remnant" probably refers either to the <i>memory </i> or <i>posterity </i> of the righteous.
+
+
+[^59]:
+    Isa. xxix. 13; Matt. xv. 8; Mark vii. 6.
+
+
+[^60]:
+    Ps. lxii. 4.
+
+
+[^61]:
+    Ps. lxxviii. 36, 37.
+
+
+[^62]:
+    Ps. xxxi. 18.
+
+
+[^63]:
+    These words within brackets are not found in the ms., but have been inserted from the Septuagint by most editors.
+
+
+[^64]:
+    Ps. xii. 3-5.
+
+
+[^65]:
+    The Latin of Cotelerius, adopted by Hefele and Dressel, translates this clause as follows: "I will set free the wicked on account of His sepulchre, and the rich on account of His death."
+
+
+[^66]:
+    The reading of the ms. is <FONT FACE='SPIonic'>thj plhghj</FONT>, "purify, or free, Him from stripes." We have adopted the emendation of Junius.
+
+
+[^67]:
+    Wotton reads, "If He make."
+
+
+[^68]:
+    Or, "<i>fill </i> Him with understanding," if <FONT FACE='SPIonic'>plhsai</FONT> should be read instead of <FONT FACE='SPIonic'>plasai</FONT>, as Grabe suggests.
+
+
+[^69]:
+    Isa. liii. The reader will observe how often the text of the Septuagint, here quoted, differs from the Hebrew as represented by our authorized English version.
+
+
+[^70]:
+    Ps. xxii. 6-8.
+
+
+[^71]:
+    Heb. xi. 37.
+
+
+[^72]:
+    Gen. xviii. 27.
+
+
+[^73]:
+    Job i. 1.
+
+
+[^74]:
+    Job xiv. 4, 5. [Septuagint.]
+
+
+[^75]:
+    Num. xii. 7; Heb. iii. 2.
+
+
+
+[^76]:
+    Some fill up the <i>lacunna</i> which here occurs in the ms. by "Israel."
+
+
+[^77]:
+    Ex. iii. 11, iv. 10.
+
+
+[^78]:
+    This is not found in Scripture. [They were probably in Clement's version. Comp. Ps. cxix. 83.]
+
+
+[^79]:
+    Or, as some render, "to whom."
+
+
+[^80]:
+    Ps. lxxxix. 21.
+
+
+[^81]:
+    Or, "when Thou judgest."
+
+
+[^82]:
+    Literally, "in my inwards."
+
+
+[^83]:
+    Literally, "bloods."
+
+
+[^84]:
+    Ps. li. 1-17.
+
+
+[^85]:
+    Literally, "Becoming partakers of many great and glorious deeds, let us return to the aim of peace delivered to us from the beginning." Comp. Heb. xii. 1.
+
+
+[^86]:
+    Or, "collections."
+
+
+[^87]:
+    Job xxxviii. 11.
+
+
+[^88]:
+    Or, "stations."
+
+
+[^89]:
+    Prov. xx. 27.
+
+
+[^90]:
+    Comp. Heb. xiii. 17; 1 Thess. v. 12, 13.
+
+
+[^91]:
+    Or, "the presbyters."
+
+
+[^92]:
+    Some read, "by their silence."
+
+
+[^93]:
+    Comp. 1 Tim. v. 21.
+
+
+[^94]:
+    Some translate, "who turn to Him."
+
+
+[^95]:
+    Ps. xxxiv. 11-17.
+
+
+[^96]:
+    Ps. xxxii. 10.
+
+
+[^97]:
+    Or, as some render, "neither let us have any doubt of."
+
+
+[^98]:
+    Some regard these words as taken from an apocryphal book, others as derived from a fusion of James i. 8 and 2 Pet. iii. 3, 4.
+
+
+[^99]:
+    Hab. ii. 3; Heb. x. 37.
+
+
+[^100]:
+    Mal. iii. 1.
+
+
+[^101]:
+    Comp. 1 Cor. xv. 20; Col. i. 18.
+
+
+[^102]:
+    Comp. Luke viii. 5.
+
+
+[^103]:
+    This fable respecting the phoenix is mentioned by Herodotus (ii. 73) and by Pliny (<i>Nat. Hist.</i>, x. 2.) and is used as above by Tertullian (<i>De Resurr</i>., &#167;13) and by others of the Fathers.
+
+
+[^104]:
+    Literally, "the mightiness of His promise."
+
+
+[^105]:
+    Ps. xxviii. 7, or some apocryphal book.
+
+
+[^106]:
+    Comp. Ps. iii. 6.
+
+
+[^107]:
+    Job xix. 25, 26.
+
+
+[^108]:
+    Comp. Tit. i. 2; Heb. vi. 18.
+
+
+[^109]:
+    Or, "majesty."
+
+
+[^110]:
+    Wisd. xii. 12, xi. 22.
+
+
+[^111]:
+    Comp. Matt. xxiv. 35.
+
+
+[^112]:
+    Literally, "If the heavens," etc
+
+
+[^113]:
+    Ps. xix. 1-3.
+
+
+[^114]:
+    Literally, "abominable lusts of evil deeds."
+
+
+[^115]:
+    Ps. cxxxix. 7-10.
+
+
+[^116]:
+    Literally "has made us to Himself a part of election."
+
+
+[^117]:
+    Literally, "sowed abroad."
+
+
+[^118]:
+    Deut. xxxii. 8, 9.
+
+
+[^119]:
+    Formed apparently from Num. xviii. 27 and 2 Chron. xxxi. 14. Literally, the closing words are, "the holy of holies."
+
+
+[^120]:
+    Some translate, "youthful lusts."
+
+
+[^121]:
+    Prov. iii. 34; James iv. 6; 1 Pet. v. 5.
+
+
+[^122]:
+    Job xi. 2, 3. The translation is doubtful. [But see Septuagint.]
+
+
+[^123]:
+    Literally, "what are the ways of His blessing."
+
+
+[^124]:
+    Literally, "unroll."
+
+
+[^125]:
+    Comp. James ii. 21.
+
+
+[^126]:
+    Some translate, "knowing what was to come."
+
+
+[^127]:
+    Gen. xxii.
+
+
+[^128]:
+    So Jacobson: Wotton reads, "fleeing from his brother."
+
+
+[^129]:
+    The meaning is here very doubtful. Some translate "the gifts which were given to Jacob by Him," i.e., God.
+
+
+[^130]:
+    ms. <FONT FACE='SPIonic'>autwu</FONT> <FONT FACE='SPIonic'>auton</FONT>, referring to the gifts: we have followed the emendation <FONT FACE='SPIonic'>auton</FONT>, adopted by most editors. Some refer the word to <i>God</i>, and not <i>Jacob</i>.
+
+
+
+[^131]:
+    Comp. Rom. ix. 5.
+
+
+[^132]:
+    Gen. xxii. 17, xxviii. 4.
+
+
+[^133]:
+    Or, "commandment."
+
+
+[^134]:
+    Or, "in addition to all."
+
+
+[^135]:
+    Gen. i. 26, 27.
+
+
+[^136]:
+    Gen. i. 28.
+
+
+[^137]:
+    Or, "let us consider."
+
+
+[^138]:
+    Or, "labourer."
+
+
+[^139]:
+    Isa. xl. 10, lxii. 11; Rev. xxii. 12.
+
+
+[^140]:
+    The text here seems to be corrupt. Some translate, "He warns us with all His heart to this end, that," etc.
+
+
+[^141]:
+    Dan. vii. 10.
+
+
+[^142]:
+    Isa. vi. 3.
+
+
+[^143]:
+    1 Cor. ii. 9.
+
+
+[^144]:
+    Some translate, "in liberty."
+
+
+[^145]:
+    Or, "of the ages."
+
+
+[^146]:
+    The reading is doubtful: some have <FONT FACE='SPIonic'>afilocenian</FONT>, "want of a hospitable spirit." [So Jacobson.]
+
+
+[^147]:
+    Rom. i. 32.
+
+
+[^148]:
+    Literally, "didst run with."
+
+
+[^149]:
+    Literally, "didst weave."
+
+
+[^150]:
+    Or, "layest a snare for."
+
+
+[^151]:
+    Ps. l. 16-23. The reader will observe how the Septuagint followed by Clement differs from the Hebrew.
+
+
+[^152]:
+    Literally, "that which saves us."
+
+
+[^153]:
+    Or, "rejoices to behold."
+
+
+[^154]:
+    Or, "knowledge of immortality."
+
+
+[^155]:
+    Heb. i. 3, 4.
+
+
+[^156]:
+    Ps. civ. 4; Heb. i. 7.
+
+
+[^157]:
+    Some render, "to the Son."
+
+
+[^158]:
+    Ps. ii. 7, 8; Heb. i. 5.
+
+
+[^159]:
+    Ps. cx. i; Heb. i. 13.
+
+
+[^160]:
+    Some read, "who oppose their own will to that of God."
+
+
+[^161]:
+    Literally, "in these there is use."
+
+
+[^162]:
+    1 Cor. xii. 12, etc.
+
+
+[^163]:
+    Literally, "all breathe together."
+
+
+[^164]:
+    Literally, "use one subjection."
+
+
+[^165]:
+    Literally, "according as he has been placed in his charism."
+
+
+[^166]:
+    Comp. Prov. xxvii. 2.
+
+
+[^167]:
+    The ms. is here slightly torn, and we are left to conjecture.
+
+
+[^168]:
+    Comp. Ps. cxxxix. 15.
+
+
+[^169]:
+    Literally, "and silly and uninstructed."
+
+
+[^170]:
+    Literally, "a breath."
+
+
+[^171]:
+    Or, "has perceived."
+
+
+[^172]:
+    Some render, "they perished at the gates."
+
+
+[^173]:
+    Job iv. 16-18, xv. 15, iv. 19-21, v. 1-5.
+
+
+[^174]:
+    Some join kata kairou" tetagmenou", "at stated times." to the next sentence. [1 Cor. xvi. 1, 2.]
+
+
+[^175]:
+    Literally, "to His will." [Comp. Rom. xv. 15, 16, Greek.]
+
+
+[^176]:
+    Or, "consider." [This chapter has been cited to prove the earlier date for this Epistle. But the reference to Jerusalem may be an ideal present.]
+
+
+[^177]:
+    Or, "by the command of."
+
+
+[^178]:
+    Or, "by the command of."
+
+
+[^179]:
+    Literally, "both things were done."
+
+
+[^180]:
+    Or, "confirmed by."
+
+
+[^181]:
+    Or, "having tested them in spirit."
+
+
+[^182]:
+    Or, "overseers."
+
+
+[^183]:
+    Or, "servants."
+
+
+[^184]:
+    Isa. lx. 17, Sept.; but the text is here altered by Clement. The LXX. have "I will give thy rulers in peace, and thy overseers in righteousness."
+
+
+[^185]:
+    Num. xii. 10; Heb. iii. 5.
+
+
+[^186]:
+    Literally, "every tribe being written according to its name."
+
+
+[^187]:
+    See Num. xvii.
+
+
+[^188]:
+    Literally, "on account of the title of the oversight." Some understand this to mean, "in regard to the dignity of the episcopate;" and others simply, "on account of the oversight."
+
+
+[^189]:
+    The meaning of this passage is much controverted. Some render, "left a list of other approved persons;" while others translate the unusual word <FONT FACE='SPIonic'>epinomh</FONT>, which causes the difficulty, by "testamentary direction," and many others deem the text corrupt. We have given what seems the simplest version of the text as it stands. [Comp. the versions of Wake, Chevallier, and others.]
+
+
+[^190]:
+    i.e., the apostles.
+
+
+[^191]:
+    Or, "oversight."
+
+
+[^192]:
+    Literally, "presented the offerings."
+
+
+
+[^193]:
+    Or, "Ye perceive."
+
+
+[^194]:
+    Or, "For."
+
+
+[^195]:
+    Dan. vi. 16.
+
+
+[^196]:
+    Dan. iii. 20.
+
+
+[^197]:
+    Literally, "worshipped."
+
+
+[^198]:
+    Literally, "serve."
+
+
+[^199]:
+    Or, "lifted up."
+
+
+[^200]:
+    Literally, "To such examples it is right that we should cleave."
+
+
+[^201]:
+    Not found in Scripture.
+
+
+[^202]:
+    Literally, "be."
+
+
+[^203]:
+    Or, "thou wilt overthrow."
+
+
+[^204]:
+    Ps. xviii. 25, 26.
+
+
+[^205]:
+    Or, "war." Comp. James iv. 1.
+
+
+[^206]:
+    Comp. Eph. iv. 4-6.
+
+
+[^207]:
+    Rom. xvii. 5.
+
+
+[^208]:
+    This clause is wanting in the text.
+
+
+[^209]:
+    This clause is wanting in the text.
+
+
+[^210]:
+    Comp. Matt. xviii. 6, xxvi. 24; Mark ix. 42; Luke xvii. 2.
+
+
+[^211]:
+    Literally, "in the beginning of the Gospel." [Comp. Philipp. iv. 15.]
+
+
+[^212]:
+    Or, "spiritually."
+
+
+[^213]:
+    1 Cor. iii. 13, etc.
+
+
+[^214]:
+    Or, "inclinations for one above another."
+
+
+[^215]:
+    Literally, "of conduct in Christ."
+
+
+[^216]:
+    Or, "aliens from us," i.e., the Gentiles.
+
+
+[^217]:
+    Literally "remove."
+
+
+[^218]:
+    Literally, "becoming merciful."
+
+
+[^219]:
+    Ps. cxviii. 19, 20.
+
+
+[^220]:
+    James v. 20; 1 Pet. iv. 8.
+
+
+[^221]:
+    Comp. 1 Cor. xiii. 4, etc.
+
+
+[^222]:
+    [Comp. Irenaeus, v. 1; also Mathetes, Ep. to Diognetus, cap. ix.]
+
+
+[^223]:
+    Literally, "visitation."
+
+
+[^224]:
+    Or, "good."
+
+
+[^225]:
+    Isa xxvi. 20.
+
+
+[^226]:
+    Ps. xxxii. 1, 2.
+
+
+[^227]:
+    Or, "look to."
+
+
+[^228]:
+    Or, "righteously."
+
+
+[^229]:
+    Num. xvi.
+
+
+[^230]:
+    Ex. xiv.
+
+
+[^231]:
+    Ps. lxix. 31,32.
+
+
+[^232]:
+    Or, "sacrifice."
+
+
+[^233]:
+    Ps. 1. 14,15.
+
+
+[^234]:
+    Ps. li, 17.
+
+
+[^235]:
+    Ex. xxxii. 7, etc.; Deut. ix.12, etc.
+
+
+[^236]:
+    Ex. xxxii. 9, etc.
+
+
+[^237]:
+    Ex. xxxii. 32.
+
+
+[^238]:
+    Or, "mighty."
+
+
+[^239]:
+    Literally, "be wiped out."
+
+
+[^240]:
+    Literally, "the multitude." [Clement here puts words into the mouth of the Corinthian presbyters. It has been strangely quoted to strengthen a conjecture that he had humbly preferred Linus and Cletus when first called to preside.]
+
+
+[^241]:
+    Or, "receive."
+
+
+[^242]:
+    Ps. xxiv 1; 1 Cor. x. 26, 28.
+
+
+[^243]:
+    Literally, "and having received their prices, fed others."[Comp. Rom. xvi. 3, 4, and Phil. ii. 30.]
+
+
+[^244]:
+    Judith viii. 30.
+
+
+[^245]:
+    Esther vii., viii.
+
+
+[^246]:
+    Literally, "there whall be to them a fruitful and perfect remembrance, with compassions both towards God and the saints."
+
+
+[^247]:
+    Or, "they unite."
+
+
+[^248]:
+    Ps. cxviii. 18.
+
+
+[^249]:
+    Prov. iii. 12; Heb. xii. 6.
+
+
+[^250]:
+    Ps. cxli. 5.
+
+
+[^251]:
+    Literally, "hand."
+
+
+[^252]:
+    Literally, "err" or "sin."
+
+
+[^253]:
+    Job v. 17-26.
+
+
+[^254]:
+    Literally, "to be found small and esteemed."
+
+
+[^255]:
+    Literally, "His hope." [It has been conjectured that <FONT FACE='SPIonic'>elpidoj</FONT> should be <FONT FACE='SPIonic'>epaulidoj</FONT>, and the reading, "out of the fold of his people." See Chevallier.]
+
+
+
+[^256]:
+    Prov. i. 23-31. [Often cited by this name in primitive writers.]
+
+
+[^257]:
+    Junius (Pat. Young), who examined the ms. before it was bound into its present form, stated that a whole leaf was here lost. The next letters that occur are <FONT FACE='SPIonic'>ipon</FONT>, which have been supposed to indicate <FONT FACE='SPIonic'>eipon</FONT> or <FONT FACE='SPIonic'>elipon</FONT>. Doubtless some passages quoted by the ancients from the Epistle of Clement, and not now found in it, occurred in the portion which has thus been lost.
+
+
+[^258]:
+    Comp. Tit. ii. 14.
+
+
+[^259]:
+    Literally, "an eternal throne."
+
+
+[^260]:
+    Literally, "From the ages to the ages of ages."
+
+
+[^261]:
+    [Note St. Clement's frequent doxologies.][N.B.-The language of Clement concerning the Western progress of St. Paul (cap. v.) is our earliest postscript to his Scripture biography. It is sufficient to refer the reader to the great works of Conybeare and Howson, and of Mr. Lewin, on the <i>Life and Epistles of St. Paul</i>. See more especially the valuable note of Lewin (vol. ii. p. 294) which takes notice of the opinion of some learned men, that the great Apostle of the Gentiles preached the Gospel in Britain. The whold subject of St. Paul's relations with British Christians is treated by Williams, in his <i>Antiquities of the Cymry</i>, with learning and in an attractive manner. But the reader will find more ready to his hand, perhaps, the interesting note of Mr. Lewin, on Claudia and Pudens (2 Tim x. 21), in his <i>Life and Epistles of St. Paul</i>, vol. ii. p. 392. See also Paley's <i>Horae Paulinae</i>, p. 40. London, 1820.]
+
