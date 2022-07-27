@@ -2,6 +2,8 @@
 
 > The Lord's Teaching Through the Twelve Apostles to the Nations.
 > 
+> Date: [Between AD 50 and end of 1st Century](https://en.wikipedia.org/wiki/Didache)
+> 
 > Sources: [1](https://www.newadvent.org/fathers/0714.htm), [2](https://www.earlychristianwritings.com/didache.html)
 
 ### Chapter 1. The Two Ways; The First Commandment
