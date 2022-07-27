@@ -1,5 +1,7 @@
 # The Epistle of Mathetes to Diognetus
 
+> Date: [Between AD 130 and late 2nd Century](https://en.wikipedia.org/wiki/Epistle_to_Diognetus)
+> 
 > Sources: [1](https://www.tertullian.org/fathers2/ANF-01/anf01-08.htm#P636_112351), [2](http://www.earlychristianwritings.com/diognetus.html)
 
 ### Chapter I.-Occasion of the Epistle.
