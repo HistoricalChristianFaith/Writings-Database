@@ -5,7 +5,7 @@ All works in this repo are in the public domain.
 
 ### The Works
 
-- [[AD 67 - AD 96](http://www.churchinhistory.org/s3-gospels/dating-clement.htm)] [First%20Epistle%20of%20Clement%20to%20the%20Corinthians%5D%28Clement%20of%20Alexandria%2FFirst%20Epistle%20of%20Clement%20to%20the%20Corinthians.md)
+- [[AD 67 - AD 96](http://www.churchinhistory.org/s3-gospels/dating-clement.htm)] [First Epistle of Clement to the Corinthians](Clement%20of%20Alexandria%2FFirst%20Epistle%20of%20Clement%20to%20the%20Corinthians.md)
 
 ### Pull Requests
 
