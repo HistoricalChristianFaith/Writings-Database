@@ -1,6 +1,6 @@
 # The First Epistle of Clement to the Corinthians[^1]
 
-> Sources: [1](https://www.tertullian.org/fathers2/ANF-01/anf01-05.htm#P171_20841), [2](https://www.sacred-texts.com/bib/lbob/lbob15.htm), [3](https://ccel.org/ccel/schaff/anf01/anf01.ii.ii.i.html)
+> Alternative Sources: [1](https://www.tertullian.org/fathers2/ANF-01/anf01-05.htm#P171_20841), [2](https://www.sacred-texts.com/bib/lbob/lbob15.htm), [3](https://ccel.org/ccel/schaff/anf01/anf01.ii.ii.i.html)
 
 ### Chapter I.-The Salutation. Praise of the Corinthians Before the Breaking Forth of Schism Among Them.
 
