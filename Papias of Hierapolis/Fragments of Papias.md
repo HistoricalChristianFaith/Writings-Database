@@ -2,10 +2,7 @@
 
 > Date: ~100 AD
 > 
-> Sources: [1](https://web.archive.org/web/20141012023455/http://www.chronicon.net/index.php/papias), [2](https://www.earlychristianwritings.com/papias.html), [2](https://www.newadvent.org/fathers/0125.htm)
-
-### Chapter 1. The Two Ways; The First Commandment
-
+> Sources: [1](https://web.archive.org/web/20141012023455/http://www.chronicon.net/index.php/papias), [2](https://www.earlychristianwritings.com/papias.html), [3](https://www.newadvent.org/fathers/0125.htm)
 
 ### I
 
