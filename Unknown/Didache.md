@@ -2,7 +2,7 @@
 
 > The Lord's Teaching Through the Twelve Apostles to the Nations.
 > 
-> Date: [Between AD 50 and end of 1st Century](https://en.wikipedia.org/wiki/Didache)
+> Date: [Between AD 50 and 100 AD](https://en.wikipedia.org/wiki/Didache)
 > 
 > Sources: [1](https://www.newadvent.org/fathers/0714.htm), [2](https://www.earlychristianwritings.com/didache.html)
 
@@ -57,7 +57,7 @@ But let every one that comes in the name of the Lord be received, and afterward 
 
 ### Chapter 13. Support of Prophets 
 
-But every true prophet that wills to abide among you is worthy of his support. So also a true teacher is himself worthy, as the workman, of his support. [Matthew 10:10; cf. [Luke 10:7] Every first-fruit, therefore, of the products of wine-press and threshing-floor, of oxen and of sheep, you shall take and give to the prophets, for they are your high priests. But if you have not a prophet, give it to the poor. If you make a batch of dough, take the first-fruit and give according to the commandment. So also when you open a jar of wine or of oil, take the first-fruit and give it to the prophets; and of money (silver) and clothing and every possession, take the first-fruit, as it may seem good to you, and give according to the commandment.
+But every true prophet that wills to abide among you is worthy of his support. So also a true teacher is himself worthy, as the workman, of his support. [Matthew 10:10, Luke 10:7] Every first-fruit, therefore, of the products of wine-press and threshing-floor, of oxen and of sheep, you shall take and give to the prophets, for they are your high priests. But if you have not a prophet, give it to the poor. If you make a batch of dough, take the first-fruit and give according to the commandment. So also when you open a jar of wine or of oil, take the first-fruit and give it to the prophets; and of money (silver) and clothing and every possession, take the first-fruit, as it may seem good to you, and give according to the commandment.
 
 ### Chapter 14. Christian Assembly on the Lord's Day 
 
