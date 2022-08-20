@@ -116,15 +116,15 @@ When you have read and carefully listened to these things, you shall know what G
 
 
 [^14]:
-    Comp. Gal. iv. 10.
+    Comp. Galatians 4:10
 
 
 [^15]:
-    This seems to refer to the practice of Jews in fixing the beginning of the day, and consequently of the Sabbath, from the rising of the stars. They used to say, that when tree stars of moderate magnitude appeared, it was night; when two, it was twilight; and when only one, that day had not yet departed. It thus came to pass (according to their <I>night-day</I> (<FONT FACE='SPIonic'>nuxqhmeron</FONT>) reckoning), that whosoever engaged in work on the evening of Friday, the beginning of the Sabbath, after three stars of moderate size were visible, was held to have sinned, and had to present a trespass-offering; and so on, according to the fanciful rule described.
+    This seems to refer to the practice of Jews in fixing the beginning of the day, and consequently of the Sabbath, from the rising of the stars. They used to say, that when tree stars of moderate magnitude appeared, it was night; when two, it was twilight; and when only one, that day had not yet departed. It thus came to pass (according to their <I>night-day</I> (nuxqhmeron) reckoning), that whosoever engaged in work on the evening of Friday, the beginning of the Sabbath, after three stars of moderate size were visible, was held to have sinned, and had to present a trespass-offering; and so on, according to the fanciful rule described.
 
 
 [^16]:
-    Otto supplies the <I>lacunna</I> which here occurs in the mss. so as to read <FONT FACE='SPIonic'>datadiairein</FONT>.
+    Otto supplies the <I>lacunna</I> which here occurs in the mss. so as to read datadiairein.
 
 
 [^17]:
@@ -144,31 +144,31 @@ When you have read and carefully listened to these things, you shall know what G
 
 
 [^21]:
-    Comp. 2 Cor. x. 3.
+    Comp. 2 Corinthians 10:3
 
 
 [^22]:
-    Comp. Phil. iii. 20.
+    Comp. Philippians 3:20
 
 
 [^23]:
-    Comp. 2 Cor. vi. 9.
+    Comp. 2 Corinthians 6:9
 
 
 [^24]:
-    Comp. 2 Cor. vi. 10.
+    Comp. 2 Corinthians 6:10
 
 
 [^25]:
-    Comp. 2 Cor. iv. 12.
+    Comp. 2 Corinthians 4:12 (?)
 
 
 [^26]:
-    John xvii. 11, 14, 16.
+    John 17:11,14,16
 
 
 [^27]:
-    Comp. 1 Pet. ii. 11.
+    Comp. 1 Peter 2:11
 
 
 [^28]:
@@ -212,7 +212,7 @@ When you have read and carefully listened to these things, you shall know what G
 
 
 [^38]:
-    [Comp. Mal. iii. 2. The Old Testament is frequently in mind, if not expressly quoted by Mathetes.] A considerable gap here occurs in the mss. 
+    [Comp. Malachi 3:2. The Old Testament is frequently in mind, if not expressly quoted by Mathetes.] A considerable gap here occurs in the mss. 
 
 
 
@@ -225,7 +225,7 @@ When you have read and carefully listened to these things, you shall know what G
 
 
 [^41]:
-    Comp. Matt. xix. 17.
+    Comp. Matthew 19:17
 
 
 [^42]:
@@ -273,7 +273,7 @@ When you have read and carefully listened to these things, you shall know what G
 
 
 [^53]:
-    Comp. Matt. vi. 25, etc. [Mathetes, in a single sentence, expounds a most practical text with comprehensive views.] 
+    Comp. Matthew 6:25, etc. [Mathetes, in a single sentence, expounds a most practical text with comprehensive views.] 
 
 
 [^54]:
@@ -297,7 +297,7 @@ When you have read and carefully listened to these things, you shall know what G
 
 
 [^59]:
-    [Comp. 1 Tim. iii. 16.]
+    [Comp. 1 Timothy 3:16]
 
 
 [^60]:
@@ -345,11 +345,11 @@ When you have read and carefully listened to these things, you shall know what G
 
 
 [^71]:
-    [This looks like a reference to the Apocalypse, Rev. v. 9., xix. 7., xx. 5.]
+    [This looks like a reference to the Apocalypse, Revelation 5:9, 19:7, 20:5]
 
 
 [^72]:
-    Here Bishop Wordsworth would read <FONT FACE='SPIonic'>klhroi</FONT>, cites 1 Pet. v. 3, and refers to Suicer (Lexicon) in voce <FONT FACE='SPIonic'>klhroj</FONT>.]
+    Here Bishop Wordsworth would read klhroi, cites 1 Peter 5:3, and refers to Suicer (Lexicon) in voce klhroj.
 
 
 [^73]:
