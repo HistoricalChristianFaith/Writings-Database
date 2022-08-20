@@ -325,7 +325,7 @@ When you have read and carefully listened to these things, you shall know what G
 
 
 [^66]:
-    Literally, "knowledge without the truth of a command exercised to life." See 1 Cor. viii. 1.
+    Literally, "knowledge without the truth of a command exercised to life." See 1 Corinthians 8:1.
 
 
 [^67]:
