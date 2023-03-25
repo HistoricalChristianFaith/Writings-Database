@@ -1,4 +1,4 @@
-<h1>Eusebii Hieronymi (Jerome),Commentariorum In Epistolam Ad Ephesios</h1>
+<h1>S. Eusebii Hieronymi, Stridonensis Presbyteri, Commentariorum In Epistolam Ad Ephesios Libri Tres.</h1>
 
 > Text from [catholiclibrary.org](https://catholiclibrary.org/library/view?docId=Fathers-OR/PL.026.html;query=;subDocument=PL.026.html.xml.00000027;brand=default) (Migne Editors, Patrologiae Cursus Completus - public domain).
 
@@ -6,7 +6,7 @@
 <tbody><tr><td>
 <h2>Table of Contents</h2>
 <ul>
-<li><a href='#tocuniq2'>S. Eusebii Hieronymi, Stridonensis Presbyteri, Commentariorum In Epistolam Ad Ephesios Libri Tres.</a></li>
+<li><a href='#tocuniq3'>Prologus</a></li>
 <li><a href='#tocuniq4'>(Cap. I.)</a></li>
 <ul>
     <li><a href='#tocuniq4'>(Vers. 1.)</a></li>
@@ -132,8 +132,6 @@
 
 </ul>
 </td></tr></tbody></table>
-
-<h2 id='tocuniq2'>S. Eusebii Hieronymi, Stridonensis Presbyteri, Commentariorum In Epistolam Ad Ephesios Libri Tres.</h2>
 
 <h2 id='tocuniq3'>Liber Primus. Prologus.</h2>
 
