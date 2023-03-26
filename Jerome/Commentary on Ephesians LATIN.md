@@ -1,6 +1,6 @@
 <h1>S. Eusebii Hieronymi, Stridonensis Presbyteri, Commentariorum In Epistolam Ad Ephesios Libri Tres.</h1>
 
-> Text from [catholiclibrary.org](https://catholiclibrary.org/library/view?docId=Fathers-OR/PL.026.html;query=;subDocument=PL.026.html.xml.00000027;brand=default) (Migne Editors, Patrologiae Cursus Completus - public domain).
+Text from [catholiclibrary.org](https://catholiclibrary.org/library/view?docId=Fathers-OR/PL.026.html;query=;subDocument=PL.026.html.xml.00000027;brand=default) (Migne Editors, Patrologiae Cursus Completus - public domain).
 
 <table id="user-content-toc" summary="Contents">
 <tbody><tr><td>
