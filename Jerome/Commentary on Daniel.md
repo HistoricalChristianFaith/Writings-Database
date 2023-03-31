@@ -1,8 +1,10 @@
 <h1>St. Jerome, Commentary on Daniel</h1>
 
-> Early Church Fathers - Additional Texts (1958). pp. 15-157 [Translated by Gleason L. Archer]
-> This text was transcribed by [Roger Pearse, 2004](https://www.ccel.org/ccel/pearse/morefathers/files/index.htm#Commentary_on_Daniel). All material on this page is in the public domain - copy freely.
-> Verse numbers have been edited in this repository to conform to the KJV Bible (with the exception of the Prayer of Azariah in Chapter 3, which is kept as it was in Jerome's Bible)
+Early Church Fathers - Additional Texts (1958). pp. 15-157 [Translated by Gleason L. Archer]
+
+This text was transcribed by [Roger Pearse, 2004](https://www.ccel.org/ccel/pearse/morefathers/files/index.htm#Commentary_on_Daniel). All material on this page is in the public domain - copy freely.
+
+Verse numbers have been edited in this repository to conform to the KJV Bible (with the exception of the Prayer of Azariah in Chapter 3, which is kept as it was in Jerome's Bible)
 
 
 <table id="user-content-toc" summary="Contents">
