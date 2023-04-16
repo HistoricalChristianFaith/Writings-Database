@@ -24,6 +24,8 @@
 
 (11) What is the meaning of 2 Cor. ii. 16?
 
-(12) What is the meaning of I Th. v. 23? The date of the letter is 406 or 407 a.d.</i></p>
+(12) What is the meaning of I Th. v. 23? The date of the letter is 406 or 407 a.d.
+
+The below translation sourced from <a href='https://www.tertullian.org/fathers/jerome_hedibia_2_trans.htm'>tertullian.org</a>.</i></p>
 
 [Missing] - add translation from: https://www.tertullian.org/fathers/jerome_hedibia_2_trans.htm

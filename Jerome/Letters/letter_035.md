@@ -10,6 +10,8 @@
 
 4\. Why did Abraham receive circumcision as a seal of his faith? (Rom. iv. 11.)
 
-5\. Why was Isaac, a righteous man and dear God, allowed by God to become the dupe of Jacob? (Gen. xxvii.) Written at Rome 384 a.d.</i></p>
+5\. Why was Isaac, a righteous man and dear God, allowed by God to become the dupe of Jacob? (Gen. xxvii.) Written at Rome 384 a.d.
+
+The below translation made by ChatGPT 3.5 from this <a href='https://catholiclibrary.org/library/view?docId=Fathers-OR/PL.022.html;chunk.id=00000293'>Latin text</a>.</i></p>
 
 [Missing]
