@@ -1,0 +1,17 @@
+<h1>Letter 95. From Pope Anastasius to Simplicianus.</h1>
+
+<p><i>At the request of Theophilus Anastasius, bishop of Rome, writes to Simplicianus, bishop of Milan, to inform him that he, like Theophilus, has condemned Origen whose blasphemies have been brought under his notice by Eusebius of Cremona. This latter had shown him a copy of the version by Rufinus of the treatise <I>On First Principles</I>. The date of the letter is 400 a.d.</i></p>
+
+To his lord and brother Simplicianus, Anastasius.
+
+1\. It is felt right that a shepherd should bestow great care and watchfulness upon his flock. In like manner too from his lofty tower the careful watchman keeps a lookout day and night on behalf of the city. So also in the hour of tempest when the sea is dangerous the shipmaster suffers keen anxiety[^P3690_990180] lest the gale and the violence of the waves shall dash his vessel upon the rocks. It is with similar feelings that the reverend and honourable Theophilus our brother and fellow-bishop, ceases not to watch over the things that make for salvation, that God's people in the different churches may not by reading Origen run into awful blasphemies.
+
+2\. Being informed, then, by a letter of the aforesaid bishop, we inform your holiness that we in like manner who are set in the city of Rome in which the prince of the apostles, the glorious Peter, first founded the church and then by his faith strengthened it; to the end that no man may contrary to the commandment read these books which we have mentioned, have condemned the same; and have with earnest prayers urged the strict observance of the precepts which God and Christ have inspired the evangelists to teach. We have charged men to remember the words of the venerable apostle Paul, prophetic and full of warning:-"if any than preach any other gospel unto you than that which we have preached unto you, let him be accursed." [Gal. 1:8] Holding fast, therefore, this precept, we have intimated that everything written in days gone by Origen that is contrary to our faith is even by us rejected and condemned.
+
+3\. I send this letter to your holiness by the hand of the presbyter Eusebius,[^P3694_991630] a man filled with a glowing faith and love for the Lord. He has shewn to me some blasphemous chapters which made me shudder as I passed judgement on them. If Origen has put forth any other writings, you are to know that they and their author are alike condemned by me. The Lord have you in safe keeping, my lord and brother deservedly held in honour.
+
+[^P3690_990180]:
+	Magister hactenus navis hora tempestatis `quoris et periculo magnam patitur animi jactationem
+
+[^P3694_991630]:
+	See the account of the meeting of Eusebius with Rufinus in the presence of Simplicianus. Ruf. Apol. 1:19
