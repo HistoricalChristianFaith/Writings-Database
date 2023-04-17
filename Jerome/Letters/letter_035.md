@@ -12,6 +12,20 @@
 
 5\. Why was Isaac, a righteous man and dear God, allowed by God to become the dupe of Jacob? (Gen. xxvii.) Written at Rome 384 a.d.
 
-The below translation made by ChatGPT 3.5 from this <a href='https://catholiclibrary.org/library/view?docId=Fathers-OR/PL.022.html;chunk.id=00000293'>Latin text</a>.</i></p>
+The below translation made by ChatGPT 3.5 from this <a href='https://catholiclibrary.org/library/view?docId=Fathers-OR/PL.022.html;chunk.id=00000329'>Latin text</a>.</i></p>
 
-[Missing]
+To his dearest son Hieronymus Damasus.
+
+I intended to wake you, who are sleeping and reading, for a long time rather than writing, with the questions sent to you: not that you should not read, for this (reading) is fed and fattened, like our daily food, to the speech. But this is the benefit of reading if you write. Therefore, since yesterday you told the messenger sent to me that you have no letters except for those that you dictated in the desert, which I read and transcribed with complete eagerness. You offered to dictate a few (letters) yourself with secret nocturnal work, if I wanted to; I willingly accept from the one who offered what I had even wished to ask you to do even if you had refused. And truly, I think that there is no discussion more worthy of our conversation than if we talk among ourselves about the Scriptures: that is, I ask, you answer. In this life, I think nothing is more enjoyable than this nourishment for our souls, which surpasses all honey.» How sweet, says the Prophet, are your words to my throat, more than honey to my mouth (Ps. 118. 103). «For since, as a renowned speaker says, we differ from beasts in that we can speak: who is worthy of praise, who surpasses others in the manner in which men surpass beasts?
+
+Therefore, prepare yourself, and discuss with me what is presented, maintaining moderation on both sides, so that the proposed may not desire a solution, nor the letter brevity. For indeed I confess to you, that I am not fond of reading the books of Lactantius which you gave me a long time ago, because many of his letters extend even to a thousand line-spaces, and they seldom have any discussion relating to our own teachings. This causes tedium to the reader due to length, and if there are any brief ones, they are more suitable for scholars than for us, discussing as they do things concerning meters, regions and philosophers.
+
+1. "What does it mean that it is written in Genesis: 'Every one that findeth me shall slay me?" (Genesis 4:15)
+
+2. "If God made all things very good, why did he command Noah to take the unclean animals along with the clean, since no unclean thing can be good? And in the New Testament, after the vision which was shown to Peter, who said: 'Not so, Lord, for I have never eaten anything that is common or unclean,' a voice responded from heaven: 'What God has cleansed, do not call common?'" (Acts 10:14-15)
+
+3. Why God speaks to Abraham that the fourth generation of the sons of Israel would return from Egypt, and later Moses writes: But the fifth generation the sons of Israel came out of the land of Egypt." (Exodus 13:18 according to the Septuagint) "Which seems contradictory unless explained.
+
+4. Why did Abraham receive the sign of faith in circumcision?
+
+5. Why did the just and dear to God Isaac, deceived by error, bless the one he did not want to but the one he did not want?
