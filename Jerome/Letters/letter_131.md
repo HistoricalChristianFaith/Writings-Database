@@ -4,7 +4,7 @@
 
 The date of the letter is 415 a.d. Sometimes numbered as Augustine letter 166.</i></p>
 
-A Treatise on the Origin of the Human Soul, Addressed to Jerome.
+<h3>A Treatise on the Origin of the Human Soul, Addressed to Jerome.</h3>
 
 1\. Unto our God, who has called us unto His kingdom and glory, [1 Thessalonians 2:12] I have prayed, and pray now, that what I write to you, holy brother Jerome, asking your opinion in regard to things of which I am ignorant, may by His good pleasure be profitable to us both. For although in addressing you I consult one much older than myself, nevertheless I also am becoming old; but I cannot think that it is at anytime of life too late to learn what we need to know, because, although it is more fitting that old men should be teachers than learners, it is nevertheless more fitting for them to learn than to continue ignorant of that which they should teach to others. I assure you that, amid the many disadvantages which I have to submit to in studying very difficult questions, there is none which grieves me more than the circumstance of separation from your Charity by a distance so great that I can scarcely send a letter to you, and scarcely receive one from you, even at intervals, not of days nor of months, but of several years; whereas my desire would be, if it were possible, to have you daily beside me, as one with whom I could converse on any theme. Nevertheless, although I have not been able to do all that I wished, I am not the less bound to do all that I can.
 
