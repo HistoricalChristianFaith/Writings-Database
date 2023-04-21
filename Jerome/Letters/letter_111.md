@@ -1,7 +1,7 @@
 <h1>Letter 111. From Augustine to Prsidius.</h1>
 
-<p><i>Augustine asks Prsidius to forward the preceding letter to Jerome and also to write himself to urge him to forgive Augustine.
+<p><i>Augustine asks Prsidius to forward the preceding letter to Jerome and also to write himself to urge him to forgive Augustine. Sometimes numbered as Augustine Letter 74.</i></p>
 
-The below translation made by ChatGPT 3.5 from this <a href='https://catholiclibrary.org/library/view?docId=Fathers-OR/PL.022.html;chunk.id=00000293'>Latin text</a>.</i></p>
+To My Lord Præsidius, Most Blessed, My Brother and Partner in the Priestly Office, Truly Esteemed, Augustine Sends Greeting in the Lord.
 
-[Missing]
+1. I write to remind you of the request which I made to you as a sincere friend when you were here, that you would not refuse to send a letter of mine to our holy brother and fellow presbyter Jerome; in order, moreover, to let your Charity know in what terms you ought to write to him on my behalf. I have sent a copy of my letter to him, and of his to me, by reading which your pious wisdom may easily see both the moderation of tone which I have been careful to preserve, and the vehemence on his part by which I have been not unreasonably filled with fear. If, however, I have written anything which I ought not to have written, or have expressed myself in an unbecoming way, let it not be to him, but to myself, in brotherly love, that you send your opinion of what I have done, in order that, if I am convinced of my fault by your rebuke, I may ask his forgiveness.
