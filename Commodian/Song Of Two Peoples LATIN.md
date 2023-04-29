@@ -1,11 +1,13 @@
 <h1>Song Of Two Peoples (Carmen De Duobus Populis)</h1>
 
-Latin Text Sources: <a href='http://www.documentacatholicaomnia.eu/30_10_0200-0300-_Commodianus.html'>1</a>, <a href='https://www.thelatinlibrary.com/commodianus/commodianus1.html'>2</a>, <a href='https://www.mqdq.it/public/testo/testo/ordinata/pf1373713'>3</a>
+Sources: <a href='http://www.documentacatholicaomnia.eu/30_10_0200-0300-_Commodianus.html'>1</a>, <a href='https://www.thelatinlibrary.com/commodianus/commodianus1.html'>2</a>, <a href='https://www.mqdq.it/texts/COMM|carm|001'>3</a>
+
+The Latin text is cited as from "J. Martin, 1960". 
 
 <h2>Content</h2>
-  
+
 Quis poterit unum proprie Deum nosse caelorum,  
-Nisi quem is tulerit + ab errore nefando?  
+Nisi quem is tulerit † ab errore nefando?  
 Errabam ignarus spatians spe captus inani,  
 Dum furor aetatis primae me portabat in auras.  
 Plus eram quam palea leuior; quasi centum inessent  
