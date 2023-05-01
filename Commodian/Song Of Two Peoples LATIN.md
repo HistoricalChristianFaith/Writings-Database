@@ -363,8 +363,8 @@ Maxillasque meas palmis feriendas iniquis
 Praebui nec faciem auerti sputis eorum.  
 Stultitia subiit multis, Deum talia passum,  
 Ut enuntietur crucifixus conditor orbis.  
-Sic illi complacuit: Consilium neminis usus,  
-- Nec alius poterat taliter venire - pro nobis  
+Sic illi complacuit: Consilium neminis usus, -  
+Nec alius poterat taliter venire - pro nobis  
 Mortem adinvenit, cum esset invidus hostis,  
 Quam ebibit Dominus passus, ex inferno resurgens.  
 Idcirco nec voluit se manifestare, quid esset,  
