@@ -317,10 +317,10 @@ Tormentum est totum, quo uiuimus isto sub aeuo;
 Hinc adeo nobis est spes in futuro quaerenda:  
 Hoc Deus hortatur, hoc lex, hoc passio Christi,  
 Ut resurrecturos nos credamus in novo saeclo.  
-Sic Dei lex clamat: fieret cum humilis Altus,
-Cederet infernus; ut Adam levaretur a morte,
-Descendit in tumulum Dominus suae plasmae misertus
-Et sic per occulta inanivit fortia mortis.
+Sic Dei lex clamat: fieret cum humilis Altus,  
+Cederet infernus; ut Adam levaretur a morte,  
+Descendit in tumulum Dominus suae plasmae misertus  
+Et sic per occulta inanivit fortia mortis.  
 Obrepsit Dominus veteri latroni celatus  
 Et pati se voluit, quo magis prosterneret ipsum.  
 Ille quidem audax et semper saeuus ut hostis,  
