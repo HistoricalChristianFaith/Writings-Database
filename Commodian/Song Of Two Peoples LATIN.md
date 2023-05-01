@@ -432,10 +432,10 @@ O mala progenies! O subdola fronte
 Generavi suboles, dixit Deus, qui me negarent.  
 Et dixit: Audite uocem tubae. Nolumus, aiunt.  
 Hoc dicit Ezechiel: Audient ergo gentes a longe.  
-Uno uolo titulo tangere librum Deuteronomium:  
-In caput eritis, gentes; nam increduli retro.  
-Si respuunt certe omnia supra dicta rebelles  
-S[c]ite quid opponunt, cum res tam aperte dicatur?  
+Uno volo titulo tangere librum Deuteronomii:  
+In caput eritis, gentes, nam increduli retro  
+Respiciunt. Certe omnia supra dicta rebelles.  
+Scite quid opponunt, cum res tam aperte dicatur?  
 Uidete iam ergo, dubii qui nunc usque natati  
 Quod gentes in Domino fuerint scriptura priores.  
 Nunc ergo fas est credere, quem libri designant,  
@@ -465,11 +465,11 @@ Insciis, indoctis, ignorantibus talia fingunt:
 Quis Deus est ille, quem nos cruci fiximus? aiunt  
 Nolentes respicere scripturas, corde caecati.  
 Ecce canit alius repetens iterumque propheta,  
-Cuius uoce tamen titulatur talis edictus:  
-Nunc exurgam, ait Dominus, nunc clarificabor,  
-**xnf hxdltdbou, hxmilhm qxhm dnth xidivtiv;  
-Nunc intellegitis, nunc erit confusio uestra:  
-Uana cogitatis, ideo uos ignis habebit.  
+Cuius voce tamen titulatur talis edictus:  
+Nunc exsurgam, ait Dominus, nunc clarificabor,  
+Nunc exaltabor, humilem quem ante vidistis;  
+Nunc intellegetis, nunc erit confusio vestra:  
+Vana cogitatis, ideo vos ignis habebit.  
 Haec Esaias ait. Tunc sic et ipsa maiestas,  
 Cum esset in carne, profitetur ipse quis esset:  
 Nemo meam animam potuit auferre conatus,  
@@ -670,11 +670,11 @@ Nam insipientes tamquam maledictum euitant.
 Aeternitas illi praeparatur, Christo qui credit,  
 Ut socius Dei sit homo post funera uiuens.  
 Lex et prophetae docent, qui sunt Dei digni caelorum  
-Et quibus absconsa reuelantur aurea saecla.  
-Per tot uates numero de filio Dei clamatur,  
-Et cluserunt oculos fili Dei primi uocati;  
-xhjljwj ffhto non xznt wjhowdfti ljgjndo,  
-Sed perseuerantes: Nos sumus electi! dicentes.  
+Et quibus absconsa revelantur aurea saecla.  
+Per tot vates numero de filio Dei clamatur,  
+Et cluserunt oculos filii Dei primi vocati;  
+Qui scelere facto non sunt recordati legendo,  
+Sed perseverant: En nos sumus electi! dicentes.  
 Adhuc infatuant profanos balneis ire,  
 Quos faciunt mundos ipsi Deo summo placere.  
 Aqua lauat sordes, non intima cordis iniqua,  
@@ -836,7 +836,6 @@ Completo spatio succedit ille nefandus,
 Quem et Iudaei simul tunc cum Romanis adorant.  
 Quamquam erit alius, quem expectent ab oriente,  
 In nostra caede tamen saeuient cum rege Nerone.  
-  
 Ergo cum Helias in Iudaea terra prophetat,  
 Et signat proprium populum in nomine Christi;  
 De quibus quam multi quoniam illi credere nolunt,  
