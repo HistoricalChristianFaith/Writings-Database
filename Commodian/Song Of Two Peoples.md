@@ -2,10 +2,7 @@
 
 Alternative titles: Apologetic Song, Apologetic Poem, Against Jews and Gentiles
 
-Primary Latin Text source: <a href='https://archive.org/details/commodianicarmin00comm/page/130/mode/2up'>Ernestvs Lvdwig, 1878</a>
-Alternative Latin Text sources: <a href='http://www.documentacatholicaomnia.eu/30_10_0200-0300-_Commodianus.html'>1</a>, <a href='https://www.thelatinlibrary.com/commodianus/commodianus1.html'>2</a>, <a href='https://www.mqdq.it/texts/COMM|carm|001'>3</a>
-
-Translated into English using ChatGPT.
+Translated from <a href='Song Of Two Peoples LATIN.md'>this Latin text</a> into English using ChatGPT.
 
 Beware of these translation issues: 
 - Sometimes the AI will add additional details (especially if the additional details are frequently used in other texts the AI was trained on). For example, if the original text quoted a fragment of Ephesians 2:7 in Latin, in the translation the AI will sometimes then include the English version of the entirety of Ephesians 2:7-8 (even though there was only a fragment of 2:7 in the original text). 

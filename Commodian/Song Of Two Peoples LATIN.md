@@ -2,9 +2,9 @@
 
 Alternative titles: Apologetic Song, Apologetic Poem, Against Jews and Gentiles
 
-Primary source: <a href='https://archive.org/details/commodianicarmin00comm/page/130/mode/2up'>Ernestvs Lvdwig, 1878</a>
+Primary sources: <a href='http://www.documentacatholicaomnia.eu/30_10_0200-0300-_Commodianus.html'>1</a>, <a href='https://www.thelatinlibrary.com/commodianus/commodianus1.html'>2</a>, <a href='https://www.mqdq.it/texts/COMM|carm|001'>3</a>
 
-Alternative sources: <a href='http://www.documentacatholicaomnia.eu/30_10_0200-0300-_Commodianus.html'>1</a>, <a href='https://www.thelatinlibrary.com/commodianus/commodianus1.html'>2</a>, <a href='https://www.mqdq.it/texts/COMM|carm|001'>3</a>
+Wherever corruption was encountered in the above sources, the text was updated to follow this text: <a href='https://archive.org/details/commodianicarmin00comm/page/130/mode/2up'>Ernestvs Lvdwig, 1878</a>
 
 <h2>Content</h2>
 
