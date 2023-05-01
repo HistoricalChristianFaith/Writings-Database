@@ -148,10 +148,10 @@ We do not urge to believe in the time that has passed, but in living for the ete
 This hope is to be hoped for by us: to enjoy everlasting things. Not such, which quickly changes our joys.  
 Although riches are before your eyes to be enjoyed, you are excluded from them by the frailty of substituted death; if you persevere, you yourself shrink in living, or if your health is bad, why should your life be spared?  
 Torture is everything in which we live in this age; hence our hope must be sought in the future: God urges us to this, the law urges us to this, the passion of Christ urges us to this, that we may believe that we will rise again in the new world.  
-Thus the law of God proclaims: when the Highest became lowly, Hell gave way, so that Adam might be lifted from Death; the Lord, mindful of his own creation, descended into the tomb, and thus through hidden power, he annulled the strength of Death.  
+Thus the law of God proclaims: when the Highest became lowly, Hell gave way, so that Adam might be lifted from Death; the Lord, having mercy on his own creation, descended into the tomb, and thus through hidden power, he nullified the power of Death. 
 The Lord crept up, concealed from the old robber, and He allowed Himself to suffer, in order to cast him down more completely.  
-That man, indeed, bold and always fierce as an enemy, while he hopes to rage against a man, is conquered by the highest.  
-Through which (thing) previously the evil (one) had overthrown/humbled mankind to death, (he was) conquered by/from that very (thing); from where life proceeds to us.  
+That one, indeed, bold and always cruel like an enemy, while he hoped to rage against a man, was conquered by the Highest.  
+By that thing through which the evil one had previously brought man down to death, he himself was overcome; from there comes forth life for us.
 After sampling the apple, Adam was ordered to depart and die; And from his sin, we all die likewise and the same.  
 But again the Lord said: If he shall take of the tree of life, he shall live for ever, being honest.  
 Death was on the tree and life was hidden in the tree, on which God hung the Lord, the discoverer of our life.  
@@ -359,12 +359,12 @@ For they pursue the extravagant and those who worship vain idols, for they subju
 They perceive these evils, who have persecuted the beloved: For five months they are slaughtered under that enemy.  
 In the meantime, Syrus arises at that very moment, Who may terrify the enemies and deliver the senate from there.  
 From below he returns, who was entrusted with the kingdom and, having been long preserved, is recognized with his former body.  
-We say, however, that Nero is ancient, who first punished Peter and Paul in the city: He himself returns again at the very end of the age From apocryphal places, who was reserved in these things.  
+We say, however, that Nero is ancient, who first punished Peter and Paul in the city: He himself returns again at the very end of the age from apocryphal places, who was reserved in these things.  
 They themselves wonder that this man is hated by the senate; But when he appears, they will think he is a god.  
 But before he comes, Elijah will prophesy, at a time divided, in the middle of the week.  
 The infamous one succeeds upon the completion of the appointed time, whom both the Jews and Romans worshiped together at that time.  
 Although there will be another whom they await from the east, nonetheless they will rage against us with King Nero in our slaughter.  
-Therefore when Elijah prophesies in the land of Judah, And marks his own people in the name of Christ; Of these, how many because they do not want to believe, He supplicates God in anger not to rain down; from then on, the sky will be closed, nor will it be moistened by dew: And even the rivers, in anger, will turn into blood.  
+Therefore when Elijah prophesies in the land of Judah, and marks his own people in the name of Christ; Of these, how many because they do not want to believe, He supplicates God in anger not to rain down; from then on, the sky will be closed, nor will it be moistened by dew: And even the rivers, in anger, will turn into blood.  
 The land becomes sterile and water does not flow from springs, so that famine will come upon the world: and then there will be a plague in the world.  
 Because of this, indeed, the tormented Jews contrive many false accusations against him and they first kindle the senate to rise up in anger and they say that Elijah is an enemy to the Romans.  
 Then the senate was quickly moved by them, and they beseeched Nero with unjust prayers and gifts, "Remove the enemies of the people from human affairs, through whom even our gods are trampled upon and not worshipped."  
