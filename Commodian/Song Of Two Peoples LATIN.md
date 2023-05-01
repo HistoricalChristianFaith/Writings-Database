@@ -288,8 +288,8 @@ Hic pater in filio uenit, Deus unus ubique:
 Nec pater est dictus, nisi factus filius esset.  
 Nec enim reliquit caelum, ut in terra pareret,  
 Sed, sicut disposuit, visa est in terra maiestas:  
-Iam caro descenderat, in qua Dei virtus agebat,  
-- Quid quod prophetae canunt, invisibilem esse videndum? -  
+Iam caro descenderat, in qua Dei virtus agebat, -  
+Quid quod prophetae canunt, invisibilem esse videndum? -  
 Ut caritas tanta fieret homo quoque pro nobis.  
 Nec populus noster prosilisset in nova lege,  
 Si non Omnipotens ordinasset ante de nobis.  
