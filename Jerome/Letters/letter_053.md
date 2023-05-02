@@ -45,7 +45,7 @@ But all this is puerile, and resembles the sleight-of-hand of a mountebank. It i
 
 10\. [In Migne, 9.] I beg of you, my dear brother, to live among these books, to meditate upon them, to know nothing else, to seek nothing else. Does not such a life seem to you a foretaste of heaven here on earth? Let not the simplicity of the scripture or the poorness of its vocabulary offend you; for these are due either to the faults of translators or else to deliberate purpose: for in this way it is better fitted for the instruction of an unlettered congregation as the educated person can take one meaning and the uneducated another from one and the same sentence. I am not so dull or so forward as to profess that I myself know it, or that I can pluck upon the earth the fruit which has its root in heaven, but I confess that I should like to do so. I put myself before the man who sits idle and, while I lay no claim to be a master, I readily pledge myself to be a fellow-student. "Every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened." [Matt. 7:8] Let us learn upon earth that knowledge which will continue with us in heaven.
 
-11\. [In Migne, 10.] I will receive you with open hands and-if I may boast and speak foolishly like Hermagoras[^P2150_528275] -I will strive to learn with you whatever you desire to study. Eusebius who is here regards you with the affection of a brother; he[^P2151_528470] has made your letter twice as precious by telling me of your sincerity of character, your contempt for the world, your constancy in friendship, and your love to Christ. The letter bears on its face (without any aid from him) your prudence and the charm of your style. Make haste then, I beseech you, and cut instead of loosing the hawser which prevents your vessel from moving in the sea. The man who sells his goods because he despises them and means to renounce the world can have no desire to sell them dear. Count as money gained the sum that you must expend upon your outfit. There is an old saying that a miser lacks as much what he has as what he has not. The believer has a whole world of wealth; the unbeliever has not a single farthing. Let us always live "as having nothing and yet possessing all things." [2 Cor. 6:10] Food and raiment, these are the Christian's wealth. [1 Tim. 6:8] If your property is in your own power, [Cf. Acts 5:4] sell it: if not, cast it from you. "If any man ...will take away thy coat, let him have thy cloke also." [Matt. 5:40] You are all for delay, you wish to defer action: unless-so you argue-unless I sell my goods piecemeal and with caution, Christ will be at a loss to feed his poor. Nay, he who has offered himself to God, has given Him everything once for all. The apostles did but forsake ships and nets. [Matt. 4:18-22] The widow cast but two brass coins into the treasury [Mark 12:41-44] and yet she shall be preferred before Croesus[^P2158_530211] with all his wealth. He readily despises all things who reflects always that he must die.
+11\. [In Migne, 10.] I will receive you with open hands and-if I may boast and speak foolishly like Hermagoras[^P2150_528275] -I will strive to learn with you whatever you desire to study. Eusebius who is here regards you with the affection of a brother; he[^P2151_528470] has made your letter twice as precious by telling me of your sincerity of character, your contempt for the world, your constancy in friendship, and your love to Christ. The letter bears on its face (without any aid from him) your prudence and the charm of your style. Make haste then, I beseech you, and cut instead of loosing the hawser which prevents your vessel from moving in the sea. The man who sells his goods because he despises them and means to renounce the world can have no desire to sell them dear. Count as money gained the sum that you must expend upon your outfit. There is an old saying that a miser lacks as much what he has as what he has not. The believer has a whole world of wealth; the unbeliever has not a single farthing. Let us always live "as having nothing and yet possessing all things." [2 Cor. 6:10] Food and raiment, these are the Christian's wealth. [1 Tim. 6:8] If your property is in your own power, [Cf. Acts 5:4] sell it: if not, cast it from you. "If any man... will take away thy coat, let him have thy cloke also." [Matt. 5:40] You are all for delay, you wish to defer action: unless-so you argue-unless I sell my goods piecemeal and with caution, Christ will be at a loss to feed his poor. Nay, he who has offered himself to God, has given Him everything once for all. The apostles did but forsake ships and nets. [Matt. 4:18-22] The widow cast but two brass coins into the treasury [Mark 12:41-44] and yet she shall be preferred before Croesus[^P2158_530211] with all his wealth. He readily despises all things who reflects always that he must die.
 
 [^P1997_497357]:
 	Gymnasia
@@ -117,7 +117,7 @@ But all this is puerile, and resembles the sleight-of-hand of a mountebank. It i
 	i.e., Joshua the son of Nun whose name is so rendered by the LXX. Cf. Ecclus. 46:1, AV
 
 [^P2079_515181]:
-	Isa. 16:1, Vulg. `the rock of the wilderness0'=Moab
+	Isa. 16:1, Vulg. `the rock of the wilderness'=Moab
 
 [^P2080_515583]:
 	Also called Coniah and Jehoiachin
@@ -141,19 +141,19 @@ But all this is puerile, and resembles the sleight-of-hand of a mountebank. It i
 	Jerome interprets the Hebrew word `Morasthite0' to mean `my possession.0
 
 [^P2102_519318]:
-	The name strictly means `embrace.0
+	The name strictly means 'embrace.'
 
 [^P2105_519784]:
-	Strictly `the Lord guards0' or `hides.0
+	Strictly 'the Lord guards' or 'hides.'
 
 [^P2107_520016]:
 	So RV. marg. Probably a place in Jerusalem
 
 [^P2110_520552]:
-	So Vulg. `the desire0' AV
+	So Vulg. 'the desire' AV
 
 [^P2112_520692]:
-	Strictly `the Lord is mindful.0
+	Strictly 'the Lord is mindful.'
 
 [^P2113_520776]:
 	i.e., Joshua the High Priest
