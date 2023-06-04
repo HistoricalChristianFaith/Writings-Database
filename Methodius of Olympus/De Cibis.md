@@ -2,7 +2,7 @@
 
 <a href='https://www.roger-pearse.com/weblog/2015/07/31/methodius-of-olympus-de-cibis-now-online-in-english/'>Text</a> translated into English from Old Slavonic by Ralph Cleminson, commissioned and edited by Roger Pearse, who then released it into the public domain. [Additional Sources: <a href='https://archive.org/details/MethodiusDeCibis2015'>archive.org</a>]
 
-<h2 id='tocuniq0'>By the same. On the distinction between foods, and on the heifer mentioned in Leviticus,[^2] with the ashes of which sinners were sprinkled.[^3]</h2>
+## By the same. On the distinction between foods, and on the heifer mentioned in Leviticus,[^2] with the ashes of which sinners were sprinkled.[^3]
 
 [I. 1.][^4] We ought finally to have been content with these homilies, the remembrances[^5] spoken previously (for they are many), overwhelmed as we are by many temptations, and we have not yet found any deliverance from this[^6]. For you know, O Phrenope, having laboured with us and having been a partaker in our work by prayer and fasting, how many trials I had in every homily, how much Satan made me to be ill after I had finished my homily on virginity, how much annoyance he caused me, preventing me from finishing my homily on the resurrection. [2.] He raised up waves (of trouble, I mean) like impassable mountains, so that I despaired even of life, such things were happening to me; and even more the people nowadays – they love slander and abomination and lying, and would rather listen to evil things than good things said about their neighbours. 
 
