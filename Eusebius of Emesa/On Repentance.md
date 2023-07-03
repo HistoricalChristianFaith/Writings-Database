@@ -1,8 +1,6 @@
 <h1>On Repentance (De Paenitentia)</h1>
 
-<a href='https://www.roger-pearse.com/weblog/2023/07/01/eusebius-of-emesa-de-poenitentia-on-penitence-on-repentance-now-online-in-english/ 
-
-'>Text</a> translated into English from Latin by Google Translate, edited by Roger Pearse, who then released it into the public domain. [Additional Sources: <a href='https://archive.org/details/eusebius-of-emesa-on-repentance'>archive.org</a>]
+<a href='https://www.roger-pearse.com/weblog/2023/07/01/eusebius-of-emesa-de-poenitentia-on-penitence-on-repentance-now-online-in-english/'>Text</a> translated into English from Latin by Google Translate, edited by Roger Pearse, who then released it into the public domain. [Additional Sources: <a href='https://archive.org/details/eusebius-of-emesa-on-repentance'>archive.org</a>]
 
 ## The Text[^1]
 
