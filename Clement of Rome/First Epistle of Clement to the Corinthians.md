@@ -9,12 +9,6 @@ Alternative Sources: [tertullian.org](https://www.tertullian.org/fathers2/ANF-01
 > 
 > "There is extant an epistle of this Clement which is acknowledged to be genuine and is of considerable length and of remarkable merit. He wrote it in the name of the church of Rome to the church of Corinth, when a sedition had arisen in the latter church. We know that this epistle also has been publicly used in a great many churches both in former times and in our own. And of the fact that a sedition did take place in the church of Corinth at the time referred to Hegesippus is a trustworthy witness." [...]
 > 
-> "Thus Ignatius has done in the epistles which we have mentioned, and Clement in his epistle which is accepted by all, and which he wrote in the name of the church of Rome to the church of Corinth. In this epistle he gives many thoughts drawn from the Epistle to the Hebrews, and also quotes verbally some of its expressions, thus showing most plainly that it is not a recent production."
-> 
-> "Wherefore it has seemed reasonable to reckon it with the other writings of the apostle. For as Paul had written to the Hebrews in his native tongue, some say that the evangelist Luke, others that this Clement himself, translated the epistle."
-> 
-> "The latter seems more probable, because the epistle of Clement and that to the Hebrews have a similar character in regard to style, and still further because the thoughts contained in the two works are not very different."
-> 
 > "But it must be observed also that there is said to be a second epistle of Clement. But we do not know that this is recognized like the former, for we do not find that the ancients have made any use of it."
 > 
 > "And certain men have lately brought forward other wordy and lengthy writings under his name, containing dialogues of Peter and Apion. But no mention has been made of these by the ancients; for they do not even preserve the pure stamp of apostolic orthodoxy. The acknowledged writing of Clement is well known."
