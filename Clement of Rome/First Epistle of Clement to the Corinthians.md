@@ -1,4 +1,4 @@
-# The First Epistle of Clement to the Corinthians[^1]
+# [AD 96] The First Epistle of Clement to the Corinthians[^1]
 
 Alternative Sources: [tertullian.org](https://www.tertullian.org/fathers2/ANF-01/anf01-05.htm#P171_20841), [sacred-texts.com](https://www.sacred-texts.com/bib/lbob/lbob15.htm), [ccel.org](https://ccel.org/ccel/schaff/anf01/anf01.ii.ii.i.html), [newadvent.org](https://www.newadvent.org/fathers/1010.htm)
 
