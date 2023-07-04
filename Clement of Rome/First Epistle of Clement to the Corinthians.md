@@ -1,10 +1,11 @@
 # The First Epistle of Clement to the Corinthians[^1]
 
-> Alternative Sources: [tertullian.org](https://www.tertullian.org/fathers2/ANF-01/anf01-05.htm#P171_20841), [sacred-texts.com](https://www.sacred-texts.com/bib/lbob/lbob15.htm), [ccel.org](https://ccel.org/ccel/schaff/anf01/anf01.ii.ii.i.html), [newadvent.org](https://www.newadvent.org/fathers/1010.htm)
+Alternative Sources: [tertullian.org](https://www.tertullian.org/fathers2/ANF-01/anf01-05.htm#P171_20841), [sacred-texts.com](https://www.sacred-texts.com/bib/lbob/lbob15.htm), [ccel.org](https://ccel.org/ccel/schaff/anf01/anf01.ii.ii.i.html), [newadvent.org](https://www.newadvent.org/fathers/1010.htm)
 
 > In the twelfth year of the same reign [Domitian], Clement succeeded Anencletus after the latter had been bishop of the church of Rome for twelve years. The apostle in his Epistle to the Philippians informs us that this Clement was his fellow-worker. His words are as follows: "With Clement and the rest of my fellow-laborers whose names are in the book of life." [Philippians 4:3]
+> 
 > There is extant an epistle of this Clement which is acknowledged to be genuine and is of considerable length and of remarkable merit. He wrote it in the name of the church of Rome to the church of Corinth, when a sedition had arisen in the latter church. We know that this epistle also has been publicly used in a great many churches both in former times and in our own. And of the fact that a sedition did take place in the church of Corinth at the time referred to Hegesippus is a trustworthy witness.
-> - [AD 313] Eusebius, Church History (Book III), Chapter 15-16
+> - [AD 313] Eusebius, <a href='https://www.newadvent.org/fathers/250103.htm'>Church History (Book III)</a>, Chapter 15-16
 
 ### Chapter I.-The Salutation. Praise of the Corinthians Before the Breaking Forth of Schism Among Them.
 
