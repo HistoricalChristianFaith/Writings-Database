@@ -224,7 +224,7 @@ Also worth reviewing:
 > After Domitian, Nerva reigned one year, who recalled John from the island (i.e. Patmos), and allowed him to dwell in Ephesus. He was at that time the sole survivor of the twelve Apostles, and after writing his Gospel received the honour of martyrdom. For Papias, bishop of Hierapolis, who was an eye-witness of him, in the second book of the Oracles of the Lord says that he was killed by the Jews, and thereby evidently fulfilled, together with his brother, Christ's prophecy concerning them, and their own confession and undertaking on His behalf. For when the Lord said to them; Are ye able to drink of the cup that I drink of?, and they readily assented and agreed, He said; My cup shall ye drink, and with the baptism that I am baptized shall ye be baptized. And reasonably so, for it is impossible for God to lie. So too the learned Origen affirms in his interpretation of S. Matthew's Gospel that John was martyred, declaring that he had learnt the fact from the successors of the Apostles. And indeed the well-informed Eusebius also in his Ecclesiastical History says; `Thomas received by lot Parthia, but John, Asia, where also he made his residence and died at Ephesus.'
 
 
-### Photius of Constantinople c810-893
+### [AD 893] Photius of Constantinople
 
 <i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: LTF translation. See <a href='https://books.google.com/books?id=qfYUAAAAQAAJ&pg=PA291#v=thumbnail&q&f=false'>Bekker Photii Bibliotheca vol. 1 p. 291</a> for Greek.]</i>
 
