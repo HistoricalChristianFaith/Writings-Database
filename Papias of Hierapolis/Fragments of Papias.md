@@ -355,7 +355,7 @@ Now as regards the aloe which they brought [or bring], some say that it is a mix
 > For the last of these, John, who was called the son of thunder, when he was exceedingly old, as both Irenaeus and Eusebius handed down to us, as well as succession of other believers who were historians, at that time when the terrible heresies were sprouting, dictated the gospel to his respectable disciple Papias the Heirapolitan for the completion of those who preached the word before him to the gentiles throughout all the world.
 
 
-<h2 id='tocuniq18'>The Ante-Nicene Fathers and the 10th Fragment</h2>
+<h2 id='tocuniq18'>False Fragment: The Ante-Nicene Fathers and the 10th Fragment</h2>
 
 The Ante-Nicene Fathers contains 10 fragments of Papias, available at the following sources: [tertullian.org](https://www.tertullian.org/fathers2/ANF-01/anf01-43.htm#P3497_597426), [earlychristianwritings.com](https://www.earlychristianwritings.com/papias.html), [newadvent.org](https://www.newadvent.org/fathers/0125.htm), [ccel.org](https://ccel.org/ccel/ignatius_antioch/fragments_of_papias/anf01.vii.ii.i.html)
 
