@@ -274,7 +274,7 @@ Also worth reviewing:
 
 <i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: <a href='https://web.archive.org/web/20141013090056/http://www.rbedrosian.com/'>Robert Bedrosian</a> translation. These two passages were originally written in Armenian.  See  Folker Siegert Unbeachtete Papiaszitate bei armenischen Schriftstellern. New Testament Studies, Volume 27, Issue 05, October 1981.  The title of the work by Vardan Arewelts’i was taken from Holmes. Norelli (2005) p.495 observes that in this second fragment Vardan Arewelts’i is most likely referring not to Papias but Pappus of Alexandria, who is, according to Norelli, quoted by Moses of Chorene, the famous Armenian Historian. ]</i>
 
-> <b>Explanations of Holy Scripture Armenian<b>
+> <b>Explanations of Holy Scripture Armenian</b>
 Now as regards the aloe which they brought [or bring], some say that it is a mixture of oil and honey.  But certainly aloe is a type of incense. The geographer and Papias relate that there are fifteen kinds of aloe in India...
 > The story of that adulterous woman, which other Christians have written in their gospel, was written about by a certain Papias, a student of John, who was declared a heretic and condemned.  Eusebius wrote about this. There are laws and that matter which Pilate, the king of the Jews, wrote of.  And it is said that he wrote in Hebrew with Latin and Greek above it.
 
