@@ -27,10 +27,9 @@ Also worth reviewing:
 ### [AD 303] Eusebius of Caesarea
 
 
+<i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: My translation. Eusebius wrote his Chronicon in the year 303AD. I am fairly certain that the Greek for this passage comes from an unattributed quotation from George Syncellus’ Chronology 424. When it is matched with Jerome’s translation of Eusebius, it seems certain that this is what Eusebius said.]</i>
 
 > <b>Chronicon 220th Olympiad/100AD</b>
-> 
-> <i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: My translation. Eusebius wrote his Chronicon in the year 303AD. I am fairly certain that the Greek for this passage comes from an unattributed quotation from George Syncellus’ Chronology 424. When it is matched with Jerome’s translation of Eusebius, it seems certain that this is what Eusebius said.]</i>
 > 
 > Irenaeus and others record that John the Theologian and Apostle survived until the times of Trajan; after which Papias of Hierapolis and Polycarp, bishop of Smyrna, both of whom heard him, became well known.   
 
@@ -150,24 +149,24 @@ Also worth reviewing:
 
 ### [AD 543] John of Scythopolis
 
+<i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: LTF translation.  This and the following fragment are not from Maximus the Confessor as Migne, Lightfoot, and Holmes have stated. See Rorem & Lamoreaux John of Scythopolis and the Dionysian Corpus: Annotating the Areopagite Oxford 1998  [checked] for a discussion of the dates of John’s writings and his relationship with Maximus the Confessor.]</i>
+
 > <b>Scholia on The Celestial Hierarchy of Dionysius the Areopagite 2.5 (PG 4 p48)</b>
-> 
-> <i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: LTF translation.  This and the following fragment are not from Maximus the Confessor as Migne, Lightfoot, and Holmes have stated. See Rorem & Lamoreaux John of Scythopolis and the Dionysian Corpus: Annotating the Areopagite Oxford 1998  [checked] for a discussion of the dates of John’s writings and his relationship with Maximus the Confessor.]</i>
 > 
 > Those who practised guilelessness towards God they used to call children, as Papias also shows in the first book of the Expositions of the Lord, and Clement of Alexandria in the Paedagogue.
 
+<i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: LTF translation. The scholia itself is not on Ecclesiastical Hierarchy 7.2 as Lightfoot and Holmes have said, but it is on 7.3.5.  The break in the text concerns John's discussion of Apollinarius and is unrelated to Papias.]</i>
+
 > <b>Scholia on The Ecclesiastical Hierarchy of Dionysius the Areopagite 7.3.5 (PG 4 p176)</b>
-> 
-> <i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: LTF translation. The scholia itself is not on Ecclesiastical Hierarchy 7.2 as Lightfoot and Holmes have said, but it is on 7.3.5.  The break in the text concerns John's discussion of Apollinarius and is unrelated to Papias.]</i>
 > 
 > This he says, darkly indicating, I suppose, Papias of Hierapolis in Asia, who was a bishop at that time and flourished in the days of the holy Evangelist John. For this Papias in the fourth book of his Dominical Expositions mentioned viands among the sources of delights in the resurrection.... And Irenaeus of Lyons says the same thing in his fifth book against heresies, and produces in support of his statement the aforesaid Papias.
 
 
 ### [AD 614] Andrew of Caesarea
 
+<i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: LTF translation. Checked PG 106 p220. For a brief discussion of Andrew's dates see Di Berardino Parology: The Eastern Fathers from  Chalcedon to John of Damascus. 2006]</i>
+
 > <b>On the Apocalypse Preface</b>
-> 
-> <i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: LTF translation. Checked PG 106 p220. For a brief discussion of Andrew's dates see Di Berardino Parology: The Eastern Fathers from  Chalcedon to John of Damascus. 2006]</i>
 > 
 > With regard however to the inspiration of the book (i.e. the Apocalypse) we hold it superfluous to speak at length; since the blessed Gregory (I mean, the Divine) and Cyril, and men of an older generation as well, Papias, Irenaeus, Methodius and Hippolytus, bear testimony to its genuineness.
 
@@ -189,30 +188,30 @@ Also worth reviewing:
 
 ### [AD 700] Anastasius of Sinai?
 
+<i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: LTF translation.  Checked PG 89 p860. Many believe that Anastasius did not write this work. For a brief discussion of Anastasius' dates and authorship see Di Berardino Parology: The Eastern Fathers from  Chalcedon to John of Damascus. 2006 [checked].]</i>
+
 > <b>Contempl. Anagog. In Hexaemeron 1</b>
-> 
-> <i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: LTF translation.  Checked PG 89 p860. Many believe that Anastasius did not write this work. For a brief discussion of Anastasius' dates and authorship see Di Berardino Parology: The Eastern Fathers from  Chalcedon to John of Damascus. 2006 [checked].]</i>
 > 
 > Taking their start from Papias the great, of Hierapolis, the disciple of the Apostle who leaned on Christ's bosom, and Clement, Pantaenus the priest of the Alexandrians and Ammonius, the great scholar, those ancient and first expositors who agree with each other in understanding all the work of the six days (as referring) to Christ and His Church.
 
+<i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: LTF translation.  Checked PG 89 p961-962.]</i>
+
 > <b>Contempl. Anagog. In Hexaemeron 7</b>
-> 
-> <i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: LTF translation.  Checked PG 89 p961-962.]</i>
 > 
 > So then the more ancient expositors of the churches, I mean Philo, the philosopher, and contemporary of the Apostles, and the famous Papias of Hierapolis, the disciple of John the Evangelist...and their associates, interpreted the sayings about Paradise spiritually, and referred them to the Church of Christ.
 
 
 ### [AD 800] George Syncellus
 
+<i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: My translation. Greek in <a href='https://books.google.com/books?id=MM4GAAAAQAAJ&pg=RA1-PA627#v=onepage&q&f=false'>George Syncellus vol. 1 CSHB p.627</a>]</i>
+
 > <b>Chroniconology of George Syncellus 403</b>
-> 
-> <i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: My translation. Greek in <a href='https://books.google.com/books?id=MM4GAAAAQAAJ&pg=RA1-PA627#v=onepage&q&f=false'>George Syncellus vol. 1 CSHB p.627</a>]</i>
 > 
 > Peter sent the first catholic epistle from Rome, having, according to Eusebius, Mark the evangelist as a follower.  At this time, he composed the gospel at the Romans’ request, according to Clement in the sixth book of his Hypotyposeis and Papias the bishop of Hierapolis.
 
+<i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: My translation. Greek in <a href='https://books.google.com/books?id=MM4GAAAAQAAJ&pg=RA1-PA656#v=onepage&q&f=false'>George Syncellus vol. 1 CSHB p.656</a>. Syncellus places this passage 97 years after the birth of Jesus.]</i>
+
 > <b>Chroniconology of George Syncellus 424</b>
-> 
-> <i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: My translation. Greek in <a href='https://books.google.com/books?id=MM4GAAAAQAAJ&pg=RA1-PA656#v=onepage&q&f=false'>George Syncellus vol. 1 CSHB p.656</a>. Syncellus places this passage 97 years after the birth of Jesus.]</i>
 > 
 > Irenaeus and others record that John the Theologian and Apostle survived until the times of Trajan; after which Papias of Hierapolis and Polycarp, bishop of Smyrna, both of whom heard him, were becoming known.
 
@@ -227,30 +226,30 @@ Also worth reviewing:
 
 ### Photius of Constantinople c810-893
 
+<i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: LTF translation. See <a href='https://books.google.com/books?id=qfYUAAAAQAAJ&pg=PA291#v=thumbnail&q&f=false'>Bekker Photii Bibliotheca vol. 1 p. 291</a> for Greek.]</i>
+
 > <b>Bibliothecae # 232, on Stephan Gobarus</b>
-> 
-> <i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: LTF translation. See <a href='https://books.google.com/books?id=qfYUAAAAQAAJ&pg=PA291#v=thumbnail&q&f=false'>Bekker Photii Bibliotheca vol. 1 p. 291</a> for Greek.]</i>
 > 
 > Nor again (does Stephanus follow) Papias, the bishop and martyr of Hierapolis, nor Irenaeus, the holy bishop of Lyons, when they say that the kingdom of heaven will consist in enjoyment of certain material foods.
 
+<i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: My translation. See J.N. Barletta Photii Epistolae London 1864]</i>
+
 > <b>An epistle of Photius to Archbishop and Metropolitan Aquileias</b>
-> 
-> <i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: My translation. See J.N. Barletta Photii Epistolae London 1864]</i>
 > 
 > And the... great Methodius... and also Irenaeus bishop of Lyons and Papias bishop of Heirapolis, Methodius won the crown of martyrdom, the latter were apostolic men.... But however, when they diminish the truth and were brought to speak against the common and ecclesiastical dogma, in these things we do not follow them, but we take nothing away from their patristic honor and glory.
 
 ### [AD 860] John of Dara
 
+<i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: My translation from the Syriac of  A. Baumstark, "<a href='https://books.google.com/books?id=x5kpAAAAYAAJ&dq=A.%20Baumstark%2C%20%22Zwei%20syrische%20Papiascitate%2C%22%20Oriens%20christianus&pg=RA1-PA352#v=onepage&q=Papiascitate&f=false'>Zwei syrische Papiascitate</a>," Oriens christianus 2 [1902] p.353-57]</i>
+
 > <b>On the Resurrection of Bodies 2.13</b>
-> 
-> <i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: My translation from the Syriac of  A. Baumstark, "<a href='https://books.google.com/books?id=x5kpAAAAYAAJ&dq=A.%20Baumstark%2C%20%22Zwei%20syrische%20Papiascitate%2C%22%20Oriens%20christianus&pg=RA1-PA352#v=onepage&q=Papiascitate&f=false'>Zwei syrische Papiascitate</a>," Oriens christianus 2 [1902] p.353-57]</i>
 > 
 > Therefore, at this Apollonarius the heretic, with his companions, abandoned the glorious illumination of the living words and became blind to the faith like the Jews. He dared to speak, like the Pharisees, that after the resurrection of the dead, we shall live again for a thousand years in Jerusalem with the Messiah, with bodily pleasures, and childish sacrifices, and earthly libations before him [the Messiah?]. After these things are fulfilled, at that time we shall be taken up into heaven. And he was not shamed by the voice of Paul who said, "The kingdom of God is not of eating or drinking. But of righteousness and peace and joy in the Holy Spirit." [Romans 14:17]. Also in like manner Irenaeus bishop of Lyon in Gaul wandered in these matters, which are in the book of Papias as Eusebius narrates.
 
 
-> <b>On the Heavenly and the Earthly Hierarchy</b>
-> 
 > <i>[<a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>Note from Dr. TC Schmidt</a>: My translation from the Syriac of  A. BaumstarkA. Baumstark, "<a href='https://books.google.com/books?id=x5kpAAAAYAAJ&dq=A.%20Baumstark%2C%20%22Zwei%20syrische%20Papiascitate%2C%22%20Oriens%20christianus&pg=RA1-PA352#v=onepage&q=Papiascitate&f=false'>Zwei syrische Papiascitate</a>," Oriens christianus 2 [1902] p.353-57]</i>
+
+> <b>On the Heavenly and the Earthly Hierarchy</b>
 > 
 > Papias, bishop of Hierapolis in the Asia, who was educated with John the Evangelist, says in the fourth book of "Interpretations of the Lord" that delights shall exist through foods in the resurrection. What is more, Irenaeus says the same in [his] writing "Against Heresies", from testimony from the book of Papias. Afterwards, he accepted this opinion of Apollonarius.
 
