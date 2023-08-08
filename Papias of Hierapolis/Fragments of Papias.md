@@ -4,7 +4,7 @@ Papias' works did not survive to the present day, we only can see fragments of h
 
 The modern comprehensive volume of the fragments of Papias is "<a href='https://www.amazon.com/Papias-Hierapolis-Exposition-Dominical-Oracles/dp/0198811608/'>Papias of Hierapolis Exposition of Dominical Oracles</a>", by Stephen C. Carlson. 
 
-However given that it costs enough to empty your wallet, we instead turn to other sources. <a href='https://fairfield.academia.edu/TCSchmidt'>Dr. TC Schmidt</a>, an Assistant Professor of New Testament and Early Christianity at Fairfield University, did some extensive research on Papias earlier in his career and <a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>published it online</a>.
+However given that it costs enough to empty your wallet, we instead turn to other sources. <a href='https://fairfield.academia.edu/TCSchmidt'>Dr. TC Schmidt</a>, an Assistant Professor of New Testament and Early Christianity at Fairfield University, did some extensive research on Papias earlier in his career and <a href='https://web.archive.org/web/20141013090056/http://www.chronicon.net/index.php/papias'>published it online</a>. 
 
 Also worth reviewing:
 

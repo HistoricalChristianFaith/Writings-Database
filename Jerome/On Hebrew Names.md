@@ -2,7 +2,7 @@
 
 English translation of Preface from public domain <a href='https://www.ccel.org/ccel/schaff/npnf206.vii.ii.iii.html'>NICENE AND POST-NICENE FATHERS, Second Series, VOLUMES I–VII, THE PRINCIPAL WORKS OF ST. JEROME</a>.
 
-The remaining text is based off the <a href='./On%20Hebrew%20Names%20LATIN.md'>Latin Text</a> from public domain Migne Editors, Patrologiae Cursus Completus, which is translated into English using ChatGPT.
+The remaining text is based off the <a href='./Latin/On%20Hebrew%20Names%20LATIN.md'>Latin Text</a> from public domain Migne Editors, Patrologiae Cursus Completus, which is translated into English using ChatGPT.
 
 The translations below are often comically bad (ChatGPT works far, far better with full sentences). Still... keeping it, as it's better than nothing. Feel free to submit pull requests with improvements!
 
@@ -78,7 +78,7 @@ The translations below are often comically bad (ChatGPT works far, far better wi
 </ul>
 </td></tr></tbody></table>
 
-<h2 id='tocuniq0'>Preface (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq0'>Latin Source</a>)</h2>
+<h2 id='tocuniq0'>Preface (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq0'>Latin Source</a>)</h2>
 
 <i>[The origin and scope of this book is described in the Preface itself. It was written in the year 388, two years after Jerome had settled at Bethlehem. He had, immediately on arriving in Palestine, three years previously, set to work to improve his knowledge of Hebrew, with a view to his translation of the Old Testament, which was begun in 391. This book, therefore, and the two which follow, may be taken as records of studies preparatory to the Vulgate.]</i>
 
@@ -91,14 +91,14 @@ I here in the Preface beg the reader to take notice that, if he finds anything o
     Nothing is known of these men. It is very improbable that this Valerianus was the bishop of Apuleia, who must, however, have been known to Jerome.
 
 
-<h2 id='tocuniq1'>Here begins the book (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq1'>Latin Source</a>)</h2>
+<h2 id='tocuniq1'>Here begins the book (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq1'>Latin Source</a>)</h2>
 
 It is not always to be assumed that wherever a letter A, which in Hebrew is called Aleph, is placed in a name, it is itself that which is put; for there are several other letters, which, though not written, are understood to be consonants, and are pronounced before or after a given vowel; as, for example, the Ain, the He, and the Heth, which letters have the power of modifying aspirates and of changing the sound of consonants with which they are combined. It may therefore be observed, that different letters are used in commencing words by the Hebrews in Genesis and the other books of the law, according to the divers classes of beings previously spoken of; but in our tongue we have not such a variety of sounds, and are therefore contented with a simple pronunciation. Hence it arises that the same words, which are differently written by them, appear to us to have different meanings.
 
 
-<h2 id='tocuniq2'>Old Testament (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq2'>Latin Source</a>)</h2>
+<h2 id='tocuniq2'>Old Testament (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq2'>Latin Source</a>)</h2>
 
-<h3 id='tocuniq3'>On Genesis (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq3'>Latin Source</a>)</h3>
+<h3 id='tocuniq3'>On Genesis (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq3'>Latin Source</a>)</h3>
 A.
 
 Aethiopiam: Darkness or obscurity is interpreted by the Latin language.
@@ -937,7 +937,7 @@ Zavan: Movement, or fluctuation of them.
 
 Zozommim: Prepared in battle line: or what is this water?
 
-<h3 id='tocuniq4'>On Exodus (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq4'>Latin Source</a>)</h3>
+<h3 id='tocuniq4'>On Exodus (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq4'>Latin Source</a>)</h3>
 
 A.
 
@@ -1229,7 +1229,7 @@ Zebulon: Dwelling of strength.
 
 Zechri: My memory.
 
-<h3 id='tocuniq5'>On Leviticus (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq5'>Latin Source</a>)</h3>
+<h3 id='tocuniq5'>On Leviticus (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq5'>Latin Source</a>)</h3>
 
 Melcho (Moloch): to the king.
 
@@ -1238,7 +1238,7 @@ Salumith: Recompense, or peace.
 Fath: climate, that is, a quarter: for example, when we say, the north quarter, or the south.
 
 
-<h3 id='tocuniq6'>On the Book of Numbers (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq6'>Latin Source</a>)</h3>
+<h3 id='tocuniq6'>On the Book of Numbers (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq6'>Latin Source</a>)</h3>
 
 A
 
@@ -1794,7 +1794,7 @@ Zeferuna: You have seen this: from the mouth, not from the bone.
 
 Zamri: Psalm or song.
 
-<h3 id='tocuniq7'>On Deuteronomy (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq7'>Latin Source</a>)</h3>
+<h3 id='tocuniq7'>On Deuteronomy (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq7'>Latin Source</a>)</h3>
 
 A.
 
@@ -1948,7 +1948,7 @@ Z.
 
 Zozomim: These are the thoughts, whether it is this water, or prepared for battle.
 
-<h3 id='tocuniq8'>On the Book of Joshua (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq8'>Latin Source</a>)</h3>
+<h3 id='tocuniq8'>On the Book of Joshua (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq8'>Latin Source</a>)</h3>
 
 A.
 
@@ -2702,7 +2702,7 @@ Zabdi: A violent or abundant flow.
 
 Zanoe: He was repulsed, or he rested.
 
-<h3 id='tocuniq9'>On the Book of Judges (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq9'>Latin Source</a>)</h3>
+<h3 id='tocuniq9'>On the Book of Judges (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq9'>Latin Source</a>)</h3>
 
 A.
 
@@ -2976,7 +2976,7 @@ Zebul: habitation.
 
 Zabulonites: His dwelling.
 
-<h3 id='tocuniq10'>On Ruth (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq10'>Latin Source</a>)</h3>
+<h3 id='tocuniq10'>On Ruth (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq10'>Latin Source</a>)</h3>
 
 Booz: in fortitudine = in strength/power
 
@@ -2992,7 +2992,7 @@ Orpha: Her neck.
 
 Ruth: Seeing, or hurrying, or failing.
 
-<h3 id='tocuniq11'>On Kingdoms Book 1. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq11'>Latin Source</a>)</h3>
+<h3 id='tocuniq11'>On Kingdoms Book 1. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq11'>Latin Source</a>)</h3>
 
 A.
 
@@ -3260,7 +3260,7 @@ Z.
 
 Ziphaei: Sprouting or blooming.
 
-<h3 id='tocuniq12'>On Kingdoms Book 2 (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq12'>Latin Source</a>)</h3>
+<h3 id='tocuniq12'>On Kingdoms Book 2 (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq12'>Latin Source</a>)</h3>
 
 A.
 
@@ -3620,7 +3620,7 @@ Urchi: My length.
 
 Usathi: Hastening me.
 
-<h3 id='tocuniq13'>On Kingdoms Book 3. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq13'>Latin Source</a>)</h3>
+<h3 id='tocuniq13'>On Kingdoms Book 3. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq13'>Latin Source</a>)</h3>
 
 A.
 
@@ -3966,7 +3966,7 @@ Zava: Injustice.
 
 Zabadia: Endowed by the Lord.
 
-<h3 id='tocuniq14'>On Kingdoms Book 4. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq14'>Latin Source</a>)</h3>
+<h3 id='tocuniq14'>On Kingdoms Book 4. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq14'>Latin Source</a>)</h3>
 
 A.
 
@@ -4326,7 +4326,7 @@ Theraphim: Fires - but better yet, images or figures, which the Greeks call "μ�
 
 Thanameth (Thanehumeth): Comforter.
 
-<h3 id='tocuniq15'>On Psalter. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq15'>Latin Source</a>)</h3>
+<h3 id='tocuniq15'>On Psalter. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq15'>Latin Source</a>)</h3>
 
 A.
 
@@ -4444,7 +4444,7 @@ Zain: Olives, or fornication, or this.
 
 About the Hebrew Alphabet, I believe that I have discussed it thoroughly in the letter that I wrote to Saint Paula concerning Psalm 118.
 
-<h3 id='tocuniq16'>On Isaiah the Prophet. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq16'>Latin Source</a>)</h3>
+<h3 id='tocuniq16'>On Isaiah the Prophet. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq16'>Latin Source</a>)</h3>
 
 A.
 
@@ -4632,7 +4632,7 @@ Z.
 
 Zacharia: Memory of the Lord.
 
-<h3 id='tocuniq17'>On Hosea the Prophet. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq17'>Latin Source</a>)</h3>
+<h3 id='tocuniq17'>On Hosea the Prophet. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq17'>Latin Source</a>)</h3>
 
 B.
 
@@ -4670,7 +4670,7 @@ Salmana: Consummated or perfect.
 
 Saboim: station, or those standing.
 
-<h3 id='tocuniq18'>On Amos. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq18'>Latin Source</a>)</h3>
+<h3 id='tocuniq18'>On Amos. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq18'>Latin Source</a>)</h3>
 
 A.
 
@@ -4704,7 +4704,7 @@ Theman: south wind.
 
 Thecue: trumpet, or horn, or percussion: which the Greeks call κρουσμὸν.
 
-<h3 id='tocuniq19'>On Micah. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq19'>Latin Source</a>)</h3>
+<h3 id='tocuniq19'>On Micah. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq19'>Latin Source</a>)</h3>
 
 A.
 
@@ -4722,7 +4722,7 @@ N.
 
 Nemrod: Apostate.
 
-<h3 id='tocuniq20'>On Joel. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq20'>Latin Source</a>)</h3>
+<h3 id='tocuniq20'>On Joel. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq20'>Latin Source</a>)</h3>
 
 F and I
 
@@ -4730,11 +4730,11 @@ Fetuel: Width of God, or God opening.
 
 Joel: Beginning, or is of God.
 
-<h3 id='tocuniq21'>On Obadiah. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq21'>Latin Source</a>)</h3>
+<h3 id='tocuniq21'>On Obadiah. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq21'>Latin Source</a>)</h3>
 
 Abdia: Servant of the Lord.
 
-<h3 id='tocuniq22'>On Jonah. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq22'>Latin Source</a>)</h3>
+<h3 id='tocuniq22'>On Jonah. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq22'>Latin Source</a>)</h3>
 
 A and I
 
@@ -4744,7 +4744,7 @@ Jona: Dove, or grieving.
 
 Joppe: Beauty.
 
-<h3 id='tocuniq23'>On Nahum. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq23'>Latin Source</a>)</h3>
+<h3 id='tocuniq23'>On Nahum. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq23'>Latin Source</a>)</h3>
 
 E, N and S
 
@@ -4758,11 +4758,11 @@ Senam: Abundance.
 
 Saraphad: fire.
 
-<h3 id='tocuniq24'>On Habakkuk. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq24'>Latin Source</a>)</h3>
+<h3 id='tocuniq24'>On Habakkuk. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq24'>Latin Source</a>)</h3>
 
 Ambacuc: Hugging.
 
-<h3 id='tocuniq25'>On Zephaniah. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq25'>Latin Source</a>)</h3>
+<h3 id='tocuniq25'>On Zephaniah. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq25'>Latin Source</a>)</h3>
 
 A, G and S
 
@@ -4772,7 +4772,7 @@ Godalia: Magnified is the Lord, or magnificent.
 
 Sophonia: Hiding him.
 
-<h3 id='tocuniq26'>On Haggai. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq26'>Latin Source</a>)</h3>
+<h3 id='tocuniq26'>On Haggai. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq26'>Latin Source</a>)</h3>
 
 A, I, S and Z.
 
@@ -4784,7 +4784,7 @@ Salathiel: Seeking the Lord, or request of the Lord.
 
 Zorobabel: Leader or master of Babylon, either a foreign translation or of Babylonian origin.
 
-<h3 id='tocuniq27'>On Zechariah. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq27'>Latin Source</a>)</h3>
+<h3 id='tocuniq27'>On Zechariah. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq27'>Latin Source</a>)</h3>
 
 A, C, R and S.
 
@@ -4804,7 +4804,7 @@ Sabat (Al. Sabath): Scepter or rod.
 
 Sedrach (Hadrach): My handsome.
 
-<h3 id='tocuniq28'>On Malachi. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq28'>Latin Source</a>)</h3>
+<h3 id='tocuniq28'>On Malachi. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq28'>Latin Source</a>)</h3>
 
 E, M and T.
 
@@ -4814,7 +4814,7 @@ Malachi: My angel.
 
 Thesbites: Captivating.
 
-<h3 id='tocuniq29'>On Jeremiah the Prophet. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq29'>Latin Source</a>)</h3>
+<h3 id='tocuniq29'>On Jeremiah the Prophet. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq29'>Latin Source</a>)</h3>
 
 A.
 
@@ -5082,7 +5082,7 @@ Thoph (Thopheth): Gehenna, or danger of the mouth.
 
 Thaamath (Thanehumeth): He gave indignation, or anger.
 
-<h3 id='tocuniq30'>On Daniel. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq30'>Latin Source</a>)</h3>
+<h3 id='tocuniq30'>On Daniel. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq30'>Latin Source</a>)</h3>
 
 A.
 
@@ -5170,7 +5170,7 @@ V.
 
 Ulai: Mire, from a marsh, not from a stake: either a pain of the thigh, or of the eyes.
 
-<h3 id='tocuniq31'>On Ezekiel. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq31'>Latin Source</a>)</h3>
+<h3 id='tocuniq31'>On Ezekiel. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq31'>Latin Source</a>)</h3>
 
 A.
 
@@ -5444,7 +5444,7 @@ Z.
 
 Zarda: alienated greatly.
 
-<h3 id='tocuniq32'>On Job. (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq32'>Latin Source</a>)</h3>
+<h3 id='tocuniq32'>On Job. (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq32'>Latin Source</a>)</h3>
 
 A.
 
@@ -5536,9 +5536,9 @@ T.
 
 Topazium: good.
 
-<h2 id='tocuniq33'>New Testament (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq33'>Latin Source</a>)</h2>
+<h2 id='tocuniq33'>New Testament (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq33'>Latin Source</a>)</h2>
 
-<h3 id='tocuniq34'>On Matthew (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq34'>Latin Source</a>)</h3>
+<h3 id='tocuniq34'>On Matthew (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq34'>Latin Source</a>)</h3>
 
 A.
 
@@ -5784,7 +5784,7 @@ Zacharia: Memory of the Lord, or remembrance of the Lord.
 
 Zachaeus: Justified, or just, or to be justified, is Syrian, not Hebrew.
 
-<h3 id='tocuniq35'>Mark (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq35'>Latin Source</a>)</h3>
+<h3 id='tocuniq35'>Mark (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq35'>Latin Source</a>)</h3>
 
 A and I.
 
@@ -5812,7 +5812,7 @@ Talitha cumi: Girl, get up. It is morning.
 
 Tracontidis: business of sorrow.
 
-<h3 id='tocuniq36'>Luke (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq36'>Latin Source</a>)</h3>
+<h3 id='tocuniq36'>Luke (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq36'>Latin Source</a>)</h3>
 
 A.
 
@@ -6018,7 +6018,7 @@ Saba: captivity.
 
 Sadducaei: justified.
 
-<h3 id='tocuniq361'>On John (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq361'>Latin Source</a>)</h3>
+<h3 id='tocuniq361'>On John (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq361'>Latin Source</a>)</h3>
 
 A.
 
@@ -6062,7 +6062,7 @@ Sichar: Conclusion or branch. However, corrupted in place of Shechem, which is t
 
 Siloe: Sent.
 
-<h3 id='tocuniq362'>On the Acts of the Apostles (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq362'>Latin Source</a>)</h3>
+<h3 id='tocuniq362'>On the Acts of the Apostles (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq362'>Latin Source</a>)</h3>
 
 A.
 
@@ -6514,9 +6514,9 @@ Thyatira: enlightened.
 
 Thessalonicensium: To strengthen or to confirm the shadow of those in a hurry.
 
-<h3 id='tocuniq37'>On the Canonical Epistles (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq37'>Latin Source</a>)</h3>
+<h3 id='tocuniq37'>On the Canonical Epistles (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq37'>Latin Source</a>)</h3>
 
-<h3 id='tocuniq38'>James (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq38'>Latin Source</a>)</h3>
+<h3 id='tocuniq38'>James (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq38'>Latin Source</a>)</h3>
 
 Abraham: The father sees a multitude.
 
@@ -6534,7 +6534,7 @@ Raab: expanded, enlarged
 
 Sabaoth: Of virtues, or of armies.
 
-<h3 id='tocuniq39'>1 Peter (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq39'>Latin Source</a>)</h3>
+<h3 id='tocuniq39'>1 Peter (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq39'>Latin Source</a>)</h3>
 
 Asia: lifting up.
 
@@ -6554,7 +6554,7 @@ Sara: Prince or Ruler
 
 Silvanus: Sent.
 
-<h3 id='tocuniq40'>2 Peter (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq40'>Latin Source</a>)</h3>
+<h3 id='tocuniq40'>2 Peter (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq40'>Latin Source</a>)</h3>
 
 Balaam: Empty people, or their consumption.
 
@@ -6586,11 +6586,11 @@ Sodomis: Yellow or silent.
 
 Silvanus: Sent.
 
-<h3 id='tocuniq41'>1 John (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq41'>Latin Source</a>)</h3>
+<h3 id='tocuniq41'>1 John (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq41'>Latin Source</a>)</h3>
 
 Cain: possession.
 
-<h3 id='tocuniq42'>2 John (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq42'>Latin Source</a>)</h3>
+<h3 id='tocuniq42'>2 John (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq42'>Latin Source</a>)</h3>
 
 Diotrephes: Fair but foolish, or ornament gone mad.
 
@@ -6598,7 +6598,7 @@ Demetrius: Strong to pursue, or strong to throw down with a rod.
 
 Gaius: Movable.
 
-<h3 id='tocuniq43'>Jude (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq43'>Latin Source</a>)</h3>
+<h3 id='tocuniq43'>Jude (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq43'>Latin Source</a>)</h3>
 
 Aegyptus: Darkness, or tribulation.
 
@@ -6622,9 +6622,9 @@ Moses: Touching, or soothing.
 
 Sodoma: The silent cattle.
 
-<h3 id='tocuniq44'>The Letters of the Apostle Paul (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq44'>Latin Source</a>)</h3>
+<h3 id='tocuniq44'>The Letters of the Apostle Paul (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq44'>Latin Source</a>)</h3>
 
-<h3 id='tocuniq45'>To the Romans (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq45'>Latin Source</a>)</h3>
+<h3 id='tocuniq45'>To the Romans (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq45'>Latin Source</a>)</h3>
 
 A.
 
@@ -6790,7 +6790,7 @@ U.
 
 Urbanus: Rejoicing in the light.
 
-<h3 id='tocuniq46'>1 Corinthians (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq46'>Latin Source</a>)</h3>
+<h3 id='tocuniq46'>1 Corinthians (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq46'>Latin Source</a>)</h3>
 
 A.
 
@@ -6864,7 +6864,7 @@ Satanas: adversary.
 
 Sabbathum: Rest.
 
-<h3 id='tocuniq47'>2 Corinthians (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq47'>Latin Source</a>)</h3>
+<h3 id='tocuniq47'>2 Corinthians (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq47'>Latin Source</a>)</h3>
 
 A.
 
@@ -6904,7 +6904,7 @@ Troadem: rest, or wideness.
 
 Titum: Seeking, indeed good: but better, struggling.
 
-<h3 id='tocuniq48'>To the Galatians (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq48'>Latin Source</a>)</h3>
+<h3 id='tocuniq48'>To the Galatians (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq48'>Latin Source</a>)</h3>
 
 A.
 
@@ -6950,7 +6950,7 @@ Syria: sublime.
 
 Sina: His measure, whether it be trial.
 
-<h3 id='tocuniq49'>To the Ephesians, and to the Philippians (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq49'>Latin Source</a>)</h3>
+<h3 id='tocuniq49'>To the Ephesians, and to the Philippians (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq49'>Latin Source</a>)</h3>
 
 B.
 
@@ -6984,7 +6984,7 @@ T.
 
 Thessalonicam: Hastening (or Celebration) to set up a shade.
 
-<h3 id='tocuniq50'>To the Colossians (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq50'>Latin Source</a>)</h3>
+<h3 id='tocuniq50'>To the Colossians (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq50'>Latin Source</a>)</h3>
 
 A.
 
@@ -7038,7 +7038,7 @@ T.
 
 Tychicus: Silent.
 
-<h3 id='tocuniq51'>To the Thessalonians (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq51'>Latin Source</a>)</h3>
+<h3 id='tocuniq51'>To the Thessalonians (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq51'>Latin Source</a>)</h3>
 
 A.
 
@@ -7052,7 +7052,7 @@ Silvanus: Sent.
 
 Satanas: Adversary, or transgressor.
 
-<h3 id='tocuniq52'>To the Hebrews (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq52'>Latin Source</a>)</h3>
+<h3 id='tocuniq52'>To the Hebrews (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq52'>Latin Source</a>)</h3>
 
 Abraham: The father saw the crowd.
 
@@ -7142,7 +7142,7 @@ Samuel: His name is God.
 
 Sion: Lookout tower.
 
-<h3 id='tocuniq53'>On 1 Timothy (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq53'>Latin Source</a>)</h3>
+<h3 id='tocuniq53'>On 1 Timothy (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq53'>Latin Source</a>)</h3>
 
 A.
 
@@ -7190,7 +7190,7 @@ Y
 
 Ymenaeus: Sleeping.
 
-<h3 id='tocuniq54'>On 2 Timothy (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq54'>Latin Source</a>)</h3>
+<h3 id='tocuniq54'>On 2 Timothy (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq54'>Latin Source</a>)</h3>
 
 A.
 
@@ -7282,7 +7282,7 @@ Troadi: To the servant.
 
 Trophimum: dissolving chambers.
 
-<h3 id='tocuniq55'>To Titus (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq55'>Latin Source</a>)</h3>
+<h3 id='tocuniq55'>To Titus (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq55'>Latin Source</a>)</h3>
 
 A and C.
 
@@ -7298,7 +7298,7 @@ Nicopoli: The sprout of my protection.
 
 Zenam: His disturbance, whether by moving him, or by resting himself.
 
-<h3 id='tocuniq56'>To Philemon (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq56'>Latin Source</a>)</h3>
+<h3 id='tocuniq56'>To Philemon (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq56'>Latin Source</a>)</h3>
 
 A and D.
 
@@ -7318,7 +7318,7 @@ O.
 
 Onesimum: respondentem - "responding" or "answering"
 
-<h3 id='tocuniq57'>On Apocalypse of John (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq57'>Latin Source</a>)</h3>
+<h3 id='tocuniq57'>On Apocalypse of John (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq57'>Latin Source</a>)</h3>
 
 A.
 
@@ -7420,7 +7420,7 @@ Sodoma: To the silent cattle.
 
 Zabulon: A dwelling of beauty.
 
-<h3 id='tocuniq58'>On the Epistle of Barnabas (<a href='./On%20Hebrew%20Names%20LATIN.md#tocuniq58'>Latin Source</a>)</h3>
+<h3 id='tocuniq58'>On the Epistle of Barnabas (<a href='./Latin/On%20Hebrew%20Names%20LATIN.md#tocuniq58'>Latin Source</a>)</h3>
 
 A and D.
 
