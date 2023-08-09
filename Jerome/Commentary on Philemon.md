@@ -4,10 +4,6 @@
 
 Translated into English using ChatGPT. 
 
-Beware of these translation issues: 
-- Sometimes (seemingly randomly), the AI will summarize a section instead of translating it. We try to catch these manually, but some slip through.
-- Sometimes the AI will add additional details (especially if the additional details are frequently used in other texts the AI was trained on). For example, if the original text quoted a fragment of Ephesians 2:7 in Latin, in the translation the AI will sometimes then include the English version of the entirety of Ephesians 2:7-8 (even though there was only a fragment of 2:7 in the original text). 
-
 <table id="user-content-toc" summary="Contents">
 <tbody><tr><td>
 <h2>Table of Contents</h2>
