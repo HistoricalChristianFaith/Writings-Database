@@ -1,4 +1,4 @@
-<h1>Commentaries on the Book of Job</h1>
+<h1>Commentary on the Book of Job</h1>
 
 <a href='./Latin/Commentary%20on%20Job%20LATIN.md'>Latin Text</a> from public domain Migne Editors, Patrologiae Cursus Completus.
 
