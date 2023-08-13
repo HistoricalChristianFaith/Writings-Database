@@ -254,7 +254,7 @@ Text from [catholiclibrary.org](https://catholiclibrary.org/library/view?docId=F
 <li><a href='#tocuniq247'>(Vers. 45.)</a></li>
 <li><a href='#tocuniq248'>(Vers. 46 seqq.)</a></li>
 <li><a href='#tocuniq249'>(Vers. 49, 50.)</a></li>
-<li><a href='#tocuniq250'>87 (Cap. XIII.—Vers. 1.)</a></li>
+<li><a href='#tocuniq250'>(Cap. XIII.—Vers. 1.)</a></li>
 <li><a href='#tocuniq251'>(Vers. 3.)</a></li>
 <li><a href='#tocuniq252'>(Vers. 4.)</a></li>
 <li><a href='#tocuniq253'>(Vers. 5 seqq.)</a></li>
@@ -684,9 +684,9 @@ Primus omnium Matthaeus est Publicanus, cognomento Levi, qui Evangelium in Judae
 
 Liber Primus.
 
-<h2 id='tocuniq4'>9 (Caput I.—Vers. 1.)</h2>
+<h2 id='tocuniq4'>(Caput I.—Vers. 1.)</h2>
 
-9 (Caput I.—Vers. 1.)  Liber generationis Jesu Christi. In Isaia legimus: Generationem ejus quis enarrabit  (Isai. LIII, 8) ? Non ergo putemus Evangelistam (( Al. Evangelium)) prophetae esse contrarium, ut quod ille impossibile dixit effatu, hic narrare incipiat: quia ibi de generatione divinitatis, hic de incarnatione est dictum. A carnalibus autem coepit, ut per hominem Deum dicere incipiamus.
+(Caput I.—Vers. 1.)  Liber generationis Jesu Christi. In Isaia legimus: Generationem ejus quis enarrabit  (Isai. LIII, 8) ? Non ergo putemus Evangelistam (( Al. Evangelium)) prophetae esse contrarium, ut quod ille impossibile dixit effatu, hic narrare incipiat: quia ibi de generatione divinitatis, hic de incarnatione est dictum. A carnalibus autem coepit, ut per hominem Deum dicere incipiamus.
 
 Filii David, filii  Abraham. Abraham genuit Isaac.  Isaac autem genuit Jacob. Jacob autem genuit Judam et fratres ejus. Ordo praeposterus, sed necessario commutatus. Si enim primum posuisset Abraham, et postea David: rursus ei repetendus fuerat Abraham, ut generationis series texeretur. Ideo autem, caeteris praetermissis, horum filium nuncupavit; quia ad hos tantum est facta de Christo repromissio, ad Abraham: In semine, inquit, tuo benedicentur omnes gentes  (Gen. XXII, 18) , quod est Christus. Ad David: De fructu ventris tui ponam super sedem tuam  (Ps. CXXXI, 11.)
 
@@ -697,7 +697,7 @@ Filii David, filii  Abraham. Abraham genuit Isaac.  Isaac autem genuit Jacob. Ja
 
 <h2 id='tocuniq6'>(Vers. 4 seqq.)</h2>
 
-(Vers. 4 seqq.) Naasson autem genuit Salmon.  Salmon autem genuit Booz de Rahab. Booz autem genuit Obed ex Ruth. Obed autem genuit Jesse. Jesse autem genuit David regem.  10 David autem rex genuit Salomonem ex ea quae fuit Uriae. Salomon autem genuit Roboam. Roboam autem genuit Abiam. Abia autem genuit Asa. Asa autem genuit Josaphat. Josaphat autem genuit Joram.  Iste est Naasson princeps tribus Judae, sicut in Numeris legimus  (Num. I et II) .
+(Vers. 4 seqq.) Naasson autem genuit Salmon.  Salmon autem genuit Booz de Rahab. Booz autem genuit Obed ex Ruth. Obed autem genuit Jesse. Jesse autem genuit David regem. David autem rex genuit Salomonem ex ea quae fuit Uriae. Salomon autem genuit Roboam. Roboam autem genuit Abiam. Abia autem genuit Asa. Asa autem genuit Josaphat. Josaphat autem genuit Joram.  Iste est Naasson princeps tribus Judae, sicut in Numeris legimus  (Num. I et II) .
 
 
 Joram autem genuit Oziam.  Ozias autem genuit Joathan. Joathan autem genuit Achaz. Achaz autem genuit Ezechiam. Ezechias autem genuit Manassen. Manasses autem genuit Amon. Amon autem genuit Josiam. Josias autem genuit Jechoniam et fratres ejus in transmigratione Babylonis.  In quarto Regum volumine  (Capp. III, VIII et seqq.)  legimus de Joram Ochoziam fuisse generatum, quo mortuo, Josabeth filia regis Joram, soror Ochoziae tulit Joas filium fratris sui, et eum internecioni, quae exercebatur ab Athalia (( Al. Atholia)), subtraxit. Cui successit in regnum filius ejus Amasias, post quem regnavit filius ejus Azarias, qui appellatur et Ozias (( Al. Ochozias)): cui successit Joathan filius ejus. Cernis ergo quod secundum fidem historiae tres reges in medio fuerint, quos hic Evangelista praetermisit: Joram quippe nongenuit Oziam, sed Ochoziam: et reliquos quos enumeravimus. Verum quia Evangelistae propositum erat tres tessarescedecades in diverso temporum statu ponere, et Joram generi se miscuerat impiissimaeJezabel, idcirco usque ad tertiam generationem ejus memoria tollitur, ne in sanctae nativitatis ordine poneretur.
@@ -705,7 +705,7 @@ Joram autem genuit Oziam.  Ozias autem genuit Joathan. Joathan autem genuit Acha
 
 <h2 id='tocuniq7'>(Vers. 12 seqq.)</h2>
 
-(Vers. 12 seqq.) Et post transmigrationem Babylonis, Jechonias genuit Salathiel. Salathiel autem genuit Zorobabel. Zorobabel autem genuit Abiud. Abiud autem genuit Eliacim. Eliacim autem genuit Azor. Azor autem   11 genuit Sadoc. Sadoc autem genuit Achim. Achim autem genuit Eliud. Eliud autem genuit Eleazar. Eleazar autem genuit Matthan. Matthan autem genuit Jacob.  Si voluerimus Jechoniam in fine primae tessarescedecadis (( Al. tesseradecadis)) ponere, in sequenti non erunt quatuordecim, sed tredecim. Sciamus igitur, Jechoniam priorem ipsum esse quem et Joacim: secundum autem, filium, non patrem: quorumprior per c et m, sequens per ch et n scribitur: quod scriptorum vitio, et longitudine temporum, apud Graecos Latinosque confusum est.
+(Vers. 12 seqq.) Et post transmigrationem Babylonis, Jechonias genuit Salathiel. Salathiel autem genuit Zorobabel. Zorobabel autem genuit Abiud. Abiud autem genuit Eliacim. Eliacim autem genuit Azor. Azor autem genuit Sadoc. Sadoc autem genuit Achim. Achim autem genuit Eliud. Eliud autem genuit Eleazar. Eleazar autem genuit Matthan. Matthan autem genuit Jacob.  Si voluerimus Jechoniam in fine primae tessarescedecadis (( Al. tesseradecadis)) ponere, in sequenti non erunt quatuordecim, sed tredecim. Sciamus igitur, Jechoniam priorem ipsum esse quem et Joacim: secundum autem, filium, non patrem: quorumprior per c et m, sequens per ch et n scribitur: quod scriptorum vitio, et longitudine temporum, apud Graecos Latinosque confusum est.
 
 <h2 id='tocuniq8'>(Vers. 16.)</h2>
 
@@ -719,7 +719,7 @@ Joram autem genuit Oziam.  Ozias autem genuit Joathan. Joathan autem genuit Acha
 
 (Vers. 18.) Et a transmigratione Babylonis usque ad Christum, generationes quatuordecim. Numera a Jechonia usque ad Joseph, et invenies generationes tredecim. Quarta decima ergo generatio in ipsum Christum reputabitur.
 
-Christi autem generatio sic erat. Quaerat diligens lector et dicat: Cum Joseph non sit pater Domini Salvatoris,  12  quid pertinet ad Dominum generationis ordo deductus usque ad Joseph? Cui respondebimus primum, non esse consuetudinis Scripturarum, ut mulierum in generationibus ordo texatur. Deinde ex una tribu fuisse Joseph et Mariam: unde ex Lege eam accipere cogebatur ut propinquam, et quod simul censetur in Bethleem, ut de una videlicet stirpe generati.
+Christi autem generatio sic erat. Quaerat diligens lector et dicat: Cum Joseph non sit pater Domini Salvatoris, quid pertinet ad Dominum generationis ordo deductus usque ad Joseph? Cui respondebimus primum, non esse consuetudinis Scripturarum, ut mulierum in generationibus ordo texatur. Deinde ex una tribu fuisse Joseph et Mariam: unde ex Lege eam accipere cogebatur ut propinquam, et quod simul censetur in Bethleem, ut de una videlicet stirpe generati.
 
 
 Cum esset desponsata mater ejus Maria  Joseph. Quare non de simplici Virgine, sed de desponsata concipitur? Primum, ut per generationem, Joseph, origo Mariae monstraretur. Secundo, ne lapidaretur a Judaeis ut adultera. Tertio, ut in Aegyptum fugienshaberet solatium mariti. Martyr Ignatius etiam quartam addidit causam, cur a desponsata conceptus sit: ut partus, inquiens, ejus celaretur diabolo, dum eum putat non de Virgine, sed de uxore generatum.
@@ -734,7 +734,7 @@ Antequam convenirent, inventa est in utero habens de Spiritu sancto. Non ab alio
 
 <h2 id='tocuniq12'>(Vers. 20.)</h2>
 
-(Vers. 20.) Joseph fili David, noli timere accipere Mariam  conjugem tuam.  Quod enim in  13 ea natum est, de Spiritu sancto est. Pariet autem filium. Jam et supra diximus sponsas uxores appellari, quod pleniusliber adversus Helvidium docet: et blandientis affectu ei per somnium Angelus loquitur, ut justitiam silentii comprobaret. Simulque notandum, quod Joseph filius esse dicatur (( Al. dicitur)) David, ut Maria quoque de stirpe David monstraretur.
+(Vers. 20.) Joseph fili David, noli timere accipere Mariam  conjugem tuam.  Quod enim in ea natum est, de Spiritu sancto est. Pariet autem filium. Jam et supra diximus sponsas uxores appellari, quod pleniusliber adversus Helvidium docet: et blandientis affectu ei per somnium Angelus loquitur, ut justitiam silentii comprobaret. Simulque notandum, quod Joseph filius esse dicatur (( Al. dicitur)) David, ut Maria quoque de stirpe David monstraretur.
 
 
 <h2 id='tocuniq13'>(Vers. 21.)</h2>
@@ -748,7 +748,7 @@ Antequam convenirent, inventa est in utero habens de Spiritu sancto. Non ab alio
 
 <h2 id='tocuniq15'>(Vers. 25.)</h2>
 
-(Vers. 25.) Et accepit conjugem suam, et non cognovit eam, donec peperit filium suum primogenitum; et vocavit nomen ejus Jesum. Ex hoc loco quidam perversissime suspicantur, et alios filios habuisse Mariam, dicentes primogenitum non dici, nisi qui habeat et fratres: cum hic mos sit divinarum Scripturarum, ut primogenitum non eum vocent, quem  14  fratres sequuntur, sed eum qui primus natus sit.Lege supradictum libellum adversus Helvidium.
+(Vers. 25.) Et accepit conjugem suam, et non cognovit eam, donec peperit filium suum primogenitum; et vocavit nomen ejus Jesum. Ex hoc loco quidam perversissime suspicantur, et alios filios habuisse Mariam, dicentes primogenitum non dici, nisi qui habeat et fratres: cum hic mos sit divinarum Scripturarum, ut primogenitum non eum vocent, quem fratres sequuntur, sed eum qui primus natus sit.Lege supradictum libellum adversus Helvidium.
 
 
 <h2 id='tocuniq16'>(Cap. II.—Vers. 2 seqq.)</h2>
@@ -765,7 +765,7 @@ Antequam convenirent, inventa est in utero habens de Spiritu sancto. Non ab alio
 
 Thus, aurum, myrrham, regique, hominique, Deoque Dona ferunt.
 
-Et responso accepto in somnis, ne redirent ad Herodem, per aliam viam reversi sunt in regionem suam, etc. Qui munera obtulerant Domino, consequenter responsum accipiunt. Responsum autem (quod Graece dicitur χρηματισθέντες) non per angelum fit, sed per ipsum Dominum, ut meritorum Joseph 15  privilegium demonstraretur. Revertuntur autem per aliam viam, quia infidelitati miscendi non erant et Judaeorum.
+Et responso accepto in somnis, ne redirent ad Herodem, per aliam viam reversi sunt in regionem suam, etc. Qui munera obtulerant Domino, consequenter responsum accipiunt. Responsum autem (quod Graece dicitur χρηματισθέντες) non per angelum fit, sed per ipsum Dominum, ut meritorum Joseph  privilegium demonstraretur. Revertuntur autem per aliam viam, quia infidelitati miscendi non erant et Judaeorum.
 
 
 <h2 id='tocuniq19'>(Vers. 13, 14.)</h2>
@@ -780,7 +780,7 @@ Et responso accepto in somnis, ne redirent ad Herodem, per aliam viam reversi su
 
 <h2 id='tocuniq21'>(Vers. 17 seqq.)</h2>
 
-(Vers. 17 seqq.) Tunc adimpletum est quod dictum est per Jeremiam prophetam, dicentem: Vox in Rama audita est, ploratus et ululatus multus, Rachel plorans filios suos, et noluit consolari, quia non sunt   (Jerem. XXXI, 15) . Defuncto autem Herode, ecce angelus Domini apparuit in somnis Joseph in Aegypto, dicens: Surge, et accipe puerum et matrem ejus,   16 et vade in terram Israel. De Rachel natus est Benjamin, in cujus tribu non est Bethleem  (Genes.  XXXV) . Quaeriturergo quomodo Rachel filios Judae, id est, Bethleem, quasi suos ploret? Respondebimus breviter, quia sepulta sit juxta Bethleem in Ephrata, et ex materno corpusculi hospitio matris nomen acceperit. Sive quoniam Juda, et Benjamin duae tribus junctae erant, et Herodes praeceperat non solum in Bethleem interfici pueros, sed et in omnibus finibus ejus. Per occisionem (( Al. occasionem)) Bethleem intelligimus multos etiam de Benjamin fuisse caesos. Plorat autem filios suos, et non recipit consolationem, secundum duplicem intelligentiam. Sive quod eos in aeternum mortuos aestimaret, sive quod consolari se nollet de his quos sciret esse victuros. Quod autem dicitur in Rama, non putemus loci nomen esse, juxta Gabaa, sed rama excelsum () interpretatur,ut sit sensus: Vox in excelso audita est, id est, longe lateque dispersa.
+(Vers. 17 seqq.) Tunc adimpletum est quod dictum est per Jeremiam prophetam, dicentem: Vox in Rama audita est, ploratus et ululatus multus, Rachel plorans filios suos, et noluit consolari, quia non sunt   (Jerem. XXXI, 15) . Defuncto autem Herode, ecce angelus Domini apparuit in somnis Joseph in Aegypto, dicens: Surge, et accipe puerum et matrem ejus, et vade in terram Israel. De Rachel natus est Benjamin, in cujus tribu non est Bethleem  (Genes.  XXXV) . Quaeriturergo quomodo Rachel filios Judae, id est, Bethleem, quasi suos ploret? Respondebimus breviter, quia sepulta sit juxta Bethleem in Ephrata, et ex materno corpusculi hospitio matris nomen acceperit. Sive quoniam Juda, et Benjamin duae tribus junctae erant, et Herodes praeceperat non solum in Bethleem interfici pueros, sed et in omnibus finibus ejus. Per occisionem (( Al. occasionem)) Bethleem intelligimus multos etiam de Benjamin fuisse caesos. Plorat autem filios suos, et non recipit consolationem, secundum duplicem intelligentiam. Sive quod eos in aeternum mortuos aestimaret, sive quod consolari se nollet de his quos sciret esse victuros. Quod autem dicitur in Rama, non putemus loci nomen esse, juxta Gabaa, sed rama excelsum () interpretatur,ut sit sensus: Vox in excelso audita est, id est, longe lateque dispersa.
 
 <h2 id='tocuniq22'>(Vers. 20.)</h2>
 
@@ -792,7 +792,7 @@ Et responso accepto in somnis, ne redirent ad Herodem, per aliam viam reversi su
 
 <h2 id='tocuniq24'>(Vers. 22.)</h2>
 
-(Vers. 22.) Audiens autem quod Archelaus regnaret in Judaea, pro Herode patre suo, timuit illo ire: et admonitus in somnis, secessit in partes Galilaeae.  Multi labuntur errore propter ignorantiam historiae, putantes eumdem esse Herodem, a quo in passionesua Dominus irridetur, et qui nunc mortuus esse refertur. Ergo Herodes ille qui cum Pilato postea amicitias fecit, hujus Herodis filius est, frater Archelai; quem et  17  ipsum Tiberius Caesar Lugdunum, quae Galliarum est civitas, relegavit, fratremque ejus Herodem successorem regni fecit. Lege Josephi historiam.
+(Vers. 22.) Audiens autem quod Archelaus regnaret in Judaea, pro Herode patre suo, timuit illo ire: et admonitus in somnis, secessit in partes Galilaeae.  Multi labuntur errore propter ignorantiam historiae, putantes eumdem esse Herodem, a quo in passionesua Dominus irridetur, et qui nunc mortuus esse refertur. Ergo Herodes ille qui cum Pilato postea amicitias fecit, hujus Herodis filius est, frater Archelai; quem et ipsum Tiberius Caesar Lugdunum, quae Galliarum est civitas, relegavit, fratremque ejus Herodem successorem regni fecit. Lege Josephi historiam.
 
 <h2 id='tocuniq25'>(Vers. 23.)</h2>
 
@@ -808,7 +808,7 @@ Et responso accepto in somnis, ne redirent ad Herodem, per aliam viam reversi su
 
 <h2 id='tocuniq28'>(Vers. 4.)</h2>
 
-(Vers. 4.) Ipse autem Joannes habebat vestimentum  18 de pilis camelorum, et zonam pelliceam circa lumbos suos. De pilis, inquit, habebat, non de lana. Aliud austerae vestis indicium est, aliud luxuriae mollioris. Zona autem pellicea qua accinctus fuit et Elias, mortificationis indicium (( Al. symbolum)) est  (IV Reg. I) . Porro quod sequitur:
+(Vers. 4.) Ipse autem Joannes habebat vestimentum  de pilis camelorum, et zonam pelliceam circa lumbos suos. De pilis, inquit, habebat, non de lana. Aliud austerae vestis indicium est, aliud luxuriae mollioris. Zona autem pellicea qua accinctus fuit et Elias, mortificationis indicium (( Al. symbolum)) est  (IV Reg. I) . Porro quod sequitur:
 
 Esca autem ejus erat locustae et mel silvestre. Habitatori solitudinis congruum est non delicias ciborum, sed necessitatem humanae carnis explere.
 
@@ -826,7 +826,7 @@ Cujus non sum dignus calciamenta portare. In alio Evangelio: Cujus, ait, non sum
 
 <h2 id='tocuniq31'>(Vers. 12.)</h2>
 
-(Vers. 12.) Ipse vos baptizabit in Spiritu sancto et igne.  Cujus ventilabrum in manu sua, et permundabit aream suam: et congregabit triticum in horreum suum: paleas autem comburet igni inexstinguibili.  Sive quia ignis est Spiritus sanctus, ut Acta Apostolorum docent, quo descendente, sedit, quasi ignis super singulos (( Al. linguas)) credentium  (Act. II) ; et impletus est sermo Domini dicentis: Ignem veni mittere super terram: et quem ((Al. quam)) volo ut ardeat  (Luc. XII, 49) . Sive quia in praesenti, spiritu baptizamur, et in futuro, igne. Apostolo quoque huic sensui congruente:  Uniuscujusque  19 opus quale sit, ignis probabit  (I Cor. III, 13) .
+(Vers. 12.) Ipse vos baptizabit in Spiritu sancto et igne.  Cujus ventilabrum in manu sua, et permundabit aream suam: et congregabit triticum in horreum suum: paleas autem comburet igni inexstinguibili.  Sive quia ignis est Spiritus sanctus, ut Acta Apostolorum docent, quo descendente, sedit, quasi ignis super singulos (( Al. linguas)) credentium  (Act. II) ; et impletus est sermo Domini dicentis: Ignem veni mittere super terram: et quem ((Al. quam)) volo ut ardeat  (Luc. XII, 49) . Sive quia in praesenti, spiritu baptizamur, et in futuro, igne. Apostolo quoque huic sensui congruente:  Uniuscujusque  opus quale sit, ignis probabit  (I Cor. III, 13) .
 
 <h2 id='tocuniq32'>(Vers. 13, 14.)</h2>
 
@@ -851,9 +851,9 @@ Cujus non sum dignus calciamenta portare. In alio Evangelio: Cujus, ait, non sum
 
 Ut tentaretur a diabolo. Ducitur autem non invitus aut captus, sed voluntate pugnandi.
 
-<h2 id='tocuniq37'>20 (Vers. 2.)</h2>
+<h2 id='tocuniq37'>(Vers. 2.)</h2>
 
-20 (Vers. 2.) Et cum jejunasset quadraginta diebus et quadraginta noctibus, postea esuriit. Et accedens tentator, dixit ei: Si Filius Dei es.  In isto numero quadragesimae nobis ostenditur sacramentum, in quo et Moses jejunavit in monte Sina  (Exod. XXIV) , et Elias juxta montem Oreb  (III Reg. XIX) . Permittitur autem esurire corpus, ut diabolo tentandi tribuatur occasio.
+(Vers. 2.) Et cum jejunasset quadraginta diebus et quadraginta noctibus, postea esuriit. Et accedens tentator, dixit ei: Si Filius Dei es.  In isto numero quadragesimae nobis ostenditur sacramentum, in quo et Moses jejunavit in monte Sina  (Exod. XXIV) , et Elias juxta montem Oreb  (III Reg. XIX) . Permittitur autem esurire corpus, ut diabolo tentandi tribuatur occasio.
 
 <h2 id='tocuniq38'>(Vers. 3.)</h2>
 
@@ -875,7 +875,7 @@ Si Filius Dei es. In omnibus tentationibus hoc agit diabolus, ut intelligat si F
 
 Mitte te deorsum. Scriptum est enim. Vox diaboli, qui (( Al. quae)) semper omnes cadere deorsum desiderat, Mitte te, inquit, deorsum, persuadere potest, praecipitare non potest.
 
-21 Angelis suis mandavit de te, et in manibus tollent te, ne forte offendas ad lapidem pedem tuum. Hoc in nonagesimopsalmo legimus; verum ibi non de Christo, sed de viro sancto prophetia est. Male ergo interpretatur Scripturas diabolus. Certe si vere de Salvatore scriptum noverat, debuerat et illud dicere, quod in eodem psalmo contra se sequitur: Super aspidem et basiliscum ambulabis, et conculcabis leonem et draconem. De angelorum auxilio quasi ad infirmum loquitur: de sua (( Al. sui)) conculcatione quasi tergiversator tacet.
+Angelis suis mandavit de te, et in manibus tollent te, ne forte offendas ad lapidem pedem tuum. Hoc in nonagesimopsalmo legimus; verum ibi non de Christo, sed de viro sancto prophetia est. Male ergo interpretatur Scripturas diabolus. Certe si vere de Salvatore scriptum noverat, debuerat et illud dicere, quod in eodem psalmo contra se sequitur: Super aspidem et basiliscum ambulabis, et conculcabis leonem et draconem. De angelorum auxilio quasi ad infirmum loquitur: de sua (( Al. sui)) conculcatione quasi tergiversator tacet.
 
 <h2 id='tocuniq42'>(Vers. 7.)</h2>
 
@@ -895,7 +895,7 @@ Mitte te deorsum. Scriptum est enim. Vox diaboli, qui (( Al. quae)) semper omnes
 (Vers. 10.) Tunc dicit ei Jesus: Vade , Satana: Scriptum est enim. Non ut plerique putant, eadem satanas et apostolus Petrus sententia condemnantur. Petro enim dicitur: Vade retro me, Satana  (Mat. XVI, 23) , id est, sequere me, qui contrarius es voluntati meae: hic vero audit, vade, Satana: et non ei dicitur, retro me, ut subaudiatur, vade in ignem aeternum, qui praeparatus est tibi, et angelis tuis.
 
 
-22 Dominum Deum tuum adorabis et illi soli servies. Dicens diabolus Salvatori: si cadens adoraveris me: econtrario audit, quod ipse magis adorare eum debeat Dominum et Deum suum.
+Dominum Deum tuum adorabis et illi soli servies. Dicens diabolus Salvatori: si cadens adoraveris me: econtrario audit, quod ipse magis adorare eum debeat Dominum et Deum suum.
 
 <h2 id='tocuniq46'>(Vers. 11.)</h2>
 
@@ -920,7 +920,7 @@ Mitte te deorsum. Scriptum est enim. Vox diaboli, qui (( Al. quae)) semper omnes
 
 <h2 id='tocuniq51'>(Cap. V.—Vers. 1, 2.)</h2>
 
-(Cap. V.—Vers. 1, 2.) Videns autem Jesus turbas, ascendit in montem, et cum sedisset, accesserunt ad eum discipuli ejus, et aperiens  23 os suum, docebat eos, dicens. Dominus ad montana conscendit, ut turbasad altiora secum trahat. Sed turbae ascendere non valent. Et sequuntur discipuli, quibus et ipsis (( Al. ipse)) non stans, sed sedens et contractus loquitur. Non enim intelligere poterant in sua majestate fulgentem. Secundum litteram, nonnulli simpliciorum fratrum putant eum beatitudines, et caetera quae sequuntur, in Oliveti monte docuisse, quod nequaquam ita est: ex praecedentibus enim et sequentibus in Galilaea monstratur locus, quem putamusesse vel Thabor, vel quemlibet alium excelsum montem. Denique postquam finivit sermones suos, statim sequitur: Cum autem introisset Capharnaum.
+(Cap. V.—Vers. 1, 2.) Videns autem Jesus turbas, ascendit in montem, et cum sedisset, accesserunt ad eum discipuli ejus, et aperiens os suum, docebat eos, dicens. Dominus ad montana conscendit, ut turbasad altiora secum trahat. Sed turbae ascendere non valent. Et sequuntur discipuli, quibus et ipsis (( Al. ipse)) non stans, sed sedens et contractus loquitur. Non enim intelligere poterant in sua majestate fulgentem. Secundum litteram, nonnulli simpliciorum fratrum putant eum beatitudines, et caetera quae sequuntur, in Oliveti monte docuisse, quod nequaquam ita est: ex praecedentibus enim et sequentibus in Galilaea monstratur locus, quem putamusesse vel Thabor, vel quemlibet alium excelsum montem. Denique postquam finivit sermones suos, statim sequitur: Cum autem introisset Capharnaum.
 
 <h2 id='tocuniq52'>(Vers. 3.)</h2>
 
@@ -937,7 +937,7 @@ Mitte te deorsum. Scriptum est enim. Vox diaboli, qui (( Al. quae)) semper omnes
 
 <h2 id='tocuniq55'>24 (Vers. 6.)</h2>
 
-24 (Vers. 6.) Beati qui esuriunt, et sitiunt justitiam, quoniam ipsi saturabuntur. Non nobis sufficit velle justitiam, nisi justitiae patiamur famem: ut sub hoc exemplo numquam nos satis justos, sed semper esurire justitiae opera intelligamus.
+(Vers. 6.) Beati qui esuriunt, et sitiunt justitiam, quoniam ipsi saturabuntur. Non nobis sufficit velle justitiam, nisi justitiae patiamur famem: ut sub hoc exemplo numquam nos satis justos, sed semper esurire justitiae opera intelligamus.
 
 <h2 id='tocuniq56'>(Vers. 7.)</h2>
 
@@ -968,7 +968,7 @@ Mitte te deorsum. Scriptum est enim. Vox diaboli, qui (( Al. quae)) semper omnes
 
 (Vers. 13.) Vos estis sal terrae. Sal appellantur apostoli, quia per illos universum hominum conditur genus.
 
-25 Quod si sal evannerit, in quo salietur? Si doctor erraverit, a quo alio doctore emendabitur?
+Quod si sal evannerit, in quo salietur? Si doctor erraverit, a quo alio doctore emendabitur?
 
 Ad nihilum valet ultra, nisi ut mittatur foras, et  conculcetur ab hominibus. Exemplum de agricultura sumptum est. Sal etenim sicut in ciborum condimentum, et ad siccandas carnes necessarium est: ita alium usum non habet. Certe legimus in Scripturis, urbes quasdam, ira (( Al. ita)) victorum sale seminatas, ut nullum in ipsis germen oriretur  (Judith. IX) . Caveant ergo doctores et episcopi, et videant:  Potentes potenter tormenta sustinere  (Sap. VI, 7) ; nihilque esse remedii: sed majorum ruinas ad tartarum ducere.
 
@@ -1184,7 +1184,7 @@ Neque mittatis margaritas vestras ante porcos, ne forte conculcent eas pedibus s
 
 <h2 id='tocuniq109'>42 (Vers. 23.)</h2>
 
-42 (Vers. 23.) Et tunc confitebor illis, quia numquam novi vos. Signanter dixit confitebor, quia multo ante tempore dicere dissimulaverat: non novi vos. Non novit Dominus eos qui pereunt. Observa autem quare addiderit, numquam novi vos, si juxta quosdam omnes homines inter rationabiles semper versati sunt creaturas.
+(Vers. 23.) Et tunc confitebor illis, quia numquam novi vos. Signanter dixit confitebor, quia multo ante tempore dicere dissimulaverat: non novi vos. Non novit Dominus eos qui pereunt. Observa autem quare addiderit, numquam novi vos, si juxta quosdam omnes homines inter rationabiles semper versati sunt creaturas.
 
 <h2 id='tocuniq110'>(Vers. 24.)</h2>
 
@@ -1224,7 +1224,7 @@ Neque mittatis margaritas vestras ante porcos, ne forte conculcent eas pedibus s
 
 (Vers. 4.) Et ait illi Jesus: Vide nemini dixeris. Et re vera quid erat necesse ut sermone jactaret, quod corpore praeferebat?
 
-44 Sed vade, ostende te sacerdotibus: et offer munus quod praecepit Moyses in testimonium illis. Varias ob causas mittit cum ad sacerdotes. Primum, propter humilitatem, ut sacerdotibus deferre honorem videatur. Erat enim lege praeceptum, ut qui mundati fuerant a lepra, offerrent munera sacerdotibus. Deinde, ut mundatum videntes leprosum, aut crederent Salvatori, aut non crederent. Si crederent, salvarentur: si non crederent, inexcusabiles forent. Et simul ne quod in eo saepissime criminabantur, legem videretur infringere.
+Sed vade, ostende te sacerdotibus: et offer munus quod praecepit Moyses in testimonium illis. Varias ob causas mittit cum ad sacerdotes. Primum, propter humilitatem, ut sacerdotibus deferre honorem videatur. Erat enim lege praeceptum, ut qui mundati fuerant a lepra, offerrent munera sacerdotibus. Deinde, ut mundatum videntes leprosum, aut crederent Salvatori, aut non crederent. Si crederent, salvarentur: si non crederent, inexcusabiles forent. Et simul ne quod in eo saepissime criminabantur, legem videretur infringere.
 
 <h2 id='tocuniq119'>(Vers. 5 seq.)</h2>
 
@@ -1551,7 +1551,7 @@ Liber Secundus.
 
 <h2 id='tocuniq193'>(Cap. XI.—Vers. 1, 2.)</h2>
 
-67 (Cap. XI.—Vers. 1, 2.)  Et factum est cum consummasset Jesus, praecipiens duodecim discipulis, transiit inde ut doceret et praedicaret in civitatibus eorum.  Non quasi ignorans interrogat; ipse enim caeteris ignorantibus demonstraverat, dicens: Ecce  Agnus Dei, ecce qui tollit peccata mundi  (Joan. I, 29) : et Patris vocem audierat, intonantis: Hic est Filius meus dilectus, in quo mihi complacui  (Matth. III, 17) : sed quomodo Salvator interrogat, ubi sit positus Lazarus, ut qui locum sepulcri indicabant, saltem sic pararentur ad fidem, et viderent mortuum resurgentem: sic et Joannes interficiendos ab Herode, discipulos suos mittit ad Christum, ut per hanc occasionem videntes signa atque virtutes, crederent in eum, et magistro interrogante, sibi discerent. Quod autem superbirent discipuli Joannis adversus Dominum, et haberent aliquid mordacitatis ex livore et invidia, superior quoque interrogatio demonstravit, Evangelista referente: Tunc accesserunt  ad eum discipuli Joannis, dicentes: Quare nos et Pharisaei jejunamus frequenter: discipuli autem tui non jejunant  (Ibid., IX, 14) ? Et alibi: Magister, cui tu perhibuisti ((Al. praebuisti)) testimonium ad Jordanem, ecce discipuli ejus baptizant, et  omnes veniunt ad eum  (Joan. III, 26) , quasi dixerint: Nos deserimur, hic raritas est, ad illum turba concurrit.
+(Cap. XI.—Vers. 1, 2.)  Et factum est cum consummasset Jesus, praecipiens duodecim discipulis, transiit inde ut doceret et praedicaret in civitatibus eorum.  Non quasi ignorans interrogat; ipse enim caeteris ignorantibus demonstraverat, dicens: Ecce  Agnus Dei, ecce qui tollit peccata mundi  (Joan. I, 29) : et Patris vocem audierat, intonantis: Hic est Filius meus dilectus, in quo mihi complacui  (Matth. III, 17) : sed quomodo Salvator interrogat, ubi sit positus Lazarus, ut qui locum sepulcri indicabant, saltem sic pararentur ad fidem, et viderent mortuum resurgentem: sic et Joannes interficiendos ab Herode, discipulos suos mittit ad Christum, ut per hanc occasionem videntes signa atque virtutes, crederent in eum, et magistro interrogante, sibi discerent. Quod autem superbirent discipuli Joannis adversus Dominum, et haberent aliquid mordacitatis ex livore et invidia, superior quoque interrogatio demonstravit, Evangelista referente: Tunc accesserunt  ad eum discipuli Joannis, dicentes: Quare nos et Pharisaei jejunamus frequenter: discipuli autem tui non jejunant  (Ibid., IX, 14) ? Et alibi: Magister, cui tu perhibuisti ((Al. praebuisti)) testimonium ad Jordanem, ecce discipuli ejus baptizant, et  omnes veniunt ad eum  (Joan. III, 26) , quasi dixerint: Nos deserimur, hic raritas est, ad illum turba concurrit.
 
 
 <h2 id='tocuniq194'>(Vers. 3.)</h2>
@@ -1626,7 +1626,7 @@ Qui autem minor est in regno coelorum, major est illo. Multi de Salvatore hoc in
 (Vers. 25.) In illo tempore, respondens Jesus, dixit: Confitebor, tibi, Pater, Domine coeli et terrae. Confessio, non semper poenitentiam, sed et gratiarum actionem significat; ut in psalmis saepissime legimus.Audiant qui Salvatorem non natum, sed creatum calumniantur, quod Patrem suum vocet coeli et terrae Dominum. Si enim et ipse creatura est, et creatura conditorem suum patrem appellare potest, stultum fuit non et sui et coeli ac terrae Dominum, vel Patrem similiter appellare.
 
 
-74 Quia abscondisti haec a sapientibus et prudentibus, et revelasti ea parvulis. Gratias agit et exsultat in Patre, quod apostolis sui adventus aperuerit sacramenta, quae ignoraverint Scribae et Pharisaei, qui sibi sapientes videntur, et in conspectu suo prudentes. Justificata est sapientia a filiis suis.
+Quia abscondisti haec a sapientibus et prudentibus, et revelasti ea parvulis. Gratias agit et exsultat in Patre, quod apostolis sui adventus aperuerit sacramenta, quae ignoraverint Scribae et Pharisaei, qui sibi sapientes videntur, et in conspectu suo prudentes. Justificata est sapientia a filiis suis.
 
 <h2 id='tocuniq209'>(Vers. 26.)</h2>
 
@@ -1814,9 +1814,9 @@ Et ecce plus quam Jonas hic. Hic, adverbium loci, non pronomen intelligas. Jonas
 (Vers. 49, 50.) Ecce mater mea, et fratres mei. Quicumque enim fecerit voluntatem Patris mei, qui in coelis est, ipse meus frater, et soror, et mater est.  Isti sunt mater mea, qui me quotidie in credentium animis generant. Isti sunt fratres mei, qui faciunt opera Patris mei. Non ergo juxta Marcionem et Manichaeum matrem negavit, ut natus de phantasmate putaretur;sed apostolos cognationi praetulit, ut et nos in comparatione dilectionis carni spiritum praeferamus. Ecce mater tua, et fratres tui foris stant, quaerentes te. Quidam fratres Domini de alia uxore Joseph filios suspicantur, sequentes deliramenta apocryphorum, et quamdam Melcham vel Escham mulierculamconfingentes. Nos autem sicut in libro, quem contra Helvidium scripsimus, continetur, fratres Domini, non filios Joseph, sed consobrinos Salvatoris, Mariae liberos intelligimus materterae Domini quae esse dicitur mater Jacobi Minoris et Joseph et Judae, quos in alio Evangelii loco fratres Domini legimus appellatos. Fratres autem consobrinos dici, omnis Scriptura demonstrat. Dicamus et aliter: Salvator loquitur ad turbas, intrinsecus erudit nationes. Mater ejus et fratres, hoc est, synagoga et populus Judaeorum foris stant, et intrare desiderant, et sermone ejus indigni fiunt. Cumque rogaverint, et quaesierint, et nuntium miserint, responsum accipient (( Al. accipiunt)), liberi eos esse arbitrii, et intrare posse, si velint et ipsi credere: qui tamen intrare non poterunt (( Al. potuerunt)), nisi alios rogaverint.
 
 
-<h2 id='tocuniq250'>87 (Cap. XIII.—Vers. 1.)</h2>
+<h2 id='tocuniq250'>(Cap. XIII.—Vers. 1.)</h2>
 
-87 (Cap. XIII.—Vers. 1.) In illo die exiens Jesus de domo, sedebat secus mare.  Et congregatae sunt ad eum turbae multae: ita ut in naviculam ascendens sederet, et omnis turba stabat in littore. Populus domum Jesu non poterat intrare, nec esse ibi ubi apostoli audiebant mysteria: idcirco miserator et misericors Dominus egreditur de domo sua, et sedet (( Al. sedit)) juxta hujus saeculi mare, ut turbae multae congregentur ad eum, et audiant in littore quae intus non merebantur audire, ita ut in naviculam ascendens sederet, et omnis turba staret in littore. Jesus in mediis fluctibus est, hinc inde mari tunditur, et in sua majestate securus, appropinquare facit terrae naviculam suam. At populus nequaquam periculum sustinens,nec tentationibus circumdatus, quas ferre non poterat, stat in littore fixo gradu, ut audiat quae dicuntur.
+(Cap. XIII.—Vers. 1.) In illo die exiens Jesus de domo, sedebat secus mare.  Et congregatae sunt ad eum turbae multae: ita ut in naviculam ascendens sederet, et omnis turba stabat in littore. Populus domum Jesu non poterat intrare, nec esse ibi ubi apostoli audiebant mysteria: idcirco miserator et misericors Dominus egreditur de domo sua, et sedet (( Al. sedit)) juxta hujus saeculi mare, ut turbae multae congregentur ad eum, et audiant in littore quae intus non merebantur audire, ita ut in naviculam ascendens sederet, et omnis turba staret in littore. Jesus in mediis fluctibus est, hinc inde mari tunditur, et in sua majestate securus, appropinquare facit terrae naviculam suam. At populus nequaquam periculum sustinens,nec tentationibus circumdatus, quas ferre non poterat, stat in littore fixo gradu, ut audiat quae dicuntur.
 
 <h2 id='tocuniq251'>(Vers. 3.)</h2>
 
@@ -2059,7 +2059,7 @@ Et tulerunt reliquias duodecim cophinos fragmentorum plenos. Unusquisque apostol
 
 <h2 id='tocuniq302'>107 (Vers. 24.)</h2>
 
-107 (Vers. 24.) Navicula autem in medio mari jactabatur fluctibus: erat enim contrarius ventus. Recte quasi inviti, et retractantes apostoli a Domino recesserant,ne illo absente, naufragia sustinerent. Denique Domino in montis cacumine commorante, statim ventus contrarius oritur, et turbat mare, et periclitantur apostoli, et tamdiu imminens naufragium perseverat, quamdiu Jesus veniat.
+(Vers. 24.) Navicula autem in medio mari jactabatur fluctibus: erat enim contrarius ventus. Recte quasi inviti, et retractantes apostoli a Domino recesserant,ne illo absente, naufragia sustinerent. Denique Domino in montis cacumine commorante, statim ventus contrarius oritur, et turbat mare, et periclitantur apostoli, et tamdiu imminens naufragium perseverat, quamdiu Jesus veniat.
 
 <h2 id='tocuniq303'>(Vers. 25.)</h2>
 
@@ -2661,7 +2661,7 @@ Alii autem caedebant ramos de arboribus, et sternebant in via. De arboribus frug
 
 (Vers. 10.) Et cum intrasset Jerosolymam, commota est universa civitas, dicens: Quis est hic? Populi ((Al. Multi)) autem dicebant. Introeunte Jesu cumturba tota, Jerosolymorum civitas commovetur, mirans frequentiam, nesciens veritatem, et dicens: Quis est hic? Quod quidem in alio loco dicentes angelos legimus: Quis est iste rex gloriae  (Ps. XXIII, 8) ? Aliis autem vel ambigentibus, vel interrogantibus, vilis plebecula confitetur: a minoribus incipiens, ut ad majora perveniat, et dicit:
 
-163 Hic est Jesus propheta a Nazareth Galilaeae. Propheta, quem et Moyses similem sui dixerat esse venturum, et qui proprie apud Graecos cum arthro scribitur. A Nazareth autem Galilaeae, quia ibieducatus fuerat: ut flos campi nutriretur in flore virtutum.
+Hic est Jesus propheta a Nazareth Galilaeae. Propheta, quem et Moyses similem sui dixerat esse venturum, et qui proprie apud Graecos cum arthro scribitur. A Nazareth autem Galilaeae, quia ibieducatus fuerat: ut flos campi nutriretur in flore virtutum.
 
 <h2 id='tocuniq432'>(Vers. 12, 13.)</h2>
 
@@ -2951,7 +2951,7 @@ Et vos implete mensuram patrum vestrorum. Probato superioribus dictis, quod fili
 
 <h2 id='tocuniq496'>192 (Vers. 38.)</h2>
 
-192 (Vers. 38.) Ecce relinquetur vobis domus vestra deserta. Hoc ipsum ex persona Jeremiae jam ante dixerat: Reliqui domum meam, dimisi haereditatem meam: facta est mihi haereditas mea quasi spelunca hyaenae (Jer. XII, 7, 8) . Desertam Judaeorumdomum, id est, templum illud, quod fulgebat augustius, oculis comprobamus: quia habitatorem Christum perdidit, et haereditatem praeripere gestiens, occidit haeredem.
+(Vers. 38.) Ecce relinquetur vobis domus vestra deserta. Hoc ipsum ex persona Jeremiae jam ante dixerat: Reliqui domum meam, dimisi haereditatem meam: facta est mihi haereditas mea quasi spelunca hyaenae (Jer. XII, 7, 8) . Desertam Judaeorumdomum, id est, templum illud, quod fulgebat augustius, oculis comprobamus: quia habitatorem Christum perdidit, et haereditatem praeripere gestiens, occidit haeredem.
 
 
 <h2 id='tocuniq497'>(Vers. 39.)</h2>
