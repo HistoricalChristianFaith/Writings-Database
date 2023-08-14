@@ -500,7 +500,7 @@ Text from [catholiclibrary.org](https://catholiclibrary.org/library/view?docId=F
 <li><a href='#tocuniq493'>(Vers. 34.)</a></li>
 <li><a href='#tocuniq494'>(Vers. 35, 36.)</a></li>
 <li><a href='#tocuniq495'>(Vers. 37.)</a></li>
-<li><a href='#tocuniq496'>192 (Vers. 38.)</a></li>
+<li><a href='#tocuniq496'>(Vers. 38.)</a></li>
 <li><a href='#tocuniq497'>(Vers. 39.)</a></li>
 <li><a href='#tocuniq498'>(Cap. XXIV.—Vers. 1, 2.)</a></li>
 <li><a href='#tocuniq499'>(Vers. 3, 4.)</a></li>
@@ -2949,7 +2949,7 @@ Et vos implete mensuram patrum vestrorum. Probato superioribus dictis, quod fili
 
 (Vers. 37.) Jerusalem, Jerusalem, quae occidis prophetas, et lapidas eos qui ad te missi sunt: quoties volui congregare filios tuos, quemadmodum gallina congregat pullos suos sub alas, et noluisti!  Jerusalem,non saxa et aedificia civitatis, sed habitatores vocat, quam plangit patris affectu, sicut et in alio loco legimus, quod videns eam fleverit  (Luc. XIX) . In eo autem quod dicit: Quoties volui congregare filios tuos, omnes retro prophetas a se missos esse testatur. Gallinae quoque similitudinem congregantis sub alas pullos suos, in cantico Deuteronomii legimus: Sicut aquila protegit nidum suum, et super pullos suos  desideravit, expandens alas suas suscepit et tulit super pennas suas  (Deut. XXXII, 11) .
 
-<h2 id='tocuniq496'>192 (Vers. 38.)</h2>
+<h2 id='tocuniq496'>(Vers. 38.)</h2>
 
 (Vers. 38.) Ecce relinquetur vobis domus vestra deserta. Hoc ipsum ex persona Jeremiae jam ante dixerat: Reliqui domum meam, dimisi haereditatem meam: facta est mihi haereditas mea quasi spelunca hyaenae (Jer. XII, 7, 8) . Desertam Judaeorumdomum, id est, templum illud, quod fulgebat augustius, oculis comprobamus: quia habitatorem Christum perdidit, et haereditatem praeripere gestiens, occidit haeredem.
 
