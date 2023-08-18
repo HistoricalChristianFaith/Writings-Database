@@ -1,16 +1,10 @@
 # Writings-Database
 A collection of writings from historical Christianity
 
-All works in this repo are in the public domain. 
+All works in this repo are in the public domain. Many of them have been translated into English from Migne's Patrologia Latina by ChatGPT, and thus have no scholarly value.
 
 ### Pull Requests
 
-See a typo/mistake? Please send a pull request to fix it! Most of these writings are from ancient texts that have entered the public domain and been scanned and turned into text via OCR, which often has errors.
+See a typo/mistake? Please send a pull request to fix it! 
 
 Know of a work you want added to this repo? So long as it is associated with the historic Christian faith and in the public domain, we'll accept a pull request to add it! 
-
-### Changes made to these works:
-
-- Our intent is to show the original work, translated into English, in the public domain.
-- Where applicable, we try to move commentary inserted by translators/editors into footnotes.
-- The sole deviation from the above is we try to add citations to Bible verses in parenthesis that are not native to the text: for example, adding if the author writes "... as scripture says, 'In the beginning was the Word, and the Word was with God, and the Word was God'" we add (John 1:1)
