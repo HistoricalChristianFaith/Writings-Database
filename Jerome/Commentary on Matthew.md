@@ -115,7 +115,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq106'>(Vers. 18 seq.)</a></li>
 <li><a href='#tocuniq107'>(Vers. 21.)</a></li>
 <li><a href='#tocuniq108'>(Vers. 22.)</a></li>
-<li><a href='#tocuniq109'>42 (Vers. 23.)</a></li>
+<li><a href='#tocuniq109'>(Vers. 23.)</a></li>
 <li><a href='#tocuniq110'>(Vers. 24.)</a></li>
 <li><a href='#tocuniq111'>(Vers. 25.)</a></li>
 <li><a href='#tocuniq112'>(Vers. 26.)</a></li>
@@ -1207,9 +1207,9 @@ Do not cast your pearls before swine, lest they trample them under their feet, a
 
 (Verse 22.) Many say to me on that day: Lord, Lord, did we not prophesy in your name, and in your name cast out demons, and in your name perform many miracles? It is not always the merit of the one who does the prophesying, performing miracles, and casting out demons, but either the invocation of the name of Christ accomplishes this, or it is for the condemnation of those who invoke it and for the benefit of those who see and hear. So, even though people may despise those who perform miracles, they still honor God, for it is by invoking His name that such great wonders are accomplished. For both Saul (1 Samuel 10) and Balaam (Numbers 23) and Caiaphas (John 11) prophesied, not knowing what they were saying; and Pharaoh (Genesis 41) and Nebuchadnezzar (Daniel 2) knew the future through dreams. And in the Acts of the Apostles, the sons of Sceva were seen casting out demons (Acts 19). But it is also narrated that the apostle Judas, with the intention of a traitor, performed many signs among the other Apostles.
 
-<h2 id='tocuniq109'>42 (Vers. 23.)</h2>
+<h2 id='tocuniq109'>(Vers. 23.)</h2>
 
-42 (Verse 23.) And then I will confess to them, because I never knew you. He said explicitly, I will confess, because he had pretended to speak a long time ago: I do not know you. The Lord does not know those who perish. However, observe why he added, I never knew you, if, according to some, they have always lived among rational creatures.
+(Verse 23.) And then I will confess to them, because I never knew you. He said explicitly, I will confess, because he had pretended to speak a long time ago: I do not know you. The Lord does not know those who perish. However, observe why he added, I never knew you, if, according to some, they have always lived among rational creatures.
 
 <h2 id='tocuniq110'>(Vers. 24.)</h2>
 
