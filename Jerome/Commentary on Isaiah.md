@@ -103,7 +103,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq94'>(Vers. 25.)</a></li>
 <li><a href='#tocuniq95'>(Vers. 26 seqq.)</a></li>
 <li><a href='#tocuniq96'>Book Three</a></li>
-<li><a href='#tocuniq97'>(Cap. VI,—Vers. 1.)</a></li>
+<li><a href='#tocuniq97'>(Cap. VI.—Vers. 1.)</a></li>
 <li><a href='#tocuniq98'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq99'>(Vers. 4.)</a></li>
 <li><a href='#tocuniq100'>(Vers. 5.)</a></li>
@@ -1178,7 +1178,7 @@ Book Three
 The size of the volumes is enough for me, which is covered in the explanation of the prophet Isaiah, where omitting something is a loss of understanding. Therefore, in each book, which only indicates the number and order, I have included short prefaces. And, virgin Eustochium, I pray that you assist me in the exposition of the most difficult vision: in which Almighty God is seen in His majesty; and two Seraphim standing around Him and crying out: Holy, Holy, Holy is the Lord of hosts, the whole earth is full of His glory; and the threshold of the temple shaken and the house of Judah filled with the darkness of error. And in comparison to the glory of God, the Prophet said that he had unclean lips and dwelt among a blaspheming people who cried out with the impious voice of rebellion: Crucify, crucify such a person; and, We have no king but Caesar (John 19:6 and 15). And one of the Seraphim was sent to Isaiah, who took a pair of tongs from the altar that had a burning coal, and purified the Prophet's lips, while the people remained unclean. Therefore, the third book of Isaiah begins with these words.
 
 
-<h2 id='tocuniq97'>(Cap. VI,—Vers. 1.)</h2>
+<h2 id='tocuniq97'>(Cap. VI.—Vers. 1.)</h2>
 
 (Chapter 6, Verse 1) In the year when King Uzziah died, I saw the Lord sitting on a high and lofty throne. Isaiah prophesied under the reign of four kings over Judah and Jerusalem, as indicated in the introduction to the first vision: Uzziah, Jotham, Ahaz, and Hezekiah. After Uzziah died, under whom all the things we have mentioned above were spoken, his son Jotham succeeded him. Jotham reigned for sixteen years and did what was right in the sight of the Lord. He also built a high gate for the temple. When he saw this, Isaiah saw the Lord sitting on a high and lofty throne, to show the appearance of a ruler.
 
