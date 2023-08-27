@@ -256,7 +256,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq247'>(Vers. 45.)</a></li>
 <li><a href='#tocuniq248'>(Vers. 46 seqq.)</a></li>
 <li><a href='#tocuniq249'>(Vers. 49, 50.)</a></li>
-<li><a href='#tocuniq250'>87 (Chap. XIII.—Vers. 1.)</a></li>
+<li><a href='#tocuniq250'>(Chap. XIII.—Vers. 1.)</a></li>
 <li><a href='#tocuniq251'>(Vers. 3.)</a></li>
 <li><a href='#tocuniq252'>(Vers. 4.)</a></li>
 <li><a href='#tocuniq253'>(Vers. 5 seqq.)</a></li>
@@ -1882,7 +1882,7 @@ And behold, here is more than Jonah. Here, 'here' is an adverb of place, not a p
 
 
 
-<h2 id='tocuniq250'>87 (Chap. XIII.—Vers. 1.)</h2>
+<h2 id='tocuniq250'>(Chap. XIII.—Vers. 1.)</h2>
 
 On that day Jesus went out of the house and sat by the sea. And great crowds gathered around him, so that he got into a boat and sat down. And the whole crowd stood on the beach. The people couldn't enter Jesus' house or be where the apostles were hearing the mysteries. Therefore, the compassionate and merciful Lord goes out of his house and sits by the sea of this world, so that great crowds gather around him and hear on the beach what they do not deserve to hear inside. He got into a boat and sat down, and the whole crowd stood on the beach. Jesus is in the midst of the waves, tossed to and fro by the sea, and in his majesty he approaches his boat to draw near to the land. But the people, not enduring the danger, nor surrounded by temptations that they could not bear, stand firmly on the shore in order to hear what is said.
 
