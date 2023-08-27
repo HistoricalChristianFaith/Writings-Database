@@ -338,7 +338,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq329'>15:29-30</a></li>
 <li><a href='#tocuniq330'>15:31</a></li>
 <li><a href='#tocuniq331'>15:32</a></li>
-<li><a href='#tocuniq332'>15:33-0</a></li>
+<li><a href='#tocuniq332'>15:33-39</a></li>
 <li><a href='#tocuniq333'>16:1-4</a></li>
 <li><a href='#tocuniq334'>16:5</a></li>
 <li><a href='#tocuniq335'>16:6-7</a></li>
@@ -657,7 +657,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq648'>27:59</a></li>
 <li><a href='#tocuniq649'>27:60</a></li>
 <li><a href='#tocuniq650'>27:61-63</a></li>
-<li><a href='#tocuniq651'>27:64-0</a></li>
+<li><a href='#tocuniq651'>27:64-66</a></li>
 <li><a href='#tocuniq652'>28:1</a></li>
 <li><a href='#tocuniq653'>28:2-3</a></li>
 <li><a href='#tocuniq654'>28:4-5</a></li>
@@ -2290,7 +2290,7 @@ And his disciples approached him, saying: Send her away because she cries out af
 
 (Verse 32) But Jesus, calling together his disciples, said: I have compassion for the crowd, because they have persevered with me for three days already and have nothing to eat. And I do not want to send them away hungry, lest they faint on the way. He wants to feed those whom he has healed; first, he removes their weakness so that later he can offer food to the healthy. He also calls his disciples and speaks to them about what he is going to do, either to provide an example to the teachers, that they should share their plans with their subordinates and disciples, or so that they understand the magnitude of the miracle from their conversation, responding that they do not have loaves of bread in the desert. He said, 'I have compassion for the crowd, because they have been staying with me now for three days and have nothing to eat. If I send them away hungry to their homes, they will faint on the way; and some of them have come from a great distance.' Therefore, he who hurries to reach the desired dwelling without heavenly bread is in danger. Thus the angel speaks to Elijah: Arise and eat, for you will walk a long way.
 
-<h2 id='tocuniq332'>15:33-0</h2>
+<h2 id='tocuniq332'>15:33-39</h2>
 
 (Verse 33 and following) And His disciples said to Him, “Where would we get so many loaves in this desolate place to satisfy such a large crowd?” And Jesus said to them, “How many loaves do you have?” And they said, “Seven, and a few small fish.” And He directed the people to sit down on the ground. Taking the seven loaves and the fish, He gave thanks and broke them, and He gave them to the disciples, and the disciples gave them to the crowds. And they all ate and were satisfied. And what was left over from the fragments, they took up seven baskets full. Now those who ate were four thousand men, besides women and children. And after dismissing the crowd, he got into the boat and went to the region of Magadan (Μαγδαλά). We have already discussed this sign above, and it is pointless to repeat the same things: let us only dwell on those things that differ. Above we read: When it was evening, the disciples came to him, saying: This is a deserted place (above, XIV, 15), and the rest. Having summoned the disciples, the Lord himself speaks: I have compassion on the crowd, because they have persevered with me for three days already. There, there were five loaves and two fish; here, there are seven loaves and a few fish. There, they recline on the hay; here, on the ground. There, those who eat are five thousand, according to the number of loaves they eat; here, four thousand. There, twelve baskets are filled with the leftover fragments; here, seven baskets. Therefore, in the previous sign, those who were close and near to the five senses, the Lord himself does not remember them, but the disciples remember them in the evening of the neighboring night, and with the sun declining. But the Lord himself remembers and says that he has compassion, and he explains the reason for his compassion: because they have been persevering with me for three days now, and he does not want to send them away hungry, lest they faint on the way. Those who are fed with the sacred seven loaves, that is, with the perfect and complete number, are not five thousand, but four thousand, a number that is always praised, and the square stone does not waver and is not unstable; and for this reason, the Gospels are also consecrated in that number.
 
@@ -3836,7 +3836,7 @@ Jesus said to him: You say so. Thus he answered so as to speak the truth and not
 
 
 
-<h2 id='tocuniq651'>27:64-0</h2>
+<h2 id='tocuniq651'>27:64-66</h2>
 
 (Verse 64 and following) Therefore, command that the tomb be guarded until the third day, lest his disciples come and steal him away and tell the people, 'He has risen from the dead,' and the last deception will be worse than the first." Pilate said to them, "You have a guard of soldiers. Go, make it as secure as you can." So they went and made the tomb secure by sealing the stone and setting a guard. It was not enough for the chief priests, scribes, and Pharisees to have crucified the Lord and Savior, unless they also guarded the tomb, took a cohort, sealed the stone, and opposed their hands to the one rising, so that their diligence would benefit our faith: For the more it is kept hidden, the more the power of the resurrection is revealed. And in the new monument, which had been cut out of the rock, He was buried, so that if it had been built with many stones, the foundation of the tomb being dug up, it could be easily taken away by thieves. But as for where He was to be placed in the tomb, there is the testimony of the prophet, saying: He shall dwell in the rocky cave which is the strongest rock (Isaiah 33:16). And immediately after two verses, it follows: You shall see the King with glory (Ibid., 17).
 
