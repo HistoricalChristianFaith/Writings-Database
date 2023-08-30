@@ -169,7 +169,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq162'>(Vers. 18.)</a></li>
 <li><a href='#tocuniq163'>(Chap. XXXIV.—Vers. 20.)</a></li>
 <li><a href='#tocuniq164'>(Vers. 25.)</a></li>
-<li><a href='#tocuniq165'>(Chap. XXXV. Vers. 6.)</a></li>
+<li><a href='#tocuniq165'>(Chap. XXXV.—Vers. 6.)</a></li>
 <li><a href='#tocuniq166'>(Vers. 8.)</a></li>
 <li><a href='#tocuniq167'>(Vers. 10.)</a></li>
 <li><a href='#tocuniq168'>(Vers. 16.)</a></li>
@@ -931,7 +931,7 @@ The pregnant cattle twice. However, it is said that the nature of Italian and Me
 
 (Verse 25) And they entered the city diligently, and they killed every male. Because it is read in Greek as ἀσφαλὼς, which means diligently: it is written in Hebrew as Bete (), which means boldly and confidently.
 
-<h2 id='tocuniq165'>(Chap. XXXV. Vers. 6.)</h2>
+<h2 id='tocuniq165'>(Chap. XXXV.—Vers. 6.)</h2>
 
 (Chapter 35, Verse 6.) And Jacob came to Luz in the land of Canaan, which is Bethel. Here it is clearly confirmed that Bethel is not Ulammaus, as stated above, but Luz, that is, the almond tree mentioned before.
 
