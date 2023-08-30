@@ -108,12 +108,12 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq101'>(Vers. 15, 16.)</a></li>
 <li><a href='#tocuniq102'>(Vers. 22.)</a></li>
 <li><a href='#tocuniq103'>(Vers. 30.)</a></li>
-<li><a href='#tocuniq104'>(Chap. XXII, Vers. 2.)</a></li>
+<li><a href='#tocuniq104'>(Chap. XXII—Vers. 2.)</a></li>
 <li><a href='#tocuniq105'>(Vers. 3.)</a></li>
 <li><a href='#tocuniq106'>(Vers. 13.)</a></li>
 <li><a href='#tocuniq107'>(Vers. 14.)</a></li>
 <li><a href='#tocuniq108'>(Vers. 20.)</a></li>
-<li><a href='#tocuniq109'>(Chap. XXXII, Vers. 2.)</a></li>
+<li><a href='#tocuniq109'>(Chap. XXXII—Vers. 2.)</a></li>
 <li><a href='#tocuniq110'>(Vers. 6.)</a></li>
 <li><a href='#tocuniq111'>(Vers. 16.)</a></li>
 <li><a href='#tocuniq112'>(Chap. XXIV.—Vers. 9.)</a></li>
