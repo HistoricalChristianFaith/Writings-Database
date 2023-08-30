@@ -90,7 +90,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq83'>(Vers. 7.)</a></li>
 <li><a href='#tocuniq84'>(Vers. 11.)</a></li>
 <li><a href='#tocuniq85'>(Vers. 12.)</a></li>
-<li><a href='#tocuniq86'>(Chap. XVII.—Vers. 3 et seqq.)</a></li>
+<li><a href='#tocuniq86'>(Chap. XVII.—Vers. 3 seqq.)</a></li>
 <li><a href='#tocuniq87'>(Vers. 15.)</a></li>
 <li><a href='#tocuniq88'>(Vers. 17.)</a></li>
 <li><a href='#tocuniq89'>(Chap. XVIII.—Vers. 6.)</a></li>
@@ -101,7 +101,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq94'>(Vers. 28.)</a></li>
 <li><a href='#tocuniq95'>(Vers. 30.)</a></li>
 <li><a href='#tocuniq96'>(Vers. 35.)</a></li>
-<li><a href='#tocuniq97'>(Vers. 36 et seqq.)</a></li>
+<li><a href='#tocuniq97'>(Vers. 36 seqq.)</a></li>
 <li><a href='#tocuniq98'>(Chap. XX.—Vers. 12.)</a></li>
 <li><a href='#tocuniq99'>(Chap. XXI.—Vers. 9.)</a></li>
 <li><a href='#tocuniq100'>(Vers. 14.)</a></li>
@@ -199,7 +199,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq192'>(Vers. 29.)</a></li>
 <li><a href='#tocuniq193'>(Vers. 43.)</a></li>
 <li><a href='#tocuniq194'>(Vers. 45.)</a></li>
-<li><a href='#tocuniq195'>(Vers. 50 et seqq.)</a></li>
+<li><a href='#tocuniq195'>(Vers. 50 seqq.)</a></li>
 <li><a href='#tocuniq196'>(Chap. XLIII.—Vers. 11.)</a></li>
 <li><a href='#tocuniq197'>(Vers. 32.)</a></li>
 <li><a href='#tocuniq198'>(Chap. XLIV.—Vers. 2.)</a></li>
@@ -593,7 +593,7 @@ The golden wand is from the Sabaeans. And elsewhere (Book I of the Aeneid).
 (Verse 12) This will be a rustic man. His hand will be against everyone, and everyone's hand against him, and he will dwell against the face of all his brothers. In Hebrew, Phara () is written for rustic, which means onager. It signifies that his descendants will dwell in the wilderness, that is, the wandering Saracens, in uncertain lands, who attack and are attacked by all the nations to which the desert is adjacent.
 
 
-<h2 id='tocuniq86'>(Chap. XVII.—Vers. 3 et seqq.)</h2>
+<h2 id='tocuniq86'>(Chap. XVII.—Vers. 3 seqq.)</h2>
 
 (Chapter 17—Verse 3 and following) And the Lord spoke to him, saying: Behold, my covenant is with you, and you shall be the father of a multitude of nations, and your name shall no longer be called Abram, but your name shall be Abraham, for I have made you the father of many nations. It should be noted that wherever we read Testament in Greek, in the Hebrew language it is the word covenant or pact, that is, Berith (). The Hebrews say that God, from his name, which is the Tetragrammaton among them, added the letter He to Abraham and Sarah: for he was first called Abram (), which means lofty father, and later he was called Abraham (), which means father of many: for what follows nations is not part of the name, but is understood. It is not surprising, therefore, that when it seems that the letter Α has been added among the Greeks and us: we have called it the Hebrew letter He added; for the language of that tongue is to write with He (ה‎), but to read with A (א‎): just as, on the contrary, the letter A is often pronounced as He.
 
@@ -640,9 +640,9 @@ The golden wand is from the Sabaeans. And elsewhere (Book I of the Aeneid).
 
 (Verse 35.) And he did not know when she slept with him, and when he got up from her, they stabbed him from above, as if unbelievable, and something that nature cannot comprehend, to have intercourse with someone who is unaware.
 
-<h2 id='tocuniq97'>(Vers. 36 et seqq.)</h2>
+<h2 id='tocuniq97'>(Vers. 36 seqq.)</h2>
 
-(Versed. 36 et seqq.) And the two daughters of Lot conceived by their father, and the firstborn son was born and she called his name Moab. He is the father of the Moabites to this day. And the younger, she also gave birth to a son, and she called his name Ammon, that is, son of my people. He is the father of the Ammonites. The name Moab means 'from the father' and has its etymology in it. But Ammon, whose name is given as if a cause, is derived as son of my race, or as it is better in Hebrew (), son of my people, so it is derived partly from the meaning of the name, partly from the language itself: Ammi, from whom the Ammonites are called, means my people.
+(Versed. 36 seqq.) And the two daughters of Lot conceived by their father, and the firstborn son was born and she called his name Moab. He is the father of the Moabites to this day. And the younger, she also gave birth to a son, and she called his name Ammon, that is, son of my people. He is the father of the Ammonites. The name Moab means 'from the father' and has its etymology in it. But Ammon, whose name is given as if a cause, is derived as son of my race, or as it is better in Hebrew (), son of my people, so it is derived partly from the meaning of the name, partly from the language itself: Ammi, from whom the Ammonites are called, means my people.
 
 
 <h2 id='tocuniq98'>(Chap. XX.—Vers. 12.)</h2>
@@ -1058,7 +1058,7 @@ The pregnant cattle twice. However, it is said that the nature of Italian and Me
 
 (Verse 45) And Pharaoh called Joseph's name Saphaneth Phanee, and he gave him Aseneth, the daughter of Potiphera, priest of Heliopolis, as his wife. Although this name sounds like the revealer of hidden things in Hebrew, because it is Egyptian, it must have its own meaning in that language. Therefore, it is interpreted in the Egyptian language as Saphaneth Phanee, or as the Seventy wished to translate it, Psomthom-Phanech, the Savior of the world, because he delivered the world from impending famine. It should be noted, however, that the Lord once took the daughter of His owner as a wife, who was the high priest of Heliopolis in that place. For it is not right for the priests of that idol to be without eunuchs, so that the suspicion regarding what we have already said may be confirmed.
 
-<h2 id='tocuniq195'>(Vers. 50 et seqq.)</h2>
+<h2 id='tocuniq195'>(Vers. 50 seqq.)</h2>
 
 (Verse 50 and following) And Joseph had two sons before the years of famine came, whom Aseneth, the daughter of Potipherah, the priest of On, bore to him. And Joseph called the name of his firstborn son Manasseh, for God has made me forget all my toil and all my father's house. And the name of the second he called Ephraim, for God has made me fruitful in the land of my affliction. Note, however, regarding the question that will be posed shortly about Joseph's sons, that before the time of famine, when Jacob entered Egypt, Joseph had only two sons, Manasseh and Ephraim. Manasse, calling him because he has forgotten his labors. For in Hebrew, forgetfulness is called oblivio. Ephraim, because God has made him fruitful. And from this word, the increase is transferred into our language.
 
@@ -1087,7 +1087,7 @@ The pregnant cattle twice. However, it is said that the nature of Italian and Me
 
 (v. 21) And he gave them food along the way. The word Seda, which here everyone with one voice translates as 'provisions' (ἐπισιτισμὸν in Greek), is also found in the Psalter. For where our translation reads, 'I will abundantly bless her widow' (Ps. 132:15), (although in most manuscripts it is written as 'widow,' which is χήρα in Greek, some read it as 'prey,' θήραν), in Hebrew it has Seda, which means 'provisions.' Furthermore, the word 'θήραν' can more often refer to hunting than to crops, although it is the custom of the Egyptians to also call crops 'θήραν', which is now corrupted to 'atheran'.
 
-<h2 id='tocuniq202'>(Chap. XLVI.—Vers. 26 et seqq.)</h2>
+<h2 id='tocuniq202'>(Chap. XLVI.—Vers. 26 seqq.)</h2>
 
 (Chapter XLVI, Verse 26 and following) Therefore all the souls that entered Egypt with Jacob, and those that came out of his thighs, apart from the wives of Jacob's sons, were sixty-six souls; and the sons of Joseph, who were born to him in Egypt, were nine souls. Therefore all the souls that entered Egypt with Jacob were seventy-five. It is without doubt that except for Joseph and his sons, sixty-six souls that came out of Jacob's thighs entered Egypt. For thus also, gradually through each calculated number, it is proven, and it is found in the Hebrew volumes. But what we read in the Septuagint: And the sons of Joseph, who were born to him in Egypt, were nine souls: let us know that in Hebrew, instead of nine, there are two. For Ephraim and Manasseh were born to him before Jacob entered Egypt, and before the time of famine. They were born of Aseneth, the daughter of Potiphera, in Egypt. But also that which we read above: And the sons of Manasseh became, whom the Syrian concubine gave birth to him, Machir, and Machir gave birth to Gilead; and the sons of Ephraim, the brother of Manasseh, Suthalaam, and Thaam; and the sons of Suthalaam, Edem, it is added: indeed, what we read afterwards is described as if it had happened by anticipation. For at that time when Jacob entered Egypt, Ephraim and Manasseh were not old enough to be able to have children. From this it is evident that all the souls who entered Egypt from the loins of Jacob were seventy, but afterwards sixty-six entered, and they found (Al. gave birth to) three souls in Egypt, namely Joseph with his two sons, and the seventieth was Jacob himself. In order that we do not seem to speak against the authority of Scripture, even the Seventy Interpreters translated in Deuteronomy (X, 22) that Jacob (also called Israel) entered Egypt with seventy souls. Therefore, if anyone opposes our opinion, they will make Scripture contradict itself. For the Seventy Interpreters themselves, who said that seventy-five souls, including Joseph and his descendants, entered Egypt through πρόληψις, only mentioned in Deuteronomy that seventy entered (some say 'entered'). But if the opposite is opposed to us, how is it said in the Acts of the Apostles (VII) , in the sermon of Stephen to the people, that seventy-five souls entered Egypt; the explanation is easy. For Saint Luke, who is the author of the history itself, should not have written anything contrary to that Scripture, which had already been made known to the Gentiles, when he published the volume of the Acts of the Apostles. And certainly, at that time, the authority of the Seventy Interpreters was considered greater than that of Luke, who was unknown, and despised, and not held in high esteem by the nations. However, it is generally observed that wherever the holy Apostles or Apostolic men speak to the peoples, they often make use of testimonies that had already been spread among the nations: although many report that Luke the Evangelist, as a proselyte, was ignorant of the Hebrew letters.
 
@@ -1151,7 +1151,7 @@ The pregnant cattle twice. However, it is said that the nature of Italian and Me
 
 (Verses 14 and 15.) Issachar desired good, resting among the lots, and seeing that rest is good, and the land is fertile. He placed his shoulder to the work and became a farmer. In Hebrew it is written: Issachar is a strong donkey, lying down between the borders, and seeing that rest is good, and the land is beautiful. He bowed his shoulder to bear burdens, and became a servant under tribute. Because previously he had said about Zebulun, who would possess the shores of the great sea, that it also reached Sidon and the other cities of Phoenicia; now he returns to the inland province, and blesses Issachar, because he is going to possess the most beautiful region in Galilee, near Naphtali, as his inhabitant. But he calls him a bone-like donkey, and a shoulder fit for bearing, because he would labor greatly in tilling the land and in transporting the goods that were born in his borders to the sea, and also carrying tributes to the kings. The Hebrews say that by metaphor it is meant that, by meditating day and night on the holy Scriptures, one has devoted their effort to working, and therefore all tribes serve them as if carrying gifts to a master.
 
-<h2 id='tocuniq217'>(Vers. 16 et seqq.)</h2>
+<h2 id='tocuniq217'>(Vers. 16 seqq.)</h2>
 
 (Verses 16 and following.) And he shall judge his people, as one of the tribes of Israel. Let Dan be a serpent by the way, an adder in the path, that biteth the horse heels, so that his rider shall fall backward: thy salvation, O Lord, I will wait for. Samson was a judge in Israel, from the tribe of Dan. This therefore he saith: Now seeing in the spirit Samson thy Nazarite nourish his hair, and triumph over his enemies being cut down; which in the likeness of a serpent and ruler obstructing the ways, he permitteth none to pass through the land of Israel: but also if anyone, presuming on his own strength, relying on the swiftness of a horse, shall wish to invade it like a spoiler, he shall not be able to escape. However, the whole thing is spoken metaphorically of a serpent and a knight. Therefore, seeing your mighty Nazarene, who himself died for the prostitute and, dying, killed our enemies, I thought, O God, that he was the Christ, your Son. But because he died and did not rise again, and was led captive to Israel, another Savior of the world must be awaited by me and my race, to whom the promise has been given, and he will be the expectation of the nations.
 
@@ -1164,7 +1164,7 @@ The pregnant cattle twice. However, it is said that the nature of Italian and Me
 
 (Verse 21.) The tribe of Naphtali, a spreading vine, producing beauty in the next generation. In Hebrew it is written: Naphtali is a fruitful land, producing words of beauty, signifying that hot springs are born within the tribe itself, or that the region around the Sea of Galilee, watered by the flow of the Jordan River, is fertile. However, the Hebrews interpret it as prophesying an irrigated land and the words of beauty referring to Tiberias, which was considered to have knowledge of the Law. Furthermore, when they placed the irrigated field and the seventy twigs, which is called a loose branch, in Hebrew it is read as Ajala Sluaa (), which can also be translated as a released stag, showing the abundance of temporary crops and the swiftness of fertile land. But it is better if we refer everything to the teaching of the Savior, especially what He taught there, as it is also written in the Gospel.
 
-<h2 id='tocuniq220'>(Vers. 22 et seqq.)</h2>
+<h2 id='tocuniq220'>(Vers. 22 seqq.)</h2>
 
 (Verse 22 and following) The son of Joseph grew up, the son of Joseph grown tall above the fountain of the daughter, walking with a composed stride on the wall. And they provoked him, and contended with him, and were angry against him, having arrows. He sat in the strength of his bow, and the chains of his hands were broken, from the hands of the mighty Jacob. From there will come the shepherd, the stone of Israel from the God of your father: and the rest. Because the Seventy Interpreters disagree in many places, we have expressed their interpretation as it is in Hebrew. And the meaning of the chapter is this: O Joseph, who is called thus because God has increased you for me, or because you will become greater among your brothers (for indeed Ephraim was the strongest of the tribe, as we read in the Books of Kings and Chronicles); O, I say, my son Joseph, who is so handsome that a crowd of Egyptian girls watches you from the walls, towers, and windows, your brothers envied you and provoked you to anger, wounded by arrows of envy and spears of jealousy. But you have set your bow and weapons of war in God, who is a mighty warrior; and your chains, with which your brothers bound you, have been loosed and broken by him, so that from your seed may be born Ephraim, strong and steadfast, like an unconquerable and unyielding stone, ruling over the ten tribes of Israel.
 
