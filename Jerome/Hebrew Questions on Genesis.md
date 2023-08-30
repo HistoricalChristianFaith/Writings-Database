@@ -203,10 +203,10 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq196'>(Chap. XLIII.—Vers. 11.)</a></li>
 <li><a href='#tocuniq197'>(Vers. 32.)</a></li>
 <li><a href='#tocuniq198'>(Chap. XLIV.—Vers. 2.)</a></li>
-<li><a href='#tocuniq199'>(Chap. XLV.—Vers. 9 et 10.)</a></li>
+<li><a href='#tocuniq199'>(Chap. XLV.—Vers. 9,10.)</a></li>
 <li><a href='#tocuniq200'>(Vers. 17.)</a></li>
 <li><a href='#tocuniq201'>(Vers. 21.)</a></li>
-<li><a href='#tocuniq202'>(Chap. XLVI.—Vers. 26 et seqq.)</a></li>
+<li><a href='#tocuniq202'>(Chap. XLVI.—Vers. 26 seqq.)</a></li>
 <li><a href='#tocuniq203'>(Vers. 28.)</a></li>
 <li><a href='#tocuniq204'>(Chap. XLVII.—Vers. 31.)</a></li>
 <li><a href='#tocuniq205'>(Chap. XLVIII—Vers. 1.)</a></li>
@@ -220,11 +220,11 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq213'>(Vers. 8.)</a></li>
 <li><a href='#tocuniq214'>(Vers. 9.)</a></li>
 <li><a href='#tocuniq215'>(Vers. 11.)</a></li>
-<li><a href='#tocuniq216'>(Vers. 14 et 15.)</a></li>
-<li><a href='#tocuniq217'>(Vers. 16 et seqq.)</a></li>
+<li><a href='#tocuniq216'>(Vers. 14,15.)</a></li>
+<li><a href='#tocuniq217'>(Vers. 16 seqq.)</a></li>
 <li><a href='#tocuniq218'>(Vers. 19.)</a></li>
 <li><a href='#tocuniq219'>(Vers. 21.)</a></li>
-<li><a href='#tocuniq220'>(Vers. 22 et seqq.)</a></li>
+<li><a href='#tocuniq220'>(Vers. 22 seqq.)</a></li>
 <li><a href='#tocuniq221'>(Vers. 27.)</a></li>
 
 </ul>
