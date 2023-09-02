@@ -44,6 +44,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq36'>3:11</a></li>
 <li><a href='#tocuniq37'>3:12</a></li>
 <li><a href='#tocuniq38'>3:13</a></li>
+<li><a href='#tocuniq38andahalf'>3:14</a></li>
 <li><a href='#tocuniq39'>3:15</a></li>
 <li><a href='#tocuniq40'>3:16-17</a></li>
 <li><a href='#tocuniq41'>3:18-19</a></li>
@@ -559,6 +560,8 @@ And I ate it, and it was in my mouth like sweet honey. David also speaks: How sw
 <h2 id='tocuniq38'>3:13</h2>
 
 (Verse 13.) And the sound of the wings of the living creatures striking against one another, and the sound of the wheels following the creatures, and the sound of a great commotion. Because it is understood, 'I heard behind me the sound of a great commotion, and I heard the sound of the wings of the living creatures, and the sound of the wheels,' the Septuagint added: 'And I saw the sound of the wings of the living creatures striking against one another,' and the rest according to what is written in Exodus: 'And all the people saw the voice of God' (Exodus 20:18): so that the prophet may have heard the voice that was coming from behind, and seen what was before him. But it is better and truer to have understood a heard voice rather than a seen one, as well as the striking of wings against each other and the sound of wheels, which we mentioned above, and the great commotion which showed that God's wrath was going to come upon the people of Israel.
+
+<h2 id='tocuniq38andahalf'>3:14</h2>
 
 Ver. 14. The Spirit also lifted me up, and took me away, and I went embittered in the indignation of my spirit. LXX: And the spirit lifted me up, and took me, and I went up in the impetuosity of my spirit. After being lifted up by the spirit, and taken by it, then he went in the indignation and bitterness of his spirit, understanding the indignation of God, and what the vision signified, pondering in his mind. Whether he was carried up on the heights by the impetuosity of his own spirit, desiring to go where the Lord commanded. But by 'his spirit' we understand not the Holy Spirit, but the spirit of man, of which it is said in many places, as in Isaiah: At night my spirit rises within me, O God (Isa. XXVI, 9). And the prophet is transported (not, as some think, in spirit, but) in his own body, as we read of Habakkuk according to Theodotion (Dan. XIV).
 
