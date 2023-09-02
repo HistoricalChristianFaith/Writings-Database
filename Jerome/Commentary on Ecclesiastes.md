@@ -30,7 +30,7 @@ sensible.
 
 <h2>CHAPTER 1</h2>
 
-<b>1:1 <i>The words of Ecclesiastes, son of David, King in Jerusalem.</i></b> The
+<b>1:1. <i>The words of Ecclesiastes, son of David, King in Jerusalem.</i></b> The
 Scriptures state very clearly that Solomon was known by three names: 'Peace-making', that is 'Solomon'; 'Yedidia',
 that is 'beloved of Yahweh'; and the name used here 'Qoheleth', that is
 Ecclesiastes. He is called Ecclesiastes
@@ -561,9 +561,7 @@ from vices as day differs from night. It
 seems to me then that he that follows that path of wisdom always lifts his eyes
 to heaven and raises his face aloft, and considers those things which are above
 his head; but he that gives in to foolishness and vices fumbles in the darkness
-and flounders in his ignorance of the world. 
-
-<b><i>I acted in grand style: I built houses for myself, I planted
+and flounders in his ignorance of the world.  <b><i>I acted in grand style: I built houses for myself, I planted
 vineyards. </i></b> He, who is raised up equal to the face of God
 in the heavens, makes his work great; and he builds houses so that the Father
 and the Son will come, and will live in them. 
@@ -755,7 +753,7 @@ Suddenly this thought occurred to me, why both the wise man and the fool
 are constrained by a common mortality - why the same wounds, the same fate, the
 same death and equal troubles confine each one.
 
-<b>2:15/16. <i>So I
+<b>2:15-16. <i>So I
 said to myself: the fate of the fool will befall me also; to what advantage
 then have I become wise? But I concluded
 that this, too, was vanity. For there is
@@ -787,7 +785,7 @@ wisdom and the pleasures of virtues. But
 now as if we are in a prison camp or cell, and with a wall of tears, we eat our
 bread in the sweat of our brow.
 
-<b>2:18/19. <i>Thus I
+<b>2:18-19. <i>Thus I
 hated all my achievements labouring under the sun, for I must leave it to the
 man who succeeds me. And who knows
 whether he will be wise or foolish? - And he will control all my possessions
@@ -808,7 +806,7 @@ necessary to say about toil and wealth: "and he will control all my
 possessions which I toiled and have shown myself wise under the sun." For what is wise in the pursuit of earthly
 riches? 
 
-<b>2:20/23. <i>So I
+<b>2:20-23. <i>So I
 turned my heart to despair of all that I had achieved by toiling under the
 sun. For there is a man who laboured
 with wisdom, knowledge and skill, yet he must hand on his portion to one who
@@ -829,7 +827,7 @@ I have said clearly, are wisdom, knowledge and virtue, in which he said he had
 laboured? For although he may be
 virtuous, wise and knowledgeable he spurns worldly things. 
 
-<b>2:24/26. <i>Is it
+<b>2:24-26. <i>Is it
 not good for man that he eats and drinks and shows his soul satisfaction in his
 labour? And even that, I perceived, is
 from the hand of God. For who should eat
@@ -964,9 +962,7 @@ the stern law, unkind and unforgiving, murders the sinner, he pities with the
 grace of the Gospel and provokes men to repentance. And there is a time for throwing stones, or
 collecting them, because stones are thrown in law and are collected in the
 Gospel. Whether this is true fact or not
-is credited to the author. 
-
-<b><i>A time for embracing and a time for being far from
+is credited to the author.  <b><i>A time for embracing and a time for being far from
 embrace. </i></b>The meaning of this is seemingly the
 simplest understanding- the apostle agrees with the same words: "do not
 cheat each other, unless by chance it is agreed for a time that you give
@@ -987,7 +983,7 @@ relaxing the mind from the study and embrace of wisdom, just as of the care of
 the body, and we have those things that our life needs in the absence of
 sin. 
 
-<b>3:6/7. <i>A time
+<b>3:6-7. <i>A time
 to acquire and a time to lose. A time to
 keep and a time to throw away. </i></b>As is in many verses before the meaning is
 the same here too, which is apparent before and following this verse, in that
@@ -1037,7 +1033,7 @@ and so too is our city of Jerusalem, for it is called 'chosen in peace'. Therefo
 must prepare yourselves in the time of war and put on the apostles arms, so
 that we may rest in peace at last victorious.
 
-<b>3:9/11. <i>What
+<b>3:9-11. <i>What
 gain, then, has the worker in exchange for all his toil? I have observed the task which God has given
 the sons of man to be concerned with: He made everything beautiful in its time;
 He has also put an enigma into their minds so that man cannot comprehend what
@@ -1066,7 +1062,7 @@ should enjoy the variation of time, and not seek the causes nature, how all
 things are made, why He made this or that grow or change from the beginning of
 the world until now.
 
-<b>3:12/13. <i>Thus I
+<b>3:12-13. <i>Thus I
 perceived that there is nothing good for each of them than to rejoice and do
 what is good in his life. Indeed every
 man who eats and drinks and finds satisfaction in all his labour- it is a gift
@@ -1102,7 +1098,7 @@ be filled with the joy of truths"[^93]. Thus now we enjoy our toil in good work,
 which we restrict and restrain ourselves so that afterwards we may cease from
 working.
 
-<b>3:14.</b> <b><i>I
+<b>3:14. <i>I
 realised that whatever God does will endure forever: nothing can be added to it
 and nothing taken away, and God has acted so that man should fear Him. </i></b>There is nothing in the world that is
 new. The course of the sun and moon in
@@ -1144,7 +1140,7 @@ persecution, just as he seeks out the blood of a man who has been murdered, and
 comes to seek what has perished, and carry the wandering sheep back to the
 flock on his shoulders.[^96]
 
-<b>3:16/17. <i>Furthermore,
+<b>3:16-17. <i>Furthermore,
 I have observed beneath the sun: in the place of justice there is wickedness,
 and in the place of righteousness there is wickedness. I mused: God will judge the righteous and the
 wicked, for there is a time for everything and for every deed, there.</i></b> The
@@ -1166,7 +1162,7 @@ now injustice prevails in the world.
 Such as when we read in Wisdom, Sirach wrote: "lest you say, what
 is this or what is that? For all things are sought in their own time"[^97].
 
-<b>3:18/21. <i>Then I
+<b>3:18-21. <i>Then I
 said to myself concerning men: God has chosen them out, but only to see that
 they themselves are as beasts. For the
 fate of men and the fate of beast - they have one and the same fate: as one
@@ -1283,7 +1279,7 @@ worthy of consolation. He describes this
 idea more fully in the seventy-second psalm of David, and Jeremiah in his own
 book.
 
-<b>4:2/3. <i>So I
+<b>4:2-3. <i>So I
 consider more fortunate the dead, who have already died, than the living, who
 are still alive. But better than either
 of them is he who has not yet been, and has never witnessed the evil that is
@@ -1369,7 +1365,7 @@ always seen in a good context and a dual seen as wickedness, therefore one fist
 has rest, and two hands are full of toil. 
 
 
-<b>4:7/8. <i>Then I
+<b>4:7-8. <i>Then I
 returned and contemplated futility beneath the sun: a lone and solitary man who
 has neither son nor brother, yet there is no end to his toil, nor is his eye
 ever sated with riches, nor does he ask himself, 'For whom am I toiling and
@@ -1393,7 +1389,7 @@ us; and his eye will not be filled by riches, but always with those desiring
 our safety, and the more you see his sins, the more he encourages him to
 repent.
 
-<b>4:9/12. <i>Two are
+<b>4:9-12. <i>Two are
 better than one, for they get a greater return for their labour. For should they fall, one can raise the
 other; but woe to him who is alone when he falls and there is no one to raise
 him! Also, if two sleep together they keep warm, but how can one be warm
@@ -1437,7 +1433,7 @@ can take an example from Elisha, because he is in a pact with a lad, and slept
 with him and warmed his body, and in this way revived the recovering boy.[^116] Unless therefore Christ sleeps with us and rests
 in death, we are not able to receive the heart of eternal life. 
 
-<b>4:13/16. <i>Better
+<b>4:13-16. <i>Better
 is a poor but wise youth, than an old and foolish king who no longer knows how
 to take care of himself; because from the prison-house he emerged to reign,
 while even in his reign he was born poor. 
@@ -1544,7 +1540,7 @@ sacrifice".[^130]
 
 <h2>CHAPTER 5</h2>
 
-<b>5:1/2. <i>Be not
+<b>5:1-2. <i>Be not
 rash with your mouth, and let not your heart be hasty to utter a word before
 God; for God is in heaven and you are on earth, so let your words be few. For a dream comes from much concern, and
 foolish talk from many words.</i></b> Several men think that this teaches here
@@ -1568,7 +1564,7 @@ Although we have done many things, as it appears to us, the end of our
 argument is foolishness. For we do not
 escape sin by too much speaking[^131]. 
 
-<b>5:3/4. <i>When
+<b>5:3-4. <i>When
 you make a vow to God, do not delay paying it, for He has no liking for fools;
 what you vow, pay. Better that you not
 vow at all, than that you vow and not pay. 
@@ -1633,7 +1629,7 @@ alone, lest you think God is absent, but fear Him, and know He is present in
 all your toil, and do not force yourself to be hidden in free will, but want
 whatever it is that you do. 
 
-<b>5:7/8. <i>If you
+<b>5:7-8. <i>If you
 see oppression of the poor, and the suppression of justice and right of the
 State, do not be astonished at the fact, for there is One higher than the high
 Who watches and there are high ones above them. 
@@ -1664,7 +1660,7 @@ fully. But since that field is
 interpreted as the world, the Lord expounds about them in the parable of darnel
 and wheat.[^135]
 
-<b>5:9/10. <i>A lover
+<b>5:9-10. <i>A lover
 of money will never be satisfied with money; a lover of abundance has no
 wheat. This too, is futility! As goods increase, so do those who consume
 them; what advantage, then, has the owner except what hi eyes see?</i></b> Wherever we read 'silver', according to the ambiguity
@@ -1700,7 +1696,7 @@ will be better for him, who is busy at present and reserves his strength for
 good work, than the riches of those men, about whom it is written: "woe to
 you, O rich, for you have received your consolation".[^139] 
 
-<b>5:12/16. <i>There
+<b>5:12-16. <i>There
 is a sickening evil that I have seen under the sun; riches hoarded by their
 owner to his misfortune, and he loses those riches in some bad venture. If he begets a son, he has nothing in
 hand. As he had come from his mother's
@@ -1736,7 +1732,7 @@ their sacraments in the darkness. They
 are always ill, and are easily moved to anger, storing up anger for themselves
 for the day of anger, and they do not have the favour of God.
 
-<b>5:17/19 <i>So what
+<b>5:17-19. <i>So what
 I have seen to be good is that it is suitable to eat and drink and enjoy
 pleasure with all one's labour that he toils beneath the sun during the brief
 span of his life that God has given him, for that is his lot. Furthermore, every man to whom God has given
@@ -1764,7 +1760,7 @@ happiness.
 
 <h2>CHAPTER 6</h2>
 
-<b>6:1/6. <i>There
+<b>6:1-6. <i>There
 is an evil I have observed beneath the sun, and it is prevalent among mankind;
 a man to whom God has given riches, wealth and honour, and he lacks nothing
 that his heart could desire, yet God did not give him the power to enjoy it. This is futility and an evil disease. If a man begets an hundred children and lives
@@ -1806,7 +1802,7 @@ among those who come after him. And so
 that he will not pass through life in silence, just as cattle, although he had
 a means, by which he was able to show that he had lived. 
 
-<b>6:7/8. <i>All
+<b>6:7-8. <i>All
 man's toil is for his mouth, yet his wants are never satisfied. What advantage then has the wise man over the
 fool? What less has the pauper who knows
 how to conduct himself among the living? 
@@ -1870,13 +1866,10 @@ Our choice does not come free from the foreknowledge of God, but precedes
 the causes, why any one thing is done in a particular way. 
 
 
-<b><i>There
-are many things that increase futility; </i></b>
-
 <h2>CHAPTER 7</h2>
 
 
-<b>7:1. [+VI. 12.] <i>How does it benefit man? For who knows what is good for man in this
+<b>7:1. <i>How does it benefit man? For who knows what is good for man in this
 life, all the days of his vain life, which he spends as a shadow? For who can tell a man what will be after him
 under the sun? </i></b>When he says<b><i> </i></b>that man is ignorant of
 his condition, and does not actually know whatever he seems to know and
@@ -1887,7 +1880,7 @@ should silence his mouth and believe that He who is written has come, and not
 ask by what means, how much, or what kind of man he is that has come.
 
 
-<b>7:2. [KJV. VII 1. sic seq.] <i>A good name is better than precious
+<b>7:1-2. <i>A good name is better than precious
 ointment; and the day of death than the day of one's birth. </i></b>Consider, he says, man, your short days since you will
 cease to be quickly when your body gives out; fast longer, so that however
 perfume delights your nostrils with its smell, in the same way posterity will
@@ -1949,7 +1942,7 @@ receives his consolation. Then the
 following verses agree with this explanation too, because he says:
 
 
-<b>7:6/7. <i>It is
+<b>7:6-7. <i>It is
 better to hear the rebuke of the wise, than for a man to hear the song of
 fools. For as the crackling of thorns
 under the pot, so is the laughter of the fool: this too is vanity. </i></b>For it is better to be rebuked by a wise man, than to
@@ -1997,10 +1990,7 @@ reading that there is no wisdom in men, although it is better to do than to
 only say that you will do. And since,
 when the talk had finished, the listener thinks over for himself what has been
 said, and though he begins to speak, he has not yet understood what he can
-learn from it.
-
-
-<b><i>And the patient in spirit is better than the proud in
+learn from it. <b><i>And the patient in spirit is better than the proud in
 spirit. </i></b>Since the heavenly one conceded to anger, saying,
 "anger is better than laughter", lest we think anger is to be praised
 in suffering, now he says that anger must be removed from deep down inside
@@ -2044,7 +2034,7 @@ For if you were to ask this, you would do it unwisely, not seeing how
 much the Gospel differs from the Old Testament.
 
 
-<b>7:12/13. <i>Wisdom
+<b>7:12-13. <i>Wisdom
 is good with an inheritance: and by it there is profit to them that see the
 sun. For wisdom is a defence, and money
 is a defence: but the advantage of knowledge is, that wisdom gives life to
@@ -2164,7 +2154,9 @@ for their righteousness, the sons of Aaron, since while they think they live
 righteously, they worship a foreign fire. 
 And they say Manasseh was impious and lived a long life on account of
 his wickedness, for he then lived a long time in a long reign after having been
-corrected in prison. <b>17. <i>Do
+corrected in prison. 
+
+<b>7:17. <i>Do
 not be too righteous, do not make yourself too wise: why destroy yourself? </i></b>If you should see a man who is harsh
 and wild to the extent of sinning against his brothers, so that he pardons
 neither the sinner in his speaking, or he who is slow on account of natural
@@ -2224,7 +2216,7 @@ so that whatever happens, he suffers with a free conscience. For he who fears Go
 fortune, nor crushed by misfortune.   
 
 
-<b>7:20/21. <i>Wisdom
+<b>7:20-21. <i>Wisdom
 strengthens the wise more than ten mighty men which are in the city. For there is not a just man on the earth,
 that does good and does not sin. </i></b>Therefore wisdom strengthens the righteous,
 and not even the aid of all the citizens of the city can help him, for although
@@ -2256,7 +2248,7 @@ either with monetary support or with advice.
 
 
 
-<b>7:22/23 <i>And do
+<b>7:22-23. <i>And do
 not heed all words that are spoken, lest you hear your servant curse you. For often your own heart knows that you
 likewise have cursed others. </i></b>Make sure to do only those things which have
 been taught, and strengthened by the help of wisdom, prepare yourself for
@@ -2276,7 +2268,7 @@ teaches that it is difficult to judge for one who has a rod in his eye, not to
 speak about the rod of another.
 
 
-<b>7:24/25. <i>I have
+<b>7:24-25. <i>I have
 proved all this by wisdom: I said, I will be wise; but it was far from me.</i> <i>That
 which is far off, and exceeding deep, who can find it out? </i></b>Just as is attested in the Book of Kings[^177]
 he says that he sought wisdom more than other men, and tried to reach the
@@ -2291,7 +2283,7 @@ to be, and then in the liquid pool I'll recognise that I differ greatly from
 the way I used to be. 
 
 
-<b>26/27. <i>I
+<b>7:26-27. <i>I
 applied my heart to know, and to search, and to seek out wisdom, and the reason
 of things, and to know the wickedness of folly, even of foolishness and
 madness. And I find that woman is more
@@ -2331,7 +2323,7 @@ itself by reasoning, so that he receives stolen bread, and stolen water, the
 false sacrament, and is led to be baptised in polluted water.   
 
 
-<b>7:28/30. <i>Behold,
+<b>7:28-30. <i>Behold,
 I have found this, says the preacher, counting one by one, to find out the
 account. Which still my soul seeks, but
 I have not found it. I have found one
@@ -2418,7 +2410,7 @@ another way, if they contend to hope for this wisdom, but do not already
 possess it. 
 
 
-<b>8:2/4 <i>I
+<b>8:2-4. <i>I
 counsel you: Obey the king's command, and that in the manner of an oath of
 God. Do not hasten to leave his
 presence, do not persist in an evil thing; for he can do whatever he
@@ -2467,7 +2459,7 @@ wickedness". But he teaches that we
 should keep the command of a king, and know why and when he orders.   
 
 
-<b>8:6/7. <i>For
+<b>8:6-7. <i>For
 everything has its time and justice, for man's evil overwhelms him. Indeed he does not know what will happen, for
 when it happens , who will tell him? </i></b>Many good and bad things can befall a man,
 but even a righteous man is not able to know what will befall him, or know the
@@ -2516,7 +2508,7 @@ it, piety will save the opposite, and impiety can be called the Devil and piety
 our Lord Jesus Christ. 
 
 
-<b>8:9/11. <i>All
+<b>8:9-11. <i>All
 this have I seen; and I applied my mind to see every deed that is done under
 the sun: there is a time when one man rules over another to his detriment. And then I saw the wicked buried and newly
 come while those who had done right were gone from the Holy place and were
@@ -2648,7 +2640,7 @@ clearly men work on earth, and consider deeply the Scriptures day and night in
 this way so that sleep flees from their eyes, in return for their study.
 
 
-<b>8:16/17. <i>When I
+<b>8:16-17. <i>When I
 applied my heart to see wisdom and work which takes place on earth- for even
 day or night its eyes see no sleep. And
 I perceived all the work of God. Indeed
@@ -2713,7 +2705,7 @@ understanding, according to that verse which says, "sacrifice to God with
 a troubled spirit"[^202]. 
 
 
-<b>9:3/4. <i>This is
+<b>9:3-4. <i>This is
 an evil about all things that are done under the sun: that the same fate awaits
 all Therefore the heart of man is full of evil; and madness is in their heart
 while they live; and after that, they go to the dead. </i></b>Symmachus interprets this in his usual
@@ -2734,7 +2726,7 @@ he who is attached to all living has hope, a live dog is better than a dead
 lion.</i></b>
 
 
-<b>9:5/6. <i>For the living know that they will die, but the dead know nothing at
+<b>9:5-6. <i>For the living know that they will die, but the dead know nothing at
 all; there is no more reward for them, their memory is forgotten. Their love, their hate, their jealousy have
 already perished- nor will they ever again have a share in whatever is done
 beneath the sun. </i></b>Since he has said above that the heart of
@@ -2791,7 +2783,7 @@ not in that world, for they are not able to say, "my part is the
 Lord".[^209] 
 
 
-<b>9:7/8. <i>Go, eat
+<b>9:7-8. <i>Go, eat
 your bread with joy and drink your wine with a glad heart, for God has already
 approved your deeds. Let your garments
 always be white, and your head never lack oil. 
@@ -2988,7 +2980,7 @@ all scripture is filled with this idiom that sees the sons of Adam as the sons
 of all men.   
 
 
-<b>9:13/15. <i>This,
+<b>9:13-15. <i>This,
 too, I have observed about wisdom under the sun, and it affected me profoundly:
 there was a small town with only a few inhabitants; and a mighty king came upon
 it and surrounded it, and built great siege works over it. Present in the city was a poor wise man who
@@ -3047,7 +3039,7 @@ foolish and is powerful speaks to fools and cannot hear himself because of
 either the noise of his own voice or that of the applauding crowd.
 
 
-<b>9:18</b>. <b><i>And
+<b>9:18. <i>And
 wisdom is better than weapons, but a single rogue can ruin a great deal of
 good. </i></b>Now he also takes wisdom
 in preference to strength and says that it is worth more in battle than
@@ -3083,7 +3075,7 @@ of the demons, and is interpreted as either 'the idol of flies' or 'the man of
 the flies', or 'he who has flies'[^238].
 
 
-<b>10:2/3. <i>A wise
+<b>10:2-3. <i>A wise
 man's mind tends to his right; while a fool's mind tends to his left. Even on the road as the fool walks, he lacks
 sense, and proclaims to all that he is a fool. 
 </i></b>And in the
@@ -3142,7 +3134,7 @@ previous work, because the cure for sins is born out of doing good things, and
 not from pompous and overflowing rank. 
 
 
-<b>10:5/7. <i>There
+<b>10:5-7. <i>There
 is an evil that I have observed in the world as if it were an error proceeding
 from the ruler: folly is placed on lofty heights, while rich men sit in low
 places. I have seen slaves on horses and
@@ -3289,7 +3281,7 @@ blessed, who speaks in the ear of a wise man.
 
 
 
-<b>10:13/14. <i>His
+<b>10:13-14. <i>His
 talk begins as foolishness and ends as evil madness. The fool prates on and on, but man does not
 know what will be; and who can tell him what will be after him? </i></b>So far the discussion has been about the fool, whose
 lips teach the wise man, or according to another interpretation, his lips make
@@ -3336,7 +3328,7 @@ wandered in the wilderness in a solitary way; they found no city to dwell
 in."[^259] 
 
 
-<b>10:16/17. <i>Woe to
+<b>10:16-17. <i>Woe to
 you, O land, whose king acts as an adolescent, and whose ministers dine in the
 morning. Happy are you, O land, whose
 king is a man of dignity, and whose ministers dine at the proper time- in
@@ -3593,7 +3585,7 @@ reap in the course of his career, he ought to save the outcome for the
 judgement of the Lord. <b><i> </i></b>
 
 
-<b>11:6/8.  <i>In the morning sow your seed, and in the
+<b>11:6-8.  <i>In the morning sow your seed, and in the
 evening withhold not your hand: for you know not whether shall prosper, either
 this or that, or whether they both shall be alike good. Truly the light is sweet, and a pleasant
 thing it is for the eyes to behold the sun: 
@@ -3638,7 +3630,7 @@ morning and in the evening, and joined both in vain; they have not seen the
 light or the sun, whence the light itself comes.      
 
 
-<b>11:9/10.  <i>Rejoice, O young man, in your youth; and let
+<b>11:9-10.  <i>Rejoice, O young man, in your youth; and let
 your heart cheer you in the days of your youth, and walk in the ways of your
 heart, and in the sight of your eyes: but know, that for all these things God
 will bring you into judgement. Therefore remove sorrow from your heart, and put
@@ -3647,7 +3639,7 @@ away evil from your flesh: for childhood and youth are vanity. </i></b>
 <h2>CHAPTER 12</h2>
 
 
-<b>12:1  <i>Remember now your Creator in the days of
+<b>12:1.  <i>Remember now your Creator in the days of
 your youth, while the evil days come not, nor the years draw nigh, when you
 shall say, I have no pleasure in them; </i></b>In this chapter there were many explanations
 of all things and almost as many opinions as men themselves. It would take too long however to recount all
@@ -3893,7 +3885,7 @@ the Christians; for while he is far from the Hebrews' view, he rejects too the
 interpretations of the Septuagint. 
 
 
-<b>12:6/8.  <i>Or ever the silver cord be loosed, or the
+<b>12:6-8.  <i>Or ever the silver cord be loosed, or the
 golden bowl be broken, or the pitcher be broken at the fountain, or the wheel
 broken at the cistern. Then shall the
 dust return to the earth as it was: and the spirit shall return unto God who
@@ -3927,7 +3919,7 @@ and the spirit returns to the place, whence it was taken, it is a great vanity
 in this world to toil and obtain nothing for the future from it.     
 
 
-<b>12:9/10.  <i>And moreover, because the preacher was wise,
+<b>12:9-10.  <i>And moreover, because the preacher was wise,
 he still taught the people knowledge; yea, he gave good heed, and sought out,
 and set in order many proverbs. The
 preacher sought to find out acceptable words: and that which was written was
@@ -3950,9 +3942,6 @@ body and spirit hoped he would see the path to heaven, saying, "I will see
 the heavens, the work of your fingers"[^311]. But now Solomon strives to find this wisdom,
 so that he may know and understand with his human mind, though confined by the
 walls of the body, the truth only known by God. 
-
-<b><i> </i></b>
-
 
 <b>12:11.  <i>The words of the wise are as goads, and as
 nails fastened by the masters of assemblies, which are given from one
@@ -4030,7 +4019,7 @@ grace of God which was with me"[^320],
 and the Saviour says, "I worked shouting"[^321].   
 
 
-<b>12:13/14.  <i>Let us hear the conclusion of the whole
+<b>12:13-14.  <i>Let us hear the conclusion of the whole
 matter: Fear God, and keep his commandments: for this is the whole duty of
 man. For God shall bring every work into
 judgement, with every secret thing, whether it be good, or whether it be
