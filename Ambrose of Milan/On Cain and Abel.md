@@ -8,35 +8,35 @@ Translated into English using ChatGPT.
 <tbody><tr><td>
 <h2>Table of Contents</h2>
 <ul>
-<li><a href='#tocuniq3'>Liber Primus.</a></li>
-<li><a href='#tocuniq4'>Caput Primum.</a></li>
-<li><a href='#tocuniq5'>Caput II.</a></li>
-<li><a href='#tocuniq6'>Caput III.</a></li>
-<li><a href='#tocuniq7'>Caput IV.</a></li>
-<li><a href='#tocuniq8'>Caput V.</a></li>
-<li><a href='#tocuniq9'>Caput VI.</a></li>
-<li><a href='#tocuniq10'>Caput VII.</a></li>
-<li><a href='#tocuniq11'>Caput VIII.</a></li>
-<li><a href='#tocuniq12'>Caput IX.</a></li>
-<li><a href='#tocuniq13'>Caput X.</a></li>
-<li><a href='#tocuniq14'>Liber Secundus.</a></li>
-<li><a href='#tocuniq15'>Caput I.</a></li>
-<li><a href='#tocuniq16'>Caput II.</a></li>
-<li><a href='#tocuniq17'>Caput III.</a></li>
-<li><a href='#tocuniq18'>Caput IV.</a></li>
-<li><a href='#tocuniq19'>Caput V.</a></li>
-<li><a href='#tocuniq20'>Caput VI.</a></li>
-<li><a href='#tocuniq21'>Caput VII.</a></li>
-<li><a href='#tocuniq22'>Caput VIII.</a></li>
-<li><a href='#tocuniq23'>Caput IX.</a></li>
-<li><a href='#tocuniq24'>Caput X.</a></li>
+<li><a href='#tocuniq3'>Book One</a></li>
+<li><a href='#tocuniq4'>Chapter I.</a></li>
+<li><a href='#tocuniq5'>Chapter II.</a></li>
+<li><a href='#tocuniq6'>Chapter III.</a></li>
+<li><a href='#tocuniq7'>Chapter IV.</a></li>
+<li><a href='#tocuniq8'>Chapter V.</a></li>
+<li><a href='#tocuniq9'>Chapter VI.</a></li>
+<li><a href='#tocuniq10'>Chapter VII.</a></li>
+<li><a href='#tocuniq11'>Chapter VIII.</a></li>
+<li><a href='#tocuniq12'>Chapter IX.</a></li>
+<li><a href='#tocuniq13'>Chapter X.</a></li>
+<li><a href='#tocuniq14'>Book Two</a></li>
+<li><a href='#tocuniq15'>Chapter I.</a></li>
+<li><a href='#tocuniq16'>Chapter II.</a></li>
+<li><a href='#tocuniq17'>Chapter III.</a></li>
+<li><a href='#tocuniq18'>Chapter IV.</a></li>
+<li><a href='#tocuniq19'>Chapter V.</a></li>
+<li><a href='#tocuniq20'>Chapter VI.</a></li>
+<li><a href='#tocuniq21'>Chapter VII.</a></li>
+<li><a href='#tocuniq22'>Chapter VIII.</a></li>
+<li><a href='#tocuniq23'>Chapter IX.</a></li>
+<li><a href='#tocuniq24'>Chapter X.</a></li>
 
 </ul>
 </td></tr></tbody></table>
 
-<h2 id='tocuniq3'>Liber Primus.</h2>
+<h2 id='tocuniq3'>Book One</h2>
 
-<h2 id='tocuniq4'>Caput Primum.</h2>
+<h2 id='tocuniq4'>Chapter I.</h2>
 
 In the next book, there is a discussion of the transition from the birth of Cain and Abel; and through them, as well as through Esau and Jacob, it is shown that two opposing human sects are being foreshadowed.
 
@@ -51,7 +51,7 @@ In the next book, there is a discussion of the transition from the birth of Cain
 
 So there are two sects under the name of two brothers fighting against each other, and opposed to each other. One which attributes everything to its own mind as the principal, and as it were to a certain thought, and the author of all sense and movement; that is, which ascribes all inventions to human genius. The other which ascribes everything to God as the operator and creator of all things, and subjects everything to the helm of God as its parent and ruler. The former is signified by Cain: the latter is called Abel. There are two sects which one soul gives birth to, and they are called sisters, because they are founded in one womb. But they are contrary, because it is necessary for them to be divided and separated when they have been brought forth with a certain birth of the soul. For two combatants cannot forever inhabit one dwelling. Finally, when Rebecca was giving birth to two natures of human character, one of evil and the other of good, and she felt them struggling within her womb (for Esau was a figure of wickedness, while Jacob portrayed goodness), she wondered what this conflict that the conceived offspring displayed might be, and she sought advice from God in order to reveal the suffering and to provide a remedy. Therefore, in response to the prayer, the following answer is given: Two nations are in your womb, and two peoples shall be separated from your body (Gen. XXV, 23). If you refer this to the soul, you will understand that it is the same mother of good and evil, because both flow from the same source of the soul. But this requires sober and true judgment, so that, having rejected evil, it may nourish what is good and strengthen it. Therefore, before it gives birth to what is good, that is, reverence owed to God, may it offer everything to Him and not prefer itself. But when it has given birth to the confession that is offered to God, it lays aside the swelling of its heart. Therefore, God added the good doctrine of the soul to Abel and took away the wicked doctrine from Cain.
 
-<h2 id='tocuniq5'>Caput II.</h2>
+<h2 id='tocuniq5'>Chapter II.</h2>
 
 In the figure of Cain, the Jews, and in Abel, the Christians. On this occasion, certain things are connected with the fathers, but especially the burial of Isaac, through whom the incarnation of Christ is expressed, and of Moses, through whom the same teaching is expressed. Finally, the burials of Moses and Christ are compared to each other.
 
@@ -69,7 +69,7 @@ Lastly, it is thought that the account of Isaac was not superficially written be
 9. However, a proper distance is maintained between the master and the servant. To understand the prerogative of the master, we read of the favor shown to the servant, as with Moses, because no one knows where he is buried. But with Christ, his burial was taken away from the earth (Isaiah 53:8), for according to the mystery of the law, he was expecting redemption, so that he may rise again. But here, according to the gift of the Gospel, he was not expecting redemption, but giving it. And therefore, his burial was not unknown, but elevated, which the created world could not hold for long; for through him, all creatures hastened to be lifted up from the bondage of corruption. Therefore, no one knows the burial place of Moses, because everyone knew his life. But we have seen the burial place of Christ; however, we do not know it now, those of us who have acknowledged His resurrection. For His tomb should have been known, so that His resurrection might be revealed; and therefore, in the Gospel (Matthew 27:60 et seq.), the tomb is described in detail: it is not sought in the law, because although the law announced His resurrection (Isaiah 11:10), the series of the Gospel has fully confirmed it for us.
 
 
-<h2 id='tocuniq6'>Caput III.</h2>
+<h2 id='tocuniq6'>Chapter III.</h2>
 
 By the process of human wisdom represented in Abel and Cain, who were not found in Christ alone, it is indicated; by the order in which each of the brothers is named, as well as by their functions, it is signified that Abel, although younger, is superior to his brother.
 
@@ -79,7 +79,7 @@ Therefore, let us complete what we have proposed: Abel added, he said, to obey, 
 
 11. And it happened, he said, that Abel became a shepherd of sheep, but Cain worked the land (Gen. IV, 2). It is not insignificant that even though Cain was born first, as the reading teaches, Abel was preferred in this place; nor is the order of names the same as the order of nature. What does the change of order mean; that it should remember the younger one first, when the state of life and the use of work are described? Let us inquire into the difference of duties, so that we may gather the cause of preference. To work the land is to use it before grace, to pasture sheep. For this is like that of a certain teacher and prince, and rightly an elder has begun what is elder, a younger has preferred what is more recent, which would bear no thorns, no prickles, subject to no judgments. Finally, guilty of sin, Adam was dismissed from paradise's pleasures, so that he might work the land. Therefore, rightly, where these brothers are born, the order of nature is also preserved in preaching: where discipline of living is expressed, the elder is preferred before the younger; for although younger in age, he is more excellent in virtue. For innocence is younger in time than evil, and in a certain sense more aged by the nobility of merits. Indeed, old age is venerable not by years grown grey, but by character. And the age of senescence, it is said, is a blameless life. Therefore, wherever generation is expressed, let Cain come first; wherever preaching of discipline is made, let Abel run ahead. Who would deny that even youth and itself in the beginnings of young adulthood fervently burn with the various allurements of passions? But when a more mature age is succeeded, as if by the storm of a youth's lasciviousness being dissipated, tranquility is restored and the weary soul withdraws its ship into certain quiet harbors. Thus, the tumultuous movements of our youth are calmed by the steady presence of faithful old age.
 
-<h2 id='tocuniq7'>Caput IV.</h2>
+<h2 id='tocuniq7'>Chapter IV.</h2>
 
 To prefer vice to virtue is a sign of ignorance; this is exemplified by Esau and Jacob, as well as by two scriptural women: one representing virtue, the other representing pleasure. Ultimately, the arts of the latter are described.
 
@@ -92,7 +92,7 @@ This is what the law teaches, as we find it written: If a man has two wives, one
 
 Therefore, with a provocative movement of a prostitute, with a disrupted gait through delights, with wandering eyes, and with playful darting of her eyelids, she captures the precious souls of young men (for the eye of a prostitute is a snare of a sinner), and with doubtful perception, she accosts anyone passing by in the corner of her house, with charming words, causing the hearts of young men to flutter, restless at home, wandering in the streets, prodigal with kisses, cheap in modesty, rich in attire, painted cheeks. For indeed, since it cannot possess true beauty of nature, it entices with the appearance of affected beauty through false dyes, not truth. Adorned with a company of vices and surrounded by a chorus of wickedness, the leader of crimes attacks the wall of the human mind with such contrivances of words: 'Peace offering is to me; today I fulfill my vows.' For this reason, I have advanced to meet you, desiring to find your face. I have woven my bed with fine linen and spread carpets from Egypt. I have spread my bed with saffron, and my house with cinnamon. Come, let us enjoy friendship until dawn; come, and let us wrestle with desire (Prov. VII, 14 et seq.). For through the mouth of Solomon we see this form of harlot expressed. For what is more similar to harlotry than secular pleasure, which enters through the window of its house, tempting the eyes with its first enticements; and it quickly penetrates if you, looking out into the street, namely the public ways of those passing by, do not direct the gaze of your mind to the internal mysteries of the law. She certainly is the one who, like a kind of bed woven with stronger ties, has entangled us in the bonds of a community, so that whoever reclines on it is bound; and she covers the surface of her body with the veil of shameful deceit, to seduce the minds of young men in the absence of her husband, that is, by disregarding the law. For the law is absent for those who commit sins, for if it were present, they would not commit them; and therefore it says: For my husband is not at home: he has taken the longest journey, with a bundle of money received in his hand (Ibid., 19, 20). What shall I say this is, except perhaps because the rich think there is nothing that does not yield to their money, and they want the law to be for sale in their favor? Pleasure spreads its own scents, because it does not have the scent of Christ, it displays treasures, promises kingdoms, guarantees continuous loves, offers unknown sexual encounters, disciplines without a tutor, conversations without a monitor, a life without worries, soft sleep, insatiable desire. Seducing him, she said, with many flattering words, and binding him with the snares of her lips, she led him home. But he, following her, is caught in a trap. The royal hall shone with luxurious splendor, its walls adorned with carved designs, and the damp floors floated with wine. The ground burned with perfume, covered with thorns of fish, and slippery with withered flowers. There, there was a commotion of feasting, the clamor of those singing, the violence of those arguing, the harmony of those dining, the noise of those dancing, the laughter of those laughing, the applause of those reveling, everything confused, nothing in the order of nature. Dancing prostitutes, boys with curled hair, the crudeness of revelers, the belching of eaters, the thirst of drunkards, yesterday's gluttony, today's drunkenness, the cups of those who drink, filled with a stronger stench of intoxication than if only the wine were aflame. She herself, standing in the middle, says, 'Drink and get drunk, so that each one falls down and does not rise again.' He is the first with me, he who is the most lost of all. He is mine, who is not his own. He is more pleasing to me, who is more harmful to himself. The golden cup of Babylon, intoxicating all the earth, drank my wine. So let the more foolish one turn to me, and to those in need of wisdom, I command, saying: Use hidden breads sweetly, and drink water secretly sweeter. Let us eat and drink; for tomorrow we shall die. Our life will pass like the traces of a cloud, and like a mist it will be dispersed (Prov. IX, 17). Come, therefore, let us enjoy the good things that are, and make use of the creatures as in our youth, quickly. Let us fill ourselves with precious wine and ointments, and let not the flower of the time pass by us. Let us crown ourselves with roses before they wither. Let no meadow be untouched by our luxury: let us everywhere leave signs of our joy (Wisdom 2:8 et seq.). All these things are left behind, and one will not carry anything with them except what they have received through the pleasure of the body. Finally, I have embraced this philosophy; and there is no truer one, except for that which asserts that the good is what is pleasant and enjoyable. Therefore, believe in either the philosophy or the wisdom of Solomon.
 
-<h2 id='tocuniq8'>Caput V.</h2>
+<h2 id='tocuniq8'>Chapter V.</h2>
 
 Virtue, seeking healthier pleasures, rejects the pursuit of pleasure; it teaches how to resist diabolical temptations, from whom and even temporal things must be sought, and how harmful they are to the wicked; it invites to the feast of wisdom, and it explains how its intoxication differs from drunkenness; and finally, it reveals the evils of greed.
 
@@ -114,7 +114,7 @@ So, he gave these things to the devil, because in them is the punishment of the 
 
 21. For what can I say about greed, with its insatiable desire for money, and a certain lust for wealth, which believes that the more it has taken away, the more it is impoverished? Envious of all, worthless to itself, destitute in the midst of great riches, it weakens its desires because of its abundant wealth. There is no limit to its greed, where there is no measure of its desires. It inflames the soul, it feeds itself with its own fire, so much so that it is different in this regard, that the former is an adulteress of beauty, while the latter is of the earth. It shakes the elements, cuts through the sea, digs up the earth, wearies the heavens with prayers, and is pleasing neither in fair weather nor in stormy, bringing condemnation upon yearly profits and exposing the offspring of the earth. But this is the affliction of the soul, not of the body. Furthermore, Ecclesiastes says: There is an evil which I have seen under the sun, riches being hoarded up to the hurt of their owner (Eccle. V, 12). And elsewhere: He that loveth silver shall not be satisfied with silver (Ibid., 9). And: There is no end of their acquiring (Baruch 3, 18). If you seek treasures, receive the invisible and hidden ones that are in the highest heavens, not the ones you seek in the veins of the earth. Be poor in spirit, and you will be rich in any measure; for life is not in the abundance of riches, but in virtue and faith. These riches will truly make you rich, if you are rich in God.
 
-<h2 id='tocuniq9'>Caput VI.</h2>
+<h2 id='tocuniq9'>Chapter VI.</h2>
 
 Virtue is attained through enthusiasm and hard work. This is proven by the example of Jacob, who achieved primacy over his brother; and the mystical teachings about Abraham, Moses, and the same two brothers are explained.
 
@@ -125,7 +125,7 @@ You have heard the mysteries of pleasures, you have also heard the gifts of our 
 
 24. This is according to natural disposition. But truly, according to the mystery, Abraham, the father of nations, legally transmitted his entire inheritance to his legitimate seed, which is Christ, who was a stranger in this land; so that he might bring the fragrance of this life rather than its fruits. When the mind hears this, it turns away from pleasure and joins virtue, admiring the grace of true beauty, pure affection, simple thought, moderate attire; that is, not in the persuasion of speech, but in the manifestation of the Spirit, as the form of apostolic sentiment, dressed in the splendor of wisdom and piety, shining more precious than gold, taking on the chorus of prudence, temperance, fortitude, and justice, which burned with the fragrance of disciplines, instilling reverence, and pouring forth grace. Therefore, moved by such things, he chose pursuits of virtue, to which Jacob, a man full of exercise, directed his mind. And for this reason, he is led to be a shepherd of sheep (Gen. XXX, 31 and seq.); because it is considered more excellent to govern his body and senses and their pleasures, and to keep a measure of desire, so that he does not wander like a wandering sheep, than to rule peoples or preside over cities. For it is more difficult for someone to control himself than to rule others. To conquer the mind, to restrain anger, and to bring together in one the conflicting laws of the body and the soul, is the task of a certain immortal man whom the gates of hell could not capture. Finally, the Legislator himself claimed this responsibility for himself, to feed the sheep of Jethro (Exod. III, 1), who is called superfluous, and to act in the desert: because he compelled the irrational and superfluous loquacity of common speech to certain indiscreet mysteries of sober doctrine. Therefore, the shepherds of sheep were an abomination to the Egyptians. For all those who are devoted to the passions of the body and indulge in their own pleasures, they turn away from the interpreter of the word and the teacher of virtue with a certain curse. And therefore, through these enigmas, Moses taught that sacrifices are pleasing to God, which every fool avoids, that is, the works and precepts of virtue. And so, Abel, the shepherd, is read as opposed to Cain, the worker of the land, who, as a foolish man, could not bear the expressed form and appearance of virtue in his brother.
 
-<h2 id='tocuniq10'>Caput VII.</h2>
+<h2 id='tocuniq10'>Chapter VII.</h2>
 
 By indicating the double defect of Cain’s sacrifice, he shows that three vices can creep into our offerings; he also brings forward divine testimonies by which the same vices are forbidden.
 
@@ -138,7 +138,7 @@ By indicating the double defect of Cain’s sacrifice, he shows that three vices
 28. He also who justifies himself, let him not be inflated with the swelling of his heart; and he received a salutary command, resulting from this oracle: Do not say in your heart, when the Lord your God begins to consume those nations from before you, saying: It is on account of my justice that the Lord has brought me in to possess this land: but it is on account of the wickedness of these nations that the Lord will destroy them from before your face (Deut. 9:4-5). It is not because of your justice, nor because of your goodness, nor because of the fairness of your heart that you enter to possess this land, but because of the wickedness of the nations the Lord will destroy them before your eyes, and he will fulfill the covenant he swore to your ancestors. The covenant is a perfect gift of God's grace; for God does not give anything imperfect: but perfect virtue is, and the works of virtue. However, the covenant is called the inheritance of goods that is transferred. It is called Testament both in a human and divine sense, as the things that are truly good are confirmed by the testimony of heavenly mandates. And it is called Testament because it is dedicated with blood: the old in type, the new in reality. In this Testament we hold the pledge of divine grace; for God so loved the world that he gave his only begotten Son for all of us. Therefore, the Apostle, proclaiming the perfection of grace, says: How will he not also give us all things with him (Rom. VIII, 32)?
 
 
-<h2 id='tocuniq11'>Caput VIII.</h2>
+<h2 id='tocuniq11'>Chapter VIII.</h2>
 
 The qualities by which the offering of Abraham's sacrifice is pleasing to God are expressed, namely swiftness, perseverance, and faith. God commands swiftness in both Testaments, which he himself exhibits when he not only gives quickly, but also goes before us.
 
@@ -155,7 +155,7 @@ The qualities by which the offering of Abraham's sacrifice is pleasing to God ar
 
 32. Go quickly, therefore, and search for this, my soul; so that you may quickly also hear, just as Jacob heard: What is this that you have found so quickly, my son (Gen. XXVII, 20)? And he answered according to the teaching: What the Lord your God has handed over into my hands. God gives quickly; for He said, and things were made; He commanded, and they were created. For the word of God is not, as someone says, a work, but a working, as you have written: My Father works until now, and I work (Joan. V, 17). He surpasses all things; for He is before all things, as the Father, and in all things as the same Father, penetrating all things. For He is strong and sharp, and sharper than any sword, penetrating even to the division of soul and spirit, and of joints and marrow. He anticipates the thoughts of all, of whom the Father God says: 'Now you will see if my Word comprehends you, or not' (Num. 11:23). For where God is, there is the Word, as He said: 'We will come and make our dwelling place with him' (John 14:23). And as you have read in other places about God: I stood here before you (Exod., XVII, 6): so also the Word says: Before you stood under the fig tree, I saw you (John I, 48). And about him it is said: The Word, that is, the Son of God, stands in the midst of you whom you do not know (Ibid., 26). For wherever the saints are, there the Word of God fills the hearts of each one, encompassing the seas and the lands. And though he is here, he is also elsewhere; not changing his place, but surely filling it with his presence. For the Word of God is everywhere, going through all things and in all things, leaving no place to be immune from itself. And where it is present, it has always been; and where it has been, it is present. And for this reason, one who knows that the Word of God is swift, quickly asks and quickly obtains.
 
-<h2 id='tocuniq12'>Caput IX.</h2>
+<h2 id='tocuniq12'>Chapter IX.</h2>
 
 Pharaoh is accused because of his delay in obeying. Humility, secrecy, and brevity are commended in prayer, with a rebuke of verbosity. The Lord has taught the form of prayer; and finally, for what things should one especially pray?
 
@@ -176,7 +176,7 @@ But the Lord Jesus taught divinely and the goodness of the Father, who knows how
 
 39. But especially you are to pray and teach for the people (1 Tim. 2:1), that is, for the whole body, for all the members of your mother, in which mutual charity is evident. For if you pray only for yourself, you will pray for yourself alone. And if individuals pray only for themselves, the grace of the intercessor is less than that of the sinner. But now, because individuals pray for all, all also pray for individuals. Therefore, to conclude, if you pray only for yourself, you will pray for yourself alone, as we have said. But if you ask for everyone, everyone will ask for you. Indeed, you are in everything. Such is the great reward, that the support of the entire population is obtained through the prayers of individuals. In this there is no arrogance, but rather a greater humility and a higher fruit.
 
-<h2 id='tocuniq13'>Caput X.</h2>
+<h2 id='tocuniq13'>Chapter X.</h2>
 
 In the first offering, Cain passes by due to a defect and goes to another, namely that he did not offer from the first fruits. The first fruits of the soul are especially to be offered, and what they are. Abel is said to have offered the same, and to have commanded the law to be offered. Similarly, the Canaanites are mentioned there: also why God is said to have sworn that the inward movements of the soul cannot be pacified without His help. Finally, it is said that these offerings should be made for which sexual distinction contributes nothing.
 
@@ -201,11 +201,11 @@ Therefore, let us purify our innermost selves, so that our offering may not disp
 
 Therefore, if this sense does not agree with the use of the flesh, let us discuss the functions of the soul. I find, indeed, that it is not differentiated by any sex: and since it has no sex, it represents the functions of both sexes, it marries, conceives, and gives birth. And just as nature has given females a womb in which the generation of every living being is formed through menstrual periods, so there is a certain power of the soul which, like a secret womb, receives the seeds of our thoughts, nurtures the concept, and is accustomed to give birth. For Isaiah would not have said otherwise: In the womb we received and gave birth to the spirit of salvation (Isaiah XXVI 18); unless he knew the womb of the soul. Some of these generations are feminine, such as wickedness, wantonness, luxury, intemperance, impurity, and other such vices, by which the strength of our souls is weakened. The masculine virtues are chastity, patience, prudence, temperance, fortitude, justice, by which our mind and body are strengthened, and are vigorously raised to carry out the duties of virtue. This prophetic womb gave birth to these offspring. And this is why he said: In the womb we received and gave birth to the spirit of salvation. Therefore, he both gave birth and bore a male who poured out the spirit of salvation.
 
-<h2 id='tocuniq14'>Liber Secundus.</h2>
+<h2 id='tocuniq14'>Book Two</h2>
 
 
 
-<h2 id='tocuniq15'>Caput I.</h2>
+<h2 id='tocuniq15'>Chapter I.</h2>
 
 The mature production of the offspring of the soul: what is their form? Can the plebeian senses of the mind be subdued by authority? For our kind of sensory perception is twofold; and is it beyond that which is offered to God to stand forth on its own accord? Finally, there is a discussion about the mixture by which we are constituted, and its first principles.
 
@@ -223,7 +223,7 @@ Therefore, those things that are holy are the firstfruits of our senses: they ar
 
 6. And therefore the Lord says: When you enter the land which I bring you into, and when you begin to eat from its bread, you shall offer a separate oblation to the Lord, the firstfruits of your sprinkling, bread as an oblation from the threshing floor: thus you shall offer the firstfruits of your mixtures, and give them to the Lord (Num. XV, 2 et seq.). We are a mixture, composed of various elements. For cold is mixed with hot, and moist with dry, within us. This sprinkling has many allurements of the flesh and many delights: but these are not the original senses of this body, because we are made up of soul and body and spirit. This is the principal sprinkling, in which the Apostle desires us to be sanctified, as he says: May the God of peace himself sanctify you in all things; that your whole spirit, and soul, and body, may be preserved blameless in the coming of our Lord Jesus Christ (I Thess. V, 23). The first fruits of this participation are spiritual, that is, the inventions and generations of the senses that proceed from the vigor of the soul. But not all senses are primitive, except those that are free from malice, wickedness, and all error. However, bodily pleasures are necessary, such as sleeping, eating, drinking, walking, and other such senses; but they are not the first fruits. And therefore, not in these bodily pleasures, but in the sacraments of the Lord, where there is purity, piety, faith, and devotion. The manifest and clear example of this thing is the offering of the patriarch Isaac, whom the father, unaffected by any motion of human passion, offered as a sacrifice in the mode of a sacrifice, offering a pure victim to God, empty of fear and free from bodily desire, while the piety of the father yielded to the devotion of the one sacrificing.
 
-<h2 id='tocuniq16'>Caput II.</h2>
+<h2 id='tocuniq16'>Chapter II.</h2>
 
 First fruits should be valued not by time but by sanctity: when faith, which is especially necessary, should be joined to true sacrifice; labor should be exchanged for fruit, and the soul should be freed from useless things.
 
@@ -235,7 +235,7 @@ Therefore, we know that above all faith should commend us to God. When we have f
 
 9. But if you do not change, he says, you will redeem (Exod., XIII, 13). Therefore, according to the letter, it is commanded that another animal be offered for the unclean animal, or its price, so that nothing unclean or less than a tithe of the fruits appears to be offered. However, a deeper understanding teaches you to free your soul, so that it may abstain from those things that do not bear fruit. For whoever redeems himself, frees himself and in a way pays off a debt. Works that cannot produce true fruit and good results must be abandoned; such are the worldly things whose use cannot be lasting. In these things, he himself became naked and void of reality; and although he was sought after with the greatest effort, it brings no comfort to his soul. For those things which bring slavery to the soul are all useless, even if the effect is not lacking. The victory of the fighters seems great, the glory of the triumphant: but we frequently see those who have won, once again fall under uncertain wars and be transferred to the enemy by the outcome of the battle, and in that very moment when they were conquerors before, become more miserable. Therefore, it is necessary that you direct your actions towards God, and that His favor may aspire to you. The athlete himself, who judges with his own strength and not with that of others, believes that he undergoes uncertain events whenever he competes. And when he reaches the crown, he understands that this worldly glory, like the leaves of the crown itself, withers quickly. When a captain has steered a ship into port, he barely considers the end of his work and immediately seeks the beginning of new work. The soul is separated from the body, and after the end of this life, it is still held in suspense by the uncertain judgement of the future. So there is no end where an end is thought. From there, let us adhere to our God with vows and pure conscience and the spirit of charity, and let us obtain divine favor: praying that we may be able to be freed and stripped away from worldly cares like from cruel and rustic lords, and to exit from worldly service and enter into the freedom of supernatural knowledge, which is true and the only freedom, as we are called.
 
-<h2 id='tocuniq17'>Caput III.</h2>
+<h2 id='tocuniq17'>Chapter III.</h2>
 
 He confirms what he had said about exchanging labor for fruit, using the example of the Jews serving in Egypt, and he confirms it with the testimony of the Gospel; he declares from where and in what way the soul must be freed, and that Christ is our true priest, that is, our liberator. Lastly, he presents the beautiful usefulness that the company of the righteous brings.
 
@@ -248,7 +248,7 @@ He confirms what he had said about exchanging labor for fruit, using the example
 
 However, it matters a great deal and builds moral character if we also consider the number of just individuals who contribute to the welfare of the people as a whole. It suppresses and cuts off envy, confounds wickedness, encourages virtue, and increases favor. For no one should envy the praise that benefits themself; and every wicked individual, when they accept their redeemer, often imitates them, certainly venerates them, and often even loves them. Indeed, even if they know it will be beneficial to others, they are increased by their endeavors, and through that grace they connect people, accumulate the charity of citizens, and enhance the glory of cities. How blessed is the city that has many righteous people, how celebrated it is by the mouths of all! How it is praised from every side, and how its blessed and eternal state is esteemed! How I rejoice when I see some gentle and wise people live for a long time, when I behold chaste virgins, grave widows, elderly women, like a certain grey-haired court of the Church that presents itself with a certain countenance and appearance of gravity, which they revere, which they imitate, which they are adorned with, in order to obtain all the grace of good manners! For I do not rejoice for their own sake, when they experience the many annoyances of this world by living, but because they benefit many others. Similarly, when someone of this kind falls, even though he is laid low by a long old age, I am affected; because the flock of young people is deprived of an old wall. Finally, the first sign of a perishing city, or of impending evils, or of future evils, is this, if wise men depart, or even weighty women. From here, the gate opens for the first onslaught of approaching evils. Therefore, just as a whole city is strengthened and sustained by the gathering of wise people, or is weakened by their deaths: so too weighty speech, indeed one full of wisdom, is accustomed to stabilizing the soul of each individual and confirming the mind. Now if the practice of many readings is added, along with the guidance of many teachers and counsels, a certain senate, like a perpetual state of the city that is in the hearts of individuals, is established.
 
-<h2 id='tocuniq18'>Caput IV.</h2>
+<h2 id='tocuniq18'>Chapter IV.</h2>
 
 Why did Moses call the Levites firstborns and redeemers, and designate their cities as redeeming ones? Why is it not absurd for the pious to cohabit with the wicked? On the two virtues in God, mercy and justice, and their ministers; and on how the departure from evil always leads to the entrance of virtue, and vice versa; as is proven by examples in the Gospels.
 
@@ -264,13 +264,13 @@ Therefore, therefore, Moses called the firstborns and redeemers of the other Lev
 
 16. Also consider this, that when the wicked is killed, Christ is infused. And where abomination is abolished, sanctification is gathered; for the Lord said: In that day when I slew all the firstborn of Egypt, I sanctified unto me all the firstborn of Israel (Num. III, 13). Which you do not apply to the one day of affliction of Egypt, but to all time. For when wickedness is renounced (32, q. I, cap. Cum renuntiatur), immediately virtue is acquired. For the one who has departed from wickedness works the entrance of virtue: and with the same eagerness with which the crime is excluded, innocence is joined. You have this in the Gospel (John 13:2): because when Satan entered into the heart of Judas, Christ departed from him, and in the moment in which he received him, He lost him. Finally, it is written: And after the morsel, Satan entered into him (Ibid., 27). Therefore, Jesus said to him: What you are doing, do quickly. What is this? That because Satan had entered into him, he would depart from Christ. Therefore, he is cast out and excluded, because he can no longer be with the Lord Jesus, as he had begun to be with the devil: for there is no communion of Christ with Belial. Hence, immediately being expelled by command, he departed, as we read, with the Evangelist saying: He received the morsel, and immediately went out (Ibid., 30); for it was night. He not only went out, but immediately and in the night he went out. And it is not surprising that he had the darkness of night who abandoned Christ. Truly, just as he was received by the devil, he was excluded from Christ; so Zacchaeus, renouncing greed, received Christ. And rightly seeing his eagerness, that he had climbed up a tree to see Jesus passing by, the Lord says: Zacchaeus, hurry down, for today I must stay at your house. And he hurried down and joyfully welcomed him. But by receiving Christ he excluded greed, banished treachery, renounced deceit. For Christ does not enter otherwise, than to exclude vices; because he does not dwell with errors. Finally, he threw the moneylenders out of the temple, because he himself wanted to dwell there. Therefore, Zachaeus understanding this, that he could not receive Christ with his old affection, commanded his former vices to leave his home, so that Christ would enter. Therefore, while the Pharisees were murmuring because the Lord Jesus had gone to stay with a sinner, he said to the Lord: Behold, Lord, I give half of my goods to the poor; and if I have defrauded anyone of anything, I restore it fourfold (Luke 19:8). In this, he responded to those who said that a sinner should not offer hospitality to Christ: This is to say, I am no longer a tax collector, I am not that Zacchaeus, I am not a robber, I am not a fraudster. I return what I took, I return what I used to steal. Now I give to the poor, whom I used to strip: now I offer my own, whom I used to rob. The sins fled after Christ entered. The blindness of all carnal passions has been dispelled, where the light of eternal life has been infused.
 
-<h2 id='tocuniq19'>Caput V.</h2>
+<h2 id='tocuniq19'>Chapter V.</h2>
 
 What do the fat and lard of sacrifices and offerings signify?
 
 17. We have spoken about first-borns; let us also speak about fatness, about which David sufficiently teaches, saying: My soul shall be filled as with marrow and fatness (Ps. 62:5-6). And further he says: And let thy burnt-offering be fat (Ps. 20:4). Teaching that an acceptable sacrifice is one that is fat, that is shining, and that has been nourished with the food of faith and devotion, fattened by the abundant nourishment of the heavenly word. We often describe as fat a work that we want to be thick and laborious; and a rich offering is praised, which is not thin, not slender. And hence we rightly call it a rich sacrifice, because we desire to signify its abundance. Moreover, it is also supported by the evidence that fat cows, in prophetic interpretation, have been compared to bountiful years (Gen. XLI, 26).
 
-<h2 id='tocuniq20'>Caput VI.</h2>
+<h2 id='tocuniq20'>Chapter VI.</h2>
 
 What the Lord meant when he said: If you offer correctly, but divide incorrectly, you have sinned, so be still; and of the four types in which sacrifices were commended, if anything is lacking, the sacrifice is not approved, with the most beautiful moral interpretation of these things.
 
@@ -287,7 +287,7 @@ However, the offering and prayer should not be confused but distinguished by app
 
 23. If any of these things we have said above are lacking, the sacrifice is not approved. Therefore it was said to Cain: If you offer rightly, but do not rightly divide, you have sinned. For the world itself is read to have been made distinct, when it was an unarranged part; for the Earth was invisible and unarranged (Gen. I, 2). Truly light was made first, and God called the light, and God separated the light from the darkness, and the darkness was called night. And in order we read the things that were done, heaven, earth, fruitful trees, diverse animals. And indeed they are distributed lighter to the higher, such as air and fire: heavier to the lower, that is, earth and water. Certainly all things could have been created at once by God: but He chose to maintain distinction, which we should imitate in all our affairs, and especially in the alternations of gratitude, in which it is not enough to repay what you have received, but to commend what you give back. For if someone pays his debt and in returning does harm to the creditor, it is surely more intolerable than not having paid back what he owed. Therefore, it is not the amount of payment, but the intention of the one making the payment, and the quality and emotion, that are considered. Therefore, Cain offered correctly; because offering is a remarkable display of devotion and an indication of thanks: but he did not divide correctly; because he should have first offered the first fruits to God, so that he would begin with grace from the author. For here the order of division is such that the second things come before the first, not the first before the second; and heavenly things are preferred to earthly things, not earthly things to heavenly things.
 
-<h2 id='tocuniq21'>Caput VII.</h2>
+<h2 id='tocuniq21'>Chapter VII.</h2>
 
 God, who taught in Adam not to sin, taught in Cain not to defend sin. And there, how prone one is to fall from impiety into other crimes, He instructs.
 
@@ -297,13 +297,13 @@ God, who taught in Adam not to sin, taught in Cain not to defend sin. And there,
 
 25. He says well: You are the leader of that person. For impiety is a certain mother of offenses; and he who has sinned more gravely easily falls into other sins. For how can he who has violated divine things restrain himself from human ones, and be good to people who has harmed God? Therefore, vices follow a more atrocious guilt of crimes; because the more they have inclined towards shameful things, the more they lean towards other things. So you are the leader of your own work, the guide of the crime. You were not unwilling, nor unaware, that error drew you in: but as a willing defendant in judgment, not by a slip, you committed deceit, by which you yourself prove yourself guilty of divine wrongs.
 
-<h2 id='tocuniq22'>Caput VIII.</h2>
+<h2 id='tocuniq22'>Chapter VIII.</h2>
 
 By Cain's rebuke, insolence and crime increase. In his words: 'Let us go to the field,' it is shown that deserted and barren places suit wicked actions.
 
 26. Therefore, being warned to keep quiet, he becomes more insolent, and wickedness becomes more bitter. What, then, does he mean when he says: 'Let us go into the field' (ibid., 8)? Is it not because a bare place where offspring are produced is chosen for the act of parricide? For where did the brother have an opportunity to be killed except where fruit was lacking? As if nature, foreseeing such a great crime, had denied the germination of seeds to that place; because it was not fitting that the same place should receive both the contagion of parricidal blood beyond the bounds of nature and that fruits should be produced naturally according to nature. He rightfully says: Let us go to the field. He does not say: Let us go to paradise, where fruits flourish, but to some barren and unfruitful place. The murderers themselves indicate that they cannot have the fruit of their crime, nor can it remain with those who have shown such great impiety. For they flee from the kindness of the elements themselves, like this Cain, who seems to fear that the fertile earth's abundant yield would hinder his sad deed, and the accustomed generosity of fertility, which causes various offspring and fruits to sprout, would also recall in this crime or in some silent appearance the affection of a brother. The thief avoids the light of day as though it were a witness to his crime, the adulterer blushes at the light as though it knows of his adultery, the murderer flees from the fertility of the earth. For how could he behold the companionship of common birth who slew the companion of his own blood? Joseph is cast into a dry pit, Ammon is killed within his house. Therefore, nature has justly bestowed judgment upon those places where patricide would occur by depriving them of the gift of her bounty, so that by the condemnation of an innocent land, she might reveal the great punishments that await the guilty. Therefore, both the elements themselves and human beings are condemned because of the wickedness. Finally, David, in the mountains where Jonathan was killed along with his father, desired the punishment of perpetual sterility, saying: O mountains of Gilboa, may neither dew nor rain fall upon you, you mountains of death (2 Samuel 1:21).
 
-<h2 id='tocuniq23'>Caput IX.</h2>
+<h2 id='tocuniq23'>Chapter IX.</h2>
 
 God questioned Cain, not to learn, but to induce him to confess. His response is impious towards God and nature; and God's opposite response is shown to wonderfully teach the piety of brotherly love. From God, the righteous are heard even when dead, so that they may truly live, and the sinners are dead. These ones are tormented by present and future evils, but are more troubled by present evils.
 
@@ -324,7 +324,7 @@ And he says well: The voice of your brother's blood cries out, not the brother c
 
 33. Therefore, rightfully so, he hides himself, feeling guilty, and says: 'Anyone who finds me will kill me.' A person of noble character fears present death, neglects eternal death, and does not shy away from divine judgment; they only pray for the destruction of the body. But why did he fear being killed, when he had only his parents on Earth? Indeed, he could also fear attacks from beasts, as he had violated the laws of divine authority; and he could not presume to harm other subject animals, as he had taught mankind how to kill. He was able to fear even his parents as parricides, who had taught that parricide could be committed. Indeed, parents were also able to learn from their son, what offspring learned from their parent.
 
-<h2 id='tocuniq24'>Caput X.</h2>
+<h2 id='tocuniq24'>Chapter X.</h2>
 
 The decree of God, 'If anyone kills Cain, etc.,' is explained morally; in the sign placed above the same [Cain], the divine mercy is declared, as is also in the madness of Cain, that he feared temporal death more than eternal death. Hence, a beautiful discussion is made about the incorruptibility of the soul and the future life. Finally, it is shown that judgment should not be hastily passed, nor should a crime go unpunished.
 
