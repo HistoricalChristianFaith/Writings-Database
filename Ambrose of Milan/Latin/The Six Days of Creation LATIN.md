@@ -1,4 +1,6 @@
-Sancti Ambrosii Mediolanensis Episcopi Hexaemeron Libri Sex.
+<h1>Sancti Ambrosii Mediolanensis Episcopi Hexaemeron Libri Sex.</h1>
+
+Text from [catholiclibrary.org](https://catholiclibrary.org/library/view?docId=Fathers-OR/PL.014.html;query=;subDocument=PL.014.html.xml.00000039;brand=default) (Migne Editors, Patrologiae Cursus Completus - public domain).
 
 <table id="user-content-toc" summary="Contents">
 <tbody><tr><td>

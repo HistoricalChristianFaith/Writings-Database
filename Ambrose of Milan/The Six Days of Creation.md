@@ -1,4 +1,8 @@
-The Six Days of Creation, books by Saint Ambrose of Milan, Bishop.
+<h1>The Six Days of Creation, books by Saint Ambrose of Milan, Bishop.</h1>
+
+<a href='./Latin/The%20Six%20Days%20of%20Creation%20LATIN.md'>Latin Text</a> from public domain Migne Editors, Patrologiae Cursus Completus.
+
+Translated into English using ChatGPT. 
 
 <table id="user-content-toc" summary="Contents">
 <tbody><tr><td>
