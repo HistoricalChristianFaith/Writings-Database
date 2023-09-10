@@ -1,6 +1,6 @@
 <h1>On the Letter to the Romans.</h1>
 
-<a href='./Latin/On%20the%20Letter%20to%20the%20Romans%20LATIN.md'>Latin Text</a> from public domain Migne Editors, Patrologiae Cursus Completus.
+<a href='./Latin/Commentary%20on%20Romans%20LATIN.md'>Latin Text</a> from public domain Migne Editors, Patrologiae Cursus Completus.
 
 Translated into English using ChatGPT. 
 
