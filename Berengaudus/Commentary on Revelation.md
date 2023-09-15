@@ -9,7 +9,7 @@ Translated into English using ChatGPT.
 <h2>Table of Contents</h2>
 <ul>
 <li><a href='#tocuniq3'>De Prima Visione.</a></li>
-<li><a href='#tocuniq4'>Caput I.</a></li>
+<li><a href='#tocuniq4'>Chapter I.</a></li>
 <li><a href='#tocuniq5'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq6'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq7'>(Vers. 3.)</a></li>
@@ -28,7 +28,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq20'>(Vers. 18.)</a></li>
 <li><a href='#tocuniq21'>(Vers. 19.)</a></li>
 <li><a href='#tocuniq22'>(Vers. 20.)</a></li>
-<li><a href='#tocuniq23'>Caput II.</a></li>
+<li><a href='#tocuniq23'>Chapter II.</a></li>
 <li><a href='#tocuniq24'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq25'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq26'>(Vers. 3, 4.)</a></li>
@@ -49,7 +49,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq41'>(Vers. 24.)</a></li>
 <li><a href='#tocuniq42'>(Vers. 25.)</a></li>
 <li><a href='#tocuniq43'>(Vers. 26, 27, 28.)</a></li>
-<li><a href='#tocuniq44'>Caput III.</a></li>
+<li><a href='#tocuniq44'>Chapter III.</a></li>
 <li><a href='#tocuniq45'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq46'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq47'>(Vers. 3.)</a></li>
@@ -70,7 +70,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq62'>(Vers. 20.)</a></li>
 <li><a href='#tocuniq63'>(Vers. 21.)</a></li>
 <li><a href='#tocuniq64'>De Visione Secunda.</a></li>
-<li><a href='#tocuniq65'>Caput IV.</a></li>
+<li><a href='#tocuniq65'>Chapter IV.</a></li>
 <li><a href='#tocuniq66'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq67'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq68'>(Vers. 3.)</a></li>
@@ -82,7 +82,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq74'>(Vers. 9, 10.)</a></li>
 <li><a href='#tocuniq75'>(Vers. 11.)</a></li>
 <li><a href='#tocuniq76'>De Visione Tertia.</a></li>
-<li><a href='#tocuniq77'>Caput V.</a></li>
+<li><a href='#tocuniq77'>Chapter V.</a></li>
 <li><a href='#tocuniq78'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq79'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq80'>(Vers. 3.)</a></li>
@@ -96,7 +96,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq88'>(Vers. 11, 12.)</a></li>
 <li><a href='#tocuniq89'>(Vers. 13.)</a></li>
 <li><a href='#tocuniq90'>(Vers. 14.)</a></li>
-<li><a href='#tocuniq91'>Caput VI.</a></li>
+<li><a href='#tocuniq91'>Chapter VI.</a></li>
 <li><a href='#tocuniq92'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq93'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq94'>(Vers. 3, 4.)</a></li>
@@ -110,7 +110,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq102'>(Vers. 13.)</a></li>
 <li><a href='#tocuniq103'>(Vers. 14.)</a></li>
 <li><a href='#tocuniq104'>(Vers. 15, 16, 17.)</a></li>
-<li><a href='#tocuniq105'>Caput VII.</a></li>
+<li><a href='#tocuniq105'>Chapter VII.</a></li>
 <li><a href='#tocuniq106'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq107'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq108'>(Vers. 3.)</a></li>
@@ -122,7 +122,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq114'>(Vers. 15.)</a></li>
 <li><a href='#tocuniq115'>(Vers. 16.)</a></li>
 <li><a href='#tocuniq116'>(Vers. 17.)</a></li>
-<li><a href='#tocuniq117'>Caput VIII.</a></li>
+<li><a href='#tocuniq117'>Chapter VIII.</a></li>
 <li><a href='#tocuniq118'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq119'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq120'>(Vers. 3.)</a></li>
@@ -137,7 +137,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq129'>(Vers. 11.)</a></li>
 <li><a href='#tocuniq130'>(Vers. 12.)</a></li>
 <li><a href='#tocuniq131'>(Vers. 13.)</a></li>
-<li><a href='#tocuniq132'>Caput IX.</a></li>
+<li><a href='#tocuniq132'>Chapter IX.</a></li>
 <li><a href='#tocuniq133'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq134'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq135'>(Vers. 3.)</a></li>
@@ -157,7 +157,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq149'>(Vers. 18.)</a></li>
 <li><a href='#tocuniq150'>(Vers. 19.)</a></li>
 <li><a href='#tocuniq151'>(Vers. 20, 21.)</a></li>
-<li><a href='#tocuniq152'>Caput X.</a></li>
+<li><a href='#tocuniq152'>Chapter X.</a></li>
 <li><a href='#tocuniq153'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq154'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq155'>(Vers. 3.)</a></li>
@@ -166,7 +166,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq158'>(Vers. 8.)</a></li>
 <li><a href='#tocuniq159'>(Vers. 9, 10.)</a></li>
 <li><a href='#tocuniq160'>(Vers. 11.)</a></li>
-<li><a href='#tocuniq161'>Caput XI.</a></li>
+<li><a href='#tocuniq161'>Chapter XI.</a></li>
 <li><a href='#tocuniq162'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq163'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq164'>(Vers. 3, 4.)</a></li>
@@ -181,7 +181,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq173'>(Vers. 16.)</a></li>
 <li><a href='#tocuniq174'>(Vers. 17, 18.)</a></li>
 <li><a href='#tocuniq175'>(Vers. 19.)</a></li>
-<li><a href='#tocuniq176'>Caput XII.</a></li>
+<li><a href='#tocuniq176'>Chapter XII.</a></li>
 <li><a href='#tocuniq177'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq178'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq179'>(Vers. 3, 4.)</a></li>
@@ -199,7 +199,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq191'>(Vers. 16.)</a></li>
 <li><a href='#tocuniq192'>(Vers. 17.)</a></li>
 <li><a href='#tocuniq193'>(Vers. 18.)</a></li>
-<li><a href='#tocuniq194'>Caput XIII.</a></li>
+<li><a href='#tocuniq194'>Chapter XIII.</a></li>
 <li><a href='#tocuniq195'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq196'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq197'>(Vers. 3.)</a></li>
@@ -218,7 +218,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq210'>(Vers. 16.)</a></li>
 <li><a href='#tocuniq211'>(Vers. 17.)</a></li>
 <li><a href='#tocuniq212'>(Vers. 18.)</a></li>
-<li><a href='#tocuniq213'>Caput XIV.</a></li>
+<li><a href='#tocuniq213'>Chapter XIV.</a></li>
 <li><a href='#tocuniq214'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq215'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq216'>(Vers. 3.)</a></li>
@@ -232,7 +232,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq224'>(Vers. 12, 13.)</a></li>
 <li><a href='#tocuniq225'>(Vers. 14-19.)</a></li>
 <li><a href='#tocuniq226'>(Vers. 20.)</a></li>
-<li><a href='#tocuniq227'>Caput XV.</a></li>
+<li><a href='#tocuniq227'>Chapter XV.</a></li>
 <li><a href='#tocuniq228'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq229'>(Vers. 2, 3.)</a></li>
 <li><a href='#tocuniq230'>(Vers. 4.)</a></li>
@@ -240,7 +240,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq232'>(Vers. 5.)</a></li>
 <li><a href='#tocuniq233'>(Vers. 6.)</a></li>
 <li><a href='#tocuniq234'>(Vers. 8.)</a></li>
-<li><a href='#tocuniq235'>Caput XVI.</a></li>
+<li><a href='#tocuniq235'>Chapter XVI.</a></li>
 <li><a href='#tocuniq236'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq237'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq238'>(Vers. 3.)</a></li>
@@ -258,7 +258,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq250'>(Vers. 19.)</a></li>
 <li><a href='#tocuniq251'>(Vers. 20.)</a></li>
 <li><a href='#tocuniq252'>(Vers. 21.)</a></li>
-<li><a href='#tocuniq253'>Caput XVII.</a></li>
+<li><a href='#tocuniq253'>Chapter XVII.</a></li>
 <li><a href='#tocuniq254'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq255'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq256'>(Vers. 3.)</a></li>
@@ -276,7 +276,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq268'>(Vers. 17.)</a></li>
 <li><a href='#tocuniq269'>(Vers. 15.)</a></li>
 <li><a href='#tocuniq270'>(Vers. 18.)</a></li>
-<li><a href='#tocuniq271'>Caput XVIII.</a></li>
+<li><a href='#tocuniq271'>Chapter XVIII.</a></li>
 <li><a href='#tocuniq272'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq273'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq274'>(Vers. 3.)</a></li>
@@ -294,7 +294,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq286'>(Vers. 21.)</a></li>
 <li><a href='#tocuniq287'>(Vers. 22, 23.)</a></li>
 <li><a href='#tocuniq288'>(Vers. 24.)</a></li>
-<li><a href='#tocuniq289'>Caput XIX.</a></li>
+<li><a href='#tocuniq289'>Chapter XIX.</a></li>
 <li><a href='#tocuniq290'>(Vers. 1-8.)</a></li>
 <li><a href='#tocuniq291'>(Vers. 9.)</a></li>
 <li><a href='#tocuniq292'>(Vers. 10.)</a></li>
@@ -324,7 +324,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq316'>(Vers. 13.)</a></li>
 <li><a href='#tocuniq317'>(Vers. 13.)</a></li>
 <li><a href='#tocuniq318'>(Vers. 14, 15.)</a></li>
-<li><a href='#tocuniq319'>Caput XXI.</a></li>
+<li><a href='#tocuniq319'>Chapter XXI.</a></li>
 <li><a href='#tocuniq320'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq321'>(Vers. 2.)</a></li>
 <li><a href='#tocuniq322'>(Vers. 3.)</a></li>
@@ -351,7 +351,7 @@ Translated into English using ChatGPT.
 <li><a href='#tocuniq343'>(Vers. 25.)</a></li>
 <li><a href='#tocuniq344'>(Vers. 26.)</a></li>
 <li><a href='#tocuniq345'>(Vers. 27.)</a></li>
-<li><a href='#tocuniq346'>Caput XXII.</a></li>
+<li><a href='#tocuniq346'>Chapter XXII.</a></li>
 <li><a href='#tocuniq347'>(Vers. 1.)</a></li>
 <li><a href='#tocuniq348'>(Vers. 3.)</a></li>
 <li><a href='#tocuniq349'>(Vers. 4.)</a></li>
@@ -378,7 +378,7 @@ Translated into English using ChatGPT.
 
 It is known that the blessed apostle and evangelist John composed this book of Revelation; although there have been some who have said that it was not by him, but by someone else: but the following make it clear that it was indeed his.
 
-<h2 id='tocuniq4'>Caput I.</h2>
+<h2 id='tocuniq4'>Chapter I.</h2>
 
 
 
@@ -480,7 +480,7 @@ And we can also apply what the same Solomon puts in another place, saying: Give 
 
 (Verse 20.) The mystery of the seven stars which you saw in my right hand, and the seven golden candlesticks. The meaning is understood by implication. And what they signify, he reveals by explaining: The seven stars are the angels of the seven churches, and the seven golden candlesticks are the seven churches. Therefore, we must understand the seven angels as the rulers of the seven churches, because angel is translated as messenger: and those who proclaim the word of God to the people are appropriately called angels, that is, messengers. And just as through the seven Churches one Catholic Church is signified, so also through the seven rulers of the seven Churches all the rulers of the Catholic Church are designated.
 
-<h2 id='tocuniq23'>Caput II.</h2>
+<h2 id='tocuniq23'>Chapter II.</h2>
 
 
 
@@ -581,7 +581,7 @@ And because the precepts of the New Testament are stricter than those of the Old
 
 And I will give him the morning star: that is, I will give myself to him; for I am the morning star, of whom the Scripture says: A star shall rise out of Jacob, and a man shall spring up from Israel, and shall strike the chiefs of Moab (Num. XXIV, 17). Moab is said to be from the father: and the Lord said to the Jews: You are of your father the devil. Therefore the Lord struck the chiefs of Moab, when he destroyed all the makers of errors.
 
-<h2 id='tocuniq44'>Caput III.</h2>
+<h2 id='tocuniq44'>Chapter III.</h2>
 
 
 
@@ -672,7 +672,7 @@ And you do not know that you are wretched and pitiable, and poor, and blind, and
 
 The reason demands that after the seven letters, which John directed to the seven Churches that signify one Catholic Church, in which the faithful are instructed on how they should ascend to the height of virtues, the same Church's state and sublimity should be described more clearly.
 
-<h2 id='tocuniq65'>Caput IV.</h2>
+<h2 id='tocuniq65'>Chapter IV.</h2>
 
 
 
@@ -796,7 +796,7 @@ It follows: Because you created all things, and they existed for your will, and 
 
 After the description of the structure of the Church, it is fittingly indicated by the opening of the book, by which the opening of the divine Scriptures is signified, because after the Church was founded among the Gentiles by the holy apostles and other preachers, the books of the Old and New Testament were explained by the holy doctors according to the apostolic faith.
 
-<h2 id='tocuniq77'>Caput V.</h2>
+<h2 id='tocuniq77'>Chapter V.</h2>
 
 
 
@@ -857,7 +857,7 @@ After the description of the structure of the Church, it is fittingly indicated 
 
 (V. 14) And the four living creatures said: Amen. Amen is the confirmation of the word: therefore the four living creatures say, Amen, when the holy preachers constantly desire that their hearers may make greater and greater progress in good works. And the twenty-four elders fell down and worshipped. The twenty-four elders in this place have the same significance as the four living creatures: therefore the elders fall down and worship, when the holy preachers, the more they see their hearers to have advanced in good works, the more they humble themselves in the sight of God, as Scripture says: The greater you are, humble yourself in all things, and before God you will find favor (Eccl. 3:20). It follows the opening of seals, which is believed to pertain only to the opening of the divine Scriptures. For even those things that are said to have been done in the opening of the seals pertain to the opening of the Old and New Testament: and just as the whole body of the elect consists of seven parts, so there are also seven seals that correspond to each part, to show those things that are obscurely placed in the divine Scriptures, or what the deeds of the holy fathers signify. Therefore, the opening of the first seal pertains to events that occurred before the flood; but the opening of the second seal pertains to the patriarchs; the opening of the third seal pertains to those who lived under the Law; and the opening of the fourth seal pertains to the prophets. However, the three remaining openings pertain to the New Testament. The fifth opening pertains to the martyrs; the sixth to the rejection of the Jews and the calling of the Gentiles; and the seventh pertains to the coming of Christ. We will discuss why the coming of the Lord is placed in the seventh position in the following sections. But we must inquire why the opening of the Old Testament is represented by the vision of four horsemen; for the horseman, on the one hand, is recognized as irrational in part, being a part of the horse, and on the other hand, is recognized as rational in part, being a part of the rider. Similarly, certain legal precepts are found to be irrational in part with regard to the literal sense, but are found to be highly rational in part with regard to the allegorical sense.
 
-<h2 id='tocuniq91'>Caput VI.</h2>
+<h2 id='tocuniq91'>Chapter VI.</h2>
 
 
 
@@ -1048,7 +1048,7 @@ And to them were given each white stoles. The white stoles are the glory of the 
 
 (Verse 15, 16, 17.) And the kings of the earth, and the princes, and the tribunes, and the rich, and the strong, and every slave and free person hid themselves in caves and in the rocks of the mountains; and they said to the mountains: Fall upon us, and hide us from the face of the One seated on the throne, and from the wrath of the Lamb; for the great day of their wrath has come, and who can stand? However, Josephus clearly recounts how they hid themselves in caves and the rocks of mountains, describing the destruction of Jerusalem (Josephus, Book 6 of The Jewish War, chapter 11 and following). The affliction was so great that they were consumed by prolonged famine, and were afflicted both externally by enemies and much worse internally by bandits; they hid themselves in wells and sewers, and in some hidden places in the ground, desiring death in order to end their protracted misery. Those who, knowing that they themselves would suffer these things for their own crimes, and that after death they would endure the pains of hell, desired to be oppressed and hidden by the mountains under which they would lie concealed from the face of God and the face of Christ, whom they knew had greatly offended them. For even when the Lord was being led to his passion, he predicted that they would suffer these things, as he said to the weeping women: Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children; for behold, the days are coming when they will say: Blessed are the barren, and the wombs that never bore, and the breasts that never nursed! Then they will begin to say to the mountains, 'Fall on us,' and to the hills, 'Cover us.' For if they do these things in the green wood, what will be done in the dry? He calls Himself the green wood, but them the dry wood; as if He had said, If they do these things to Me, who am wood according to humanity but green according to divinity, that is, who am both God and man, what will be done to them who are dry wood, that is, who do not have the greenness of faith? It is understood that they will perish most wretchedly. But even the fig tree, which the Lord cursed and made dry before his suffering, because he had not found any fruit on it (Matthew 21:19); he designated the same Jews, whom he condemned with perpetual curse, because he had not found any fruit of faith in them.
 
-<h2 id='tocuniq105'>Caput VII.</h2>
+<h2 id='tocuniq105'>Chapter VII.</h2>
 
 
 
@@ -1111,7 +1111,7 @@ And therefore, after Issachar, Zebulun is placed, which is interpreted as the dw
 
 And God will wipe away every tear from their eyes. For this was the time to weep, the time to laugh will be in that blessedness, as the Lord says: Blessed are those who weep now, for they will be comforted (Matthew 5:5).
 
-<h2 id='tocuniq117'>Caput VIII.</h2>
+<h2 id='tocuniq117'>Chapter VIII.</h2>
 
 
 
@@ -1186,7 +1186,7 @@ And the third part of the earth was burned... and all green grass was burned. By
 
 (Verse 13) And I saw and heard the voice of an eagle flying in the middle of the sky, saying with a loud voice: Woe, woe, woe to those who dwell on the earth, from the voices of the three angels who are about to sound their trumpets. In this place, the Church is represented by the sky, and the eagle represents Christ and his apostles. Therefore, the eagle was flying in the middle of the sky and crying out, because Christ first preached through Judea, and his apostles preached the Gospel to all nations. They also foretold in many ways the persecutions that the Church would suffer from its adversaries. And so he placed three woes, of which the first pertains to the heretics, who have tried in many ways to attack the Church of God; the second to the pagans, who have persecuted the same Church of God and killed a great multitude of the faithful; the third to the Antichrist, who will wage war against the people of God at the end of the world. And we should not think that the three woes pertain to the elect, who have suffered various calamities from the wicked, but rather to the same wicked ones who have inflicted those same calamities. Wherefore, Woe, woe, woe to those who dwell on earth, says he; for the wicked, who seek nothing but the earth, are called inhabitants of the earth by right: but the righteous, who always desire heavenly things, are rightly called inhabitants of heaven, as the apostle Paul says: But our conversation is in heaven (Philippians 3:20).
 
-<h2 id='tocuniq132'>Caput IX.</h2>
+<h2 id='tocuniq132'>Chapter IX.</h2>
 
 
 
@@ -1283,7 +1283,7 @@ And their faces will be like the faces of men. Man is a rational animal: through
 
 (Verse 20, 21.) And the rest of the people who were not killed by these plagues did not repent of the works of their hands, that they should not worship demons and idols of gold and silver and bronze and stone and wood, which can neither see nor hear nor walk. And they did not repent of their murders or their sorceries or their sexual immorality or their thefts; it is understood, they perished. The third part, which was killed, was saved, that is, the chosen ones, from whom many were killed for the sake of Christ's name: the others would gladly have yielded, if necessity had required it. But the rest, that is, the pagans who refused to believe in Christ, perished without repenting of their sins.
 
-<h2 id='tocuniq152'>Caput X.</h2>
+<h2 id='tocuniq152'>Chapter X.</h2>
 
 
 
@@ -1323,7 +1323,7 @@ And their faces will be like the faces of men. Man is a rational animal: through
 
 (Verse 11) And he said to me: You must prophesy again to peoples and nations and tongues and many kings. It is predicted to him that he will return from exile to preach. But since the holy Fathers teach that after his return from exile he preached only in Ephesus and its neighboring places, and there he died and was buried; how is it said that he prophesied to peoples and nations and tongues and many kings? But he prophesied, that is, he proclaimed through his Gospel, which he afterward wrote to all nations, and in many languages, and to many kings; for it is dispersed throughout all nations, and through his meditation all the peoples of the earth, and many kings, are profiting.
 
-<h2 id='tocuniq161'>Caput XI.</h2>
+<h2 id='tocuniq161'>Chapter XI.</h2>
 
 
 
@@ -1390,7 +1390,7 @@ The kingdom of this world has become the kingdom of our Lord and of His Christ, 
 (Verse 19) And the temple of God was opened in heaven, and the ark of his covenant was seen in his temple. We can understand the blessed Virgin Mary as the temple of God, and Christ as the ark of the covenant, who assumed flesh from her. The temple of God is not called open because the womb of the blessed Virgin Mary was opened in giving birth to the Lord, she who was a virgin before childbirth, a virgin in childbirth, and a virgin after childbirth. But it is called open because through her our Lord Jesus Christ became visible to us. We can also understand the Old Testament through the temple: through the ark, the sacraments that are contained in the Old Testament about Christ. For when Christ came in the flesh, the Old Testament was opened and the spiritual understanding that was hidden in it was revealed to the faithful. And there were lightnings, and voices, and earthquakes, and great hail. The lightning represents the miracles that were done through Christ, and His preaching is signified by the voices. But earthquakes symbolize the movement of hearts; for people are often moved to carry out the preaching of Christ for the purpose of repenting from their sins: they are moved from unbelief to faith: they are moved from evil to good. And because hail often strikes the earth, we can understand through hail the threats of eternal fire, which are frequently found in the Gospels; by which the hearts of the wicked are struck, so that they may repent from their iniquities.
 
 
-<h2 id='tocuniq176'>Caput XII.</h2>
+<h2 id='tocuniq176'>Chapter XII.</h2>
 
 
 
@@ -1467,7 +1467,7 @@ The kingdom of this world has become the kingdom of our Lord and of His Christ, 
 
 (Verse 18.) And he stood upon the sand of the sea. By the sand of the sea is signified the multitude of reprobates who are to be at that time.
 
-<h2 id='tocuniq194'>Caput XIII.</h2>
+<h2 id='tocuniq194'>Chapter XIII.</h2>
 
 
 
@@ -1555,7 +1555,7 @@ The Lord speaks in the Gospel about these seven vices, saying: When an unclean s
 (Verse 18.) Here is wisdom. Let him who has understanding calculate the number of the beast, for it is the number of a man: His number is six hundred and sixty-six. Many have spoken extensively about this number, and have found many names in which this number is found. However, they have not been able to predict if any of these names belong to Antichrist. But I dare not define anything about such an uncertain matter. For who knows if the name that will be given to him by his parents contains this number.
 
 
-<h2 id='tocuniq213'>Caput XIV.</h2>
+<h2 id='tocuniq213'>Chapter XIV.</h2>
 
 
 
@@ -1634,7 +1634,7 @@ Then another angel came out of the temple and cried out with a loud voice to the
 And blood came out of the lake up to the bridles of the horses for a thousand six hundred furlongs. The punishment of the wicked is symbolized by the blood: as the blood which came out of the lake occupied a space of a thousand six hundred furlongs, false Christians are symbolized: although the number is derived from the quaternary number, it is nevertheless scattered everywhere, maintaining the same number, and never crossing its boundaries. Similarly, false Christians receive the faith of Christ, which consists of the four books of the Gospel, in baptism: but leaving the narrow and restricted path, which is enclosed within the confines of the quaternary number, that leads to life; they walk along the wide and spacious path of this world, which leads to death (Matthew 13:3). However, they do not depart from the number four, for even though they do not have the works of Christianity, they do not lose the name of Christianity. Therefore, blood came out from the lake and occupied one thousand six hundred stadia; for that punishment which will engulf demons and all unbelievers will also ensnare false Christians, who appeared to have faith but did not have the works of faith: False shepherds of the Church are designated by the horses, who undertake the task of governing not out of love for God, but out of love for the world; their false doctrine is represented by the reins by which the horses are controlled. Indeed, false shepherds have doctrine in their mouth, so that they may not appear entirely alien from their office. But following the example of the Pharisees, they say and do not do. And since they can only teach what the Gospel speaks, and in their preaching they announce the punishment that sinners will suffer unless they are corrected, the blood reaches the reins of the horses, because the punishments that they have threatened to sinners, unless they are corrected, they themselves will experience, because they did not want to abandon their vices.
 
 
-<h2 id='tocuniq227'>Caput XV.</h2>
+<h2 id='tocuniq227'>Chapter XV.</h2>
 
 
 
@@ -1671,7 +1671,7 @@ And one of the four living creatures gave to the seven angels seven golden vials
 
 (Verse 8.) And the temple was filled with smoke from the majesty of God and from His power. We have stated above that the heavenly temple symbolizes the homeland: but smoke, if it is within a house, obscures the eyes of those looking from outside, so that they cannot see perfectly what is happening inside. Therefore, the temple of the heavenly homeland is now filled with smoke; because the chosen ones, placed in this life, while raising the eyes of their minds to contemplate heavenly things, are obscured by a certain darkness that they cannot pass through: this obscuration is called smoke. Paul suffered this dimness when he said: Now we see through a glass in an enigma, but then face to face. And again: Now I know in part, but then I shall know even as I am known (I Cor. XIII, 12). And it should be noted that the chosen ones endure this dullness as long as they are placed in this life; but when they transition to that heavenly beatitude, it will be removed from the eyes of their mind. Hence it follows: And no one could enter into the temple until the seven plagues of the seven angels were completed. Do the righteous not enter into that heavenly blessedness every day? But let us understand that this is said about the entrance of bodies; for in that heavenly blessedness, the righteous do not enter with their bodies until the sevenfold plagues of the seven angels are completed. We have spoken about the seven plagues above: the last plague, however, will be when the Antichrist infects the human race with his errors. But after the seven plagues, for which the day of judgment will be appointed, the saints will receive their bodies and will dwell without end in the temple of their heavenly country with the Lord. Concerning this dwelling, the Psalmist says: Blessed are those who dwell in your house, O Lord; they shall praise you forever and ever  (Psalm 84:5).
 
-<h2 id='tocuniq235'>Caput XVI.</h2>
+<h2 id='tocuniq235'>Chapter XVI.</h2>
 
 
 
@@ -1752,7 +1752,7 @@ And Babylon came greatly into remembrance before God, to give her the cup of the
 
 (Verse 21.) And great hail, like a talent, descends from heaven upon men. In the Gospel it is written that a certain householder, going on a journey, gave his servants five talents, to another two, and to another one. But the first and second, trading with the talents they had received from their master, doubled them; but the third dug into the ground and hid his master's money (Matthew 25:15). Therefore, whatever temporal goods or whatever skills we have received from the Lord, they will be accounted to us according to the receipt of talents: so the righteous, who are signified by the first and second servant, double their talents; they spend the temporal goods they receive from the Lord in good works and encourage others to do good as well. But the wicked, who are signified by the third servant, hide their talents in the ground; for from the temporal goods they have received from the Lord, they nourish vices rather than virtues. By hail, which destroys and wipes out the things that grow from the earth; the vengeance of almighty God is designated, by which he will crush the wicked and send them to hell: which is said to be like a talent, because it will punish each individual according to the quality of their talent; and the more one has transgressed, the more severe torments they will be forced to endure. But what follows is very obscure: And men blasphemed God because of the plague of hail, for it was greatly magnified. For who in that strict and just judgement will dare to blaspheme God? But they are said to blaspheme, because the blasphemies of the reprobate, which they now conceal in their hearts, will be manifest to all.
 
-<h2 id='tocuniq253'>Caput XVII.</h2>
+<h2 id='tocuniq253'>Chapter XVII.</h2>
 
 
 
@@ -1830,7 +1830,7 @@ And Babylon came greatly into remembrance before God, to give her the cup of the
 
 (Verse 18.) And the woman whom you saw is the great city that has dominion over the kings of the earth. This is clear; for we know that at that time the Romans ruled over all the kings of the earth. But someone might say: How are the Romans represented by a prostitute woman, when in those times, when these different nations brought various calamities upon the human race, the Romans became Christians? To which we respond that by the prostitute woman, not the chosen ones who were from the same nation are understood, and who for the love of heavenly glory despised the glory of the world: but rather the reprobate, whether they were pagans or Christians. So their power was destroyed by those nations who oppressed the human race with wicked domination.
 
-<h2 id='tocuniq271'>Caput XVIII.</h2>
+<h2 id='tocuniq271'>Chapter XVIII.</h2>
 
 
 
@@ -1910,7 +1910,7 @@ And do not partake in her plagues. What are the plagues of Babylon, if not vices
 
 (Verse 24) And in her was found the blood of prophets and saints and of all who have been slain on the earth. The blood of saints was found in her, that is, the crime of killing saints, as the Lord says to the wicked Jews in the understanding of all reprobates: 'Upon you may come all the righteous blood shed upon the earth' (Matthew 23:35).
 
-<h2 id='tocuniq289'>Caput XIX.</h2>
+<h2 id='tocuniq289'>Chapter XIX.</h2>
 
 
 
@@ -2061,7 +2061,7 @@ But we must inquire what death, sea, and hell signify. For we know that waters a
 (Verse 14, 15.) And death and Hades were thrown into the lake of fire... And anyone who was not found written in the book of life was thrown into the lake of fire. Death and Hades were thrown into the lake of fire, that is, the souls with their bodies. We can also understand by death the demons, since they were the authors of death. Death and Hades will be thrown into the lake, because the demons, along with the other wicked, will be submerged into hell.
 
 
-<h2 id='tocuniq319'>Caput XXI.</h2>
+<h2 id='tocuniq319'>Chapter XXI.</h2>
 
 
 
@@ -2258,7 +2258,7 @@ The twelfth amethyst. Often through the number twelve the apostles are designate
 (Verse 27) And nothing unclean will enter it, nor anyone who practices abomination or falsehood, but only those who are written in the Lamb's book of life. He calls those unclean who have defiled themselves with various sins; but those who do evil, they commit abomination. For God abhors nothing but wickedness, as it is written in the book of Wisdom: You spare all things, O Lord, and dislike nothing that you have made (Wisdom 11:25). However, one may wonder why lying is said to be a sin. What we do, once done, is no longer a lie, because what has been done cannot not have been done, so it is a lie. But he has put deed in place of speech; indeed, we commit the sin of lying by speaking, not by doing. We can also understand every sin as a lie; for we know that God is truth, and sin is the deception of souls. Therefore, whatever is contrary to the truth and pertains to the deception of souls, even if it appears true, can rightly be called a lie. So, nothing unclean will enter into that holy city, and those who commit abomination and falsehood; for on the day of judgment the angels will come forth and separate the wicked from among the righteous and cast them into the furnace of consuming fire (Matthew 13:49). For even to those who have not had the oil of charity in their vessels, the door of the heavenly kingdom will be closed; and the Lord will say to them: Amen I say to you, I do not know you (Matthew 25:12).
 
 
-<h2 id='tocuniq346'>Caput XXII.</h2>
+<h2 id='tocuniq346'>Chapter XXII.</h2>
 
 
 
