@@ -1,6 +1,6 @@
 <h1>Expositio Super Septem Visiones Libri Apocalypsis.</h1>
 
-Text from [catholiclibrary.org](https://catholiclibrary.org/library/view?docId=Fathers-OR/PL.025.html;query=;subDocument=PL.025.html.xml.00000057;brand=default) (Migne Editors, Patrologiae Cursus Completus - public domain).
+Text from [catholiclibrary.org](https://catholiclibrary.org/library/view?docId=Fathers-OR/PL.017.html;chunk.id=00003507) (Migne Editors, Patrologiae Cursus Completus - public domain).
 
 <table id="user-content-toc" summary="Contents">
 <tbody><tr><td>
