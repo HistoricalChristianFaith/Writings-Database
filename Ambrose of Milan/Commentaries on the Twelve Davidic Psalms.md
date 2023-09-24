@@ -8,29 +8,45 @@ Translated into English using ChatGPT.
 <tbody><tr><td>
 <h2>Table of Contents</h2>
 <ul>
-<li><a href='#tocuniq3'>On the First Psalm, Commentary</a></li>
+<li><a href='#tocuniq3'>On the First Psalm</a></li>
 <li>
     <ul>
         <li><a href='#tocuniq4'>Preface</a></li>
         <li><a href='#tocuniq5'>Commentary</a></li>
     </ul>
 </li>
-<li><a href='#tocuniq6'>On the Psalm XXXV, Commentary</a></li>
-<li><a href='#tocuniq7'>Preface</a></li>
-<li><a href='#tocuniq8'>Commentary</a></li>
-<li><a href='#tocuniq9'>On the Psalm XXXVI, Commentary</a></li>
-<li><a href='#tocuniq10'>Preface</a></li>
-<li><a href='#tocuniq11'>Commentary</a></li>
-<li><a href='#tocuniq12'>On the Psalm XXXVII, Commentary</a></li>
-<li><a href='#tocuniq13'>Preface</a></li>
-<li><a href='#tocuniq14'>Commentary</a></li>
+<li><a href='#tocuniq6'>On the Psalm XXXV</a></li>
+<li>
+    <ul>
+        <li><a href='#tocuniq7'>Preface</a></li>
+        <li><a href='#tocuniq8'>Commentary</a></li>
+    </ul>
+</li>
+<li><a href='#tocuniq9'>On the Psalm XXXVI</a></li>
+<li>
+    <ul>
+        <li><a href='#tocuniq10'>Preface</a></li>
+        <li><a href='#tocuniq11'>Commentary</a></li>
+    </ul>
+</li>
+<li><a href='#tocuniq12'>On the Psalm XXXVII</a></li>
+<li>
+    <ul>
+        <li><a href='#tocuniq13'>Preface</a></li>
+        <li><a href='#tocuniq14'>Commentary</a></li>
+    </ul>
+</li>
 <li><a href='#tocuniq15'>On the Psalm XXXVIII, Commentary</a></li>
 <li><a href='#tocuniq16'>On the Psalm XXXIX, Commentary</a></li>
 <li><a href='#tocuniq17'>On the Psalm XL, Commentary</a></li>
 <li><a href='#tocuniq18'>On the Psalm XLIII, Commentary</a></li>
-<li><a href='#tocuniq19'>On the Psalm XLV, Commentary</a></li>
-<li><a href='#tocuniq20'>Preface</a></li>
-<li><a href='#tocuniq21'>Commentary</a></li>
+<li><a href='#tocuniq19'>On the Psalm XLV</a></li>
+<li>
+    <ul>
+        <li><a href='#tocuniq20'>Preface</a></li>
+        <li><a href='#tocuniq21'>Commentary</a></li>
+    </ul>
+</li>
 <li><a href='#tocuniq22'>On the Psalm XLVII, Commentary</a></li>
 <li><a href='#tocuniq23'>On the Psalm XLVIII, Commentary</a></li>
 <li><a href='#tocuniq24'>On the Psalm LXI, Commentary</a></li>
@@ -38,9 +54,9 @@ Translated into English using ChatGPT.
 </ul>
 </td></tr></tbody></table>
 
-<h2 id='tocuniq3'>On the First Psalm, Commentary</h2>
+<h2 id='tocuniq3'>On the First Psalm</h2>
 
-<h2 id='tocuniq4'>Preface</h2>
+<h3 id='tocuniq4'>Preface</h3>
 
 Since God has set forth the highest incentive to virtue to be the enjoyment of future blessedness, the devil also devised a powerful spur of delight in error. The first indication of both viewpoints is Adam, the first of the human race, placed by God in the paradise of pleasure so that he might enjoy eternal delight and be incited to virtuousness for the sake of future offspring. For it was not unknown to God that he would allow a place for error, and that he must propose hope of salvation to others, by which they would strive to restore the lost human seat to the race. And by the same likeness of the serpent which foreshadowed the enticement of pleasure, being deceived by the persuasion of his wife. Therefore, with the opportunity presented, the adversary worked death for me through pleasure. So what was given to me for life by divine grace became death for me, and the enemy had an easier agreement with man; for he presented a false appearance of nature to bring about the fall. For his works pleased the Lord: the beginnings of nature pleased him, which the Lord, seeing, said: Very good (Gen. 1:31).
 
@@ -68,7 +84,7 @@ Therefore, what is a psalm but an instrument of virtues, which the venerable Pro
 
 They also say that those who play the lyre are more skilled at singing inwardly, as the fables tell of the lyre player Aspendius; they also say that the reasons for the melodies and certain rhythmic constraints are in the upper part of the harp. Therefore, David taught us to sing inwardly, to sing with the soul, just as Paul sang, saying: I will pray with the spirit, I will pray with the mind; I will sing with the spirit, I will sing with the mind (1 Corinthians 14:15), and to shape our lives and actions with a view to higher things, so that the pleasure of sweetness does not arouse bodily passions, by which our soul is not redeemed but burdened; for the holy Prophet, remembering himself singing for the redemption of his soul, said: I will sing to you on the lyre, O Holy Israel: my lips will rejoice when I sing to you; and my soul, which you have redeemed (Psalm 70:22). But now let us begin the preludes of this psalm that has been proposed to us.
 
-<h2 id='tocuniq5'>Commentary</h2>
+<h3 id='tocuniq5'>Commentary</h3>
 
 (Vers. 1) Blessed is the man who has not walked in the counsel of the wicked. How fitting, how opportune a beginning! For just as those who have undertaken some solemnity of a contest usually propose a prize to be displayed, boast of the honor of the crown, so that they may gather with greater enthusiasm for the competition and strive with more determined effort: in the same way, our Lord Jesus has set forth the glory of the heavenly kingdom, the grace of perpetual rest, the blessedness of eternal life as incentives for human virtue. Moreover, when the emperor advances to war, he promises a donative to the soldiers, as well as promotions in military ranks, so that the hope of rewards may assuage their labors and conceal the fear of danger. Like a herald, therefore, of a great emperor, the holy David exhorts the soldiers, calling them athletes and expressing the reward, saying: Blessed is the man who does not walk in the counsel of the wicked. He begins with the reward, in order to elevate the weight of the future contest; he sends forth the reward, so that each person, leaping over the anxieties and labors of present affairs in their heart, may eagerly strive to obtain the blessedness of the future. Blessed, he said, is the man. What more could be given to a man, than that nothing more could be given to God by Apostolic authority (I Tim. VI, 15 and 16)? For blessed indeed, and the only one powerful, and king of kings, and lord of lords, God is called. He alone is powerful, he alone is king of kings, he alone is lord of lords, yet he does not exceed the power of blessedness. He has given us a common partnership in his name, which is considered worthy of divine honor.
 
@@ -178,9 +194,9 @@ But let us also beware that we rise from this earthly tomb. There are those who,
 
 However, he said beautifully: 'And the way of the wicked shall perish.' Latinus separated 'iter' to mean 'way' and as if distinguished 'iter' from 'via'; but the Greek said 'via' in both cases. However, Latinus did not speak in vain, for the Lord said: 'I am the way,' he did not say: 'I am the journey.' But he said the 'way' of the wicked shall perish, not the wicked themselves. He preserves the substance of those who, if they convert, will lose only the way of wickedness, which neither was nor will be from the beginning. Therefore, what is accidental perishes: what is substantial remains. But the wicked perish in such a way as it is said: The soul that sins, it shall die (Ezekiel XVIII, 4); so that by the sting of sin, they do not perish by the dissolution of their entire substance.
 
-<h2 id='tocuniq6'>On the Psalm XXXV, Commentary</h2>
+<h2 id='tocuniq6'>On the Psalm XXXV</h2>
 
-<h2 id='tocuniq7'>Preface</h2>
+<h3 id='tocuniq7'>Preface</h3>
 
 The Prophet, in the following psalm, states what should be the form of the just by expressing the form of the unjust beforehand. For we cannot know what the form of justice is unless we know what the image of injustice is; they are indeed opposed and contradictory to each other. For in one there is a simple disposition of nature, in the other there is deceitful cunning of wickedness; one presents the images of virtues, the other presents the transactions of vices. Moreover, reason itself teaches that this order is appropriate; and if testimonies are to be taken from opposites, the very teachers of philosophy have confessed as they follow. But who would doubt that David lived long before the times of Plato, whom not only his teacher, but not even his ancestors' ancestors could see: since David lived at the beginning of the kingdom of the Jews (which spread through countless cycles of years), while Plato lived after the times of captivity, when the kingdom of his people had already been dissolved. Therefore, he himself, who holds the primacy in all secular wisdom, when he said that the form of justice cannot be understood without first examining the series of injustice, gave the example that those who want to seek gold must first cover themselves in mud. Therefore, gold is justice, iniquity is mud. And what has been said before by our own is not doubtful, as it is written: I will destroy them as the mud of the streets (Psalm XVII, 43). And truly mud; because it contaminates those who approach it. Let us flee from injustice, lest we be polluted by filthy dirt, and not only our external feet, but, what is more serious, our minds be submerged in its whirlpool. And indeed philosophy claims to seek gold; but it churns the mud, which seeks divinity in statues; but the potter's vessels will be shattered by a rod. We seek gold, with which we may cleanse our bodies, bearing the mortification of Jesus Christ in our bodies; so that the life of Jesus Christ may be manifested in our bodies. Good gold, the blood of Christ, rich in value, abundant for washing away every sin. We have spoken of the order, let us consider the title.
 
@@ -193,7 +209,7 @@ Therefore, concerning poverty and the pain of the Lord, we have brought forth su
 
 Great, he says, is the name given to you, O my son, as you establish the Twelve Tribes of Jacob. He preserves everywhere the words of his own dignity. Great God, and great child: he does not lose the name of his greatness even in his flesh, of whom there is no end to his greatness. And rightly secure, when he was in the form of God, as the Apostle says, he did not consider it robbery to be equal with God: but he emptied himself, taking the form of a servant, being made in the likeness of men, and found in appearance as a man: he humbled himself, becoming obedient even to death, death on a cross (Philippians 2:6 et seq.). Here is therefore the equal of God the Son, here the form of a servant in flesh assumed, here death tasted, whose greatness has no end; for the end of the Law is Christ for righteousness to all who believe: that in Him we may all believe, and adore Him with inward affection. Good servitude, which has made all free: good servitude, which has acquired a name above every name: good humility, which has made it so that at His name every knee should bow, of those in heaven, on earth, and under the earth; and every tongue should confess that Jesus the Lord is in the glory of God the Father. Therefore, this psalm is directed towards the end that we may also be servants of righteousness, not proud towards arrogance. For service is the reward of freedom; arrogance, however, is the reward of death. But now let us adore the very sequence of the psalm.
 
-<h2 id='tocuniq8'>Commentary</h2>
+<h3 id='tocuniq8'>Commentary</h3>
 
 (Verse 2.) The wicked man said, in order to sin for himself. He did not express what he said, and therefore I think it should be understood thus: whatever the wicked man says, it is a sin. For every injustice is a sin, just as where there is a flawed instrument, how can the song not be flawed? The offspring of degenerate material is devoid of color. Therefore, whatever the wicked man speaks, it is iniquity, which is attributed to its author, just as it is a frequent saying that the offspring of a viper first splits its parent. (From Tobit, chapter 12, number 41, and below in Psalm 37, number 8). Therefore, he sins against himself. I think nothing is said more sublime in this statement. In those who have claimed wisdom of the world for themselves, I have not read or learned anything like this. It is not surprising, since they have spoken with human intellect, that the Spirit of God, the Spirit of truth, has infused this: that the unjust man sins against himself, generates wounds for himself, and wounds himself. For just as thorns are born in the hands of a drunkard, as Scripture asserts (Prov. XXVI, 9): so also the unjust are born from words, which afflict the speaker. The unjust man speaks, and his inner conscience is wounded; for in every word he speaks, he is not free from deceit. For what punishment is heavier than his own, when he exacts punishment for every word? The serpent infuses poison into others, unjust to itself; for whatever it pours out is poured back upon it. Therefore, the unjust man is useless to others and harmful to himself; but the life of the just is fruitful for others and sweet for themselves. For Solomon says: 'My son, if you are wise, you will be wise for yourself and for your neighbors; but if you are wicked, you alone will bear the evil.' (Prov. 9:12).
 
@@ -253,9 +269,9 @@ Then he added: There they have fallen, those who work iniquity. What is this 'th
 
 Finally, they were expelled; because unjust men could not stand in a holy place. Therefore, the Apostle said: And you, who stand, be careful not to fall (I Cor. X, 12). And surely he said this to the one who stood not with the body, but with faith. We can also understand in the future, there, as it is written: there will be weeping and gnashing of teeth (Matt. XIII, 14); and: Naked I shall go there (Job. I, 21). What a brief conclusion at the end! 'I am not,' he says, 'proud, so that I may sin; I may not sin, so that I may not be moved, so that I may not fall; I may not fall, so that I may not be expelled, as Adam was expelled from paradise; because in him the first step of pride could not stand.' Pride cannot stand; and if it falls, it does not know how to rise again. And therefore, beautifully, he spoke in the previous passages about the proud: Some trust in chariots, and some in horses; but we will trust in the name of our God and be magnified (Psalm XIX, 8); for this is stable, that is unfaithful. And he adds: They have been bound and have fallen; but we have risen and stood upright (Ibid. 9). And it is written in the book of the prophet Micah: Do not rejoice over me, my enemy, because I have fallen; but I will rise (Micah VII, 8). For we have fallen in this world, but in Christ we have risen: to whom be honor, glory, power, eternity both now and forever, and to all ages. Amen.
 
-<h2 id='tocuniq9'>On the Psalm XXXVI, Commentary</h2>
+<h2 id='tocuniq9'>On the Psalm XXXVI</h2>
 
-<h2 id='tocuniq10'>Preface</h2>
+<h3 id='tocuniq10'>Preface</h3>
 
 All divine Scripture, whether natural, mystical, or moral. Natural in Genesis, in which it is explained how the heavens, seas, and earth were made, and how this world is structured. Mystical in Leviticus, where the priestly mystery is understood. Moral in Deuteronomy, where human life is shaped according to the precepts of the Law. Hence, three of Solomon's books seem to have been selected from many: Ecclesiastes for natural matters, Song of Songs for mystical matters, Proverbs for moral matters.
 
@@ -265,7 +281,7 @@ However, because the body of all the psalms is one, nothing in them is divided a
 
 So let us apply medicine to these wounds, that we may cure ourselves; lest if we wish to say that we are able to cure others, it be said to us: Physician, heal yourself (Luke 4:23). Therefore, what is also common not only to physicians, but also to the general public; that while few may practice medicine, many may claim to know some of its remedies: or that we, even though not physicians, should offer a remedy to those in need using someone else's medicine. Let the wealthy employ a teacher, the poor a servant. Let the one who reaches the highest point take from himself; let the one who desires things more level feed himself on the slope, like a little child. Let the one who fears the river drink from the stream; and let the one who fears the deep swim to the shore. Moreover, in the higher psalm (Psalm 35), the holy David beautifully describes the life of the unjust, here the life of the just; there the unjust are exposed, here the just are established; there the unjust sins against himself, here he even takes away the sins of others. And therefore let us consider that justice is the first remedy.
 
-<h2 id='tocuniq11'>Commentary</h2>
+<h3 id='tocuniq11'>Commentary</h3>
 
 (Verse 1) He says, 'Do not envy among the envious, nor have you imitated those who do evil.' First, let us learn what it means to imitate; the power of this word is less in Latin than in Greek. For we read both good imitation and bad imitation. Finally, the Apostle says, 'It is good to imitate good always' (Galatians 4:18). And he himself said above, 'They envy you not well, but they want to exclude you so that you may imitate them' (Ibid., 17). And again, he says: Covet earnestly the best gifts (I Cor. XII, 31). And to the Romans, you have. Therefore I say, have they stumbled that they should fall? God forbid; but their fall is the salvation of the Gentiles, that they may be provoked to emulation (Rom. XI, 11). And further: For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office, if by any means I may provoke to emulation them which are my flesh, and might save some of them (Ibid., 13); that is, I may provoke my flesh. Finally, the Greek has jealousy. For even here: do not be jealous of those who do evil; do not envy those who commit lawlessness; that is, do not stir up the wicked to jealousy, because they strive not for good, but for evil.
 
@@ -452,9 +468,9 @@ There is another wicked one who appears exalted and elevated above the cedars of
 
 The salvation of the righteous is from the Lord; not from the world, not from an element. Heaven and earth will pass away. I do not entrust my salvation to heaven; because it too will pass away, for it is said of many heavens: They will perish, but you will remain. I entrust myself only to God, who remains, who can forgive sins; that He may be my protector in times of tribulation, that He may help me and deliver me, and snatch me from the sinners in the time of His judgment, and make me safe, for I have hoped in Him. In Him alone I have hoped; for He does not desire us to serve both Himself and others. He who serves Himself alone is liberated; for to Himself belongs praise, glory, and eternal power, both now and forever, and unto all ages of ages.
 
-<h2 id='tocuniq12'>On the Psalm XXXVII, Commentary</h2>
+<h2 id='tocuniq12'>On the Psalm XXXVII</h2>
 
-<h2 id='tocuniq13'>Preface</h2>
+<h3 id='tocuniq13'>Preface</h3>
 
 About Repentance, I have already written two small books, and I think I should write again. First, because it is useful to ask for the forgiveness of sins daily; then because in those two books there is an exhortation to repentance and progress, if it is done; but now how repentance should be done must be expressed; for it is of no benefit to act, unless it is done as it should be. In this, the holy David proposed for us a model to follow, who seems to me to have tasted sin in order to teach how sin could be wiped away. For indeed, where did medicine arise, if not from a wound? While the earliest ages of humanity teach others what has been beneficial to themselves, and how they have healed their own wounds, they show others; practice has made the art, and illness the teacher. For it is the first and most reliable school of medicine, which experience, not conjecture, has formed. Therefore, those doctors are first called empirics from experience, and the other schools are derived from them, and they have taken some use of their virtue from it. But what is more powerful for encouraging repentance than what the holy prophet David has taught us, to repent of our sins? For who would refuse to humble themselves before God, when even the king himself humbled himself? Or who would doubt to afflict their soul, when such a great prophet has afflicted himself, paying the price of tears for the redemption of sin? And although he has spread the precepts of repentance throughout all his writings (for which of his Psalms is not a remedy for the conscience of a sinner; when elsewhere he shows how he was moved, and elsewhere how he was disturbed, so as not only to show how wounds should be healed, but also how they should be avoided, and teach us by his own example?) But who, however strong, can claim to stand, when he has fallen? Yet in the 37th psalm, he expressed a greater force of inner sorrow and lamentable lamentation.
 
@@ -483,7 +499,7 @@ Therefore you sent the water of the Jordan, the water of grace; drink this first
 
 But now let us adore the psalm, so that it may teach us how penance should be done. And so it begins:
 
-<h2 id='tocuniq14'>Commentary</h2>
+<h3 id='tocuniq14'>Commentary</h3>
 
 (Vers. 2.) Lord, do not rebuke me in your anger; nor chasten me in your wrath. He who repents should be prepared to endure reproaches and suffer injuries; and not be disturbed if someone accuses him of his own sin. For if he himself must accuse himself, why does he not endure others accusing him? And if he should not fear being accused by a man, how much more by his Lord God, to whom we all, even in secret things, sin; since the condemnation of present things, especially the absolution of future things, is from Him. But those who are not condemned in this world, when they are not punished by men. Woe to me! if it is said of me: he has received his reward (Matthew 6:2). If a good deed is condemned by this judgment, how much more does the crime weigh down? For if mercy, thrown about with easy words, is robbed of eternal reward, how much more is the punishment of wickedness deferred by the bitter addition of interest? Therefore, he who repents should offer himself for punishment; so that he may be punished here by the Lord, and not be reserved for eternal torment: nor should he wait for the time, but rather confront divine indignation.
 
@@ -1047,9 +1063,9 @@ But when God expands somewhere in tribulation; then the breadth of the heart wil
 
 However, Symmachus regarded affliction as tribulation. Whether it be affliction or tribulation, it is necessary for us to remain in the Lord and not depart from Him; for with the Lord as our leader and helper, we can endure any struggle courageously. But if we neglect the Lord and distance ourselves from Him, we create a stronger adversary for ourselves.
 
-<h2 id='tocuniq19'>On the Psalm XLV, Commentary</h2>
+<h2 id='tocuniq19'>On the Psalm XLV</h2>
 
-<h2 id='tocuniq20'>Preface</h2>
+<h3 id='tocuniq20'>Preface</h3>
 
 (Verse 1.) The title of this psalm is inscribed as follows: To the end, for the sons of Korah, for hidden things, a psalm of David himself. What does 'for hidden things' mean? It means that David had knowledge of hidden things through the revelation of the Lord Jesus, as the holy Prophet also mentions in the fiftieth psalm, saying: 'You have revealed to me the uncertain and hidden things of your wisdom' (Psalm 50:8). But what these hidden things are, we learn in the holy Gospel, where the Son of God says that the mysteries of wisdom are hidden from the wise and revealed to the little ones (Matthew 11:25). These are those things, if I am not mistaken, which eye has not seen, nor ear heard, nor have they entered into the heart of man: which the Lord has prepared for those who love Him. Therefore, let us hide the secrets of wisdom in the hidden depths of our hearts, and not disclose them rashly to anyone; unless it be to companions of the sacraments, whom the Lord has called to his grace, for he desires to be sought in secret; for he alone knows the hidden and secret things.
 
@@ -1065,7 +1081,7 @@ Therefore Abraham dug a well, so that he could find water: therefore Isaac dug a
 
 Therefore, the knowledgeable ones understand that the purpose of hidden things, which is called σκοπὸς in Greek, is this: so that even the unworthy may not grasp the discipline of wisdom, and those who desire it may strive to attain the knowledge of divine sacraments through the merits of life and faith, and they sweat through daily exercises in order to merit the fruit of their intention. Let us read the ninth psalm and the forty-fifth more carefully, so that we may comprehend the hidden wisdom in faithful understanding. For they alone have surpassed others in regards to hidden matters. But now we worship the psalm.
 
-<h2 id='tocuniq21'>Commentary</h2>
+<h3 id='tocuniq21'>Commentary</h3>
 
 Our God is our refuge and strength. What does 'our' mean? It means the ones who believe in you. Similarly in another place: O Lord, you have become our refuge (Psalm 89:1). To us, the ones who believe, not the unbelievers; to us, the ones who seek, not those who flee from the truth. For only someone who puts their hope for salvation in the protection of God alone can say this. Therefore, you have become our refuge, our refuge and strength, who we are from the peoples of the nations. The Jews rejected you, the Jews received you not; and for this reason you turned to the Gentiles, you called us, and became our refuge, and you are our strength. Do you want to know what has been said about us who are from the Gentiles? The cross of the Lord is an offense to the Jews, foolishness to the Greeks; but to us, it is the power and wisdom of God (1 Corinthians 1:18). And further: But by him you are in Christ Jesus, who became wisdom to us from God (ibid., 30). Certainly, Paul did not speak about the Jews or the Gentiles, but about those who were converted to the Lord Jesus and preached the author of their salvation. So, have you taken refuge in Christ? Do not abandon the foundation, do not forsake your confirmer; so that he who has received you may himself protect you, and as a faithful merchant of our souls, recognize his own reward.
 
