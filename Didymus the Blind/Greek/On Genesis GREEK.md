@@ -1,6 +1,8 @@
 <h1>Didymus the Blind on Genesis</h1>
 
-Text from [catholiclibrary.org](https://catholiclibrary.org/library/view?docId=Fathers-OR/Didymus_the_Blind__In_Genesim.gr.html;chunk.id=00000003) (Migne, PG - public domain). [<a href='http://khazarzar.skeptik.net/pgm/PG_Migne/Didymus%20the%20Blind_PG%2039/In%20Genesim.pdf'>Source 2</a>]
+Greek Text from [catholiclibrary.org](https://catholiclibrary.org/library/view?docId=Fathers-OR/Didymus_the_Blind__In_Genesim.gr.html;chunk.id=00000003) (Migne, PG - public domain). [<a href='http://khazarzar.skeptik.net/pgm/PG_Migne/Didymus%20the%20Blind_PG%2039/In%20Genesim.pdf'>Source 2</a>]
+
+Translated into English using ChatGPT.
 
 There's a much better scholarly translation for purchase in "The Fathers of the Church Series", translated by Robert Charles Hill, published in 2016. [<a href='https://books.google.com/books/about/Commentary_on_Genesis.html?id=vQ-kDAAAQBAJ'>Link</a>]
 
