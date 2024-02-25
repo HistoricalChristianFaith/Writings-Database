@@ -11,9 +11,6 @@ def find_files(directory, extensions):
     return matches
 
 def build_file_tree(files):
-    """
-    Organizes files into a tree structure based on their paths.
-    """
     tree = {}
     for full_path, relative_path in files:
         parts = relative_path.split(os.sep)
@@ -24,17 +21,13 @@ def build_file_tree(files):
     return tree
 
 def create_menu_html(file_tree, base_path=''):
-    """
-    Recursively creates the HTML content for the nested menu from the file tree.
-    """
-    html = '<ul>'
+    html = ''
     for name, path_or_subtree in file_tree.items():
         if isinstance(path_or_subtree, dict):  # It's a subdirectory
-            html += f'<li>{name}{create_menu_html(path_or_subtree, base_path=os.path.join(base_path, name))}</li>'
+            html += f'<details><summary>{name}</summary>{create_menu_html(path_or_subtree, base_path=os.path.join(base_path, name))}</details>'
         else:  # It's a file
-            link = os.path.join(base_path, name).replace('\\', '/')
-            html += f'<li><a href="{link}" target="contentFrame">{name}</a></li>'
-    html += '</ul>'
+            link = os.path.join(base_path, path_or_subtree).replace('\\', '/')
+            html += f'<ul><li><a href="{link}" target="contentFrame">{name}</a></li></ul>'
     return html
 
 def main(directory):
@@ -54,8 +47,8 @@ def main(directory):
         body {{ display: flex; }}
         #menu {{ width: 20%; height: 100vh; overflow: auto; }}
         #content {{ flex-grow: 1; }}
-        ul {{ list-style-type: none; }}
-        li {{ margin: 5px 0; }}
+        details {{ margin: 5px 0; }}
+        summary {{ cursor: pointer; }}
     </style>
 </head>
 <body>
@@ -64,8 +57,7 @@ def main(directory):
 </body>
 </html>
         ''')
-    print("Index HTML created successfully.")
-
+    print("Menu HTML created successfully.")
 
 if __name__ == "__main__":
     main('./')
