@@ -1,10 +1,6 @@
 import os
 
 def find_files(directory, extensions):
-    """
-    Recursively finds all files in `directory` with extensions in `extensions`.
-    Returns a list of (path, relative_path) tuples.
-    """
     matches = []
     for root, _, files in os.walk(directory):
         for file in files:
@@ -14,22 +10,38 @@ def find_files(directory, extensions):
                 matches.append((full_path, relative_path))
     return matches
 
-def create_menu_html(files, base_directory):
+def build_file_tree(files):
     """
-    Creates the HTML content for the nested menu.
-    `files` is a list of (path, relative_path) tuples.
+    Organizes files into a tree structure based on their paths.
+    """
+    tree = {}
+    for full_path, relative_path in files:
+        parts = relative_path.split(os.sep)
+        current_level = tree
+        for part in parts[:-1]:  # Navigate/create subdirectories.
+            current_level = current_level.setdefault(part, {})
+        current_level[parts[-1]] = relative_path  # Set the file at the correct place in the tree.
+    return tree
+
+def create_menu_html(file_tree, base_path=''):
+    """
+    Recursively creates the HTML content for the nested menu from the file tree.
     """
     html = '<ul>'
-    for _, relative_path in files:
-        link = os.path.join(base_directory, relative_path).replace('\\', '/')
-        html += f'<li><a href="{link}" target="contentFrame">{relative_path}</a></li>'
+    for name, path_or_subtree in file_tree.items():
+        if isinstance(path_or_subtree, dict):  # It's a subdirectory
+            html += f'<li>{name}{create_menu_html(path_or_subtree, base_path=os.path.join(base_path, name))}</li>'
+        else:  # It's a file
+            link = os.path.join(base_path, name).replace('\\', '/')
+            html += f'<li><a href="{link}" target="contentFrame">{name}</a></li>'
     html += '</ul>'
     return html
 
 def main(directory):
     extensions = ['.html', '.pdf', '.md']
     files = find_files(directory, extensions)
-    menu_html = create_menu_html(files, directory)
+    file_tree = build_file_tree(files)
+    menu_html = create_menu_html(file_tree)
     
     with open('index.html', 'w', encoding='utf-8') as f:
         f.write(f'''
@@ -42,6 +54,8 @@ def main(directory):
         body {{ display: flex; }}
         #menu {{ width: 20%; height: 100vh; overflow: auto; }}
         #content {{ flex-grow: 1; }}
+        ul {{ list-style-type: none; }}
+        li {{ margin: 5px 0; }}
     </style>
 </head>
 <body>
@@ -50,7 +64,8 @@ def main(directory):
 </body>
 </html>
         ''')
-    print("Menu HTML created successfully.")
+    print("Index HTML created successfully.")
+
 
 if __name__ == "__main__":
     main('./')
