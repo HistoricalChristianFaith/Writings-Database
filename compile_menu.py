@@ -1,44 +1,65 @@
 import os
+import rtoml
 
-def find_files(directory, extensions):
+def find_files_and_folders(directory, extensions):
     matches = []
-    for root, _, files in os.walk(directory):
+    folders = {}
+    for root, dirs, files in os.walk(directory, topdown=True):
+        # Only process metadata.toml at the root level of each folder
+        if 'metadata.toml' in files:
+            metadata_path = os.path.join(root, 'metadata.toml')
+            try:
+                with open(metadata_path, 'r', encoding='utf-8') as f:
+                    metadata = rtoml.load(f)
+                default_year = metadata.get('default_year', '')
+                folder_name = os.path.basename(root)
+                folders[root] = (folder_name, default_year)
+            except Exception as e:
+                print(f"Error reading metadata.toml in {root}: {e}")
+
         for file in files:
             if any(file.endswith(ext) for ext in extensions):
                 full_path = os.path.join(root, file)
                 relative_path = os.path.relpath(full_path, start=directory)
                 matches.append((full_path, relative_path))
-    return matches
 
-def build_file_tree(files):
+    return matches, folders
+
+def build_file_tree(files, folders, directory):
     tree = {}
-    for full_path, relative_path in files:
+    # Insert folders with metadata first, sorted by year
+    for path, (folder_name, default_year) in sorted(folders.items(), key=lambda x: x[1][1]):
+        relative_path = os.path.relpath(path, start=directory)
+        tree_key = f"[{default_year} AD] {folder_name}" if default_year else folder_name
+        tree[tree_key] = {}
+    
+    # Now insert files into the tree
+    for _, relative_path in files:
         parts = relative_path.split(os.sep)
         current_level = tree
-        for part in parts[:-1]:  # Navigate/create subdirectories.
+        for part in parts[:-1]:
+            # Skip over directory names that have been replaced with the formatted key
+            if part in folders:
+                continue
             current_level = current_level.setdefault(part, {})
-        current_level[parts[-1]] = relative_path  # Set the file at the correct place in the tree.
+        current_level[parts[-1]] = relative_path
     return tree
 
-def create_menu_html(file_tree, base_path='', level=0):
+def create_menu_html(file_tree, level=0):
     html = ''
     indent = '  ' * level  # Increase indentation for nested items
-    for name, path_or_subtree in file_tree.items():
+    for name, path_or_subtree in sorted(file_tree.items(), key=lambda x: x[0]):
         if isinstance(path_or_subtree, dict):  # It's a subdirectory
-            html += f'{indent}<details><summary>{name}</summary>{create_menu_html(path_or_subtree, base_path=base_path, level=level+1)}</details>'
+            html += f'{indent}<details><summary>{name}</summary>{create_menu_html(path_or_subtree, level=level+1)}</details>'
         else:  # It's a file
-            # Ensure base_path is used correctly to avoid duplicate folder names
-            if level == 0:  # At root level, include the name in the path
-                link = os.path.join(base_path, name).replace('\\', '/')
-            else:  # For nested items, the path is already included
-                link = os.path.join(base_path, path_or_subtree).replace('\\', '/')
+            link = path_or_subtree.replace('\\', '/')
             html += f'{indent}<div><a href="{link}" target="contentFrame">{name}</a></div>'
     return html
 
 def main(directory):
     extensions = ['.html', '.pdf', '.md']
-    files = find_files(directory, extensions)
-    file_tree = build_file_tree(files)
+    files, folders = find_files_and_folders(directory, extensions)
+    file_tree = build_file_tree(files, folders, directory)
     menu_html = create_menu_html(file_tree)
     
     with open('index.html', 'w', encoding='utf-8') as f:
@@ -62,7 +83,7 @@ def main(directory):
 </body>
 </html>
         ''')
-    print("Menu HTML created successfully.")
+    print("Index HTML created successfully.")
 
 if __name__ == "__main__":
     main('./')
