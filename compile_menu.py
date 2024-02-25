@@ -20,17 +20,15 @@ def build_file_tree(files):
         current_level[parts[-1]] = relative_path  # Set the file at the correct place in the tree.
     return tree
 
-def create_menu_html(file_tree, base_path=''):
+def create_menu_html(file_tree, base_path='', depth=0):
     html = ''
+    indent_class = 'class="nested"' if depth > 0 else ''
     for name, path_or_subtree in file_tree.items():
-        if isinstance(path_or_subtree, dict):  # Subdirectory
-            html += f'<details><summary>{name}</summary>{create_menu_html(path_or_subtree, base_path)}</details>'
-        else:  # File
-            if base_path:
-                link = os.path.join(base_path, path_or_subtree).replace('\\', '/')
-            else:
-                link = path_or_subtree.replace('\\', '/')
-            html += f'<div><a href="{link}" target="contentFrame">{name}</a></div>'
+        if isinstance(path_or_subtree, dict):  # It's a subdirectory
+            html += f'<details {indent_class}><summary>{name}</summary>{create_menu_html(path_or_subtree, base_path=os.path.join(base_path, name), depth=depth+1)}</details>'
+        else:  # It's a file
+            link = os.path.join(base_path, path_or_subtree).replace('\\', '/')
+            html += f'<div {indent_class}><a href="{link}" target="contentFrame">{name}</a></div>'
     return html
 
 def main(directory):
@@ -50,7 +48,8 @@ def main(directory):
         body {{ display: flex; }}
         #menu {{ width: 20%; height: 100vh; overflow: auto; }}
         #content {{ flex-grow: 1; }}
-        details {{ margin: 5px 0; }}
+        .nested {{ margin-left: 20px; }}
+        details {{ margin-bottom: 5px; }}
         summary {{ cursor: pointer; }}
     </style>
 </head>
