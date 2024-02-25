@@ -24,10 +24,11 @@ def create_menu_html(file_tree, base_path=''):
     html = ''
     for name, path_or_subtree in file_tree.items():
         if isinstance(path_or_subtree, dict):  # It's a subdirectory
-            html += f'<details><summary>{name}</summary>{create_menu_html(path_or_subtree, base_path=os.path.join(base_path, name))}</details>'
+            new_base_path = os.path.join(base_path, name) if base_path else name
+            html += f'<details><summary>{name}</summary>{create_menu_html(path_or_subtree, new_base_path)}</details>'
         else:  # It's a file
-            link = os.path.join(base_path, path_or_subtree).replace('\\', '/')
-            html += f'<ul><li><a href="{link}" target="contentFrame">{name}</a></li></ul>'
+            link = os.path.join(base_path, name).replace('\\', '/')
+            html += f'<div><a href="{link}" target="contentFrame">{name}</a></div>'
     return html
 
 def main(directory):
