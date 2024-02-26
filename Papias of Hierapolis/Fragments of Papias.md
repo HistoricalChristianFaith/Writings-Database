@@ -8,10 +8,12 @@ However given that it costs enough to empty your wallet, we instead turn to othe
 
 Also worth reviewing:
 
-- http://www.hypotyposeis.org/synoptic-problem/2004/10/external-evidence-papias.html
-- https://web.archive.org/web/20060202001319/http://www.mindspring.com/~scarlson/synopt/ext/papias.htm
-- https://peterkirby.com/putting-papias-in-order.html
-- https://www.ewtn.com/catholicism/library/fragments-of-papias-12534
+<ul>
+<li> http://www.hypotyposeis.org/synoptic-problem/2004/10/external-evidence-papias.html </li>
+<li> https://web.archive.org/web/20060202001319/http://www.mindspring.com/~scarlson/synopt/ext/papias.htm </li>
+<li> https://peterkirby.com/putting-papias-in-order.html </li>
+<li> https://www.ewtn.com/catholicism/library/fragments-of-papias-12534 </li>
+</ul>
 
 <table id="user-content-toc" summary="Contents">
 <tbody><tr><td>
