@@ -1,9 +1,0 @@
-<h1>Letter 113. From Theophilus to Jerome.</h1>
-
-<p><i>Theophilus, bishop of Alexandria, had compiled an invective against John Chrysostom, bishop of Constantinople who was nosy (largely through his efforts) an exile from his see. This he now sends to Jerome with a request that the latter will render it into Latin for dissemination in the West. The invective (of which only a few fragments remain) is of the most violent kind. Nevertheless Jerome translated it along with this letter, the date of which is 405 a.d. The latter part of the letter has perished.</i></p>
-
-To the well-beloved and most loving brother Jerome, Theophilus sends greeting in the Lord.
-
-1. At the outset the verdict which is in accordance with the truth satisfies but few. But the Lord speaking by the prophet says: "my judgment goeth forth as the light?" [Hos. 6:5, LXX] and they who are surrounded with a horror of darkness and do not with clear comprehension perceive the nature of things, are covered with eternal shame and know by the issues of their acts that their efforts have been in vain. Wherefore we also have always desired for John who has for a time ruled the church of Constantinople grace that he might please God, and we have been slow to attribute to him the rash acts which have caused his downfall. But, not to speak of his other misdeeds, he has taken the Origenists into his confidence, has advanced many of them to the priesthood, and by committing this crime has saddened with no slight grief that man of God, Epiphanius of blessed memory, who has shone throughout all the world a bright star among bishops. And therefore he has rightly come to hear the words of doom: "Babylon is fallen, is fallen." [Isa. 21:9] 
-
-2. Knowing then that the Saviour has said: "judge not according to the appearance but judge righteous judgment." [Joh. 7:24.] ...

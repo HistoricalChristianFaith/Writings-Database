@@ -1,7 +1,0 @@
-<h1>Letter 141. To Augustine</h1>
-
-<p><i>A short note in which Jerome praises Augustine for the determined stand which he has made against heresy and speaks of him as "the restorer of the ancient faith." The allusion seems to be to his action in the Pelagian controversy. If so, the date is probably 418 a.d. Sometimes numbered as Augustine letter 195.</i></p>
-
-To His Holy Lord and Most Blessed Father, Augustine, Jerome Sends Greeting.
-
-At all times I have esteemed your Blessedness with becoming reverence and honour, and have loved the Lord and Saviour dwelling in you. But now we add, if possible, something to that which has already reached a climax, and we heap up what was already full, so that we do not suffer a single hour to pass without the mention of your name, because you have, with the ardour of unshaken faith, stood your ground against opposing storms, and preferred, so far as this was in your power, to be delivered from Sodom, though you should come forth alone, rather than linger behind with those who are doomed to perish. Your wisdom apprehends what I mean to say. Go on and prosper! You are renowned throughout the whole world; Catholics revere and look up to you as the restorer of the ancient faith, and - which is a token of yet more illustrious glory - all heretics abhor you. They persecute me also with equal hatred, seeking by imprecation to take away the life which they cannot reach with the sword. May the mercy of Christ the Lord preserve you in safety and mindful of me, my venerable lord and most blessed father.

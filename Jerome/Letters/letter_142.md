@@ -1,9 +1,0 @@
-<h1>Letter 142. To Augustine.</h1>
-
-<p><i>There is good ground for supposing this to form part of the previous letter. If so, Jerome speaks in a figure of the success gained by Pelagianism in Palestine. "Jerusalem," he says, "is in the hands of Nebuchadnezzar and will not heed the voice of Jeremiah," that is, as the context shews, Jerome himself. Date uncertain, possibly 410 a.d. Sometimes numbered as Augustine letter 123. </i></p>
-
-[From Jerome to Augustine.]
-
-There are many who go halting upon both feet, and refuse to bend their heads even when their necks are broken, persisting in adherence to their former errors, even though they have not their former liberty of proclaiming them.
-
-Respectful salutations are sent to you by the holy brethren who are with your humble servant, and especially by your pious and venerable daughters. I beg your Excellency to salute in my name your brethren my lord Alypius and my lord Evodius. Jerusalem is held captive by Nebuchadnezzar, and refuses to listen to the counsels of Jeremiah, preferring to look wistfully towards Egypt, that it may die in Tahpanhes, and perish there in eternal bondage.
