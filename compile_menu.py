@@ -53,7 +53,7 @@ def create_menu_html(file_tree, level=0):
     return html
 
 def main(directory):
-    extensions = ['.html', '.pdf', '.md']
+    extensions = ['.html', '.pdf']
     files = find_files(directory, extensions)
     folders_with_metadata = find_folders_with_metadata(directory)
     file_tree = build_file_tree(files, folders_with_metadata, directory)
