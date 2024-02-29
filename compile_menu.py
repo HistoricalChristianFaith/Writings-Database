@@ -79,7 +79,7 @@ def main(directory):
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>File Navigator</title>
+    <title>Historical Christian Faith - Writings Database</title>
     <style>
         body { display: flex; }
         #menu { width: 20%; height: 100vh; overflow: auto; padding-left: 10px; }
