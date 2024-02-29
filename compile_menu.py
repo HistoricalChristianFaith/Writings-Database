@@ -43,14 +43,26 @@ def build_file_tree(files, folders, directory):
     return tree
 
 def create_menu_html(file_tree, level=0):
+    def sort_key(item):
+        name = item[0]
+        # Attempt to extract year from the folder name
+        if name.startswith('[') and ']' in name:
+            try:
+                year = int(name[1:name.find(' ')].strip())
+                return (0, year)  # Prioritize numeric sorting
+            except ValueError:
+                pass  # If conversion fails, fall back to the original name
+        return (1, name)  # Non-numeric names are sorted alphabetically
+
     html = ''
-    for name, path_or_subtree in sorted(file_tree.items(), key=lambda x: x[0]):
+    for name, path_or_subtree in sorted(file_tree.items(), key=sort_key):
         if isinstance(path_or_subtree, dict):  # It's a subdirectory
-            html += f'<details><summary>{name}</summary>{create_menu_html(path_or_subtree, level=level+1)}</details>'
+            html += f'\n<details><summary>{name}</summary>{create_menu_html(path_or_subtree, level=level+1)}</details>'
         else:  # It's a file
             link = path_or_subtree.replace('\\', '/')
-            html += f'<div><a href="{link}" target="contentFrame">{name}</a></div>'
+            html += f'\n<div><a href="{link}" target="contentFrame">{name}</a></div>'
     return html
+
 
 def main(directory):
     extensions = ['.html', '.pdf']
