@@ -59,9 +59,10 @@ def create_menu_html(file_tree, level=0):
         if isinstance(path_or_subtree, dict):  # It's a subdirectory
             html += f'\n<details><summary>{name}</summary>{create_menu_html(path_or_subtree, level=level+1)}</details>'
         else:  # It's a file
-            link = path_or_subtree.replace('\\', '/')
-            name = name.replace(".html", "")
-            html += f'\n<div><a href="{link}" target="contentFrame">{name}</a></div>'
+            if name != "index.html":
+                link = path_or_subtree.replace('\\', '/')
+                name = name.replace(".html", "")
+                html += f'\n<div><a href="{link}" target="contentFrame">{name}</a></div>'
     return html
 
 
@@ -92,6 +93,7 @@ def main(directory):
         <h3><a target='_blank' href='https://historicalchristian.faith/'>Historical Christian Faith</a></h3>
         <h4><a target='_blank' href='https://github.com/HistoricalChristianFaith/Writings-Database/'>Writings Database</a></h4>
         {menu_html}
+        <br><br><br>
     </div>
     <iframe id="content" name="contentFrame" style="width: 80%; height: 100vh;" srcdoc="<p>Click on a writing on the left menu to open it here!</p><p>Note: This database is open source, and everything is in the public domain! <a target='_blank' href='https://github.com/HistoricalChristianFaith/Writings-Database/'>Contribute/fix typos here!</a></p>"></iframe>
 </body>
