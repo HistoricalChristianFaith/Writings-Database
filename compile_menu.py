@@ -62,7 +62,7 @@ def create_menu_html(file_tree, level=0):
             if name != "index.html":
                 link = path_or_subtree.replace('\\', '/')
                 name = name.replace(".html", "")
-                html += f'\n<div><a href="{link}" target="contentFrame">{name}</a></div>'
+                html += f'\n<div><a href="#" onclick="loadFile(\'{link}\')">{name}</a></div>'
     return html
 
 
@@ -74,25 +74,45 @@ def main(directory):
     menu_html = create_menu_html(file_tree)
     
     with open('index.html', 'w', encoding='utf-8') as f:
-        f.write(f'''
+        f.write('''
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>File Navigator</title>
     <style>
-        body {{ display: flex; }}
-        #menu {{ width: 20%; height: 100vh; overflow: auto; padding-left: 10px; }}
-        #content {{ flex-grow: 1; }}
-        details > div, details > details {{ padding-left: 20px; }}
-        details, summary {{ cursor: pointer; }}
+        body { display: flex; }
+        #menu { width: 20%; height: 100vh; overflow: auto; padding-left: 10px; }
+        #content { flex-grow: 1; }
+        details > div, details > details { padding-left: 20px; }
+        details, summary { cursor: pointer; }
     </style>
+    <script>
+        function loadFile(filePath) {
+            document.getElementById('content').removeAttribute('srcdoc');
+            console.log("Loading file...", filePath)
+            document.getElementById('content').src = filePath;
+            const url = new URL(window.location);
+            url.searchParams.set('file', filePath);
+            window.history.pushState({}, '', url);
+        }
+
+        window.onload = function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const file = urlParams.get('file');
+            if (file) {
+                console.log("Onload: file...", file)
+                document.getElementById('content').removeAttribute('srcdoc');
+                document.getElementById('content').src = file;
+            }
+        };
+    </script>
 </head>
 <body>
     <div id="menu">
         <h3><a target='_blank' href='https://historicalchristian.faith/'>Historical Christian Faith</a></h3>
         <h4><a target='_blank' href='https://github.com/HistoricalChristianFaith/Writings-Database/'>Writings Database</a></h4>
-        {menu_html}
+        ''' + menu_html + '''
         <br><br><br>
     </div>
     <iframe id="content" name="contentFrame" style="width: 80%; height: 100vh;" srcdoc="<p>Click on a writing on the left menu to open it here!</p><p>Note: This database is open source, and everything is in the public domain! <a target='_blank' href='https://github.com/HistoricalChristianFaith/Writings-Database/'>Contribute/fix typos here!</a></p>"></iframe>

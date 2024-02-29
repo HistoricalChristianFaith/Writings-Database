@@ -11,6 +11,26 @@
         details > div, details > details { padding-left: 20px; }
         details, summary { cursor: pointer; }
     </style>
+    <script>
+        function loadFile(filePath) {
+            document.getElementById('content').removeAttribute('srcdoc');
+            console.log("Loading file...", filePath)
+            document.getElementById('content').src = filePath;
+            const url = new URL(window.location);
+            url.searchParams.set('file', filePath);
+            window.history.pushState({}, '', url);
+        }
+
+        window.onload = function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const file = urlParams.get('file');
+            if (file) {
+                console.log("Onload: file...", file)
+                document.getElementById('content').removeAttribute('srcdoc');
+                document.getElementById('content').src = file;
+            }
+        };
+    </script>
 </head>
 <body>
     <div id="menu">
@@ -18,787 +38,787 @@
         <h4><a target='_blank' href='https://github.com/HistoricalChristianFaith/Writings-Database/'>Writings Database</a></h4>
         
 <details><summary>[99 AD] Clement of Rome</summary>
-<div><a href="Clement of Rome/First Epistle of Clement to the Corinthians.html" target="contentFrame">First Epistle of Clement to the Corinthians</a></div>
-<div><a href="Clement of Rome/The First Epistle of Clement to the Corinthians.html" target="contentFrame">The First Epistle of Clement to the Corinthians</a></div></details>
+<div><a href="#" onclick="loadFile('Clement of Rome/First Epistle of Clement to the Corinthians.html')">First Epistle of Clement to the Corinthians</a></div>
+<div><a href="#" onclick="loadFile('Clement of Rome/The First Epistle of Clement to the Corinthians.html')">The First Epistle of Clement to the Corinthians</a></div></details>
 <details><summary>[100 AD] Didache</summary>
-<div><a href="Didache/Didache.html" target="contentFrame">Didache</a></div>
-<div><a href="Didache/The Lord's Teaching Through the Twelve Apostles to the Nations.html" target="contentFrame">The Lord's Teaching Through the Twelve Apostles to the Nations</a></div></details>
+<div><a href="#" onclick="loadFile('Didache/Didache.html')">Didache</a></div>
+<div><a href="#" onclick="loadFile('Didache/The Lord's Teaching Through the Twelve Apostles to the Nations.html')">The Lord's Teaching Through the Twelve Apostles to the Nations</a></div></details>
 <details><summary>[108 AD] Ignatius of Antioch</summary>
-<div><a href="Ignatius of Antioch/The Epistle of Ignatius to Polycarp SYRIAC.html" target="contentFrame">The Epistle of Ignatius to Polycarp SYRIAC</a></div>
-<div><a href="Ignatius of Antioch/The Epistle of Ignatius to Polycarp.html" target="contentFrame">The Epistle of Ignatius to Polycarp</a></div>
-<div><a href="Ignatius of Antioch/The Epistle of Ignatius to the Ephesians.html" target="contentFrame">The Epistle of Ignatius to the Ephesians</a></div>
-<div><a href="Ignatius of Antioch/The Epistle of Ignatius to the Magnesians.html" target="contentFrame">The Epistle of Ignatius to the Magnesians</a></div>
-<div><a href="Ignatius of Antioch/The Epistle of Ignatius to the Philadelphians.html" target="contentFrame">The Epistle of Ignatius to the Philadelphians</a></div>
-<div><a href="Ignatius of Antioch/The Epistle of Ignatius to the Romans.html" target="contentFrame">The Epistle of Ignatius to the Romans</a></div>
-<div><a href="Ignatius of Antioch/The Epistle of Ignatius to the Smyrnaeans.html" target="contentFrame">The Epistle of Ignatius to the Smyrnaeans</a></div>
-<div><a href="Ignatius of Antioch/The Epistle of Ignatius to the Trallians.html" target="contentFrame">The Epistle of Ignatius to the Trallians</a></div>
-<div><a href="Ignatius of Antioch/The Second Epistle of Ignatius to the Ephesians SYRIAC.html" target="contentFrame">The Second Epistle of Ignatius to the Ephesians SYRIAC</a></div>
-<div><a href="Ignatius of Antioch/The Third Epistle of the Same St. Ignatius SYRIAC.html" target="contentFrame">The Third Epistle of the Same St. Ignatius SYRIAC</a></div></details>
+<div><a href="#" onclick="loadFile('Ignatius of Antioch/The Epistle of Ignatius to Polycarp SYRIAC.html')">The Epistle of Ignatius to Polycarp SYRIAC</a></div>
+<div><a href="#" onclick="loadFile('Ignatius of Antioch/The Epistle of Ignatius to Polycarp.html')">The Epistle of Ignatius to Polycarp</a></div>
+<div><a href="#" onclick="loadFile('Ignatius of Antioch/The Epistle of Ignatius to the Ephesians.html')">The Epistle of Ignatius to the Ephesians</a></div>
+<div><a href="#" onclick="loadFile('Ignatius of Antioch/The Epistle of Ignatius to the Magnesians.html')">The Epistle of Ignatius to the Magnesians</a></div>
+<div><a href="#" onclick="loadFile('Ignatius of Antioch/The Epistle of Ignatius to the Philadelphians.html')">The Epistle of Ignatius to the Philadelphians</a></div>
+<div><a href="#" onclick="loadFile('Ignatius of Antioch/The Epistle of Ignatius to the Romans.html')">The Epistle of Ignatius to the Romans</a></div>
+<div><a href="#" onclick="loadFile('Ignatius of Antioch/The Epistle of Ignatius to the Smyrnaeans.html')">The Epistle of Ignatius to the Smyrnaeans</a></div>
+<div><a href="#" onclick="loadFile('Ignatius of Antioch/The Epistle of Ignatius to the Trallians.html')">The Epistle of Ignatius to the Trallians</a></div>
+<div><a href="#" onclick="loadFile('Ignatius of Antioch/The Second Epistle of Ignatius to the Ephesians SYRIAC.html')">The Second Epistle of Ignatius to the Ephesians SYRIAC</a></div>
+<div><a href="#" onclick="loadFile('Ignatius of Antioch/The Third Epistle of the Same St. Ignatius SYRIAC.html')">The Third Epistle of the Same St. Ignatius SYRIAC</a></div></details>
 <details><summary>[130 AD] Epistle to Diognetus</summary>
-<div><a href="Epistle to Diognetus/The Epistle of Mathetes to Diognetus.html" target="contentFrame">The Epistle of Mathetes to Diognetus</a></div>
-<div><a href="Epistle to Diognetus/The Epistle to Diognetus.html" target="contentFrame">The Epistle to Diognetus</a></div></details>
+<div><a href="#" onclick="loadFile('Epistle to Diognetus/The Epistle of Mathetes to Diognetus.html')">The Epistle of Mathetes to Diognetus</a></div>
+<div><a href="#" onclick="loadFile('Epistle to Diognetus/The Epistle to Diognetus.html')">The Epistle to Diognetus</a></div></details>
 <details><summary>[130 AD] Papias of Hierapolis</summary>
-<div><a href="Papias of Hierapolis/Fragments of Papias ANF.html" target="contentFrame">Fragments of Papias ANF</a></div>
-<div><a href="Papias of Hierapolis/Fragments of Papias.html" target="contentFrame">Fragments of Papias</a></div></details>
+<div><a href="#" onclick="loadFile('Papias of Hierapolis/Fragments of Papias ANF.html')">Fragments of Papias ANF</a></div>
+<div><a href="#" onclick="loadFile('Papias of Hierapolis/Fragments of Papias.html')">Fragments of Papias</a></div></details>
 <details><summary>[132 AD] Epistle of Barnabas</summary>
-<div><a href="Epistle of Barnabas/The Epistle of Barnabas.html" target="contentFrame">The Epistle of Barnabas</a></div></details>
+<div><a href="#" onclick="loadFile('Epistle of Barnabas/The Epistle of Barnabas.html')">The Epistle of Barnabas</a></div></details>
 <details><summary>[132 AD] Pseudo-Cyprian</summary>
-<div><a href="Pseudo-Cyprian/Exhortation to Repentance.html" target="contentFrame">Exhortation to Repentance</a></div>
-<div><a href="Pseudo-Cyprian/Of the Discipline and Advantage of Chastity.html" target="contentFrame">Of the Discipline and Advantage of Chastity</a></div>
-<div><a href="Pseudo-Cyprian/On the Glory of Martyrdom.html" target="contentFrame">On the Glory of Martyrdom</a></div>
-<div><a href="Pseudo-Cyprian/On the Public Shows.html" target="contentFrame">On the Public Shows</a></div></details>
+<div><a href="#" onclick="loadFile('Pseudo-Cyprian/Exhortation to Repentance.html')">Exhortation to Repentance</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Cyprian/Of the Discipline and Advantage of Chastity.html')">Of the Discipline and Advantage of Chastity</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Cyprian/On the Glory of Martyrdom.html')">On the Glory of Martyrdom</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Cyprian/On the Public Shows.html')">On the Public Shows</a></div></details>
 <details><summary>[150 AD] Protoevangelium of James</summary>
-<div><a href="Protoevangelium of James/The Protevangelium of James.html" target="contentFrame">The Protevangelium of James</a></div></details>
+<div><a href="#" onclick="loadFile('Protoevangelium of James/The Protevangelium of James.html')">The Protevangelium of James</a></div></details>
 <details><summary>[155 AD] Polycarp</summary>
-<div><a href="Polycarp/The Encyclical Epistle of the Church at Smyrnam.html" target="contentFrame">The Encyclical Epistle of the Church at Smyrnam</a></div>
-<div><a href="Polycarp/The Epistle of Polycarp to the Philippians.html" target="contentFrame">The Epistle of Polycarp to the Philippians</a></div></details>
+<div><a href="#" onclick="loadFile('Polycarp/The Encyclical Epistle of the Church at Smyrnam.html')">The Encyclical Epistle of the Church at Smyrnam</a></div>
+<div><a href="#" onclick="loadFile('Polycarp/The Epistle of Polycarp to the Philippians.html')">The Epistle of Polycarp to the Philippians</a></div></details>
 <details><summary>[160 AD] Shepherd of Hermas</summary>
 <details><summary>Ante-Nicene Fathers</summary>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Commandment Eighth.html" target="contentFrame">Commandment Eighth</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Commandment Eleventh.html" target="contentFrame">Commandment Eleventh</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Commandment Fifth.html" target="contentFrame">Commandment Fifth</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Commandment First.html" target="contentFrame">Commandment First</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Commandment Fourth.html" target="contentFrame">Commandment Fourth</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Commandment Ninth.html" target="contentFrame">Commandment Ninth</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Commandment Second.html" target="contentFrame">Commandment Second</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Commandment Seventh.html" target="contentFrame">Commandment Seventh</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Commandment Sixth.html" target="contentFrame">Commandment Sixth</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Commandment Tenth.html" target="contentFrame">Commandment Tenth</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Commandment Third.html" target="contentFrame">Commandment Third</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Commandment Twelfth.html" target="contentFrame">Commandment Twelfth</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Similitude Eighth.html" target="contentFrame">Similitude Eighth</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Similitude Fifth.html" target="contentFrame">Similitude Fifth</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Similitude First.html" target="contentFrame">Similitude First</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Similitude Fourth.html" target="contentFrame">Similitude Fourth</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Similitude Ninth.html" target="contentFrame">Similitude Ninth</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Similitude Second.html" target="contentFrame">Similitude Second</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Similitude Seventh.html" target="contentFrame">Similitude Seventh</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Similitude Sixth.html" target="contentFrame">Similitude Sixth</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Similitude Tenth.html" target="contentFrame">Similitude Tenth</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Similitude Third.html" target="contentFrame">Similitude Third</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Vision Fifth.html" target="contentFrame">Vision Fifth</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Vision First.html" target="contentFrame">Vision First</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Vision Fourth.html" target="contentFrame">Vision Fourth</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Vision Second.html" target="contentFrame">Vision Second</a></div>
-<div><a href="Shepherd of Hermas/Ante-Nicene Fathers/Vision Third.html" target="contentFrame">Vision Third</a></div></details></details>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Commandment Eighth.html')">Commandment Eighth</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Commandment Eleventh.html')">Commandment Eleventh</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Commandment Fifth.html')">Commandment Fifth</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Commandment First.html')">Commandment First</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Commandment Fourth.html')">Commandment Fourth</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Commandment Ninth.html')">Commandment Ninth</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Commandment Second.html')">Commandment Second</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Commandment Seventh.html')">Commandment Seventh</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Commandment Sixth.html')">Commandment Sixth</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Commandment Tenth.html')">Commandment Tenth</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Commandment Third.html')">Commandment Third</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Commandment Twelfth.html')">Commandment Twelfth</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Similitude Eighth.html')">Similitude Eighth</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Similitude Fifth.html')">Similitude Fifth</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Similitude First.html')">Similitude First</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Similitude Fourth.html')">Similitude Fourth</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Similitude Ninth.html')">Similitude Ninth</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Similitude Second.html')">Similitude Second</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Similitude Seventh.html')">Similitude Seventh</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Similitude Sixth.html')">Similitude Sixth</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Similitude Tenth.html')">Similitude Tenth</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Similitude Third.html')">Similitude Third</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Vision Fifth.html')">Vision Fifth</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Vision First.html')">Vision First</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Vision Fourth.html')">Vision Fourth</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Vision Second.html')">Vision Second</a></div>
+<div><a href="#" onclick="loadFile('Shepherd of Hermas/Ante-Nicene Fathers/Vision Third.html')">Vision Third</a></div></details></details>
 <details><summary>[165 AD] Justin Martyr</summary>
-<div><a href="Justin Martyr/Dialogue of Justin.html" target="contentFrame">Dialogue of Justin</a></div>
-<div><a href="Justin Martyr/Fragments of the Lost Work of Justin on the Resurrection.html" target="contentFrame">Fragments of the Lost Work of Justin on the Resurrection</a></div>
-<div><a href="Justin Martyr/Justin on the Sole Government of God.html" target="contentFrame">Justin on the Sole Government of God</a></div>
-<div><a href="Justin Martyr/Justin's Hortatory Address to the Greeks.html" target="contentFrame">Justin's Hortatory Address to the Greeks</a></div>
-<div><a href="Justin Martyr/Other Fragments from the Lost Writings of Justin.html" target="contentFrame">Other Fragments from the Lost Writings of Justin</a></div>
-<div><a href="Justin Martyr/The First Apology of Justin.html" target="contentFrame">The First Apology of Justin</a></div>
-<div><a href="Justin Martyr/The Martyrdom of the Holy Martyrs.html" target="contentFrame">The Martyrdom of the Holy Martyrs</a></div>
-<div><a href="Justin Martyr/The Second Apology of Justin.html" target="contentFrame">The Second Apology of Justin</a></div></details>
+<div><a href="#" onclick="loadFile('Justin Martyr/Dialogue of Justin.html')">Dialogue of Justin</a></div>
+<div><a href="#" onclick="loadFile('Justin Martyr/Fragments of the Lost Work of Justin on the Resurrection.html')">Fragments of the Lost Work of Justin on the Resurrection</a></div>
+<div><a href="#" onclick="loadFile('Justin Martyr/Justin on the Sole Government of God.html')">Justin on the Sole Government of God</a></div>
+<div><a href="#" onclick="loadFile('Justin Martyr/Justin's Hortatory Address to the Greeks.html')">Justin's Hortatory Address to the Greeks</a></div>
+<div><a href="#" onclick="loadFile('Justin Martyr/Other Fragments from the Lost Writings of Justin.html')">Other Fragments from the Lost Writings of Justin</a></div>
+<div><a href="#" onclick="loadFile('Justin Martyr/The First Apology of Justin.html')">The First Apology of Justin</a></div>
+<div><a href="#" onclick="loadFile('Justin Martyr/The Martyrdom of the Holy Martyrs.html')">The Martyrdom of the Holy Martyrs</a></div>
+<div><a href="#" onclick="loadFile('Justin Martyr/The Second Apology of Justin.html')">The Second Apology of Justin</a></div></details>
 <details><summary>[180 AD] Melito of Sardis</summary>
-<div><a href="Melito of Sardis/On the Passover.html" target="contentFrame">On the Passover</a></div></details>
+<div><a href="#" onclick="loadFile('Melito of Sardis/On the Passover.html')">On the Passover</a></div></details>
 <details><summary>[180 AD] Tatian the Assyrian</summary>
-<div><a href="Tatian the Assyrian/Address of Tatian to the Greeks.html" target="contentFrame">Address of Tatian to the Greeks</a></div>
-<div><a href="Tatian the Assyrian/Diatessaron.html" target="contentFrame">Diatessaron</a></div></details>
+<div><a href="#" onclick="loadFile('Tatian the Assyrian/Address of Tatian to the Greeks.html')">Address of Tatian to the Greeks</a></div>
+<div><a href="#" onclick="loadFile('Tatian the Assyrian/Diatessaron.html')">Diatessaron</a></div></details>
 <details><summary>[185 AD] Theophilus of Antioch</summary>
-<div><a href="Theophilus of Antioch/Theophilus to Autolycus Book I.html" target="contentFrame">Theophilus to Autolycus Book I</a></div>
-<div><a href="Theophilus of Antioch/Theophilus to Autolycus Book II.html" target="contentFrame">Theophilus to Autolycus Book II</a></div>
-<div><a href="Theophilus of Antioch/Theophilus to Autolycus Book III.html" target="contentFrame">Theophilus to Autolycus Book III</a></div></details>
+<div><a href="#" onclick="loadFile('Theophilus of Antioch/Theophilus to Autolycus Book I.html')">Theophilus to Autolycus Book I</a></div>
+<div><a href="#" onclick="loadFile('Theophilus of Antioch/Theophilus to Autolycus Book II.html')">Theophilus to Autolycus Book II</a></div>
+<div><a href="#" onclick="loadFile('Theophilus of Antioch/Theophilus to Autolycus Book III.html')">Theophilus to Autolycus Book III</a></div></details>
 <details><summary>[190 AD] Athenagoras of Athens</summary>
-<div><a href="Athenagoras of Athens/A Plea For the Christians.html" target="contentFrame">A Plea For the Christians</a></div>
-<div><a href="Athenagoras of Athens/On the Resurrection of the Dead.html" target="contentFrame">On the Resurrection of the Dead</a></div></details>
+<div><a href="#" onclick="loadFile('Athenagoras of Athens/A Plea For the Christians.html')">A Plea For the Christians</a></div>
+<div><a href="#" onclick="loadFile('Athenagoras of Athens/On the Resurrection of the Dead.html')">On the Resurrection of the Dead</a></div></details>
 <details><summary>[192 AD] Testaments of the Twelve Patriarchs</summary>
-<div><a href="Testaments of the Twelve Patriarchs/The Testament of Asher.html" target="contentFrame">The Testament of Asher</a></div>
-<div><a href="Testaments of the Twelve Patriarchs/The Testament of Benjamin.html" target="contentFrame">The Testament of Benjamin</a></div>
-<div><a href="Testaments of the Twelve Patriarchs/The Testament of Dan.html" target="contentFrame">The Testament of Dan</a></div>
-<div><a href="Testaments of the Twelve Patriarchs/The Testament of Gad.html" target="contentFrame">The Testament of Gad</a></div>
-<div><a href="Testaments of the Twelve Patriarchs/The Testament of Issachar.html" target="contentFrame">The Testament of Issachar</a></div>
-<div><a href="Testaments of the Twelve Patriarchs/The Testament of Joseph.html" target="contentFrame">The Testament of Joseph</a></div>
-<div><a href="Testaments of the Twelve Patriarchs/The Testament of Judah.html" target="contentFrame">The Testament of Judah</a></div>
-<div><a href="Testaments of the Twelve Patriarchs/The Testament of Levi.html" target="contentFrame">The Testament of Levi</a></div>
-<div><a href="Testaments of the Twelve Patriarchs/The Testament of Naphtali.html" target="contentFrame">The Testament of Naphtali</a></div>
-<div><a href="Testaments of the Twelve Patriarchs/The Testament of Reuben.html" target="contentFrame">The Testament of Reuben</a></div>
-<div><a href="Testaments of the Twelve Patriarchs/The Testament of Simeon.html" target="contentFrame">The Testament of Simeon</a></div>
-<div><a href="Testaments of the Twelve Patriarchs/The Testament of Zebulun.html" target="contentFrame">The Testament of Zebulun</a></div></details>
+<div><a href="#" onclick="loadFile('Testaments of the Twelve Patriarchs/The Testament of Asher.html')">The Testament of Asher</a></div>
+<div><a href="#" onclick="loadFile('Testaments of the Twelve Patriarchs/The Testament of Benjamin.html')">The Testament of Benjamin</a></div>
+<div><a href="#" onclick="loadFile('Testaments of the Twelve Patriarchs/The Testament of Dan.html')">The Testament of Dan</a></div>
+<div><a href="#" onclick="loadFile('Testaments of the Twelve Patriarchs/The Testament of Gad.html')">The Testament of Gad</a></div>
+<div><a href="#" onclick="loadFile('Testaments of the Twelve Patriarchs/The Testament of Issachar.html')">The Testament of Issachar</a></div>
+<div><a href="#" onclick="loadFile('Testaments of the Twelve Patriarchs/The Testament of Joseph.html')">The Testament of Joseph</a></div>
+<div><a href="#" onclick="loadFile('Testaments of the Twelve Patriarchs/The Testament of Judah.html')">The Testament of Judah</a></div>
+<div><a href="#" onclick="loadFile('Testaments of the Twelve Patriarchs/The Testament of Levi.html')">The Testament of Levi</a></div>
+<div><a href="#" onclick="loadFile('Testaments of the Twelve Patriarchs/The Testament of Naphtali.html')">The Testament of Naphtali</a></div>
+<div><a href="#" onclick="loadFile('Testaments of the Twelve Patriarchs/The Testament of Reuben.html')">The Testament of Reuben</a></div>
+<div><a href="#" onclick="loadFile('Testaments of the Twelve Patriarchs/The Testament of Simeon.html')">The Testament of Simeon</a></div>
+<div><a href="#" onclick="loadFile('Testaments of the Twelve Patriarchs/The Testament of Zebulun.html')">The Testament of Zebulun</a></div></details>
 <details><summary>[200 AD] The Liturgy Of The Blessed Apostles</summary>
-<div><a href="The Liturgy Of The Blessed Apostles/The Liturgy of the Blessed Apostles.html" target="contentFrame">The Liturgy of the Blessed Apostles</a></div></details>
+<div><a href="#" onclick="loadFile('The Liturgy Of The Blessed Apostles/The Liturgy of the Blessed Apostles.html')">The Liturgy of the Blessed Apostles</a></div></details>
 <details><summary>[200 AD] Caius Presbyter of Rome</summary>
-<div><a href="Caius Presbyter of Rome/Fragments of Caius.html" target="contentFrame">Fragments of Caius</a></div></details>
+<div><a href="#" onclick="loadFile('Caius Presbyter of Rome/Fragments of Caius.html')">Fragments of Caius</a></div></details>
 <details><summary>[202 AD] Irenaeus</summary>
-<div><a href="Irenaeus/Fragments from the Lost Writings of Irenaeus.html" target="contentFrame">Fragments from the Lost Writings of Irenaeus</a></div>
-<div><a href="Irenaeus/Irenaeus Against Heresies Book I.html" target="contentFrame">Irenaeus Against Heresies Book I</a></div>
-<div><a href="Irenaeus/Irenaeus Against Heresies Book II.html" target="contentFrame">Irenaeus Against Heresies Book II</a></div>
-<div><a href="Irenaeus/Irenaeus Against Heresies Book III.html" target="contentFrame">Irenaeus Against Heresies Book III</a></div>
-<div><a href="Irenaeus/Irenaeus Against Heresies Book IV.html" target="contentFrame">Irenaeus Against Heresies Book IV</a></div>
-<div><a href="Irenaeus/Irenaeus Against Heresies Book V.html" target="contentFrame">Irenaeus Against Heresies Book V</a></div></details>
+<div><a href="#" onclick="loadFile('Irenaeus/Fragments from the Lost Writings of Irenaeus.html')">Fragments from the Lost Writings of Irenaeus</a></div>
+<div><a href="#" onclick="loadFile('Irenaeus/Irenaeus Against Heresies Book I.html')">Irenaeus Against Heresies Book I</a></div>
+<div><a href="#" onclick="loadFile('Irenaeus/Irenaeus Against Heresies Book II.html')">Irenaeus Against Heresies Book II</a></div>
+<div><a href="#" onclick="loadFile('Irenaeus/Irenaeus Against Heresies Book III.html')">Irenaeus Against Heresies Book III</a></div>
+<div><a href="#" onclick="loadFile('Irenaeus/Irenaeus Against Heresies Book IV.html')">Irenaeus Against Heresies Book IV</a></div>
+<div><a href="#" onclick="loadFile('Irenaeus/Irenaeus Against Heresies Book V.html')">Irenaeus Against Heresies Book V</a></div></details>
 <details><summary>[215 AD] Clement of Alexandria</summary>
-<div><a href="Clement of Alexandria/Exhortation to the Heathen.html" target="contentFrame">Exhortation to the Heathen</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/Exhortation to the Heathen.html')">Exhortation to the Heathen</a></div>
 <details><summary>Fragments</summary>
-<div><a href="Clement of Alexandria/Fragments/I.-From the Latin Translation of Cassiodorus.html" target="contentFrame">I.-From the Latin Translation of Cassiodorus</a></div>
-<div><a href="Clement of Alexandria/Fragments/II.-Nicetas Bishop of Heraclea.html" target="contentFrame">II.-Nicetas Bishop of Heraclea</a></div>
-<div><a href="Clement of Alexandria/Fragments/III.-From the Catena on Luke, Edited by Corderius.html" target="contentFrame">III.-From the Catena on Luke, Edited by Corderius</a></div>
-<div><a href="Clement of Alexandria/Fragments/IV.-From the Books of the Hypotyposes.html" target="contentFrame">IV.-From the Books of the Hypotyposes</a></div>
-<div><a href="Clement of Alexandria/Fragments/IX.-Fragment of the Treatise on Marriage.html" target="contentFrame">IX.-Fragment of the Treatise on Marriage</a></div>
-<div><a href="Clement of Alexandria/Fragments/V.-From the Book on Providence.html" target="contentFrame">V.-From the Book on Providence</a></div>
-<div><a href="Clement of Alexandria/Fragments/VI.-From the Book on the Soul.html" target="contentFrame">VI.-From the Book on the Soul</a></div>
-<div><a href="Clement of Alexandria/Fragments/VII.-Fragment from the Book on Slander.html" target="contentFrame">VII.-Fragment from the Book on Slander</a></div>
-<div><a href="Clement of Alexandria/Fragments/VIII.-Other Fragments from Antonius Melissa.html" target="contentFrame">VIII.-Other Fragments from Antonius Melissa</a></div>
-<div><a href="Clement of Alexandria/Fragments/Who is the Rich Man that Shall Be Saved?.html" target="contentFrame">Who is the Rich Man that Shall Be Saved?</a></div>
-<div><a href="Clement of Alexandria/Fragments/X.-Fragments of Other Lost Books.html" target="contentFrame">X.-Fragments of Other Lost Books</a></div>
-<div><a href="Clement of Alexandria/Fragments/XI.-Fragments Found in Greek Only in the Oxford Edition.html" target="contentFrame">XI.-Fragments Found in Greek Only in the Oxford Edition</a></div>
-<div><a href="Clement of Alexandria/Fragments/XII.-Fragments Not Given in the Oxford Edition.html" target="contentFrame">XII.-Fragments Not Given in the Oxford Edition</a></div></details>
-<div><a href="Clement of Alexandria/The Instructor Book I.html" target="contentFrame">The Instructor Book I</a></div>
-<div><a href="Clement of Alexandria/The Instructor Book II.html" target="contentFrame">The Instructor Book II</a></div>
-<div><a href="Clement of Alexandria/The Instructor Book III.html" target="contentFrame">The Instructor Book III</a></div>
-<div><a href="Clement of Alexandria/The Stromata Book I.html" target="contentFrame">The Stromata Book I</a></div>
-<div><a href="Clement of Alexandria/The Stromata Book II.html" target="contentFrame">The Stromata Book II</a></div>
-<div><a href="Clement of Alexandria/The Stromata Book III.html" target="contentFrame">The Stromata Book III</a></div>
-<div><a href="Clement of Alexandria/The Stromata Book IV.html" target="contentFrame">The Stromata Book IV</a></div>
-<div><a href="Clement of Alexandria/The Stromata Book V.html" target="contentFrame">The Stromata Book V</a></div>
-<div><a href="Clement of Alexandria/The Stromata Book VI.html" target="contentFrame">The Stromata Book VI</a></div>
-<div><a href="Clement of Alexandria/The Stromata Book VII.html" target="contentFrame">The Stromata Book VII</a></div>
-<div><a href="Clement of Alexandria/The Stromata VIII.html" target="contentFrame">The Stromata VIII</a></div></details>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/Fragments/I.-From the Latin Translation of Cassiodorus.html')">I.-From the Latin Translation of Cassiodorus</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/Fragments/II.-Nicetas Bishop of Heraclea.html')">II.-Nicetas Bishop of Heraclea</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/Fragments/III.-From the Catena on Luke, Edited by Corderius.html')">III.-From the Catena on Luke, Edited by Corderius</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/Fragments/IV.-From the Books of the Hypotyposes.html')">IV.-From the Books of the Hypotyposes</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/Fragments/IX.-Fragment of the Treatise on Marriage.html')">IX.-Fragment of the Treatise on Marriage</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/Fragments/V.-From the Book on Providence.html')">V.-From the Book on Providence</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/Fragments/VI.-From the Book on the Soul.html')">VI.-From the Book on the Soul</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/Fragments/VII.-Fragment from the Book on Slander.html')">VII.-Fragment from the Book on Slander</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/Fragments/VIII.-Other Fragments from Antonius Melissa.html')">VIII.-Other Fragments from Antonius Melissa</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/Fragments/Who is the Rich Man that Shall Be Saved?.html')">Who is the Rich Man that Shall Be Saved?</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/Fragments/X.-Fragments of Other Lost Books.html')">X.-Fragments of Other Lost Books</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/Fragments/XI.-Fragments Found in Greek Only in the Oxford Edition.html')">XI.-Fragments Found in Greek Only in the Oxford Edition</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/Fragments/XII.-Fragments Not Given in the Oxford Edition.html')">XII.-Fragments Not Given in the Oxford Edition</a></div></details>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/The Instructor Book I.html')">The Instructor Book I</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/The Instructor Book II.html')">The Instructor Book II</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/The Instructor Book III.html')">The Instructor Book III</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/The Stromata Book I.html')">The Stromata Book I</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/The Stromata Book II.html')">The Stromata Book II</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/The Stromata Book III.html')">The Stromata Book III</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/The Stromata Book IV.html')">The Stromata Book IV</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/The Stromata Book V.html')">The Stromata Book V</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/The Stromata Book VI.html')">The Stromata Book VI</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/The Stromata Book VII.html')">The Stromata Book VII</a></div>
+<div><a href="#" onclick="loadFile('Clement of Alexandria/The Stromata VIII.html')">The Stromata VIII</a></div></details>
 <details><summary>[220 AD] Tertullian</summary>
-<div><a href="Tertullian/A Treatise on the Soul.html" target="contentFrame">A Treatise on the Soul</a></div>
-<div><a href="Tertullian/Ad Martyras.html" target="contentFrame">Ad Martyras</a></div>
-<div><a href="Tertullian/Ad Nationes Appendix.html" target="contentFrame">Ad Nationes Appendix</a></div>
-<div><a href="Tertullian/Ad Nationes Book I.html" target="contentFrame">Ad Nationes Book I</a></div>
-<div><a href="Tertullian/Ad Nationes Book II.html" target="contentFrame">Ad Nationes Book II</a></div>
-<div><a href="Tertullian/Against Hermogenes.html" target="contentFrame">Against Hermogenes</a></div>
-<div><a href="Tertullian/Against Praxeas.html" target="contentFrame">Against Praxeas</a></div>
-<div><a href="Tertullian/Against the Valentinians.html" target="contentFrame">Against the Valentinians</a></div>
-<div><a href="Tertullian/An Answer to the Jews.html" target="contentFrame">An Answer to the Jews</a></div>
-<div><a href="Tertullian/Appendix. Against All Heresies.html" target="contentFrame">Appendix. Against All Heresies</a></div>
-<div><a href="Tertullian/De Fuga in Persecutione.html" target="contentFrame">De Fuga in Persecutione</a></div>
-<div><a href="Tertullian/ON THE PALLIUM.html" target="contentFrame">ON THE PALLIUM</a></div>
-<div><a href="Tertullian/Of Patience.html" target="contentFrame">Of Patience</a></div>
-<div><a href="Tertullian/On Baptism.html" target="contentFrame">On Baptism</a></div>
-<div><a href="Tertullian/On Exhortation to Chastity.html" target="contentFrame">On Exhortation to Chastity</a></div>
-<div><a href="Tertullian/On Fasting.html" target="contentFrame">On Fasting</a></div>
-<div><a href="Tertullian/On Idolatry.html" target="contentFrame">On Idolatry</a></div>
-<div><a href="Tertullian/On Modesty.html" target="contentFrame">On Modesty</a></div>
-<div><a href="Tertullian/On Monogamy.html" target="contentFrame">On Monogamy</a></div>
-<div><a href="Tertullian/On Prayer.html" target="contentFrame">On Prayer</a></div>
-<div><a href="Tertullian/On Repentance.html" target="contentFrame">On Repentance</a></div>
-<div><a href="Tertullian/On the Apparel of Women Book I.html" target="contentFrame">On the Apparel of Women Book I</a></div>
-<div><a href="Tertullian/On the Apparel of Women Book II.html" target="contentFrame">On the Apparel of Women Book II</a></div>
-<div><a href="Tertullian/On the Flesh of Christ.html" target="contentFrame">On the Flesh of Christ</a></div>
-<div><a href="Tertullian/On the Resurrection of the Flesh.html" target="contentFrame">On the Resurrection of the Flesh</a></div>
-<div><a href="Tertullian/On the Veiling of Virgins.html" target="contentFrame">On the Veiling of Virgins</a></div>
-<div><a href="Tertullian/Scorpiace.html" target="contentFrame">Scorpiace</a></div>
-<div><a href="Tertullian/THE APOLOGY.html" target="contentFrame">THE APOLOGY</a></div>
-<div><a href="Tertullian/The Chaplet, or De Corona.html" target="contentFrame">The Chaplet, or De Corona</a></div>
-<div><a href="Tertullian/The Five Books Against Marcion Book I.html" target="contentFrame">The Five Books Against Marcion Book I</a></div>
-<div><a href="Tertullian/The Five Books Against Marcion Book II.html" target="contentFrame">The Five Books Against Marcion Book II</a></div>
-<div><a href="Tertullian/The Five Books Against Marcion Book III.html" target="contentFrame">The Five Books Against Marcion Book III</a></div>
-<div><a href="Tertullian/The Five Books Against Marcion Book IV.html" target="contentFrame">The Five Books Against Marcion Book IV</a></div>
-<div><a href="Tertullian/The Five Books Against Marcion Book V.html" target="contentFrame">The Five Books Against Marcion Book V</a></div>
-<div><a href="Tertullian/The Passion of the Holy Martyrs Perpetua and Felicitas.html" target="contentFrame">The Passion of the Holy Martyrs Perpetua and Felicitas</a></div>
-<div><a href="Tertullian/The Prescription Against Heretics.html" target="contentFrame">The Prescription Against Heretics</a></div>
-<div><a href="Tertullian/The Shows, or De Spectaculis.html" target="contentFrame">The Shows, or De Spectaculis</a></div>
-<div><a href="Tertullian/The Soul's Testimony.html" target="contentFrame">The Soul's Testimony</a></div>
-<div><a href="Tertullian/To His Wife Book I.html" target="contentFrame">To His Wife Book I</a></div>
-<div><a href="Tertullian/To His Wife Book II.html" target="contentFrame">To His Wife Book II</a></div>
-<div><a href="Tertullian/To Scapula.html" target="contentFrame">To Scapula</a></div></details>
+<div><a href="#" onclick="loadFile('Tertullian/A Treatise on the Soul.html')">A Treatise on the Soul</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/Ad Martyras.html')">Ad Martyras</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/Ad Nationes Appendix.html')">Ad Nationes Appendix</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/Ad Nationes Book I.html')">Ad Nationes Book I</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/Ad Nationes Book II.html')">Ad Nationes Book II</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/Against Hermogenes.html')">Against Hermogenes</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/Against Praxeas.html')">Against Praxeas</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/Against the Valentinians.html')">Against the Valentinians</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/An Answer to the Jews.html')">An Answer to the Jews</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/Appendix. Against All Heresies.html')">Appendix. Against All Heresies</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/De Fuga in Persecutione.html')">De Fuga in Persecutione</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/ON THE PALLIUM.html')">ON THE PALLIUM</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/Of Patience.html')">Of Patience</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/On Baptism.html')">On Baptism</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/On Exhortation to Chastity.html')">On Exhortation to Chastity</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/On Fasting.html')">On Fasting</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/On Idolatry.html')">On Idolatry</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/On Modesty.html')">On Modesty</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/On Monogamy.html')">On Monogamy</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/On Prayer.html')">On Prayer</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/On Repentance.html')">On Repentance</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/On the Apparel of Women Book I.html')">On the Apparel of Women Book I</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/On the Apparel of Women Book II.html')">On the Apparel of Women Book II</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/On the Flesh of Christ.html')">On the Flesh of Christ</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/On the Resurrection of the Flesh.html')">On the Resurrection of the Flesh</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/On the Veiling of Virgins.html')">On the Veiling of Virgins</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/Scorpiace.html')">Scorpiace</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/THE APOLOGY.html')">THE APOLOGY</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/The Chaplet, or De Corona.html')">The Chaplet, or De Corona</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/The Five Books Against Marcion Book I.html')">The Five Books Against Marcion Book I</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/The Five Books Against Marcion Book II.html')">The Five Books Against Marcion Book II</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/The Five Books Against Marcion Book III.html')">The Five Books Against Marcion Book III</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/The Five Books Against Marcion Book IV.html')">The Five Books Against Marcion Book IV</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/The Five Books Against Marcion Book V.html')">The Five Books Against Marcion Book V</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/The Passion of the Holy Martyrs Perpetua and Felicitas.html')">The Passion of the Holy Martyrs Perpetua and Felicitas</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/The Prescription Against Heretics.html')">The Prescription Against Heretics</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/The Shows, or De Spectaculis.html')">The Shows, or De Spectaculis</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/The Soul's Testimony.html')">The Soul's Testimony</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/To His Wife Book I.html')">To His Wife Book I</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/To His Wife Book II.html')">To His Wife Book II</a></div>
+<div><a href="#" onclick="loadFile('Tertullian/To Scapula.html')">To Scapula</a></div></details>
 <details><summary>[235 AD] Hippolytus of Rome</summary>
-<div><a href="Hippolytus of Rome/Fragments - Dogmatical and Historical.html" target="contentFrame">Fragments - Dogmatical and Historical</a></div>
-<div><a href="Hippolytus of Rome/Fragments - Exegetical. Fragments from Commentaries on Various Books of Scripture.html" target="contentFrame">Fragments - Exegetical. Fragments from Commentaries on Various Books of Scripture</a></div>
-<div><a href="Hippolytus of Rome/The Refutation of All Heresies Book I.html" target="contentFrame">The Refutation of All Heresies Book I</a></div>
-<div><a href="Hippolytus of Rome/The Refutation of All Heresies Book IV.html" target="contentFrame">The Refutation of All Heresies Book IV</a></div>
-<div><a href="Hippolytus of Rome/The Refutation of All Heresies Book IX.html" target="contentFrame">The Refutation of All Heresies Book IX</a></div>
-<div><a href="Hippolytus of Rome/The Refutation of All Heresies Book V.html" target="contentFrame">The Refutation of All Heresies Book V</a></div>
-<div><a href="Hippolytus of Rome/The Refutation of All Heresies Book VI.html" target="contentFrame">The Refutation of All Heresies Book VI</a></div>
-<div><a href="Hippolytus of Rome/The Refutation of All Heresies Book VII.html" target="contentFrame">The Refutation of All Heresies Book VII</a></div>
-<div><a href="Hippolytus of Rome/The Refutation of All Heresies Book VIII.html" target="contentFrame">The Refutation of All Heresies Book VIII</a></div>
-<div><a href="Hippolytus of Rome/The Refutation of All Heresies Book X.html" target="contentFrame">The Refutation of All Heresies Book X</a></div></details>
+<div><a href="#" onclick="loadFile('Hippolytus of Rome/Fragments - Dogmatical and Historical.html')">Fragments - Dogmatical and Historical</a></div>
+<div><a href="#" onclick="loadFile('Hippolytus of Rome/Fragments - Exegetical. Fragments from Commentaries on Various Books of Scripture.html')">Fragments - Exegetical. Fragments from Commentaries on Various Books of Scripture</a></div>
+<div><a href="#" onclick="loadFile('Hippolytus of Rome/The Refutation of All Heresies Book I.html')">The Refutation of All Heresies Book I</a></div>
+<div><a href="#" onclick="loadFile('Hippolytus of Rome/The Refutation of All Heresies Book IV.html')">The Refutation of All Heresies Book IV</a></div>
+<div><a href="#" onclick="loadFile('Hippolytus of Rome/The Refutation of All Heresies Book IX.html')">The Refutation of All Heresies Book IX</a></div>
+<div><a href="#" onclick="loadFile('Hippolytus of Rome/The Refutation of All Heresies Book V.html')">The Refutation of All Heresies Book V</a></div>
+<div><a href="#" onclick="loadFile('Hippolytus of Rome/The Refutation of All Heresies Book VI.html')">The Refutation of All Heresies Book VI</a></div>
+<div><a href="#" onclick="loadFile('Hippolytus of Rome/The Refutation of All Heresies Book VII.html')">The Refutation of All Heresies Book VII</a></div>
+<div><a href="#" onclick="loadFile('Hippolytus of Rome/The Refutation of All Heresies Book VIII.html')">The Refutation of All Heresies Book VIII</a></div>
+<div><a href="#" onclick="loadFile('Hippolytus of Rome/The Refutation of All Heresies Book X.html')">The Refutation of All Heresies Book X</a></div></details>
 <details><summary>[240 AD] Julius Africanus</summary>
-<div><a href="Julius Africanus/Narrative of Events Happening in Persia on the Birth of Christ.html" target="contentFrame">Narrative of Events Happening in Persia on the Birth of Christ</a></div>
-<div><a href="Julius Africanus/The Epistle to Aristides.html" target="contentFrame">The Epistle to Aristides</a></div>
-<div><a href="Julius Africanus/The Extant Fragments of the Five Books of the Chronography of Julius Africanus.html" target="contentFrame">The Extant Fragments of the Five Books of the Chronography of Julius Africanus</a></div>
-<div><a href="Julius Africanus/The Passion of St. Symphorosa and Her Seven Sons.html" target="contentFrame">The Passion of St. Symphorosa and Her Seven Sons</a></div></details>
+<div><a href="#" onclick="loadFile('Julius Africanus/Narrative of Events Happening in Persia on the Birth of Christ.html')">Narrative of Events Happening in Persia on the Birth of Christ</a></div>
+<div><a href="#" onclick="loadFile('Julius Africanus/The Epistle to Aristides.html')">The Epistle to Aristides</a></div>
+<div><a href="#" onclick="loadFile('Julius Africanus/The Extant Fragments of the Five Books of the Chronography of Julius Africanus.html')">The Extant Fragments of the Five Books of the Chronography of Julius Africanus</a></div>
+<div><a href="#" onclick="loadFile('Julius Africanus/The Passion of St. Symphorosa and Her Seven Sons.html')">The Passion of St. Symphorosa and Her Seven Sons</a></div></details>
 <details><summary>[250 AD] Marcus Minucius Felix</summary>
-<div><a href="Marcus Minucius Felix/The Instructions of Commodianus in Favour of Christian Discipline.html" target="contentFrame">The Instructions of Commodianus in Favour of Christian Discipline</a></div>
-<div><a href="Marcus Minucius Felix/The Octavius of Minucius Felix.html" target="contentFrame">The Octavius of Minucius Felix</a></div></details>
+<div><a href="#" onclick="loadFile('Marcus Minucius Felix/The Instructions of Commodianus in Favour of Christian Discipline.html')">The Instructions of Commodianus in Favour of Christian Discipline</a></div>
+<div><a href="#" onclick="loadFile('Marcus Minucius Felix/The Octavius of Minucius Felix.html')">The Octavius of Minucius Felix</a></div></details>
 <details><summary>[250 AD] Commodian</summary>
-<div><a href="Commodian/On Christian Discipline.html" target="contentFrame">On Christian Discipline</a></div>
-<div><a href="Commodian/Song Of Two Peoples LATIN.html" target="contentFrame">Song Of Two Peoples LATIN</a></div>
-<div><a href="Commodian/Song Of Two Peoples.html" target="contentFrame">Song Of Two Peoples</a></div></details>
+<div><a href="#" onclick="loadFile('Commodian/On Christian Discipline.html')">On Christian Discipline</a></div>
+<div><a href="#" onclick="loadFile('Commodian/Song Of Two Peoples LATIN.html')">Song Of Two Peoples LATIN</a></div>
+<div><a href="#" onclick="loadFile('Commodian/Song Of Two Peoples.html')">Song Of Two Peoples</a></div></details>
 <details><summary>[253 AD] Origen of Alexandria</summary>
-<div><a href="Origen of Alexandria/A Letter from Origen to Africanus.html" target="contentFrame">A Letter from Origen to Africanus</a></div>
-<div><a href="Origen of Alexandria/A Letter from Origen to Gregory.html" target="contentFrame">A Letter from Origen to Gregory</a></div>
-<div><a href="Origen of Alexandria/A Letter to Origen from Africanus About the History of Susanna.html" target="contentFrame">A Letter to Origen from Africanus About the History of Susanna</a></div>
-<div><a href="Origen of Alexandria/Commentary on John Book I.html" target="contentFrame">Commentary on John Book I</a></div>
-<div><a href="Origen of Alexandria/Commentary on John Book II.html" target="contentFrame">Commentary on John Book II</a></div>
-<div><a href="Origen of Alexandria/Commentary on John Book IV.html" target="contentFrame">Commentary on John Book IV</a></div>
-<div><a href="Origen of Alexandria/Commentary on John Book V.html" target="contentFrame">Commentary on John Book V</a></div>
-<div><a href="Origen of Alexandria/Commentary on John Book VI.html" target="contentFrame">Commentary on John Book VI</a></div>
-<div><a href="Origen of Alexandria/Commentary on John Book XII.html" target="contentFrame">Commentary on John Book XII</a></div>
-<div><a href="Origen of Alexandria/Commentary on Matthew Book II.html" target="contentFrame">Commentary on Matthew Book II</a></div>
-<div><a href="Origen of Alexandria/Commentary on Matthew Book X.html" target="contentFrame">Commentary on Matthew Book X</a></div>
-<div><a href="Origen of Alexandria/Commentary on Matthew Book XI.html" target="contentFrame">Commentary on Matthew Book XI</a></div>
-<div><a href="Origen of Alexandria/Commentary on Matthew Book XII.html" target="contentFrame">Commentary on Matthew Book XII</a></div>
-<div><a href="Origen of Alexandria/Commentary on Matthew Book XIII.html" target="contentFrame">Commentary on Matthew Book XIII</a></div>
-<div><a href="Origen of Alexandria/Commentary on Matthew Book XIV.html" target="contentFrame">Commentary on Matthew Book XIV</a></div>
-<div><a href="Origen of Alexandria/Commentary on Matthew Introduction.html" target="contentFrame">Commentary on Matthew Introduction</a></div>
-<div><a href="Origen of Alexandria/Letter of Origen to Gregory.html" target="contentFrame">Letter of Origen to Gregory</a></div>
-<div><a href="Origen of Alexandria/Origen Against Celsus Book I.html" target="contentFrame">Origen Against Celsus Book I</a></div>
-<div><a href="Origen of Alexandria/Origen Against Celsus Book II.html" target="contentFrame">Origen Against Celsus Book II</a></div>
-<div><a href="Origen of Alexandria/Origen Against Celsus Book III.html" target="contentFrame">Origen Against Celsus Book III</a></div>
-<div><a href="Origen of Alexandria/Origen Against Celsus Book IV.html" target="contentFrame">Origen Against Celsus Book IV</a></div>
-<div><a href="Origen of Alexandria/Origen Against Celsus Book V.html" target="contentFrame">Origen Against Celsus Book V</a></div>
-<div><a href="Origen of Alexandria/Origen Against Celsus Book VI.html" target="contentFrame">Origen Against Celsus Book VI</a></div>
-<div><a href="Origen of Alexandria/Origen Against Celsus Book VII.html" target="contentFrame">Origen Against Celsus Book VII</a></div>
-<div><a href="Origen of Alexandria/Origen Against Celsus Book VIII.html" target="contentFrame">Origen Against Celsus Book VIII</a></div>
-<div><a href="Origen of Alexandria/Origen de Principiis Book I.html" target="contentFrame">Origen de Principiis Book I</a></div>
-<div><a href="Origen of Alexandria/Origen de Principiis Book II.html" target="contentFrame">Origen de Principiis Book II</a></div>
-<div><a href="Origen of Alexandria/Origen de Principiis Book III.html" target="contentFrame">Origen de Principiis Book III</a></div>
-<div><a href="Origen of Alexandria/Origen de Principiis Book IV.html" target="contentFrame">Origen de Principiis Book IV</a></div>
-<div><a href="Origen of Alexandria/Prologue of Rufinus.html" target="contentFrame">Prologue of Rufinus</a></div></details>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/A Letter from Origen to Africanus.html')">A Letter from Origen to Africanus</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/A Letter from Origen to Gregory.html')">A Letter from Origen to Gregory</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/A Letter to Origen from Africanus About the History of Susanna.html')">A Letter to Origen from Africanus About the History of Susanna</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Commentary on John Book I.html')">Commentary on John Book I</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Commentary on John Book II.html')">Commentary on John Book II</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Commentary on John Book IV.html')">Commentary on John Book IV</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Commentary on John Book V.html')">Commentary on John Book V</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Commentary on John Book VI.html')">Commentary on John Book VI</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Commentary on John Book XII.html')">Commentary on John Book XII</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Commentary on Matthew Book II.html')">Commentary on Matthew Book II</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Commentary on Matthew Book X.html')">Commentary on Matthew Book X</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Commentary on Matthew Book XI.html')">Commentary on Matthew Book XI</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Commentary on Matthew Book XII.html')">Commentary on Matthew Book XII</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Commentary on Matthew Book XIII.html')">Commentary on Matthew Book XIII</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Commentary on Matthew Book XIV.html')">Commentary on Matthew Book XIV</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Commentary on Matthew Introduction.html')">Commentary on Matthew Introduction</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Letter of Origen to Gregory.html')">Letter of Origen to Gregory</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Origen Against Celsus Book I.html')">Origen Against Celsus Book I</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Origen Against Celsus Book II.html')">Origen Against Celsus Book II</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Origen Against Celsus Book III.html')">Origen Against Celsus Book III</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Origen Against Celsus Book IV.html')">Origen Against Celsus Book IV</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Origen Against Celsus Book V.html')">Origen Against Celsus Book V</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Origen Against Celsus Book VI.html')">Origen Against Celsus Book VI</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Origen Against Celsus Book VII.html')">Origen Against Celsus Book VII</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Origen Against Celsus Book VIII.html')">Origen Against Celsus Book VIII</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Origen de Principiis Book I.html')">Origen de Principiis Book I</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Origen de Principiis Book II.html')">Origen de Principiis Book II</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Origen de Principiis Book III.html')">Origen de Principiis Book III</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Origen de Principiis Book IV.html')">Origen de Principiis Book IV</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Prologue of Rufinus.html')">Prologue of Rufinus</a></div></details>
 <details><summary>[258 AD] Novatian</summary>
-<div><a href="Novatian/A Treatise of Novatian Concerning the Trinity.html" target="contentFrame">A Treatise of Novatian Concerning the Trinity</a></div>
-<div><a href="Novatian/On the Jewish Meats.html" target="contentFrame">On the Jewish Meats</a></div></details>
+<div><a href="#" onclick="loadFile('Novatian/A Treatise of Novatian Concerning the Trinity.html')">A Treatise of Novatian Concerning the Trinity</a></div>
+<div><a href="#" onclick="loadFile('Novatian/On the Jewish Meats.html')">On the Jewish Meats</a></div></details>
 <details><summary>[258 AD] Cyprian</summary>
 <details><summary>Letters</summary>
-<div><a href="Cyprian/Letters/Epistle I.html" target="contentFrame">Epistle I</a></div>
-<div><a href="Cyprian/Letters/Epistle II.html" target="contentFrame">Epistle II</a></div>
-<div><a href="Cyprian/Letters/Epistle III.html" target="contentFrame">Epistle III</a></div>
-<div><a href="Cyprian/Letters/Epistle IV.html" target="contentFrame">Epistle IV</a></div>
-<div><a href="Cyprian/Letters/Epistle IX.html" target="contentFrame">Epistle IX</a></div>
-<div><a href="Cyprian/Letters/Epistle L.html" target="contentFrame">Epistle L</a></div>
-<div><a href="Cyprian/Letters/Epistle LI.html" target="contentFrame">Epistle LI</a></div>
-<div><a href="Cyprian/Letters/Epistle LII.html" target="contentFrame">Epistle LII</a></div>
-<div><a href="Cyprian/Letters/Epistle LIII.html" target="contentFrame">Epistle LIII</a></div>
-<div><a href="Cyprian/Letters/Epistle LIV.html" target="contentFrame">Epistle LIV</a></div>
-<div><a href="Cyprian/Letters/Epistle LIX.html" target="contentFrame">Epistle LIX</a></div>
-<div><a href="Cyprian/Letters/Epistle LV.html" target="contentFrame">Epistle LV</a></div>
-<div><a href="Cyprian/Letters/Epistle LVI.html" target="contentFrame">Epistle LVI</a></div>
-<div><a href="Cyprian/Letters/Epistle LVII.html" target="contentFrame">Epistle LVII</a></div>
-<div><a href="Cyprian/Letters/Epistle LVIII.html" target="contentFrame">Epistle LVIII</a></div>
-<div><a href="Cyprian/Letters/Epistle LX.html" target="contentFrame">Epistle LX</a></div>
-<div><a href="Cyprian/Letters/Epistle LXI.html" target="contentFrame">Epistle LXI</a></div>
-<div><a href="Cyprian/Letters/Epistle LXII.html" target="contentFrame">Epistle LXII</a></div>
-<div><a href="Cyprian/Letters/Epistle LXIII.html" target="contentFrame">Epistle LXIII</a></div>
-<div><a href="Cyprian/Letters/Epistle LXIV.html" target="contentFrame">Epistle LXIV</a></div>
-<div><a href="Cyprian/Letters/Epistle LXIX.html" target="contentFrame">Epistle LXIX</a></div>
-<div><a href="Cyprian/Letters/Epistle LXV.html" target="contentFrame">Epistle LXV</a></div>
-<div><a href="Cyprian/Letters/Epistle LXVI.html" target="contentFrame">Epistle LXVI</a></div>
-<div><a href="Cyprian/Letters/Epistle LXVII.html" target="contentFrame">Epistle LXVII</a></div>
-<div><a href="Cyprian/Letters/Epistle LXVIII.html" target="contentFrame">Epistle LXVIII</a></div>
-<div><a href="Cyprian/Letters/Epistle LXX.html" target="contentFrame">Epistle LXX</a></div>
-<div><a href="Cyprian/Letters/Epistle LXXI.html" target="contentFrame">Epistle LXXI</a></div>
-<div><a href="Cyprian/Letters/Epistle LXXII.html" target="contentFrame">Epistle LXXII</a></div>
-<div><a href="Cyprian/Letters/Epistle LXXIII.html" target="contentFrame">Epistle LXXIII</a></div>
-<div><a href="Cyprian/Letters/Epistle LXXIV.html" target="contentFrame">Epistle LXXIV</a></div>
-<div><a href="Cyprian/Letters/Epistle LXXIX.html" target="contentFrame">Epistle LXXIX</a></div>
-<div><a href="Cyprian/Letters/Epistle LXXV.html" target="contentFrame">Epistle LXXV</a></div>
-<div><a href="Cyprian/Letters/Epistle LXXVI.html" target="contentFrame">Epistle LXXVI</a></div>
-<div><a href="Cyprian/Letters/Epistle LXXVII.html" target="contentFrame">Epistle LXXVII</a></div>
-<div><a href="Cyprian/Letters/Epistle LXXVIII.html" target="contentFrame">Epistle LXXVIII</a></div>
-<div><a href="Cyprian/Letters/Epistle LXXX.html" target="contentFrame">Epistle LXXX</a></div>
-<div><a href="Cyprian/Letters/Epistle LXXXI.html" target="contentFrame">Epistle LXXXI</a></div>
-<div><a href="Cyprian/Letters/Epistle LXXXII.html" target="contentFrame">Epistle LXXXII</a></div>
-<div><a href="Cyprian/Letters/Epistle V.html" target="contentFrame">Epistle V</a></div>
-<div><a href="Cyprian/Letters/Epistle VI.html" target="contentFrame">Epistle VI</a></div>
-<div><a href="Cyprian/Letters/Epistle VII.html" target="contentFrame">Epistle VII</a></div>
-<div><a href="Cyprian/Letters/Epistle VIII.html" target="contentFrame">Epistle VIII</a></div>
-<div><a href="Cyprian/Letters/Epistle X.html" target="contentFrame">Epistle X</a></div>
-<div><a href="Cyprian/Letters/Epistle XI.html" target="contentFrame">Epistle XI</a></div>
-<div><a href="Cyprian/Letters/Epistle XII.html" target="contentFrame">Epistle XII</a></div>
-<div><a href="Cyprian/Letters/Epistle XIII.html" target="contentFrame">Epistle XIII</a></div>
-<div><a href="Cyprian/Letters/Epistle XIV.html" target="contentFrame">Epistle XIV</a></div>
-<div><a href="Cyprian/Letters/Epistle XIX.html" target="contentFrame">Epistle XIX</a></div>
-<div><a href="Cyprian/Letters/Epistle XL.html" target="contentFrame">Epistle XL</a></div>
-<div><a href="Cyprian/Letters/Epistle XLI.html" target="contentFrame">Epistle XLI</a></div>
-<div><a href="Cyprian/Letters/Epistle XLII.html" target="contentFrame">Epistle XLII</a></div>
-<div><a href="Cyprian/Letters/Epistle XLIII.html" target="contentFrame">Epistle XLIII</a></div>
-<div><a href="Cyprian/Letters/Epistle XLIV.html" target="contentFrame">Epistle XLIV</a></div>
-<div><a href="Cyprian/Letters/Epistle XLIX.html" target="contentFrame">Epistle XLIX</a></div>
-<div><a href="Cyprian/Letters/Epistle XLV.html" target="contentFrame">Epistle XLV</a></div>
-<div><a href="Cyprian/Letters/Epistle XLVI.html" target="contentFrame">Epistle XLVI</a></div>
-<div><a href="Cyprian/Letters/Epistle XLVII.html" target="contentFrame">Epistle XLVII</a></div>
-<div><a href="Cyprian/Letters/Epistle XLVIII.html" target="contentFrame">Epistle XLVIII</a></div>
-<div><a href="Cyprian/Letters/Epistle XV.html" target="contentFrame">Epistle XV</a></div>
-<div><a href="Cyprian/Letters/Epistle XVI.html" target="contentFrame">Epistle XVI</a></div>
-<div><a href="Cyprian/Letters/Epistle XVII.html" target="contentFrame">Epistle XVII</a></div>
-<div><a href="Cyprian/Letters/Epistle XVIII.html" target="contentFrame">Epistle XVIII</a></div>
-<div><a href="Cyprian/Letters/Epistle XX.html" target="contentFrame">Epistle XX</a></div>
-<div><a href="Cyprian/Letters/Epistle XXI.html" target="contentFrame">Epistle XXI</a></div>
-<div><a href="Cyprian/Letters/Epistle XXII.html" target="contentFrame">Epistle XXII</a></div>
-<div><a href="Cyprian/Letters/Epistle XXIII.html" target="contentFrame">Epistle XXIII</a></div>
-<div><a href="Cyprian/Letters/Epistle XXIV.html" target="contentFrame">Epistle XXIV</a></div>
-<div><a href="Cyprian/Letters/Epistle XXIX.html" target="contentFrame">Epistle XXIX</a></div>
-<div><a href="Cyprian/Letters/Epistle XXV.html" target="contentFrame">Epistle XXV</a></div>
-<div><a href="Cyprian/Letters/Epistle XXVI.html" target="contentFrame">Epistle XXVI</a></div>
-<div><a href="Cyprian/Letters/Epistle XXVII.html" target="contentFrame">Epistle XXVII</a></div>
-<div><a href="Cyprian/Letters/Epistle XXVIII.html" target="contentFrame">Epistle XXVIII</a></div>
-<div><a href="Cyprian/Letters/Epistle XXX.html" target="contentFrame">Epistle XXX</a></div>
-<div><a href="Cyprian/Letters/Epistle XXXI.html" target="contentFrame">Epistle XXXI</a></div>
-<div><a href="Cyprian/Letters/Epistle XXXII.html" target="contentFrame">Epistle XXXII</a></div>
-<div><a href="Cyprian/Letters/Epistle XXXIII.html" target="contentFrame">Epistle XXXIII</a></div>
-<div><a href="Cyprian/Letters/Epistle XXXIV.html" target="contentFrame">Epistle XXXIV</a></div>
-<div><a href="Cyprian/Letters/Epistle XXXIX.html" target="contentFrame">Epistle XXXIX</a></div>
-<div><a href="Cyprian/Letters/Epistle XXXV.html" target="contentFrame">Epistle XXXV</a></div>
-<div><a href="Cyprian/Letters/Epistle XXXVI.html" target="contentFrame">Epistle XXXVI</a></div>
-<div><a href="Cyprian/Letters/Epistle XXXVII.html" target="contentFrame">Epistle XXXVII</a></div>
-<div><a href="Cyprian/Letters/Epistle XXXVIII.html" target="contentFrame">Epistle XXXVIII</a></div></details>
-<div><a href="Cyprian/The Seventh Council of Carthage Under Cyprian.html" target="contentFrame">The Seventh Council of Carthage Under Cyprian</a></div>
-<div><a href="Cyprian/Treatise I. On the Unity of the Church.html" target="contentFrame">Treatise I. On the Unity of the Church</a></div>
-<div><a href="Cyprian/Treatise II. On the Dress of Virgins.html" target="contentFrame">Treatise II. On the Dress of Virgins</a></div>
-<div><a href="Cyprian/Treatise III. On the Lapsed.html" target="contentFrame">Treatise III. On the Lapsed</a></div>
-<div><a href="Cyprian/Treatise IV. On the Lord's Prayer.html" target="contentFrame">Treatise IV. On the Lord's Prayer</a></div>
-<div><a href="Cyprian/Treatise IX. On the Advantage of Patience.html" target="contentFrame">Treatise IX. On the Advantage of Patience</a></div>
-<div><a href="Cyprian/Treatise V. An Address to Demetrianus.html" target="contentFrame">Treatise V. An Address to Demetrianus</a></div>
-<div><a href="Cyprian/Treatise VI. On the Vanity of Idols.html" target="contentFrame">Treatise VI. On the Vanity of Idols</a></div>
-<div><a href="Cyprian/Treatise VII. On the Mortality.html" target="contentFrame">Treatise VII. On the Mortality</a></div>
-<div><a href="Cyprian/Treatise VIII. On Works and Alms.html" target="contentFrame">Treatise VIII. On Works and Alms</a></div>
-<div><a href="Cyprian/Treatise X. On Jealousy and Envy.html" target="contentFrame">Treatise X. On Jealousy and Envy</a></div>
-<div><a href="Cyprian/Treatise XI. Exhortation to Martyrdom, Addressed to Fortunatus.html" target="contentFrame">Treatise XI. Exhortation to Martyrdom, Addressed to Fortunatus</a></div>
-<div><a href="Cyprian/Treatise XII. Three Books of Testimonies Against the Jews.html" target="contentFrame">Treatise XII. Three Books of Testimonies Against the Jews</a></div></details>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle I.html')">Epistle I</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle II.html')">Epistle II</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle III.html')">Epistle III</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle IV.html')">Epistle IV</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle IX.html')">Epistle IX</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle L.html')">Epistle L</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LI.html')">Epistle LI</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LII.html')">Epistle LII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LIII.html')">Epistle LIII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LIV.html')">Epistle LIV</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LIX.html')">Epistle LIX</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LV.html')">Epistle LV</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LVI.html')">Epistle LVI</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LVII.html')">Epistle LVII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LVIII.html')">Epistle LVIII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LX.html')">Epistle LX</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXI.html')">Epistle LXI</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXII.html')">Epistle LXII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXIII.html')">Epistle LXIII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXIV.html')">Epistle LXIV</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXIX.html')">Epistle LXIX</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXV.html')">Epistle LXV</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXVI.html')">Epistle LXVI</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXVII.html')">Epistle LXVII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXVIII.html')">Epistle LXVIII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXX.html')">Epistle LXX</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXXI.html')">Epistle LXXI</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXXII.html')">Epistle LXXII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXXIII.html')">Epistle LXXIII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXXIV.html')">Epistle LXXIV</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXXIX.html')">Epistle LXXIX</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXXV.html')">Epistle LXXV</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXXVI.html')">Epistle LXXVI</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXXVII.html')">Epistle LXXVII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXXVIII.html')">Epistle LXXVIII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXXX.html')">Epistle LXXX</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXXXI.html')">Epistle LXXXI</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle LXXXII.html')">Epistle LXXXII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle V.html')">Epistle V</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle VI.html')">Epistle VI</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle VII.html')">Epistle VII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle VIII.html')">Epistle VIII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle X.html')">Epistle X</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XI.html')">Epistle XI</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XII.html')">Epistle XII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XIII.html')">Epistle XIII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XIV.html')">Epistle XIV</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XIX.html')">Epistle XIX</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XL.html')">Epistle XL</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XLI.html')">Epistle XLI</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XLII.html')">Epistle XLII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XLIII.html')">Epistle XLIII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XLIV.html')">Epistle XLIV</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XLIX.html')">Epistle XLIX</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XLV.html')">Epistle XLV</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XLVI.html')">Epistle XLVI</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XLVII.html')">Epistle XLVII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XLVIII.html')">Epistle XLVIII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XV.html')">Epistle XV</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XVI.html')">Epistle XVI</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XVII.html')">Epistle XVII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XVIII.html')">Epistle XVIII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XX.html')">Epistle XX</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXI.html')">Epistle XXI</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXII.html')">Epistle XXII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXIII.html')">Epistle XXIII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXIV.html')">Epistle XXIV</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXIX.html')">Epistle XXIX</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXV.html')">Epistle XXV</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXVI.html')">Epistle XXVI</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXVII.html')">Epistle XXVII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXVIII.html')">Epistle XXVIII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXX.html')">Epistle XXX</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXXI.html')">Epistle XXXI</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXXII.html')">Epistle XXXII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXXIII.html')">Epistle XXXIII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXXIV.html')">Epistle XXXIV</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXXIX.html')">Epistle XXXIX</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXXV.html')">Epistle XXXV</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXXVI.html')">Epistle XXXVI</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXXVII.html')">Epistle XXXVII</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Letters/Epistle XXXVIII.html')">Epistle XXXVIII</a></div></details>
+<div><a href="#" onclick="loadFile('Cyprian/The Seventh Council of Carthage Under Cyprian.html')">The Seventh Council of Carthage Under Cyprian</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Treatise I. On the Unity of the Church.html')">Treatise I. On the Unity of the Church</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Treatise II. On the Dress of Virgins.html')">Treatise II. On the Dress of Virgins</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Treatise III. On the Lapsed.html')">Treatise III. On the Lapsed</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Treatise IV. On the Lord's Prayer.html')">Treatise IV. On the Lord's Prayer</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Treatise IX. On the Advantage of Patience.html')">Treatise IX. On the Advantage of Patience</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Treatise V. An Address to Demetrianus.html')">Treatise V. An Address to Demetrianus</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Treatise VI. On the Vanity of Idols.html')">Treatise VI. On the Vanity of Idols</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Treatise VII. On the Mortality.html')">Treatise VII. On the Mortality</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Treatise VIII. On Works and Alms.html')">Treatise VIII. On Works and Alms</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Treatise X. On Jealousy and Envy.html')">Treatise X. On Jealousy and Envy</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Treatise XI. Exhortation to Martyrdom, Addressed to Fortunatus.html')">Treatise XI. Exhortation to Martyrdom, Addressed to Fortunatus</a></div>
+<div><a href="#" onclick="loadFile('Cyprian/Treatise XII. Three Books of Testimonies Against the Jews.html')">Treatise XII. Three Books of Testimonies Against the Jews</a></div></details>
 <details><summary>[264 AD] Dionysius of Alexandria</summary>
-<div><a href="Dionysius of Alexandria/A Commentary on the Beginning of Ecclesiastes.html" target="contentFrame">A Commentary on the Beginning of Ecclesiastes</a></div>
-<div><a href="Dionysius of Alexandria/An Exposition of Luke XXII. 46, Etc.html" target="contentFrame">An Exposition of Luke XXII. 46, Etc</a></div>
-<div><a href="Dionysius of Alexandria/Containing Epistles, or Fragments of Epistles.html" target="contentFrame">Containing Epistles, or Fragments of Epistles</a></div>
-<div><a href="Dionysius of Alexandria/Containing Various Sections of the Works.html" target="contentFrame">Containing Various Sections of the Works</a></div>
-<div><a href="Dionysius of Alexandria/Of the One Substance.html" target="contentFrame">Of the One Substance</a></div>
-<div><a href="Dionysius of Alexandria/On John VIII. 12.html" target="contentFrame">On John VIII. 12</a></div>
-<div><a href="Dionysius of Alexandria/On Luke XXII. 42, Etc.html" target="contentFrame">On Luke XXII. 42, Etc</a></div>
-<div><a href="Dionysius of Alexandria/On the Reception of the Lapsed to Penitence.html" target="contentFrame">On the Reception of the Lapsed to Penitence</a></div>
-<div><a href="Dionysius of Alexandria/The Gospel According to Luke.html" target="contentFrame">The Gospel According to Luke</a></div></details>
+<div><a href="#" onclick="loadFile('Dionysius of Alexandria/A Commentary on the Beginning of Ecclesiastes.html')">A Commentary on the Beginning of Ecclesiastes</a></div>
+<div><a href="#" onclick="loadFile('Dionysius of Alexandria/An Exposition of Luke XXII. 46, Etc.html')">An Exposition of Luke XXII. 46, Etc</a></div>
+<div><a href="#" onclick="loadFile('Dionysius of Alexandria/Containing Epistles, or Fragments of Epistles.html')">Containing Epistles, or Fragments of Epistles</a></div>
+<div><a href="#" onclick="loadFile('Dionysius of Alexandria/Containing Various Sections of the Works.html')">Containing Various Sections of the Works</a></div>
+<div><a href="#" onclick="loadFile('Dionysius of Alexandria/Of the One Substance.html')">Of the One Substance</a></div>
+<div><a href="#" onclick="loadFile('Dionysius of Alexandria/On John VIII. 12.html')">On John VIII. 12</a></div>
+<div><a href="#" onclick="loadFile('Dionysius of Alexandria/On Luke XXII. 42, Etc.html')">On Luke XXII. 42, Etc</a></div>
+<div><a href="#" onclick="loadFile('Dionysius of Alexandria/On the Reception of the Lapsed to Penitence.html')">On the Reception of the Lapsed to Penitence</a></div>
+<div><a href="#" onclick="loadFile('Dionysius of Alexandria/The Gospel According to Luke.html')">The Gospel According to Luke</a></div></details>
 <details><summary>[270 AD] Gregory of Neocaesarea</summary>
-<div><a href="Gregory of Neocaesarea/A Declaration of Faith.html" target="contentFrame">A Declaration of Faith</a></div>
-<div><a href="Gregory of Neocaesarea/A Metaphrase of the Book of Ecclesiastes.html" target="contentFrame">A Metaphrase of the Book of Ecclesiastes</a></div>
-<div><a href="Gregory of Neocaesarea/Canonical Epistle.html" target="contentFrame">Canonical Epistle</a></div>
-<div><a href="Gregory of Neocaesarea/The Oration and Panegyric Addressed to Origen.html" target="contentFrame">The Oration and Panegyric Addressed to Origen</a></div></details>
+<div><a href="#" onclick="loadFile('Gregory of Neocaesarea/A Declaration of Faith.html')">A Declaration of Faith</a></div>
+<div><a href="#" onclick="loadFile('Gregory of Neocaesarea/A Metaphrase of the Book of Ecclesiastes.html')">A Metaphrase of the Book of Ecclesiastes</a></div>
+<div><a href="#" onclick="loadFile('Gregory of Neocaesarea/Canonical Epistle.html')">Canonical Epistle</a></div>
+<div><a href="#" onclick="loadFile('Gregory of Neocaesarea/The Oration and Panegyric Addressed to Origen.html')">The Oration and Panegyric Addressed to Origen</a></div></details>
 <details><summary>[270 AD] Theognostus Of Alexandria</summary>
-<div><a href="Theognostus Of Alexandria/From His Seven Books of Hypotyposes or Outlines.html" target="contentFrame">From His Seven Books of Hypotyposes or Outlines</a></div></details>
+<div><a href="#" onclick="loadFile('Theognostus Of Alexandria/From His Seven Books of Hypotyposes or Outlines.html')">From His Seven Books of Hypotyposes or Outlines</a></div></details>
 <details><summary>[272 AD] Malchion</summary>
-<div><a href="Malchion/A Point in the Same Disputation.html" target="contentFrame">A Point in the Same Disputation</a></div>
-<div><a href="Malchion/Fragments Apparently of the Same Epistle of the Synod of Antioch.html" target="contentFrame">Fragments Apparently of the Same Epistle of the Synod of Antioch</a></div>
-<div><a href="Malchion/From the Acts of the Disputation Conducted by Malchion Against Paul of Samosata.html" target="contentFrame">From the Acts of the Disputation Conducted by Malchion Against Paul of Samosata</a></div>
-<div><a href="Malchion/The Epistle Written by Malchion.html" target="contentFrame">The Epistle Written by Malchion</a></div></details>
+<div><a href="#" onclick="loadFile('Malchion/A Point in the Same Disputation.html')">A Point in the Same Disputation</a></div>
+<div><a href="#" onclick="loadFile('Malchion/Fragments Apparently of the Same Epistle of the Synod of Antioch.html')">Fragments Apparently of the Same Epistle of the Synod of Antioch</a></div>
+<div><a href="#" onclick="loadFile('Malchion/From the Acts of the Disputation Conducted by Malchion Against Paul of Samosata.html')">From the Acts of the Disputation Conducted by Malchion Against Paul of Samosata</a></div>
+<div><a href="#" onclick="loadFile('Malchion/The Epistle Written by Malchion.html')">The Epistle Written by Malchion</a></div></details>
 <details><summary>[278 AD] Archelaus of Carrhae</summary>
-<div><a href="Archelaus of Carrhae/The Acts of the Disputation with the Heresiarch Manes.html" target="contentFrame">The Acts of the Disputation with the Heresiarch Manes</a></div></details>
+<div><a href="#" onclick="loadFile('Archelaus of Carrhae/The Acts of the Disputation with the Heresiarch Manes.html')">The Acts of the Disputation with the Heresiarch Manes</a></div></details>
 <details><summary>[300 AD] Theonas of Alexandria</summary>
-<div><a href="Theonas of Alexandria/The Epistle of Theonas, Bishop of Alexandria, to Lucianus, the Chief Chamberlain.html" target="contentFrame">The Epistle of Theonas, Bishop of Alexandria, to Lucianus, the Chief Chamberlain</a></div></details>
+<div><a href="#" onclick="loadFile('Theonas of Alexandria/The Epistle of Theonas, Bishop of Alexandria, to Lucianus, the Chief Chamberlain.html')">The Epistle of Theonas, Bishop of Alexandria, to Lucianus, the Chief Chamberlain</a></div></details>
 <details><summary>[300 AD] Liturgy of Saint Mark</summary>
-<div><a href="Liturgy of Saint Mark/The Divine Liturgy of the Holy Apostle and Evangelist Mark.html" target="contentFrame">The Divine Liturgy of the Holy Apostle and Evangelist Mark</a></div></details>
+<div><a href="#" onclick="loadFile('Liturgy of Saint Mark/The Divine Liturgy of the Holy Apostle and Evangelist Mark.html')">The Divine Liturgy of the Holy Apostle and Evangelist Mark</a></div></details>
 <details><summary>[304 AD] Victorinus of Pettau</summary>
-<div><a href="Victorinus of Pettau/Commentary on the Apocalypse of the Blessed John.html" target="contentFrame">Commentary on the Apocalypse of the Blessed John</a></div>
-<div><a href="Victorinus of Pettau/On the Creation of the World.html" target="contentFrame">On the Creation of the World</a></div></details>
+<div><a href="#" onclick="loadFile('Victorinus of Pettau/Commentary on the Apocalypse of the Blessed John.html')">Commentary on the Apocalypse of the Blessed John</a></div>
+<div><a href="#" onclick="loadFile('Victorinus of Pettau/On the Creation of the World.html')">On the Creation of the World</a></div></details>
 <details><summary>[309 AD] Pamphilus of Caesarea</summary>
-<div><a href="Pamphilus of Caesarea/An Exposition of the Chapters of the Acts of the Apostles.html" target="contentFrame">An Exposition of the Chapters of the Acts of the Apostles</a></div></details>
+<div><a href="#" onclick="loadFile('Pamphilus of Caesarea/An Exposition of the Chapters of the Acts of the Apostles.html')">An Exposition of the Chapters of the Acts of the Apostles</a></div></details>
 <details><summary>[311 AD] Methodius of Olympus</summary>
-<div><a href="Methodius of Olympus/Concerning Free-Will.html" target="contentFrame">Concerning Free-Will</a></div>
-<div><a href="Methodius of Olympus/De Cibis.html" target="contentFrame">De Cibis</a></div>
-<div><a href="Methodius of Olympus/De Vita.html" target="contentFrame">De Vita</a></div>
-<div><a href="Methodius of Olympus/Discourse I.-Marcella.html" target="contentFrame">Discourse I.-Marcella</a></div>
-<div><a href="Methodius of Olympus/Discourse II.-Theophila.html" target="contentFrame">Discourse II.-Theophila</a></div>
-<div><a href="Methodius of Olympus/Discourse III.-Thaleia.html" target="contentFrame">Discourse III.-Thaleia</a></div>
-<div><a href="Methodius of Olympus/Discourse IX.-Tusiane.html" target="contentFrame">Discourse IX.-Tusiane</a></div>
-<div><a href="Methodius of Olympus/Discourse V.-Thallousa.html" target="contentFrame">Discourse V.-Thallousa</a></div>
-<div><a href="Methodius of Olympus/Discourse VI.-Agathe.html" target="contentFrame">Discourse VI.-Agathe</a></div>
-<div><a href="Methodius of Olympus/Discourse VII.-Procilla.html" target="contentFrame">Discourse VII.-Procilla</a></div>
-<div><a href="Methodius of Olympus/Discourse VIII.-Thekla.html" target="contentFrame">Discourse VIII.-Thekla</a></div>
-<div><a href="Methodius of Olympus/Discourse X.-Domnina.html" target="contentFrame">Discourse X.-Domnina</a></div>
-<div><a href="Methodius of Olympus/Discourse XI.-Arete.html" target="contentFrame">Discourse XI.-Arete</a></div>
-<div><a href="Methodius of Olympus/Fragments.html" target="contentFrame">Fragments</a></div>
-<div><a href="Methodius of Olympus/From the Discourse on the Resurrection.html" target="contentFrame">From the Discourse on the Resurrection</a></div>
-<div><a href="Methodius of Olympus/Oration Concerning Simeon and Anna.html" target="contentFrame">Oration Concerning Simeon and Anna</a></div>
-<div><a href="Methodius of Olympus/Oration on the Psalms.html" target="contentFrame">Oration on the Psalms</a></div>
-<div><a href="Methodius of Olympus/Some Other Fragments of the Same Methodius.html" target="contentFrame">Some Other Fragments of the Same Methodius</a></div>
-<div><a href="Methodius of Olympus/The Banquet of the Ten Virgins.html" target="contentFrame">The Banquet of the Ten Virgins</a></div>
-<div><a href="Methodius of Olympus/Three Fragments from the Homily on the Cross and Passion of Christ.html" target="contentFrame">Three Fragments from the Homily on the Cross and Passion of Christ</a></div></details>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/Concerning Free-Will.html')">Concerning Free-Will</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/De Cibis.html')">De Cibis</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/De Vita.html')">De Vita</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/Discourse I.-Marcella.html')">Discourse I.-Marcella</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/Discourse II.-Theophila.html')">Discourse II.-Theophila</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/Discourse III.-Thaleia.html')">Discourse III.-Thaleia</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/Discourse IX.-Tusiane.html')">Discourse IX.-Tusiane</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/Discourse V.-Thallousa.html')">Discourse V.-Thallousa</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/Discourse VI.-Agathe.html')">Discourse VI.-Agathe</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/Discourse VII.-Procilla.html')">Discourse VII.-Procilla</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/Discourse VIII.-Thekla.html')">Discourse VIII.-Thekla</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/Discourse X.-Domnina.html')">Discourse X.-Domnina</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/Discourse XI.-Arete.html')">Discourse XI.-Arete</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/Fragments.html')">Fragments</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/From the Discourse on the Resurrection.html')">From the Discourse on the Resurrection</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/Oration Concerning Simeon and Anna.html')">Oration Concerning Simeon and Anna</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/Oration on the Psalms.html')">Oration on the Psalms</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/Some Other Fragments of the Same Methodius.html')">Some Other Fragments of the Same Methodius</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/The Banquet of the Ten Virgins.html')">The Banquet of the Ten Virgins</a></div>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/Three Fragments from the Homily on the Cross and Passion of Christ.html')">Three Fragments from the Homily on the Cross and Passion of Christ</a></div></details>
 <details><summary>[311 AD] Peter of Alexandria</summary>
-<div><a href="Peter of Alexandria/Fragments from the Writings of Peter.html" target="contentFrame">Fragments from the Writings of Peter</a></div>
-<div><a href="Peter of Alexandria/The Canonical Epistle.html" target="contentFrame">The Canonical Epistle</a></div>
-<div><a href="Peter of Alexandria/The Genuine Acts of Peter.html" target="contentFrame">The Genuine Acts of Peter</a></div></details>
+<div><a href="#" onclick="loadFile('Peter of Alexandria/Fragments from the Writings of Peter.html')">Fragments from the Writings of Peter</a></div>
+<div><a href="#" onclick="loadFile('Peter of Alexandria/The Canonical Epistle.html')">The Canonical Epistle</a></div>
+<div><a href="#" onclick="loadFile('Peter of Alexandria/The Genuine Acts of Peter.html')">The Genuine Acts of Peter</a></div></details>
 <details><summary>[325 AD] Lucius Caecilius Firmianus Lactantius</summary>
-<div><a href="Lucius Caecilius Firmianus Lactantius/A Treatise on the Anger of God.html" target="contentFrame">A Treatise on the Anger of God</a></div>
-<div><a href="Lucius Caecilius Firmianus Lactantius/Fragments of Lactantius.html" target="contentFrame">Fragments of Lactantius</a></div>
-<div><a href="Lucius Caecilius Firmianus Lactantius/Of the Manner in Which the Persecutors Died.html" target="contentFrame">Of the Manner in Which the Persecutors Died</a></div>
-<div><a href="Lucius Caecilius Firmianus Lactantius/On the Workmanship of God, or the Formation of Man.html" target="contentFrame">On the Workmanship of God, or the Formation of Man</a></div>
-<div><a href="Lucius Caecilius Firmianus Lactantius/The Divine Institutes Book I.html" target="contentFrame">The Divine Institutes Book I</a></div>
-<div><a href="Lucius Caecilius Firmianus Lactantius/The Divine Institutes Book II.html" target="contentFrame">The Divine Institutes Book II</a></div>
-<div><a href="Lucius Caecilius Firmianus Lactantius/The Divine Institutes Book III.html" target="contentFrame">The Divine Institutes Book III</a></div>
-<div><a href="Lucius Caecilius Firmianus Lactantius/The Divine Institutes Book IV.html" target="contentFrame">The Divine Institutes Book IV</a></div>
-<div><a href="Lucius Caecilius Firmianus Lactantius/The Divine Institutes Book V.html" target="contentFrame">The Divine Institutes Book V</a></div>
-<div><a href="Lucius Caecilius Firmianus Lactantius/The Divine Institutes Book VI.html" target="contentFrame">The Divine Institutes Book VI</a></div>
-<div><a href="Lucius Caecilius Firmianus Lactantius/The Divine Institutes Book VII.html" target="contentFrame">The Divine Institutes Book VII</a></div>
-<div><a href="Lucius Caecilius Firmianus Lactantius/The Epitome of the Divine Institutes.html" target="contentFrame">The Epitome of the Divine Institutes</a></div>
-<div><a href="Lucius Caecilius Firmianus Lactantius/The Phoenix.html" target="contentFrame">The Phoenix</a></div></details>
+<div><a href="#" onclick="loadFile('Lucius Caecilius Firmianus Lactantius/A Treatise on the Anger of God.html')">A Treatise on the Anger of God</a></div>
+<div><a href="#" onclick="loadFile('Lucius Caecilius Firmianus Lactantius/Fragments of Lactantius.html')">Fragments of Lactantius</a></div>
+<div><a href="#" onclick="loadFile('Lucius Caecilius Firmianus Lactantius/Of the Manner in Which the Persecutors Died.html')">Of the Manner in Which the Persecutors Died</a></div>
+<div><a href="#" onclick="loadFile('Lucius Caecilius Firmianus Lactantius/On the Workmanship of God, or the Formation of Man.html')">On the Workmanship of God, or the Formation of Man</a></div>
+<div><a href="#" onclick="loadFile('Lucius Caecilius Firmianus Lactantius/The Divine Institutes Book I.html')">The Divine Institutes Book I</a></div>
+<div><a href="#" onclick="loadFile('Lucius Caecilius Firmianus Lactantius/The Divine Institutes Book II.html')">The Divine Institutes Book II</a></div>
+<div><a href="#" onclick="loadFile('Lucius Caecilius Firmianus Lactantius/The Divine Institutes Book III.html')">The Divine Institutes Book III</a></div>
+<div><a href="#" onclick="loadFile('Lucius Caecilius Firmianus Lactantius/The Divine Institutes Book IV.html')">The Divine Institutes Book IV</a></div>
+<div><a href="#" onclick="loadFile('Lucius Caecilius Firmianus Lactantius/The Divine Institutes Book V.html')">The Divine Institutes Book V</a></div>
+<div><a href="#" onclick="loadFile('Lucius Caecilius Firmianus Lactantius/The Divine Institutes Book VI.html')">The Divine Institutes Book VI</a></div>
+<div><a href="#" onclick="loadFile('Lucius Caecilius Firmianus Lactantius/The Divine Institutes Book VII.html')">The Divine Institutes Book VII</a></div>
+<div><a href="#" onclick="loadFile('Lucius Caecilius Firmianus Lactantius/The Epitome of the Divine Institutes.html')">The Epitome of the Divine Institutes</a></div>
+<div><a href="#" onclick="loadFile('Lucius Caecilius Firmianus Lactantius/The Phoenix.html')">The Phoenix</a></div></details>
 <details><summary>[325 AD] Council of Nicaea of 325</summary>
-<div><a href="Council of Nicaea of 325/Addenda.html" target="contentFrame">Addenda</a></div>
-<div><a href="Council of Nicaea of 325/The Creed.html" target="contentFrame">The Creed</a></div>
-<div><a href="Council of Nicaea of 325/The Ratification.html" target="contentFrame">The Ratification</a></div></details>
+<div><a href="#" onclick="loadFile('Council of Nicaea of 325/Addenda.html')">Addenda</a></div>
+<div><a href="#" onclick="loadFile('Council of Nicaea of 325/The Creed.html')">The Creed</a></div>
+<div><a href="#" onclick="loadFile('Council of Nicaea of 325/The Ratification.html')">The Ratification</a></div></details>
 <details><summary>[328 AD] Alexander of Alexandria</summary>
-<div><a href="Alexander of Alexandria/Epistles on the Arian Heresy.html" target="contentFrame">Epistles on the Arian Heresy</a></div></details>
+<div><a href="#" onclick="loadFile('Alexander of Alexandria/Epistles on the Arian Heresy.html')">Epistles on the Arian Heresy</a></div></details>
 <details><summary>[330 AD] Arnobius of Sicca</summary>
-<div><a href="Arnobius of Sicca/Against the Heathen Appendix.html" target="contentFrame">Against the Heathen Appendix</a></div>
-<div><a href="Arnobius of Sicca/Against the Heathen Book I.html" target="contentFrame">Against the Heathen Book I</a></div>
-<div><a href="Arnobius of Sicca/Against the Heathen Book II.html" target="contentFrame">Against the Heathen Book II</a></div>
-<div><a href="Arnobius of Sicca/Against the Heathen Book III.html" target="contentFrame">Against the Heathen Book III</a></div>
-<div><a href="Arnobius of Sicca/Against the Heathen Book IV.html" target="contentFrame">Against the Heathen Book IV</a></div>
-<div><a href="Arnobius of Sicca/Against the Heathen Book V.html" target="contentFrame">Against the Heathen Book V</a></div>
-<div><a href="Arnobius of Sicca/Against the Heathen Book VI.html" target="contentFrame">Against the Heathen Book VI</a></div>
-<div><a href="Arnobius of Sicca/Against the Heathen Book VII.html" target="contentFrame">Against the Heathen Book VII</a></div></details>
+<div><a href="#" onclick="loadFile('Arnobius of Sicca/Against the Heathen Appendix.html')">Against the Heathen Appendix</a></div>
+<div><a href="#" onclick="loadFile('Arnobius of Sicca/Against the Heathen Book I.html')">Against the Heathen Book I</a></div>
+<div><a href="#" onclick="loadFile('Arnobius of Sicca/Against the Heathen Book II.html')">Against the Heathen Book II</a></div>
+<div><a href="#" onclick="loadFile('Arnobius of Sicca/Against the Heathen Book III.html')">Against the Heathen Book III</a></div>
+<div><a href="#" onclick="loadFile('Arnobius of Sicca/Against the Heathen Book IV.html')">Against the Heathen Book IV</a></div>
+<div><a href="#" onclick="loadFile('Arnobius of Sicca/Against the Heathen Book V.html')">Against the Heathen Book V</a></div>
+<div><a href="#" onclick="loadFile('Arnobius of Sicca/Against the Heathen Book VI.html')">Against the Heathen Book VI</a></div>
+<div><a href="#" onclick="loadFile('Arnobius of Sicca/Against the Heathen Book VII.html')">Against the Heathen Book VII</a></div></details>
 <details><summary>[360 AD] Eusebius of Emesa</summary>
-<div><a href="Eusebius of Emesa/On Repentance.html" target="contentFrame">On Repentance</a></div></details>
+<div><a href="#" onclick="loadFile('Eusebius of Emesa/On Repentance.html')">On Repentance</a></div></details>
 <details><summary>[380 AD] Apostolic Constitutions</summary>
-<div><a href="Apostolic Constitutions/Constitutions of the Holy Apostles Book I.html" target="contentFrame">Constitutions of the Holy Apostles Book I</a></div>
-<div><a href="Apostolic Constitutions/Constitutions of the Holy Apostles Book II.html" target="contentFrame">Constitutions of the Holy Apostles Book II</a></div>
-<div><a href="Apostolic Constitutions/Constitutions of the Holy Apostles Book III.html" target="contentFrame">Constitutions of the Holy Apostles Book III</a></div>
-<div><a href="Apostolic Constitutions/Constitutions of the Holy Apostles Book IV.html" target="contentFrame">Constitutions of the Holy Apostles Book IV</a></div>
-<div><a href="Apostolic Constitutions/Constitutions of the Holy Apostles Book V.html" target="contentFrame">Constitutions of the Holy Apostles Book V</a></div>
-<div><a href="Apostolic Constitutions/Constitutions of the Holy Apostles Book VI.html" target="contentFrame">Constitutions of the Holy Apostles Book VI</a></div>
-<div><a href="Apostolic Constitutions/Constitutions of the Holy Apostles Book VII.html" target="contentFrame">Constitutions of the Holy Apostles Book VII</a></div>
-<div><a href="Apostolic Constitutions/Constitutions of the Holy Apostles Book VIII.html" target="contentFrame">Constitutions of the Holy Apostles Book VIII</a></div>
-<div><a href="Apostolic Constitutions/The Ecclesiastical Canons of the Same Holy Apostles.html" target="contentFrame">The Ecclesiastical Canons of the Same Holy Apostles</a></div></details>
+<div><a href="#" onclick="loadFile('Apostolic Constitutions/Constitutions of the Holy Apostles Book I.html')">Constitutions of the Holy Apostles Book I</a></div>
+<div><a href="#" onclick="loadFile('Apostolic Constitutions/Constitutions of the Holy Apostles Book II.html')">Constitutions of the Holy Apostles Book II</a></div>
+<div><a href="#" onclick="loadFile('Apostolic Constitutions/Constitutions of the Holy Apostles Book III.html')">Constitutions of the Holy Apostles Book III</a></div>
+<div><a href="#" onclick="loadFile('Apostolic Constitutions/Constitutions of the Holy Apostles Book IV.html')">Constitutions of the Holy Apostles Book IV</a></div>
+<div><a href="#" onclick="loadFile('Apostolic Constitutions/Constitutions of the Holy Apostles Book V.html')">Constitutions of the Holy Apostles Book V</a></div>
+<div><a href="#" onclick="loadFile('Apostolic Constitutions/Constitutions of the Holy Apostles Book VI.html')">Constitutions of the Holy Apostles Book VI</a></div>
+<div><a href="#" onclick="loadFile('Apostolic Constitutions/Constitutions of the Holy Apostles Book VII.html')">Constitutions of the Holy Apostles Book VII</a></div>
+<div><a href="#" onclick="loadFile('Apostolic Constitutions/Constitutions of the Holy Apostles Book VIII.html')">Constitutions of the Holy Apostles Book VIII</a></div>
+<div><a href="#" onclick="loadFile('Apostolic Constitutions/The Ecclesiastical Canons of the Same Holy Apostles.html')">The Ecclesiastical Canons of the Same Holy Apostles</a></div></details>
 <details><summary>[384 AD] Ambrosiaster</summary>
-<div><a href="Ambrosiaster/Commentary on 1 Corinthians.html" target="contentFrame">Commentary on 1 Corinthians</a></div>
-<div><a href="Ambrosiaster/Commentary on 1 Thessalonians.html" target="contentFrame">Commentary on 1 Thessalonians</a></div>
-<div><a href="Ambrosiaster/Commentary on 1 Timothy.html" target="contentFrame">Commentary on 1 Timothy</a></div>
-<div><a href="Ambrosiaster/Commentary on 2 Corinthians.html" target="contentFrame">Commentary on 2 Corinthians</a></div>
-<div><a href="Ambrosiaster/Commentary on 2 Thessalonians.html" target="contentFrame">Commentary on 2 Thessalonians</a></div>
-<div><a href="Ambrosiaster/Commentary on 2 Timothy.html" target="contentFrame">Commentary on 2 Timothy</a></div>
-<div><a href="Ambrosiaster/Commentary on Colossians.html" target="contentFrame">Commentary on Colossians</a></div>
-<div><a href="Ambrosiaster/Commentary on Ephesians.html" target="contentFrame">Commentary on Ephesians</a></div>
-<div><a href="Ambrosiaster/Commentary on Galatians.html" target="contentFrame">Commentary on Galatians</a></div>
-<div><a href="Ambrosiaster/Commentary on Philemon.html" target="contentFrame">Commentary on Philemon</a></div>
-<div><a href="Ambrosiaster/Commentary on Philippians.html" target="contentFrame">Commentary on Philippians</a></div>
-<div><a href="Ambrosiaster/Commentary on Romans.html" target="contentFrame">Commentary on Romans</a></div>
-<div><a href="Ambrosiaster/Commentary on Titus.html" target="contentFrame">Commentary on Titus</a></div>
-<div><a href="Ambrosiaster/Exorcism.html" target="contentFrame">Exorcism</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/Commentary on 1 Corinthians.html')">Commentary on 1 Corinthians</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/Commentary on 1 Thessalonians.html')">Commentary on 1 Thessalonians</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/Commentary on 1 Timothy.html')">Commentary on 1 Timothy</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/Commentary on 2 Corinthians.html')">Commentary on 2 Corinthians</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/Commentary on 2 Thessalonians.html')">Commentary on 2 Thessalonians</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/Commentary on 2 Timothy.html')">Commentary on 2 Timothy</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/Commentary on Colossians.html')">Commentary on Colossians</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/Commentary on Ephesians.html')">Commentary on Ephesians</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/Commentary on Galatians.html')">Commentary on Galatians</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/Commentary on Philemon.html')">Commentary on Philemon</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/Commentary on Philippians.html')">Commentary on Philippians</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/Commentary on Romans.html')">Commentary on Romans</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/Commentary on Titus.html')">Commentary on Titus</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/Exorcism.html')">Exorcism</a></div>
 <details><summary>LATIN</summary>
-<div><a href="Ambrosiaster/LATIN/Commentary on 1 Corinthians LATIN.html" target="contentFrame">Commentary on 1 Corinthians LATIN</a></div>
-<div><a href="Ambrosiaster/LATIN/Commentary on 1 Thessalonians LATIN.html" target="contentFrame">Commentary on 1 Thessalonians LATIN</a></div>
-<div><a href="Ambrosiaster/LATIN/Commentary on 1 Timothy LATIN.html" target="contentFrame">Commentary on 1 Timothy LATIN</a></div>
-<div><a href="Ambrosiaster/LATIN/Commentary on 2 Corinthians LATIN.html" target="contentFrame">Commentary on 2 Corinthians LATIN</a></div>
-<div><a href="Ambrosiaster/LATIN/Commentary on 2 Thessalonians LATIN.html" target="contentFrame">Commentary on 2 Thessalonians LATIN</a></div>
-<div><a href="Ambrosiaster/LATIN/Commentary on 2 Timothy LATIN.html" target="contentFrame">Commentary on 2 Timothy LATIN</a></div>
-<div><a href="Ambrosiaster/LATIN/Commentary on Colossians LATIN.html" target="contentFrame">Commentary on Colossians LATIN</a></div>
-<div><a href="Ambrosiaster/LATIN/Commentary on Ephesians LATIN.html" target="contentFrame">Commentary on Ephesians LATIN</a></div>
-<div><a href="Ambrosiaster/LATIN/Commentary on Galatians LATIN.html" target="contentFrame">Commentary on Galatians LATIN</a></div>
-<div><a href="Ambrosiaster/LATIN/Commentary on Philemon LATIN.html" target="contentFrame">Commentary on Philemon LATIN</a></div>
-<div><a href="Ambrosiaster/LATIN/Commentary on Philippians LATIN.html" target="contentFrame">Commentary on Philippians LATIN</a></div>
-<div><a href="Ambrosiaster/LATIN/Commentary on Romans LATIN.html" target="contentFrame">Commentary on Romans LATIN</a></div>
-<div><a href="Ambrosiaster/LATIN/Commentary on Titus LATIN.html" target="contentFrame">Commentary on Titus LATIN</a></div>
-<div><a href="Ambrosiaster/LATIN/Exorcism LATIN.html" target="contentFrame">Exorcism LATIN</a></div></details></details>
+<div><a href="#" onclick="loadFile('Ambrosiaster/LATIN/Commentary on 1 Corinthians LATIN.html')">Commentary on 1 Corinthians LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/LATIN/Commentary on 1 Thessalonians LATIN.html')">Commentary on 1 Thessalonians LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/LATIN/Commentary on 1 Timothy LATIN.html')">Commentary on 1 Timothy LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/LATIN/Commentary on 2 Corinthians LATIN.html')">Commentary on 2 Corinthians LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/LATIN/Commentary on 2 Thessalonians LATIN.html')">Commentary on 2 Thessalonians LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/LATIN/Commentary on 2 Timothy LATIN.html')">Commentary on 2 Timothy LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/LATIN/Commentary on Colossians LATIN.html')">Commentary on Colossians LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/LATIN/Commentary on Ephesians LATIN.html')">Commentary on Ephesians LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/LATIN/Commentary on Galatians LATIN.html')">Commentary on Galatians LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/LATIN/Commentary on Philemon LATIN.html')">Commentary on Philemon LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/LATIN/Commentary on Philippians LATIN.html')">Commentary on Philippians LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/LATIN/Commentary on Romans LATIN.html')">Commentary on Romans LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/LATIN/Commentary on Titus LATIN.html')">Commentary on Titus LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrosiaster/LATIN/Exorcism LATIN.html')">Exorcism LATIN</a></div></details></details>
 <details><summary>[397 AD] Ambrose of Milan</summary>
-<div><a href="Ambrose of Milan/Apology for the Prophet David.html" target="contentFrame">Apology for the Prophet David</a></div>
-<div><a href="Ambrose of Milan/Commentaries on the Twelve Davidic Psalms.html" target="contentFrame">Commentaries on the Twelve Davidic Psalms</a></div>
-<div><a href="Ambrose of Milan/Commentary on Luke.html" target="contentFrame">Commentary on Luke</a></div>
-<div><a href="Ambrose of Milan/Commentary on the Song of Songs.html" target="contentFrame">Commentary on the Song of Songs</a></div>
-<div><a href="Ambrose of Milan/Exposition On Psalm 118.html" target="contentFrame">Exposition On Psalm 118</a></div>
-<div><a href="Ambrose of Milan/Interrogation of Job and David.html" target="contentFrame">Interrogation of Job and David</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Apology for the Prophet David.html')">Apology for the Prophet David</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Commentaries on the Twelve Davidic Psalms.html')">Commentaries on the Twelve Davidic Psalms</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Commentary on Luke.html')">Commentary on Luke</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Commentary on the Song of Songs.html')">Commentary on the Song of Songs</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Exposition On Psalm 118.html')">Exposition On Psalm 118</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Interrogation of Job and David.html')">Interrogation of Job and David</a></div>
 <details><summary>Latin</summary>
-<div><a href="Ambrose of Milan/Latin/Apology for the Prophet David LATIN.html" target="contentFrame">Apology for the Prophet David LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/Commentaries on the Twelve Davidic Psalms LATIN.html" target="contentFrame">Commentaries on the Twelve Davidic Psalms LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/Commentary on Luke LATIN.html" target="contentFrame">Commentary on Luke LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/Commentary on the Song of Songs LATIN.html" target="contentFrame">Commentary on the Song of Songs LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/Exposition On Psalm 118 LATIN.html" target="contentFrame">Exposition On Psalm 118 LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/Interrogation of Job and David LATIN.html" target="contentFrame">Interrogation of Job and David LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/On Abraham LATIN.html" target="contentFrame">On Abraham LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/On Apostles Creed LATIN.html" target="contentFrame">On Apostles Creed LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/On Cain and Abel LATIN.html" target="contentFrame">On Cain and Abel LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/On Elijah and Fasting LATIN.html" target="contentFrame">On Elijah and Fasting LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/On Isaac and the Soul LATIN.html" target="contentFrame">On Isaac and the Soul LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/On Jacob and the Blessed Life LATIN.html" target="contentFrame">On Jacob and the Blessed Life LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/On Joseph the Patriarch LATIN.html" target="contentFrame">On Joseph the Patriarch LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/On Naboth the Jezreelite LATIN.html" target="contentFrame">On Naboth the Jezreelite LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/On Noah and the Ark LATIN.html" target="contentFrame">On Noah and the Ark LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/On Paradise LATIN.html" target="contentFrame">On Paradise LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/On Tobit LATIN.html" target="contentFrame">On Tobit LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/On the Blessings of the Patriarchs LATIN.html" target="contentFrame">On the Blessings of the Patriarchs LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/On the Harmony of Matthew and Luke in the Genealogy of Christ LATIN.html" target="contentFrame">On the Harmony of Matthew and Luke in the Genealogy of Christ LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/On the Instruction of the Virgin and the Perpetual Virginity of Mary LATIN.html" target="contentFrame">On the Instruction of the Virgin and the Perpetual Virginity of Mary LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/On the Sacrament of the Incarnation of the Lord LATIN.html" target="contentFrame">On the Sacrament of the Incarnation of the Lord LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/On the Sacraments LATIN.html" target="contentFrame">On the Sacraments LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/Second Apology for the Prophet David LATIN.html" target="contentFrame">Second Apology for the Prophet David LATIN</a></div>
-<div><a href="Ambrose of Milan/Latin/The Six Days of Creation LATIN.html" target="contentFrame">The Six Days of Creation LATIN</a></div></details>
-<div><a href="Ambrose of Milan/On Abraham.html" target="contentFrame">On Abraham</a></div>
-<div><a href="Ambrose of Milan/On Apostles Creed.html" target="contentFrame">On Apostles Creed</a></div>
-<div><a href="Ambrose of Milan/On Cain and Abel.html" target="contentFrame">On Cain and Abel</a></div>
-<div><a href="Ambrose of Milan/On Elijah and Fasting.html" target="contentFrame">On Elijah and Fasting</a></div>
-<div><a href="Ambrose of Milan/On Isaac and the Soul.html" target="contentFrame">On Isaac and the Soul</a></div>
-<div><a href="Ambrose of Milan/On Jacob and the Blessed Life.html" target="contentFrame">On Jacob and the Blessed Life</a></div>
-<div><a href="Ambrose of Milan/On Joseph the Patriarch.html" target="contentFrame">On Joseph the Patriarch</a></div>
-<div><a href="Ambrose of Milan/On Naboth the Jezreelite.html" target="contentFrame">On Naboth the Jezreelite</a></div>
-<div><a href="Ambrose of Milan/On Noah and the Ark.html" target="contentFrame">On Noah and the Ark</a></div>
-<div><a href="Ambrose of Milan/On Paradise.html" target="contentFrame">On Paradise</a></div>
-<div><a href="Ambrose of Milan/On Tobit.html" target="contentFrame">On Tobit</a></div>
-<div><a href="Ambrose of Milan/On the Blessings of the Patriarchs.html" target="contentFrame">On the Blessings of the Patriarchs</a></div>
-<div><a href="Ambrose of Milan/On the Harmony of Matthew and Luke in the Genealogy of Christ.html" target="contentFrame">On the Harmony of Matthew and Luke in the Genealogy of Christ</a></div>
-<div><a href="Ambrose of Milan/On the Instruction of the Virgin and the Perpetual Virginity of Mary.html" target="contentFrame">On the Instruction of the Virgin and the Perpetual Virginity of Mary</a></div>
-<div><a href="Ambrose of Milan/On the Sacrament of the Incarnation of the Lord.html" target="contentFrame">On the Sacrament of the Incarnation of the Lord</a></div>
-<div><a href="Ambrose of Milan/On the Sacraments.html" target="contentFrame">On the Sacraments</a></div>
-<div><a href="Ambrose of Milan/Second Apology for the Prophet David.html" target="contentFrame">Second Apology for the Prophet David</a></div>
-<div><a href="Ambrose of Milan/The Six Days of Creation.html" target="contentFrame">The Six Days of Creation</a></div></details>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/Apology for the Prophet David LATIN.html')">Apology for the Prophet David LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/Commentaries on the Twelve Davidic Psalms LATIN.html')">Commentaries on the Twelve Davidic Psalms LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/Commentary on Luke LATIN.html')">Commentary on Luke LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/Commentary on the Song of Songs LATIN.html')">Commentary on the Song of Songs LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/Exposition On Psalm 118 LATIN.html')">Exposition On Psalm 118 LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/Interrogation of Job and David LATIN.html')">Interrogation of Job and David LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/On Abraham LATIN.html')">On Abraham LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/On Apostles Creed LATIN.html')">On Apostles Creed LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/On Cain and Abel LATIN.html')">On Cain and Abel LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/On Elijah and Fasting LATIN.html')">On Elijah and Fasting LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/On Isaac and the Soul LATIN.html')">On Isaac and the Soul LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/On Jacob and the Blessed Life LATIN.html')">On Jacob and the Blessed Life LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/On Joseph the Patriarch LATIN.html')">On Joseph the Patriarch LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/On Naboth the Jezreelite LATIN.html')">On Naboth the Jezreelite LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/On Noah and the Ark LATIN.html')">On Noah and the Ark LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/On Paradise LATIN.html')">On Paradise LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/On Tobit LATIN.html')">On Tobit LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/On the Blessings of the Patriarchs LATIN.html')">On the Blessings of the Patriarchs LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/On the Harmony of Matthew and Luke in the Genealogy of Christ LATIN.html')">On the Harmony of Matthew and Luke in the Genealogy of Christ LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/On the Instruction of the Virgin and the Perpetual Virginity of Mary LATIN.html')">On the Instruction of the Virgin and the Perpetual Virginity of Mary LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/On the Sacrament of the Incarnation of the Lord LATIN.html')">On the Sacrament of the Incarnation of the Lord LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/On the Sacraments LATIN.html')">On the Sacraments LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/Second Apology for the Prophet David LATIN.html')">Second Apology for the Prophet David LATIN</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Latin/The Six Days of Creation LATIN.html')">The Six Days of Creation LATIN</a></div></details>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/On Abraham.html')">On Abraham</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/On Apostles Creed.html')">On Apostles Creed</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/On Cain and Abel.html')">On Cain and Abel</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/On Elijah and Fasting.html')">On Elijah and Fasting</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/On Isaac and the Soul.html')">On Isaac and the Soul</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/On Jacob and the Blessed Life.html')">On Jacob and the Blessed Life</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/On Joseph the Patriarch.html')">On Joseph the Patriarch</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/On Naboth the Jezreelite.html')">On Naboth the Jezreelite</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/On Noah and the Ark.html')">On Noah and the Ark</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/On Paradise.html')">On Paradise</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/On Tobit.html')">On Tobit</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/On the Blessings of the Patriarchs.html')">On the Blessings of the Patriarchs</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/On the Harmony of Matthew and Luke in the Genealogy of Christ.html')">On the Harmony of Matthew and Luke in the Genealogy of Christ</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/On the Instruction of the Virgin and the Perpetual Virginity of Mary.html')">On the Instruction of the Virgin and the Perpetual Virginity of Mary</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/On the Sacrament of the Incarnation of the Lord.html')">On the Sacrament of the Incarnation of the Lord</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/On the Sacraments.html')">On the Sacraments</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/Second Apology for the Prophet David.html')">Second Apology for the Prophet David</a></div>
+<div><a href="#" onclick="loadFile('Ambrose of Milan/The Six Days of Creation.html')">The Six Days of Creation</a></div></details>
 <details><summary>[398 AD] Didymus the Blind</summary>
 <details><summary>Greek</summary>
-<div><a href="Didymus the Blind/Greek/On Genesis GREEK.html" target="contentFrame">On Genesis GREEK</a></div></details>
-<div><a href="Didymus the Blind/On Genesis.html" target="contentFrame">On Genesis</a></div></details>
+<div><a href="#" onclick="loadFile('Didymus the Blind/Greek/On Genesis GREEK.html')">On Genesis GREEK</a></div></details>
+<div><a href="#" onclick="loadFile('Didymus the Blind/On Genesis.html')">On Genesis</a></div></details>
 <details><summary>[400 AD] Pseudo-Clement</summary>
-<div><a href="Pseudo-Clement/2 Clement - The Homily.html" target="contentFrame">2 Clement - The Homily</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily I.html" target="contentFrame">Clementine Homily I</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily II.html" target="contentFrame">Clementine Homily II</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily III.html" target="contentFrame">Clementine Homily III</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily IV.html" target="contentFrame">Clementine Homily IV</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily IX.html" target="contentFrame">Clementine Homily IX</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily V.html" target="contentFrame">Clementine Homily V</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily VI.html" target="contentFrame">Clementine Homily VI</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily VII.html" target="contentFrame">Clementine Homily VII</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily VIII.html" target="contentFrame">Clementine Homily VIII</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily X.html" target="contentFrame">Clementine Homily X</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily XI.html" target="contentFrame">Clementine Homily XI</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily XII.html" target="contentFrame">Clementine Homily XII</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily XIII.html" target="contentFrame">Clementine Homily XIII</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily XIV.html" target="contentFrame">Clementine Homily XIV</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily XIX.html" target="contentFrame">Clementine Homily XIX</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily XV.html" target="contentFrame">Clementine Homily XV</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily XVI.html" target="contentFrame">Clementine Homily XVI</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily XVII.html" target="contentFrame">Clementine Homily XVII</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily XVIII.html" target="contentFrame">Clementine Homily XVIII</a></div>
-<div><a href="Pseudo-Clement/Clementine Homily XX.html" target="contentFrame">Clementine Homily XX</a></div>
-<div><a href="Pseudo-Clement/Epistles Concerning Virginity 1.html" target="contentFrame">Epistles Concerning Virginity 1</a></div>
-<div><a href="Pseudo-Clement/Epistles Concerning Virginity 2.html" target="contentFrame">Epistles Concerning Virginity 2</a></div>
-<div><a href="Pseudo-Clement/Recognitions Book I.html" target="contentFrame">Recognitions Book I</a></div>
-<div><a href="Pseudo-Clement/Recognitions Book II.html" target="contentFrame">Recognitions Book II</a></div>
-<div><a href="Pseudo-Clement/Recognitions Book III.html" target="contentFrame">Recognitions Book III</a></div>
-<div><a href="Pseudo-Clement/Recognitions Book IV.html" target="contentFrame">Recognitions Book IV</a></div>
-<div><a href="Pseudo-Clement/Recognitions Book IX.html" target="contentFrame">Recognitions Book IX</a></div>
-<div><a href="Pseudo-Clement/Recognitions Book V.html" target="contentFrame">Recognitions Book V</a></div>
-<div><a href="Pseudo-Clement/Recognitions Book VI.html" target="contentFrame">Recognitions Book VI</a></div>
-<div><a href="Pseudo-Clement/Recognitions Book VII.html" target="contentFrame">Recognitions Book VII</a></div>
-<div><a href="Pseudo-Clement/Recognitions Book VIII.html" target="contentFrame">Recognitions Book VIII</a></div>
-<div><a href="Pseudo-Clement/Recognitions Book X.html" target="contentFrame">Recognitions Book X</a></div></details>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/2 Clement - The Homily.html')">2 Clement - The Homily</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily I.html')">Clementine Homily I</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily II.html')">Clementine Homily II</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily III.html')">Clementine Homily III</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily IV.html')">Clementine Homily IV</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily IX.html')">Clementine Homily IX</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily V.html')">Clementine Homily V</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily VI.html')">Clementine Homily VI</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily VII.html')">Clementine Homily VII</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily VIII.html')">Clementine Homily VIII</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily X.html')">Clementine Homily X</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily XI.html')">Clementine Homily XI</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily XII.html')">Clementine Homily XII</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily XIII.html')">Clementine Homily XIII</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily XIV.html')">Clementine Homily XIV</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily XIX.html')">Clementine Homily XIX</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily XV.html')">Clementine Homily XV</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily XVI.html')">Clementine Homily XVI</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily XVII.html')">Clementine Homily XVII</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily XVIII.html')">Clementine Homily XVIII</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Clementine Homily XX.html')">Clementine Homily XX</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Epistles Concerning Virginity 1.html')">Epistles Concerning Virginity 1</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Epistles Concerning Virginity 2.html')">Epistles Concerning Virginity 2</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Recognitions Book I.html')">Recognitions Book I</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Recognitions Book II.html')">Recognitions Book II</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Recognitions Book III.html')">Recognitions Book III</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Recognitions Book IV.html')">Recognitions Book IV</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Recognitions Book IX.html')">Recognitions Book IX</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Recognitions Book V.html')">Recognitions Book V</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Recognitions Book VI.html')">Recognitions Book VI</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Recognitions Book VII.html')">Recognitions Book VII</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Recognitions Book VIII.html')">Recognitions Book VIII</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Clement/Recognitions Book X.html')">Recognitions Book X</a></div></details>
 <details><summary>[400 AD] Pseudo-Ignatius</summary>
-<div><a href="Pseudo-Ignatius/A Second Epistle of Ignatius to St. John.html" target="contentFrame">A Second Epistle of Ignatius to St. John</a></div>
-<div><a href="Pseudo-Ignatius/The Epistle of Ignatius to Hero, a Deacon of Antioch.html" target="contentFrame">The Epistle of Ignatius to Hero, a Deacon of Antioch</a></div>
-<div><a href="Pseudo-Ignatius/The Epistle of Ignatius to Mary at Neapolis, Near Zarbus.html" target="contentFrame">The Epistle of Ignatius to Mary at Neapolis, Near Zarbus</a></div>
-<div><a href="Pseudo-Ignatius/The Epistle of Ignatius to St. John the Apostle.html" target="contentFrame">The Epistle of Ignatius to St. John the Apostle</a></div>
-<div><a href="Pseudo-Ignatius/The Epistle of Ignatius to the Antiochians.html" target="contentFrame">The Epistle of Ignatius to the Antiochians</a></div>
-<div><a href="Pseudo-Ignatius/The Epistle of Ignatius to the Philippians.html" target="contentFrame">The Epistle of Ignatius to the Philippians</a></div>
-<div><a href="Pseudo-Ignatius/The Epistle of Ignatius to the Tarsians.html" target="contentFrame">The Epistle of Ignatius to the Tarsians</a></div>
-<div><a href="Pseudo-Ignatius/The Epistle of Ignatius to the Virgin Mary.html" target="contentFrame">The Epistle of Ignatius to the Virgin Mary</a></div>
-<div><a href="Pseudo-Ignatius/The Epistle of Maria the Proselyte to Ignatius.html" target="contentFrame">The Epistle of Maria the Proselyte to Ignatius</a></div>
-<div><a href="Pseudo-Ignatius/The Martyrdom of Ignatius.html" target="contentFrame">The Martyrdom of Ignatius</a></div></details>
+<div><a href="#" onclick="loadFile('Pseudo-Ignatius/A Second Epistle of Ignatius to St. John.html')">A Second Epistle of Ignatius to St. John</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Ignatius/The Epistle of Ignatius to Hero, a Deacon of Antioch.html')">The Epistle of Ignatius to Hero, a Deacon of Antioch</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Ignatius/The Epistle of Ignatius to Mary at Neapolis, Near Zarbus.html')">The Epistle of Ignatius to Mary at Neapolis, Near Zarbus</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Ignatius/The Epistle of Ignatius to St. John the Apostle.html')">The Epistle of Ignatius to St. John the Apostle</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Ignatius/The Epistle of Ignatius to the Antiochians.html')">The Epistle of Ignatius to the Antiochians</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Ignatius/The Epistle of Ignatius to the Philippians.html')">The Epistle of Ignatius to the Philippians</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Ignatius/The Epistle of Ignatius to the Tarsians.html')">The Epistle of Ignatius to the Tarsians</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Ignatius/The Epistle of Ignatius to the Virgin Mary.html')">The Epistle of Ignatius to the Virgin Mary</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Ignatius/The Epistle of Maria the Proselyte to Ignatius.html')">The Epistle of Maria the Proselyte to Ignatius</a></div>
+<div><a href="#" onclick="loadFile('Pseudo-Ignatius/The Martyrdom of Ignatius.html')">The Martyrdom of Ignatius</a></div></details>
 <details><summary>[400 AD] Liturgy of Saint James</summary>
-<div><a href="Liturgy of Saint James/The Divine Liturgy of James.html" target="contentFrame">The Divine Liturgy of James</a></div></details>
+<div><a href="#" onclick="loadFile('Liturgy of Saint James/The Divine Liturgy of James.html')">The Divine Liturgy of James</a></div></details>
 <details><summary>[400 AD] Hegemonius</summary>
-<div><a href="Hegemonius/Acta_Archelai.html" target="contentFrame">Acta_Archelai</a></div></details>
+<div><a href="#" onclick="loadFile('Hegemonius/Acta_Archelai.html')">Acta_Archelai</a></div></details>
 <details><summary>[420 AD] Jerome</summary>
-<div><a href="Jerome/Commentary on Amos.html" target="contentFrame">Commentary on Amos</a></div>
-<div><a href="Jerome/Commentary on Daniel.html" target="contentFrame">Commentary on Daniel</a></div>
-<div><a href="Jerome/Commentary on Ecclesiastes v2.html" target="contentFrame">Commentary on Ecclesiastes v2</a></div>
-<div><a href="Jerome/Commentary on Ecclesiastes.html" target="contentFrame">Commentary on Ecclesiastes</a></div>
-<div><a href="Jerome/Commentary on Ephesians.html" target="contentFrame">Commentary on Ephesians</a></div>
-<div><a href="Jerome/Commentary on Ezekiel.html" target="contentFrame">Commentary on Ezekiel</a></div>
-<div><a href="Jerome/Commentary on Galatians.html" target="contentFrame">Commentary on Galatians</a></div>
-<div><a href="Jerome/Commentary on Habakkuk.html" target="contentFrame">Commentary on Habakkuk</a></div>
-<div><a href="Jerome/Commentary on Haggai.html" target="contentFrame">Commentary on Haggai</a></div>
-<div><a href="Jerome/Commentary on Hosea.html" target="contentFrame">Commentary on Hosea</a></div>
-<div><a href="Jerome/Commentary on Isaiah.html" target="contentFrame">Commentary on Isaiah</a></div>
-<div><a href="Jerome/Commentary on Jeremiah.html" target="contentFrame">Commentary on Jeremiah</a></div>
-<div><a href="Jerome/Commentary on Joel.html" target="contentFrame">Commentary on Joel</a></div>
-<div><a href="Jerome/Commentary on Jonah.html" target="contentFrame">Commentary on Jonah</a></div>
-<div><a href="Jerome/Commentary on Malachi.html" target="contentFrame">Commentary on Malachi</a></div>
-<div><a href="Jerome/Commentary on Matthew.html" target="contentFrame">Commentary on Matthew</a></div>
-<div><a href="Jerome/Commentary on Micah.html" target="contentFrame">Commentary on Micah</a></div>
-<div><a href="Jerome/Commentary on Nahum.html" target="contentFrame">Commentary on Nahum</a></div>
-<div><a href="Jerome/Commentary on Obadiah.html" target="contentFrame">Commentary on Obadiah</a></div>
-<div><a href="Jerome/Commentary on Philemon.html" target="contentFrame">Commentary on Philemon</a></div>
-<div><a href="Jerome/Commentary on Song of Deborah.html" target="contentFrame">Commentary on Song of Deborah</a></div>
-<div><a href="Jerome/Commentary on Titus.html" target="contentFrame">Commentary on Titus</a></div>
-<div><a href="Jerome/Commentary on Zechariah.html" target="contentFrame">Commentary on Zechariah</a></div>
-<div><a href="Jerome/Commentary on Zephaniah.html" target="contentFrame">Commentary on Zephaniah</a></div>
-<div><a href="Jerome/Hebrew Questions on Genesis.html" target="contentFrame">Hebrew Questions on Genesis</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Amos.html')">Commentary on Amos</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Daniel.html')">Commentary on Daniel</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Ecclesiastes v2.html')">Commentary on Ecclesiastes v2</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Ecclesiastes.html')">Commentary on Ecclesiastes</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Ephesians.html')">Commentary on Ephesians</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Ezekiel.html')">Commentary on Ezekiel</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Galatians.html')">Commentary on Galatians</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Habakkuk.html')">Commentary on Habakkuk</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Haggai.html')">Commentary on Haggai</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Hosea.html')">Commentary on Hosea</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Isaiah.html')">Commentary on Isaiah</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Jeremiah.html')">Commentary on Jeremiah</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Joel.html')">Commentary on Joel</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Jonah.html')">Commentary on Jonah</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Malachi.html')">Commentary on Malachi</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Matthew.html')">Commentary on Matthew</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Micah.html')">Commentary on Micah</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Nahum.html')">Commentary on Nahum</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Obadiah.html')">Commentary on Obadiah</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Philemon.html')">Commentary on Philemon</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Song of Deborah.html')">Commentary on Song of Deborah</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Titus.html')">Commentary on Titus</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Zechariah.html')">Commentary on Zechariah</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Commentary on Zephaniah.html')">Commentary on Zephaniah</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Hebrew Questions on Genesis.html')">Hebrew Questions on Genesis</a></div>
 <details><summary>Homilies</summary>
-<div><a href="Jerome/Homilies/homily_001.html" target="contentFrame">homily_001</a></div></details>
+<div><a href="#" onclick="loadFile('Jerome/Homilies/homily_001.html')">homily_001</a></div></details>
 <details><summary>Latin</summary>
-<div><a href="Jerome/Latin/Commentary on Amos LATIN.html" target="contentFrame">Commentary on Amos LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Ecclesiastes v2 LATIN.html" target="contentFrame">Commentary on Ecclesiastes v2 LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Ephesians LATIN.html" target="contentFrame">Commentary on Ephesians LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Ezekiel LATIN.html" target="contentFrame">Commentary on Ezekiel LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Galatians LATIN.html" target="contentFrame">Commentary on Galatians LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Habakkuk LATIN.html" target="contentFrame">Commentary on Habakkuk LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Haggai LATIN.html" target="contentFrame">Commentary on Haggai LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Hosea LATIN.html" target="contentFrame">Commentary on Hosea LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Isaiah LATIN.html" target="contentFrame">Commentary on Isaiah LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Jeremiah LATIN.html" target="contentFrame">Commentary on Jeremiah LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Joel LATIN.html" target="contentFrame">Commentary on Joel LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Malachi LATIN.html" target="contentFrame">Commentary on Malachi LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Matthew LATIN.html" target="contentFrame">Commentary on Matthew LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Micah LATIN.html" target="contentFrame">Commentary on Micah LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Nahum LATIN.html" target="contentFrame">Commentary on Nahum LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Obadiah LATIN.html" target="contentFrame">Commentary on Obadiah LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Philemon LATIN.html" target="contentFrame">Commentary on Philemon LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Song of Deborah LATIN.html" target="contentFrame">Commentary on Song of Deborah LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Zechariah LATIN.html" target="contentFrame">Commentary on Zechariah LATIN</a></div>
-<div><a href="Jerome/Latin/Commentary on Zephaniah LATIN.html" target="contentFrame">Commentary on Zephaniah LATIN</a></div>
-<div><a href="Jerome/Latin/Hebrew Questions on Genesis LATIN.html" target="contentFrame">Hebrew Questions on Genesis LATIN</a></div>
-<div><a href="Jerome/Latin/On Hebrew Names LATIN.html" target="contentFrame">On Hebrew Names LATIN</a></div></details>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Amos LATIN.html')">Commentary on Amos LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Ecclesiastes v2 LATIN.html')">Commentary on Ecclesiastes v2 LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Ephesians LATIN.html')">Commentary on Ephesians LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Ezekiel LATIN.html')">Commentary on Ezekiel LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Galatians LATIN.html')">Commentary on Galatians LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Habakkuk LATIN.html')">Commentary on Habakkuk LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Haggai LATIN.html')">Commentary on Haggai LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Hosea LATIN.html')">Commentary on Hosea LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Isaiah LATIN.html')">Commentary on Isaiah LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Jeremiah LATIN.html')">Commentary on Jeremiah LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Joel LATIN.html')">Commentary on Joel LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Malachi LATIN.html')">Commentary on Malachi LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Matthew LATIN.html')">Commentary on Matthew LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Micah LATIN.html')">Commentary on Micah LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Nahum LATIN.html')">Commentary on Nahum LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Obadiah LATIN.html')">Commentary on Obadiah LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Philemon LATIN.html')">Commentary on Philemon LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Song of Deborah LATIN.html')">Commentary on Song of Deborah LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Zechariah LATIN.html')">Commentary on Zechariah LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Commentary on Zephaniah LATIN.html')">Commentary on Zephaniah LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/Hebrew Questions on Genesis LATIN.html')">Hebrew Questions on Genesis LATIN</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Latin/On Hebrew Names LATIN.html')">On Hebrew Names LATIN</a></div></details>
 <details><summary>Letters</summary>
-<div><a href="Jerome/Letters/letter_001.html" target="contentFrame">letter_001</a></div>
-<div><a href="Jerome/Letters/letter_002.html" target="contentFrame">letter_002</a></div>
-<div><a href="Jerome/Letters/letter_003.html" target="contentFrame">letter_003</a></div>
-<div><a href="Jerome/Letters/letter_004.html" target="contentFrame">letter_004</a></div>
-<div><a href="Jerome/Letters/letter_005.html" target="contentFrame">letter_005</a></div>
-<div><a href="Jerome/Letters/letter_006.html" target="contentFrame">letter_006</a></div>
-<div><a href="Jerome/Letters/letter_007.html" target="contentFrame">letter_007</a></div>
-<div><a href="Jerome/Letters/letter_008.html" target="contentFrame">letter_008</a></div>
-<div><a href="Jerome/Letters/letter_009.html" target="contentFrame">letter_009</a></div>
-<div><a href="Jerome/Letters/letter_010.html" target="contentFrame">letter_010</a></div>
-<div><a href="Jerome/Letters/letter_011.html" target="contentFrame">letter_011</a></div>
-<div><a href="Jerome/Letters/letter_012.html" target="contentFrame">letter_012</a></div>
-<div><a href="Jerome/Letters/letter_013.html" target="contentFrame">letter_013</a></div>
-<div><a href="Jerome/Letters/letter_014.html" target="contentFrame">letter_014</a></div>
-<div><a href="Jerome/Letters/letter_015.html" target="contentFrame">letter_015</a></div>
-<div><a href="Jerome/Letters/letter_016.html" target="contentFrame">letter_016</a></div>
-<div><a href="Jerome/Letters/letter_017.html" target="contentFrame">letter_017</a></div>
-<div><a href="Jerome/Letters/letter_018.html" target="contentFrame">letter_018</a></div>
-<div><a href="Jerome/Letters/letter_019.html" target="contentFrame">letter_019</a></div>
-<div><a href="Jerome/Letters/letter_020.html" target="contentFrame">letter_020</a></div>
-<div><a href="Jerome/Letters/letter_021.html" target="contentFrame">letter_021</a></div>
-<div><a href="Jerome/Letters/letter_022.html" target="contentFrame">letter_022</a></div>
-<div><a href="Jerome/Letters/letter_023.html" target="contentFrame">letter_023</a></div>
-<div><a href="Jerome/Letters/letter_024.html" target="contentFrame">letter_024</a></div>
-<div><a href="Jerome/Letters/letter_025.html" target="contentFrame">letter_025</a></div>
-<div><a href="Jerome/Letters/letter_026.html" target="contentFrame">letter_026</a></div>
-<div><a href="Jerome/Letters/letter_027.html" target="contentFrame">letter_027</a></div>
-<div><a href="Jerome/Letters/letter_028.html" target="contentFrame">letter_028</a></div>
-<div><a href="Jerome/Letters/letter_029.html" target="contentFrame">letter_029</a></div>
-<div><a href="Jerome/Letters/letter_030.html" target="contentFrame">letter_030</a></div>
-<div><a href="Jerome/Letters/letter_031.html" target="contentFrame">letter_031</a></div>
-<div><a href="Jerome/Letters/letter_032.html" target="contentFrame">letter_032</a></div>
-<div><a href="Jerome/Letters/letter_033.html" target="contentFrame">letter_033</a></div>
-<div><a href="Jerome/Letters/letter_034.html" target="contentFrame">letter_034</a></div>
-<div><a href="Jerome/Letters/letter_035.html" target="contentFrame">letter_035</a></div>
-<div><a href="Jerome/Letters/letter_036.html" target="contentFrame">letter_036</a></div>
-<div><a href="Jerome/Letters/letter_037.html" target="contentFrame">letter_037</a></div>
-<div><a href="Jerome/Letters/letter_038.html" target="contentFrame">letter_038</a></div>
-<div><a href="Jerome/Letters/letter_039.html" target="contentFrame">letter_039</a></div>
-<div><a href="Jerome/Letters/letter_040.html" target="contentFrame">letter_040</a></div>
-<div><a href="Jerome/Letters/letter_041.html" target="contentFrame">letter_041</a></div>
-<div><a href="Jerome/Letters/letter_042.html" target="contentFrame">letter_042</a></div>
-<div><a href="Jerome/Letters/letter_043.html" target="contentFrame">letter_043</a></div>
-<div><a href="Jerome/Letters/letter_044.html" target="contentFrame">letter_044</a></div>
-<div><a href="Jerome/Letters/letter_045.html" target="contentFrame">letter_045</a></div>
-<div><a href="Jerome/Letters/letter_046.html" target="contentFrame">letter_046</a></div>
-<div><a href="Jerome/Letters/letter_047.html" target="contentFrame">letter_047</a></div>
-<div><a href="Jerome/Letters/letter_048.html" target="contentFrame">letter_048</a></div>
-<div><a href="Jerome/Letters/letter_049.html" target="contentFrame">letter_049</a></div>
-<div><a href="Jerome/Letters/letter_050.html" target="contentFrame">letter_050</a></div>
-<div><a href="Jerome/Letters/letter_051.html" target="contentFrame">letter_051</a></div>
-<div><a href="Jerome/Letters/letter_052.html" target="contentFrame">letter_052</a></div>
-<div><a href="Jerome/Letters/letter_053.html" target="contentFrame">letter_053</a></div>
-<div><a href="Jerome/Letters/letter_054.html" target="contentFrame">letter_054</a></div>
-<div><a href="Jerome/Letters/letter_055.html" target="contentFrame">letter_055</a></div>
-<div><a href="Jerome/Letters/letter_056.html" target="contentFrame">letter_056</a></div>
-<div><a href="Jerome/Letters/letter_057.html" target="contentFrame">letter_057</a></div>
-<div><a href="Jerome/Letters/letter_058.html" target="contentFrame">letter_058</a></div>
-<div><a href="Jerome/Letters/letter_059.html" target="contentFrame">letter_059</a></div>
-<div><a href="Jerome/Letters/letter_060.html" target="contentFrame">letter_060</a></div>
-<div><a href="Jerome/Letters/letter_061.html" target="contentFrame">letter_061</a></div>
-<div><a href="Jerome/Letters/letter_062.html" target="contentFrame">letter_062</a></div>
-<div><a href="Jerome/Letters/letter_063.html" target="contentFrame">letter_063</a></div>
-<div><a href="Jerome/Letters/letter_064.html" target="contentFrame">letter_064</a></div>
-<div><a href="Jerome/Letters/letter_065.html" target="contentFrame">letter_065</a></div>
-<div><a href="Jerome/Letters/letter_066.html" target="contentFrame">letter_066</a></div>
-<div><a href="Jerome/Letters/letter_067.html" target="contentFrame">letter_067</a></div>
-<div><a href="Jerome/Letters/letter_068.html" target="contentFrame">letter_068</a></div>
-<div><a href="Jerome/Letters/letter_069.html" target="contentFrame">letter_069</a></div>
-<div><a href="Jerome/Letters/letter_070.html" target="contentFrame">letter_070</a></div>
-<div><a href="Jerome/Letters/letter_071.html" target="contentFrame">letter_071</a></div>
-<div><a href="Jerome/Letters/letter_072.html" target="contentFrame">letter_072</a></div>
-<div><a href="Jerome/Letters/letter_073.html" target="contentFrame">letter_073</a></div>
-<div><a href="Jerome/Letters/letter_074.html" target="contentFrame">letter_074</a></div>
-<div><a href="Jerome/Letters/letter_075.html" target="contentFrame">letter_075</a></div>
-<div><a href="Jerome/Letters/letter_076.html" target="contentFrame">letter_076</a></div>
-<div><a href="Jerome/Letters/letter_077.html" target="contentFrame">letter_077</a></div>
-<div><a href="Jerome/Letters/letter_078.html" target="contentFrame">letter_078</a></div>
-<div><a href="Jerome/Letters/letter_079.html" target="contentFrame">letter_079</a></div>
-<div><a href="Jerome/Letters/letter_080.html" target="contentFrame">letter_080</a></div>
-<div><a href="Jerome/Letters/letter_081.html" target="contentFrame">letter_081</a></div>
-<div><a href="Jerome/Letters/letter_082.html" target="contentFrame">letter_082</a></div>
-<div><a href="Jerome/Letters/letter_083.html" target="contentFrame">letter_083</a></div>
-<div><a href="Jerome/Letters/letter_084.html" target="contentFrame">letter_084</a></div>
-<div><a href="Jerome/Letters/letter_085.html" target="contentFrame">letter_085</a></div>
-<div><a href="Jerome/Letters/letter_086.html" target="contentFrame">letter_086</a></div>
-<div><a href="Jerome/Letters/letter_087.html" target="contentFrame">letter_087</a></div>
-<div><a href="Jerome/Letters/letter_088.html" target="contentFrame">letter_088</a></div>
-<div><a href="Jerome/Letters/letter_089.html" target="contentFrame">letter_089</a></div>
-<div><a href="Jerome/Letters/letter_090.html" target="contentFrame">letter_090</a></div>
-<div><a href="Jerome/Letters/letter_091.html" target="contentFrame">letter_091</a></div>
-<div><a href="Jerome/Letters/letter_092.html" target="contentFrame">letter_092</a></div>
-<div><a href="Jerome/Letters/letter_093.html" target="contentFrame">letter_093</a></div>
-<div><a href="Jerome/Letters/letter_094.html" target="contentFrame">letter_094</a></div>
-<div><a href="Jerome/Letters/letter_095.html" target="contentFrame">letter_095</a></div>
-<div><a href="Jerome/Letters/letter_096.html" target="contentFrame">letter_096</a></div>
-<div><a href="Jerome/Letters/letter_097.html" target="contentFrame">letter_097</a></div>
-<div><a href="Jerome/Letters/letter_098.html" target="contentFrame">letter_098</a></div>
-<div><a href="Jerome/Letters/letter_099.html" target="contentFrame">letter_099</a></div>
-<div><a href="Jerome/Letters/letter_100.html" target="contentFrame">letter_100</a></div>
-<div><a href="Jerome/Letters/letter_101.html" target="contentFrame">letter_101</a></div>
-<div><a href="Jerome/Letters/letter_102.html" target="contentFrame">letter_102</a></div>
-<div><a href="Jerome/Letters/letter_103.html" target="contentFrame">letter_103</a></div>
-<div><a href="Jerome/Letters/letter_104.html" target="contentFrame">letter_104</a></div>
-<div><a href="Jerome/Letters/letter_105.html" target="contentFrame">letter_105</a></div>
-<div><a href="Jerome/Letters/letter_106.html" target="contentFrame">letter_106</a></div>
-<div><a href="Jerome/Letters/letter_107.html" target="contentFrame">letter_107</a></div>
-<div><a href="Jerome/Letters/letter_108.html" target="contentFrame">letter_108</a></div>
-<div><a href="Jerome/Letters/letter_109.html" target="contentFrame">letter_109</a></div>
-<div><a href="Jerome/Letters/letter_110.html" target="contentFrame">letter_110</a></div>
-<div><a href="Jerome/Letters/letter_111.html" target="contentFrame">letter_111</a></div>
-<div><a href="Jerome/Letters/letter_112.html" target="contentFrame">letter_112</a></div>
-<div><a href="Jerome/Letters/letter_113.html" target="contentFrame">letter_113</a></div>
-<div><a href="Jerome/Letters/letter_114.html" target="contentFrame">letter_114</a></div>
-<div><a href="Jerome/Letters/letter_115.html" target="contentFrame">letter_115</a></div>
-<div><a href="Jerome/Letters/letter_116.html" target="contentFrame">letter_116</a></div>
-<div><a href="Jerome/Letters/letter_117.html" target="contentFrame">letter_117</a></div>
-<div><a href="Jerome/Letters/letter_118.html" target="contentFrame">letter_118</a></div>
-<div><a href="Jerome/Letters/letter_119.html" target="contentFrame">letter_119</a></div>
-<div><a href="Jerome/Letters/letter_120.html" target="contentFrame">letter_120</a></div>
-<div><a href="Jerome/Letters/letter_121.html" target="contentFrame">letter_121</a></div>
-<div><a href="Jerome/Letters/letter_122.html" target="contentFrame">letter_122</a></div>
-<div><a href="Jerome/Letters/letter_123.html" target="contentFrame">letter_123</a></div>
-<div><a href="Jerome/Letters/letter_124.html" target="contentFrame">letter_124</a></div>
-<div><a href="Jerome/Letters/letter_125.html" target="contentFrame">letter_125</a></div>
-<div><a href="Jerome/Letters/letter_126.html" target="contentFrame">letter_126</a></div>
-<div><a href="Jerome/Letters/letter_127.html" target="contentFrame">letter_127</a></div>
-<div><a href="Jerome/Letters/letter_128.html" target="contentFrame">letter_128</a></div>
-<div><a href="Jerome/Letters/letter_129.html" target="contentFrame">letter_129</a></div>
-<div><a href="Jerome/Letters/letter_130.html" target="contentFrame">letter_130</a></div>
-<div><a href="Jerome/Letters/letter_131.html" target="contentFrame">letter_131</a></div>
-<div><a href="Jerome/Letters/letter_132.html" target="contentFrame">letter_132</a></div>
-<div><a href="Jerome/Letters/letter_133.html" target="contentFrame">letter_133</a></div>
-<div><a href="Jerome/Letters/letter_134.html" target="contentFrame">letter_134</a></div>
-<div><a href="Jerome/Letters/letter_135.html" target="contentFrame">letter_135</a></div>
-<div><a href="Jerome/Letters/letter_136.html" target="contentFrame">letter_136</a></div>
-<div><a href="Jerome/Letters/letter_137.html" target="contentFrame">letter_137</a></div>
-<div><a href="Jerome/Letters/letter_138.html" target="contentFrame">letter_138</a></div>
-<div><a href="Jerome/Letters/letter_139.html" target="contentFrame">letter_139</a></div>
-<div><a href="Jerome/Letters/letter_140.html" target="contentFrame">letter_140</a></div>
-<div><a href="Jerome/Letters/letter_141.html" target="contentFrame">letter_141</a></div>
-<div><a href="Jerome/Letters/letter_142.html" target="contentFrame">letter_142</a></div>
-<div><a href="Jerome/Letters/letter_143.html" target="contentFrame">letter_143</a></div>
-<div><a href="Jerome/Letters/letter_144.html" target="contentFrame">letter_144</a></div>
-<div><a href="Jerome/Letters/letter_145.html" target="contentFrame">letter_145</a></div>
-<div><a href="Jerome/Letters/letter_146.html" target="contentFrame">letter_146</a></div>
-<div><a href="Jerome/Letters/letter_147.html" target="contentFrame">letter_147</a></div>
-<div><a href="Jerome/Letters/letter_148.html" target="contentFrame">letter_148</a></div>
-<div><a href="Jerome/Letters/letter_149.html" target="contentFrame">letter_149</a></div>
-<div><a href="Jerome/Letters/letter_150.html" target="contentFrame">letter_150</a></div></details>
-<div><a href="Jerome/On Hebrew Names.html" target="contentFrame">On Hebrew Names</a></div></details>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_001.html')">letter_001</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_002.html')">letter_002</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_003.html')">letter_003</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_004.html')">letter_004</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_005.html')">letter_005</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_006.html')">letter_006</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_007.html')">letter_007</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_008.html')">letter_008</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_009.html')">letter_009</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_010.html')">letter_010</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_011.html')">letter_011</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_012.html')">letter_012</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_013.html')">letter_013</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_014.html')">letter_014</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_015.html')">letter_015</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_016.html')">letter_016</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_017.html')">letter_017</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_018.html')">letter_018</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_019.html')">letter_019</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_020.html')">letter_020</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_021.html')">letter_021</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_022.html')">letter_022</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_023.html')">letter_023</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_024.html')">letter_024</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_025.html')">letter_025</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_026.html')">letter_026</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_027.html')">letter_027</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_028.html')">letter_028</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_029.html')">letter_029</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_030.html')">letter_030</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_031.html')">letter_031</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_032.html')">letter_032</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_033.html')">letter_033</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_034.html')">letter_034</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_035.html')">letter_035</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_036.html')">letter_036</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_037.html')">letter_037</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_038.html')">letter_038</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_039.html')">letter_039</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_040.html')">letter_040</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_041.html')">letter_041</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_042.html')">letter_042</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_043.html')">letter_043</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_044.html')">letter_044</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_045.html')">letter_045</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_046.html')">letter_046</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_047.html')">letter_047</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_048.html')">letter_048</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_049.html')">letter_049</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_050.html')">letter_050</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_051.html')">letter_051</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_052.html')">letter_052</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_053.html')">letter_053</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_054.html')">letter_054</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_055.html')">letter_055</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_056.html')">letter_056</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_057.html')">letter_057</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_058.html')">letter_058</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_059.html')">letter_059</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_060.html')">letter_060</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_061.html')">letter_061</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_062.html')">letter_062</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_063.html')">letter_063</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_064.html')">letter_064</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_065.html')">letter_065</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_066.html')">letter_066</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_067.html')">letter_067</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_068.html')">letter_068</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_069.html')">letter_069</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_070.html')">letter_070</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_071.html')">letter_071</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_072.html')">letter_072</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_073.html')">letter_073</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_074.html')">letter_074</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_075.html')">letter_075</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_076.html')">letter_076</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_077.html')">letter_077</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_078.html')">letter_078</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_079.html')">letter_079</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_080.html')">letter_080</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_081.html')">letter_081</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_082.html')">letter_082</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_083.html')">letter_083</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_084.html')">letter_084</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_085.html')">letter_085</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_086.html')">letter_086</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_087.html')">letter_087</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_088.html')">letter_088</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_089.html')">letter_089</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_090.html')">letter_090</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_091.html')">letter_091</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_092.html')">letter_092</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_093.html')">letter_093</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_094.html')">letter_094</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_095.html')">letter_095</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_096.html')">letter_096</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_097.html')">letter_097</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_098.html')">letter_098</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_099.html')">letter_099</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_100.html')">letter_100</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_101.html')">letter_101</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_102.html')">letter_102</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_103.html')">letter_103</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_104.html')">letter_104</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_105.html')">letter_105</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_106.html')">letter_106</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_107.html')">letter_107</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_108.html')">letter_108</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_109.html')">letter_109</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_110.html')">letter_110</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_111.html')">letter_111</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_112.html')">letter_112</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_113.html')">letter_113</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_114.html')">letter_114</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_115.html')">letter_115</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_116.html')">letter_116</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_117.html')">letter_117</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_118.html')">letter_118</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_119.html')">letter_119</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_120.html')">letter_120</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_121.html')">letter_121</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_122.html')">letter_122</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_123.html')">letter_123</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_124.html')">letter_124</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_125.html')">letter_125</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_126.html')">letter_126</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_127.html')">letter_127</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_128.html')">letter_128</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_129.html')">letter_129</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_130.html')">letter_130</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_131.html')">letter_131</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_132.html')">letter_132</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_133.html')">letter_133</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_134.html')">letter_134</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_135.html')">letter_135</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_136.html')">letter_136</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_137.html')">letter_137</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_138.html')">letter_138</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_139.html')">letter_139</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_140.html')">letter_140</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_141.html')">letter_141</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_142.html')">letter_142</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_143.html')">letter_143</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_144.html')">letter_144</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_145.html')">letter_145</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_146.html')">letter_146</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_147.html')">letter_147</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_148.html')">letter_148</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_149.html')">letter_149</a></div>
+<div><a href="#" onclick="loadFile('Jerome/Letters/letter_150.html')">letter_150</a></div></details>
+<div><a href="#" onclick="loadFile('Jerome/On Hebrew Names.html')">On Hebrew Names</a></div></details>
 <details><summary>[446 AD] Theodotus of Ancyra</summary>
-<div><a href="Theodotus of Ancyra/Excerpts of Theodotus.html" target="contentFrame">Excerpts of Theodotus</a></div></details>
+<div><a href="#" onclick="loadFile('Theodotus of Ancyra/Excerpts of Theodotus.html')">Excerpts of Theodotus</a></div></details>
 <details><summary>[500 AD] Codex Veronensis</summary>
-<div><a href="Codex Veronensis/Commentary on Job.html" target="contentFrame">Commentary on Job</a></div>
+<div><a href="#" onclick="loadFile('Codex Veronensis/Commentary on Job.html')">Commentary on Job</a></div>
 <details><summary>Latin</summary>
-<div><a href="Codex Veronensis/Latin/Commentary on Job LATIN.html" target="contentFrame">Commentary on Job LATIN</a></div></details></details>
+<div><a href="#" onclick="loadFile('Codex Veronensis/Latin/Commentary on Job LATIN.html')">Commentary on Job LATIN</a></div></details></details>
 <details><summary>[609 AD] Venantius Fortunatus</summary>
-<div><a href="Venantius Fortunatus/ON EASTER.html" target="contentFrame">ON EASTER</a></div></details>
+<div><a href="#" onclick="loadFile('Venantius Fortunatus/ON EASTER.html')">ON EASTER</a></div></details>
 <details><summary>[892 AD] Berengaudus</summary>
-<div><a href="Berengaudus/Commentary on Revelation.html" target="contentFrame">Commentary on Revelation</a></div>
+<div><a href="#" onclick="loadFile('Berengaudus/Commentary on Revelation.html')">Commentary on Revelation</a></div>
 <details><summary>LATIN</summary>
-<div><a href="Berengaudus/LATIN/Commentary on Revelation LATIN.html" target="contentFrame">Commentary on Revelation LATIN</a></div></details></details>
+<div><a href="#" onclick="loadFile('Berengaudus/LATIN/Commentary on Revelation LATIN.html')">Commentary on Revelation LATIN</a></div></details></details>
 <details><summary>[1889 AD] JB Lightfoot</summary>
-<div><a href="JB Lightfoot/Christian Life in the Second and Third Centuries.html" target="contentFrame">Christian Life in the Second and Third Centuries</a></div>
-<div><a href="JB Lightfoot/The Brethren of the Lord.html" target="contentFrame">The Brethren of the Lord</a></div></details>
+<div><a href="#" onclick="loadFile('JB Lightfoot/Christian Life in the Second and Third Centuries.html')">Christian Life in the Second and Third Centuries</a></div>
+<div><a href="#" onclick="loadFile('JB Lightfoot/The Brethren of the Lord.html')">The Brethren of the Lord</a></div></details>
         <br><br><br>
     </div>
     <iframe id="content" name="contentFrame" style="width: 80%; height: 100vh;" srcdoc="<p>Click on a writing on the left menu to open it here!</p><p>Note: This database is open source, and everything is in the public domain! <a target='_blank' href='https://github.com/HistoricalChristianFaith/Writings-Database/'>Contribute/fix typos here!</a></p>"></iframe>
