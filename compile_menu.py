@@ -123,7 +123,8 @@ def main(directory):
         if(iframe.contentDocument) {
             var links = iframe.contentDocument.getElementsByTagName('a');
             for (var i = 0; i < links.length; i++) {
-                links[i].target = '_blank';
+                //TODO: Fix, this breaks TOC href links (perhaps exclude # links? Or perhaps add _blank to each page's proper links)
+                //links[i].target = '_blank';
             }
         }
     });
