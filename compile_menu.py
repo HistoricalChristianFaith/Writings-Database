@@ -1,5 +1,6 @@
 import os
 import rtoml
+from urllib.parse import quote
 
 def find_files(directory, extensions):
     matches = []
@@ -60,7 +61,7 @@ def create_menu_html(file_tree, level=0):
             html += f'\n<details><summary>{name}</summary>{create_menu_html(path_or_subtree, level=level+1)}</details>'
         else:  # It's a file
             if name != "index.html":
-                link = path_or_subtree.replace('\\', '/')
+                link = quote(path_or_subtree.replace('\\', '/'))
                 name = name.replace(".html", "")
                 html += f'\n<div><a href="#" onclick="loadFile(\'{link}\')">{name}</a></div>'
     return html
