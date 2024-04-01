@@ -1,42 +1,4 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Historical Christian Faith - Writings Database</title>
-    <style>
-        body { display: flex; }
-        #menu { width: 20%; height: 100vh; overflow: auto; padding-left: 10px; }
-        #content { flex-grow: 1; }
-        details > div, details > details { padding-left: 20px; }
-        details, summary { cursor: pointer; }
-    </style>
-    <script>
-        function loadFile(filePath) {
-            document.getElementById('content').removeAttribute('srcdoc');
-            console.log("Loading file...", filePath)
-            document.getElementById('content').src = filePath;
-            const url = new URL(window.location);
-            url.searchParams.set('file', filePath);
-            window.history.pushState({}, '', url);
-        }
-
-        window.onload = function() {
-            const urlParams = new URLSearchParams(window.location.search);
-            const file = urlParams.get('file');
-            if (file) {
-                console.log("Onload: file...", file)
-                document.getElementById('content').removeAttribute('srcdoc');
-                document.getElementById('content').src = file;
-            }
-        };
-    </script>
-</head>
-<body>
-    <div id="menu">
-        <h3><a target='_blank' href='https://historicalchristian.faith/'>Historical Christian Faith</a></h3>
-        <h4><a target='_blank' href='https://github.com/HistoricalChristianFaith/Writings-Database/'>Writings Database</a></h4>
-        
 <details><summary>[99 AD] Clement of Rome</summary>
 <div><a href="#" onclick="loadFile('Clement of Rome/First Epistle of Clement to the Corinthians.html')">First Epistle of Clement to the Corinthians</a></div>
 <div><a href="#" onclick="loadFile('Clement of Rome/The First Epistle of Clement to the Corinthians.html')">The First Epistle of Clement to the Corinthians</a></div></details>
@@ -156,7 +118,11 @@
 <div><a href="#" onclick="loadFile('Irenaeus/Irenaeus Against Heresies Book II.html')">Irenaeus Against Heresies Book II</a></div>
 <div><a href="#" onclick="loadFile('Irenaeus/Irenaeus Against Heresies Book III.html')">Irenaeus Against Heresies Book III</a></div>
 <div><a href="#" onclick="loadFile('Irenaeus/Irenaeus Against Heresies Book IV.html')">Irenaeus Against Heresies Book IV</a></div>
-<div><a href="#" onclick="loadFile('Irenaeus/Irenaeus Against Heresies Book V.html')">Irenaeus Against Heresies Book V</a></div></details>
+<div><a href="#" onclick="loadFile('Irenaeus/Irenaeus Against Heresies Book V.html')">Irenaeus Against Heresies Book V</a></div>
+<details><summary>The Proof of the Apostolic Preaching</summary>
+<div><a href="#" onclick="loadFile('Irenaeus/The Proof of the Apostolic Preaching/Introduction.html')">Introduction</a></div>
+<div><a href="#" onclick="loadFile('Irenaeus/The Proof of the Apostolic Preaching/Preface to the online edition.html')">Preface to the online edition</a></div>
+<div><a href="#" onclick="loadFile('Irenaeus/The Proof of the Apostolic Preaching/THE DEMONSTRATION OF THE APOSTOLIC PREACHING.html')">THE DEMONSTRATION OF THE APOSTOLIC PREACHING</a></div></details></details>
 <details><summary>[215 AD] Clement of Alexandria</summary>
 <div><a href="#" onclick="loadFile('Clement of Alexandria/Exhortation to the Heathen.html')">Exhortation to the Heathen</a></div>
 <details><summary>Fragments</summary>
@@ -267,6 +233,9 @@
 <div><a href="#" onclick="loadFile('Origen of Alexandria/Commentary on Matthew Book XIV.html')">Commentary on Matthew Book XIV</a></div>
 <div><a href="#" onclick="loadFile('Origen of Alexandria/Commentary on Matthew Introduction.html')">Commentary on Matthew Introduction</a></div>
 <div><a href="#" onclick="loadFile('Origen of Alexandria/Letter of Origen to Gregory.html')">Letter of Origen to Gregory</a></div>
+<details><summary>On Prayer</summary>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/On Prayer/On Prayer.html')">On Prayer</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/On Prayer/Preface.html')">Preface</a></div></details>
 <div><a href="#" onclick="loadFile('Origen of Alexandria/Origen Against Celsus Book I.html')">Origen Against Celsus Book I</a></div>
 <div><a href="#" onclick="loadFile('Origen of Alexandria/Origen Against Celsus Book II.html')">Origen Against Celsus Book II</a></div>
 <div><a href="#" onclick="loadFile('Origen of Alexandria/Origen Against Celsus Book III.html')">Origen Against Celsus Book III</a></div>
@@ -279,6 +248,10 @@
 <div><a href="#" onclick="loadFile('Origen of Alexandria/Origen de Principiis Book II.html')">Origen de Principiis Book II</a></div>
 <div><a href="#" onclick="loadFile('Origen of Alexandria/Origen de Principiis Book III.html')">Origen de Principiis Book III</a></div>
 <div><a href="#" onclick="loadFile('Origen of Alexandria/Origen de Principiis Book IV.html')">Origen de Principiis Book IV</a></div>
+<details><summary>Philocalia</summary>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Philocalia/Footnotes.html')">Footnotes</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Philocalia/Introductory material.html')">Introductory material</a></div>
+<div><a href="#" onclick="loadFile('Origen of Alexandria/Philocalia/The Philocalia of Origen.html')">The Philocalia of Origen</a></div></details>
 <div><a href="#" onclick="loadFile('Origen of Alexandria/Prologue of Rufinus.html')">Prologue of Rufinus</a></div></details>
 <details><summary>[257 AD] Council of Carthage of 257</summary>
 <div><a href="#" onclick="loadFile('Council of Carthage of 257/Epistle LXX.html')">Epistle LXX</a></div>
@@ -388,6 +361,7 @@
 <div><a href="#" onclick="loadFile('Dionysius of Alexandria/An Exposition of Luke XXII. 46, Etc.html')">An Exposition of Luke XXII. 46, Etc</a></div>
 <div><a href="#" onclick="loadFile('Dionysius of Alexandria/Containing Epistles, or Fragments of Epistles.html')">Containing Epistles, or Fragments of Epistles</a></div>
 <div><a href="#" onclick="loadFile('Dionysius of Alexandria/Containing Various Sections of the Works.html')">Containing Various Sections of the Works</a></div>
+<div><a href="#" onclick="loadFile('Dionysius of Alexandria/Newly discovered letters to the Popes Stephen and Xystus.html')">Newly discovered letters to the Popes Stephen and Xystus</a></div>
 <div><a href="#" onclick="loadFile('Dionysius of Alexandria/Of the One Substance.html')">Of the One Substance</a></div>
 <div><a href="#" onclick="loadFile('Dionysius of Alexandria/On John VIII. 12.html')">On John VIII. 12</a></div>
 <div><a href="#" onclick="loadFile('Dionysius of Alexandria/On Luke XXII. 42, Etc.html')">On Luke XXII. 42, Etc</a></div>
@@ -432,6 +406,8 @@
 <div><a href="#" onclick="loadFile('Methodius of Olympus/Discourse XI.-Arete.html')">Discourse XI.-Arete</a></div>
 <div><a href="#" onclick="loadFile('Methodius of Olympus/Fragments.html')">Fragments</a></div>
 <div><a href="#" onclick="loadFile('Methodius of Olympus/From the Discourse on the Resurrection.html')">From the Discourse on the Resurrection</a></div>
+<details><summary>On Leprosy</summary>
+<div><a href="#" onclick="loadFile('Methodius of Olympus/On Leprosy/English translation of opening portion.html')">English translation of opening portion</a></div></details>
 <div><a href="#" onclick="loadFile('Methodius of Olympus/Oration Concerning Simeon and Anna.html')">Oration Concerning Simeon and Anna</a></div>
 <div><a href="#" onclick="loadFile('Methodius of Olympus/Oration on the Psalms.html')">Oration on the Psalms</a></div>
 <div><a href="#" onclick="loadFile('Methodius of Olympus/Some Other Fragments of the Same Methodius.html')">Some Other Fragments of the Same Methodius</a></div>
@@ -480,6 +456,20 @@
 <div><a href="#" onclick="loadFile('Arnobius of Sicca/Against the Heathen Book VI.html')">Against the Heathen Book VI</a></div>
 <div><a href="#" onclick="loadFile('Arnobius of Sicca/Against the Heathen Book VII.html')">Against the Heathen Book VII</a></div></details>
 <details><summary>[339 AD] Eusebius of Caesarea</summary>
+<details><summary>Against Hierocles</summary>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/Against Hierocles/English Translation.html')">English Translation</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/Against Hierocles/Preface.html')">Preface</a></div></details>
+<details><summary>Chronicon</summary>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/Chronicon/Book 1 translated from Armenian.html')">Book 1 translated from Armenian</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/Chronicon/Book 1 translated from Latin.html')">Book 1 translated from Latin</a></div></details>
+<details><summary>Commentary on the Psalms</summary>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/Commentary on the Psalms/On Psalm 51.html')">On Psalm 51</a></div></details>
+<details><summary>Concerning the Place Names in Sacred Scripture</summary>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/Concerning the Place Names in Sacred Scripture/Introduction.html')">Introduction</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/Concerning the Place Names in Sacred Scripture/Notes.html')">Notes</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/Concerning the Place Names in Sacred Scripture/Translation.html')">Translation</a></div></details>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/Encomium on the Martyrs.html')">Encomium on the Martyrs</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/On the celebration of Easter.html')">On the celebration of Easter</a></div>
 <details><summary>THE CHURCH HISTORY OF EUSEBIUS</summary>
 <div><a href="#" onclick="loadFile('Eusebius of Caesarea/THE CHURCH HISTORY OF EUSEBIUS/Book I.html')">Book I</a></div>
 <div><a href="#" onclick="loadFile('Eusebius of Caesarea/THE CHURCH HISTORY OF EUSEBIUS/Book II.html')">Book II</a></div>
@@ -491,13 +481,50 @@
 <div><a href="#" onclick="loadFile('Eusebius of Caesarea/THE CHURCH HISTORY OF EUSEBIUS/Book VII.html')">Book VII</a></div>
 <div><a href="#" onclick="loadFile('Eusebius of Caesarea/THE CHURCH HISTORY OF EUSEBIUS/Book VIII.html')">Book VIII</a></div>
 <div><a href="#" onclick="loadFile('Eusebius of Caesarea/THE CHURCH HISTORY OF EUSEBIUS/Book X.html')">Book X</a></div></details>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The History of the Martyrs in Palestine.html')">The History of the Martyrs in Palestine</a></div>
 <details><summary>The Life of the Blessed Emperor Constantine</summary>
 <div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Life of the Blessed Emperor Constantine/Book I.html')">Book I</a></div>
 <div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Life of the Blessed Emperor Constantine/Book II.html')">Book II</a></div>
 <div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Life of the Blessed Emperor Constantine/Book III.html')">Book III</a></div>
 <div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Life of the Blessed Emperor Constantine/Book IV.html')">Book IV</a></div></details>
 <div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Oration in Praise of the Emperor Constantine.html')">The Oration in Praise of the Emperor Constantine</a></div>
-<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Oration of the Emperor Constantine.html')">The Oration of the Emperor Constantine</a></div></details>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Oration of the Emperor Constantine.html')">The Oration of the Emperor Constantine</a></div>
+<details><summary>The Preparation of the Gospel</summary>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Preparation of the Gospel/BOOK I.html')">BOOK I</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Preparation of the Gospel/BOOK II.html')">BOOK II</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Preparation of the Gospel/BOOK IX.html')">BOOK IX</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Preparation of the Gospel/BOOK V.html')">BOOK V</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Preparation of the Gospel/BOOK VI.html')">BOOK VI</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Preparation of the Gospel/BOOK VII.html')">BOOK VII</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Preparation of the Gospel/BOOK X.html')">BOOK X</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Preparation of the Gospel/BOOK XI.html')">BOOK XI</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Preparation of the Gospel/BOOK XII.html')">BOOK XII</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Preparation of the Gospel/BOOK XIII.html')">BOOK XIII</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Preparation of the Gospel/BOOK XIV.html')">BOOK XIV</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Preparation of the Gospel/BOOK XV.html')">BOOK XV</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Preparation of the Gospel/Introduction.html')">Introduction</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Preparation of the Gospel/Preface to the online edition.html')">Preface to the online edition</a></div></details>
+<details><summary>The Proof of the Gospel</summary>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Proof of the Gospel/Book 1.html')">Book 1</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Proof of the Gospel/Book 10.html')">Book 10</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Proof of the Gospel/Book 2.html')">Book 2</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Proof of the Gospel/Book 3.html')">Book 3</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Proof of the Gospel/Book 4.html')">Book 4</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Proof of the Gospel/Book 5.html')">Book 5</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Proof of the Gospel/Book 6.html')">Book 6</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Proof of the Gospel/Book 7.html')">Book 7</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Proof of the Gospel/Book 8.html')">Book 8</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Proof of the Gospel/Book 9.html')">Book 9</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Proof of the Gospel/INTRODUCTION.html')">INTRODUCTION</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Proof of the Gospel/Preface to the online edition.html')">Preface to the online edition</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/The Proof of the Gospel/Preface, contents, abbreviations.html')">Preface, contents, abbreviations</a></div></details>
+<details><summary>Theophania</summary>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/Theophania/Book 1.html')">Book 1</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/Theophania/Book 2.html')">Book 2</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/Theophania/Book 3.html')">Book 3</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/Theophania/Book 4.html')">Book 4</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/Theophania/Book 5.html')">Book 5</a></div>
+<div><a href="#" onclick="loadFile('Eusebius of Caesarea/Theophania/Preface.html')">Preface</a></div></details></details>
 <details><summary>[340 AD] Council of Gangra</summary>
 <div><a href="#" onclick="loadFile('Council of Gangra/Epilogue.html')">Epilogue</a></div>
 <div><a href="#" onclick="loadFile('Council of Gangra/Synodical Letter of the Council of Gangra.html')">Synodical Letter of the Council of Gangra</a></div>
@@ -508,8 +535,11 @@
 <details><summary>[343 AD] Council of Sardica of 343</summary>
 <div><a href="#" onclick="loadFile('Council of Sardica of 343/The Canons.html')">The Canons</a></div></details>
 <details><summary>[345 AD] Aphrahat the Persian Sage</summary>
+<div><a href="#" onclick="loadFile('Aphrahat the Persian Sage/Demonstration 2 On love.html')">Demonstration 2 On love</a></div>
+<div><a href="#" onclick="loadFile('Aphrahat the Persian Sage/Demonstration 7 On penitents.html')">Demonstration 7 On penitents</a></div>
 <div><a href="#" onclick="loadFile('Aphrahat the Persian Sage/The Demonstrations.html')">The Demonstrations</a></div></details>
 <details><summary>[360 AD] Eusebius of Emesa</summary>
+<div><a href="#" onclick="loadFile('Eusebius of Emesa/Homily on the sufferings and death of our Lord.html')">Homily on the sufferings and death of our Lord</a></div>
 <div><a href="#" onclick="loadFile('Eusebius of Emesa/On Repentance.html')">On Repentance</a></div></details>
 <details><summary>[364 AD] Council of Laodicea</summary>
 <div><a href="#" onclick="loadFile('Council of Laodicea/The Canons.html')">The Canons</a></div></details>
@@ -533,6 +563,16 @@
 <div><a href="#" onclick="loadFile('Hilary of Poitiers/On the Trinity/Book XI.html')">Book XI</a></div>
 <div><a href="#" onclick="loadFile('Hilary of Poitiers/On the Trinity/Book XII.html')">Book XII</a></div></details></details>
 <details><summary>[373 AD] Ephrem the Syrian</summary>
+<div><a href="#" onclick="loadFile('Ephrem the Syrian/Against Bardaisan's Domnus.html')">Against Bardaisan's Domnus</a></div>
+<div><a href="#" onclick="loadFile('Ephrem the Syrian/Against Mani.html')">Against Mani</a></div>
+<div><a href="#" onclick="loadFile('Ephrem the Syrian/Against Marcion I.html')">Against Marcion I</a></div>
+<div><a href="#" onclick="loadFile('Ephrem the Syrian/Against Marcion II.html')">Against Marcion II</a></div>
+<div><a href="#" onclick="loadFile('Ephrem the Syrian/Against Marcion III.html')">Against Marcion III</a></div>
+<div><a href="#" onclick="loadFile('Ephrem the Syrian/Discourse to Hypatius I.html')">Discourse to Hypatius I</a></div>
+<div><a href="#" onclick="loadFile('Ephrem the Syrian/Discourse to Hypatius II.html')">Discourse to Hypatius II</a></div>
+<div><a href="#" onclick="loadFile('Ephrem the Syrian/Discourse to Hypatius III.html')">Discourse to Hypatius III</a></div>
+<div><a href="#" onclick="loadFile('Ephrem the Syrian/Discourse to Hypatius IV.html')">Discourse to Hypatius IV</a></div>
+<div><a href="#" onclick="loadFile('Ephrem the Syrian/Discourse to Hypatius V.html')">Discourse to Hypatius V</a></div>
 <div><a href="#" onclick="loadFile('Ephrem the Syrian/Fifteen Hymns for the Feast of the Epiphany.html')">Fifteen Hymns for the Feast of the Epiphany</a></div>
 <div><a href="#" onclick="loadFile('Ephrem the Syrian/Homily - On Admonition and Repentance.html')">Homily - On Admonition and Repentance</a></div>
 <div><a href="#" onclick="loadFile('Ephrem the Syrian/Homily - On Our Lord.html')">Homily - On Our Lord</a></div>
@@ -552,6 +592,8 @@
 <div><a href="#" onclick="loadFile('Ephrem the Syrian/Nineteen Hymns on the Nativity of Christ in the Flesh/Hymn XII.html')">Hymn XII</a></div>
 <div><a href="#" onclick="loadFile('Ephrem the Syrian/Nineteen Hymns on the Nativity of Christ in the Flesh/Hymn XIII.html')">Hymn XIII</a></div>
 <div><a href="#" onclick="loadFile('Ephrem the Syrian/Nineteen Hymns on the Nativity of Christ in the Flesh/Hymn XIV plus.html')">Hymn XIV plus</a></div></details>
+<div><a href="#" onclick="loadFile('Ephrem the Syrian/On Virginity.html')">On Virginity</a></div>
+<div><a href="#" onclick="loadFile('Ephrem the Syrian/Stanzas Against Bardaisan.html')">Stanzas Against Bardaisan</a></div>
 <div><a href="#" onclick="loadFile('Ephrem the Syrian/The Pearl-Seven Hymns on the Faith.html')">The Pearl-Seven Hymns on the Faith</a></div></details>
 <details><summary>[373 AD] Athanasius of Alexandria</summary>
 <details><summary>Against the Heathen</summary>
@@ -639,6 +681,7 @@
 <div><a href="#" onclick="loadFile('Athanasius of Alexandria/To the Bishops of Egypt.html')">To the Bishops of Egypt</a></div>
 <div><a href="#" onclick="loadFile('Athanasius of Alexandria/Tome or Synodal Letter to the People of Antioch.html')">Tome or Synodal Letter to the People of Antioch</a></div></details>
 <details><summary>[379 AD] Basil of Caesarea</summary>
+<div><a href="#" onclick="loadFile('Basil of Caesarea/Address to Young Men on the Right Use of Greek Literature.html')">Address to Young Men on the Right Use of Greek Literature</a></div>
 <details><summary>Letters</summary>
 <div><a href="#" onclick="loadFile('Basil of Caesarea/Letters/Letter C.html')">Letter C</a></div>
 <div><a href="#" onclick="loadFile('Basil of Caesarea/Letters/Letter CC.html')">Letter CC</a></div>
@@ -995,6 +1038,7 @@
 <div><a href="#" onclick="loadFile('Basil of Caesarea/Letters/Letters CCCXVI, CCCXVII, CCCXVIII, CCCXIX.html')">Letters CCCXVI, CCCXVII, CCCXVIII, CCCXIX</a></div>
 <div><a href="#" onclick="loadFile('Basil of Caesarea/Letters/Letters CCCXXX, CCCXXXI, CCCXXXII, CCCXXXIII.html')">Letters CCCXXX, CCCXXXI, CCCXXXII, CCCXXXIII</a></div></details>
 <div><a href="#" onclick="loadFile('Basil of Caesarea/ON THE SPIRIT.html')">ON THE SPIRIT</a></div>
+<div><a href="#" onclick="loadFile('Basil of Caesarea/Sermon 13 On holy baptism.html')">Sermon 13 On holy baptism</a></div>
 <details><summary>The Hexaemeron</summary>
 <div><a href="#" onclick="loadFile('Basil of Caesarea/The Hexaemeron/Homily I-In the Beginning God Made the Heaven and the Earth.html')">Homily I-In the Beginning God Made the Heaven and the Earth</a></div>
 <div><a href="#" onclick="loadFile('Basil of Caesarea/The Hexaemeron/Homily II-"The Earth Was Invisible and Unfinished".html')">Homily II-"The Earth Was Invisible and Unfinished"</a></div>
@@ -2763,6 +2807,9 @@
 <div><a href="#" onclick="loadFile('Socrates Scholasticus/THE ECCLESIASTICAL HISTORY/Book V.html')">Book V</a></div>
 <div><a href="#" onclick="loadFile('Socrates Scholasticus/THE ECCLESIASTICAL HISTORY/Book VI.html')">Book VI</a></div>
 <div><a href="#" onclick="loadFile('Socrates Scholasticus/THE ECCLESIASTICAL HISTORY/Book VII.html')">Book VII</a></div></details></details>
+<details><summary>[439 AD] Philostorgius</summary>
+<div><a href="#" onclick="loadFile('Philostorgius/ECCLESIASTICAL HISTORY OF PHILOSTORGIUS.html')">ECCLESIASTICAL HISTORY OF PHILOSTORGIUS</a></div>
+<div><a href="#" onclick="loadFile('Philostorgius/Ecclesiastical History - Footnotes.html')">Ecclesiastical History - Footnotes</a></div></details>
 <details><summary>[445 AD] Vincent of Lérins</summary>
 <details><summary>THE COMMONITORY</summary>
 <div><a href="#" onclick="loadFile('Vincent of Lérins/THE COMMONITORY/A Commonitory.html')">A Commonitory</a></div>
@@ -3104,25 +3151,8 @@
 <div><a href="#" onclick="loadFile('Berengaudus/Commentary on Revelation.html')">Commentary on Revelation</a></div>
 <details><summary>LATIN</summary>
 <div><a href="#" onclick="loadFile('Berengaudus/LATIN/Commentary on Revelation LATIN.html')">Commentary on Revelation LATIN</a></div></details></details>
+<details><summary>[940 AD] Eutychius of Alexandria</summary>
+<div><a href="#" onclick="loadFile('Eutychius of Alexandria/Eutychius-Annals-Pearse.pdf')">Eutychius-Annals-Pearse.pdf</a></div></details>
 <details><summary>[1889 AD] JB Lightfoot</summary>
 <div><a href="#" onclick="loadFile('JB Lightfoot/Christian Life in the Second and Third Centuries.html')">Christian Life in the Second and Third Centuries</a></div>
 <div><a href="#" onclick="loadFile('JB Lightfoot/The Brethren of the Lord.html')">The Brethren of the Lord</a></div></details>
-        <br><br><br>
-    </div>
-    <iframe id="content" name="contentFrame" style="width: 80%; height: 100vh;" srcdoc="<p>Click on a writing on the left menu to open it here!</p><p>Note: This database is open source, and everything is in the public domain! <a target='_blank' href='https://github.com/HistoricalChristianFaith/Writings-Database/'>Contribute/fix typos here!</a></p>"></iframe>
-    <script>
-    document.getElementById('content').addEventListener('load', function() {
-        // Make any links clicked inside the iframe open up in a new tab, instead of in the iframe.
-        var iframe = document.getElementById('content');
-        if(iframe.contentDocument) {
-            var links = iframe.contentDocument.getElementsByTagName('a');
-            for (var i = 0; i < links.length; i++) {
-                //TODO: Fix, this breaks TOC href links (perhaps exclude # links? Or perhaps add _blank to each page's proper links)
-                //links[i].target = '_blank';
-            }
-        }
-    });
-    </script>
-</body>
-</html>
-        
