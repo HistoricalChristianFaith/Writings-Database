@@ -59,12 +59,12 @@ def create_menu_html(file_tree, level=0):
     for name, path_or_subtree in sorted(file_tree.items(), key=sort_key):
         html += "<ul>\n"
         if isinstance(path_or_subtree, dict):  # It's a subdirectory
-            html += f'\n<li>{name}\n{create_menu_html(path_or_subtree, level=level+1)}</li>'
+            html += '\n<li data-jstree=\'{"type":"folder"}\'>'+name+'\n'+create_menu_html(path_or_subtree, level=level+1)+'</li>'
         else:  # It's a file
             if name != "index.html":
                 link = quote(path_or_subtree.replace('\\', '/'))
                 name = name.replace(".html", "")
-                html += f'\n<li data-fname="{link}">{name}</li>'
+                html += '\n<li data-jstree=\'{"type":"file"}\' data-fname="'+link+'">'+name+'</li>'
         html += "</ul>\n"
     return html
 
