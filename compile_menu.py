@@ -57,14 +57,33 @@ def create_menu_html(file_tree, level=0):
 
     html = ''
     for name, path_or_subtree in sorted(file_tree.items(), key=sort_key):
+        html += "<ul>\n"
         if isinstance(path_or_subtree, dict):  # It's a subdirectory
-            html += f'\n<details><summary>{name}</summary>{create_menu_html(path_or_subtree, level=level+1)}</details>'
+            html += f'\n<li>{name}\n{create_menu_html(path_or_subtree, level=level+1)}</li>'
         else:  # It's a file
             if name != "index.html":
                 link = quote(path_or_subtree.replace('\\', '/'))
                 name = name.replace(".html", "")
-                html += f'\n<div><a href="#" onclick="loadFile(\'{link}\')">{name}</a></div>'
+                html += f'\n<li data-fname="{link}">{name}</li>'
+        html += "</ul>\n"
     return html
+
+"""
+<ul>
+    <li>Root node 1
+        <ul>
+            <li>Child node 1</li>
+            <li>Child node 2
+                <ul>
+                    <li data-fname="Clement%20of%20Rome/First%20Epistle%20of%20Clement%20to%20the%20Corinthians.html">Grandchild node 1</li>
+                    <li>Grandchild node 2</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>Root node 2</li>
+</ul>
+"""
 
 
 def main(directory):
