@@ -55,6 +55,7 @@ def create_menu_html(file_tree, level=0):
                 pass  # If conversion fails, fall back to the original name
         return (1, name)  # Non-numeric names are sorted alphabetically
 
+    # TODO: Modify this sort method to do anything with "intro/introduction/preface" in the name first.
     html = ''
     for name, path_or_subtree in sorted(file_tree.items(), key=sort_key):
         html += "<ul>\n"
