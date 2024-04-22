@@ -49,18 +49,23 @@ def create_menu_html(file_tree, level=0):
         name = item[0].lower()  # Convert the name to lowercase to ensure case-insensitive comparison
 
         # Check for special keywords in the name
-        if "preface" in name:
+        if "title " in name:
+            return (-3, name)  # Priority for items with "title"
+        elif "preface" in name:
             return (-2, name)  # Priority for items with "preface"
         elif "introduction" in name:
             return (-1, name)  # Priority for items with "introduction"
         elif "pseudo" in name:
+            return (3, name)  # Lower priority for items with "pseudo"
+        elif "appendix" in name:
             return (2, name)  # Lower priority for items with "pseudo"
 
-        # Extract numeric part for books
-        if 'book ' in name:
-            match = re.search(r'\d+', name)
-            if match:
-                return (0, int(match.group()))  # Prioritize by the numeric part, ensure it's an integer
+        # General pattern matching for items with trailing numbers (like "Book 10", "Similitude 2")
+        match = re.search(r'(\D+)(\d+)', name)
+        if match:
+            text_part = match.group(1).strip()  # The non-digit part of the name
+            number_part = int(match.group(2))  # The numeric part, converted to integer
+            return (0, text_part, number_part)  # Sort by text first, then by number
 
         # Attempt to extract year from the folder name
         if name.startswith('[') and ']' in name:
