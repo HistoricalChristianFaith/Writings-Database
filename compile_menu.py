@@ -45,7 +45,16 @@ def build_file_tree(files, folders, directory):
 
 def create_menu_html(file_tree, level=0):
     def sort_key(item):
-        name = item[0]
+        name = item[0].lower()  # Convert the name to lowercase to ensure case-insensitive comparison
+
+        # Check for special keywords in the name
+        if "preface" in name:
+            return (-2, name)  # Priority for items with "preface"
+        elif "introduction" in name:
+            return (-1, name)  # Priority for items with "introduction"
+        elif "pseudo" in name:
+            return (2, name)  # Lower priority for items with "pseudo"
+
         # Attempt to extract year from the folder name
         if name.startswith('[') and ']' in name:
             try:
@@ -55,7 +64,6 @@ def create_menu_html(file_tree, level=0):
                 pass  # If conversion fails, fall back to the original name
         return (1, name)  # Non-numeric names are sorted alphabetically
 
-    # TODO: Modify this sort method to do anything with "intro/introduction/preface" in the name first.
     html = ''
     for name, path_or_subtree in sorted(file_tree.items(), key=sort_key):
         html += "<ul>\n"
@@ -68,6 +76,7 @@ def create_menu_html(file_tree, level=0):
                 html += '\n<li data-jstree=\'{"icon":"fas fa-file-alt"}\' data-fname="'+link+'">'+name+'</li>'
         html += "</ul>\n"
     return html
+
 
 """
 <ul>
