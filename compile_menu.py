@@ -1,6 +1,7 @@
 import os
 import rtoml
 from urllib.parse import quote
+import re
 
 def find_files(directory, extensions):
     matches = []
@@ -55,6 +56,12 @@ def create_menu_html(file_tree, level=0):
         elif "pseudo" in name:
             return (2, name)  # Lower priority for items with "pseudo"
 
+        # Extract numeric part for books
+        if 'book ' in name:
+            match = re.search(r'\d+', name)
+            if match:
+                return (0, int(match.group()))  # Prioritize by the numeric part, ensure it's an integer
+
         # Attempt to extract year from the folder name
         if name.startswith('[') and ']' in name:
             try:
@@ -62,6 +69,7 @@ def create_menu_html(file_tree, level=0):
                 return (0, year)  # Prioritize numeric sorting
             except ValueError:
                 pass  # If conversion fails, fall back to the original name
+
         return (1, name)  # Non-numeric names are sorted alphabetically
 
     html = ''
@@ -76,6 +84,7 @@ def create_menu_html(file_tree, level=0):
                 html += '\n<li data-jstree=\'{"icon":"fas fa-file-alt"}\' data-fname="'+link+'">'+name+'</li>'
         html += "</ul>\n"
     return html
+
 
 
 """
