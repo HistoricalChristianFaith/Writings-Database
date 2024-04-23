@@ -91,25 +91,6 @@ def create_menu_html(file_tree, level=0):
     return html
 
 
-
-"""
-<ul>
-    <li>Root node 1
-        <ul>
-            <li>Child node 1</li>
-            <li>Child node 2
-                <ul>
-                    <li data-fname="Clement%20of%20Rome/First%20Epistle%20of%20Clement%20to%20the%20Corinthians.html">Grandchild node 1</li>
-                    <li>Grandchild node 2</li>
-                </ul>
-            </li>
-        </ul>
-    </li>
-    <li>Root node 2</li>
-</ul>
-"""
-
-
 def main(directory):
     extensions = ['.html', '.pdf', '.htm']
     files = find_files(directory, extensions)
