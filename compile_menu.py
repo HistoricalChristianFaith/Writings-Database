@@ -55,7 +55,7 @@ def create_menu_html(file_tree, level=0):
             return (-2, name)  # Priority for items with "preface"
         elif "introduction" in name:
             return (-1, name)  # Priority for items with "introduction"
-        elif "pseudo" in name:
+        elif "pseudo" in name and "[" not in name:
             return (3, name)  # Lower priority for items with "pseudo"
         elif "appendix" in name:
             return (2, name)  # Lower priority for items with "pseudo"
