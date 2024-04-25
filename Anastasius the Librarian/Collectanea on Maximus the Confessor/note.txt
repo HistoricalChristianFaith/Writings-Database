@@ -1,0 +1,29 @@
+
+----Works-----
+- Relatio Motionis (CPG 7736), c. 656
+- Dispute between Maximus and Theodosius of Caesarea Bithynia (CPG 7735), late 656 or before August 657
+- Letter of Maximus to Anastasius (CPG 7701), 19 April 658
+- Letter of Anastasius (Apocrisiarius) to the monks of Cagliari (CPG 7725), post 19 April 658
+- Letter of Anastasius Apocrisiarius to Theodosius of Gangra (CPG 7733): 665/666
+- Testimonia of Hippolytus, Bishop of the Port of Rome (CPG 1916), and Syllogisms.
+- Hypomnesticon of Theodore Spudaeus (CPG 7968): end 668/early 669
+---------
+
+These translations come from: https://web.archive.org/web/20160322041836/http://dlibrary.acu.edu.au/digitaltheses/public/adt-acuvp231.30042010/
+
+>> ACU Digital Theses >> Thesis Details
+
+Details of Thesis
+Title	A Critical Edition of Anastasius Bibliothecarius' Latin Translation of Greek Documents Pertaining to the Life of Maximus the Confessor, with an Analysis of Anastasius' Translation Methodology, and an English Translation of the Latin Text
+Author	Neil, Bronwen
+Institution	Australian Catholic University
+Date	1998
+Abstract	Part I Anastasius Bibliothecarius, papal librarian, translator and diplomat, is one of the pivotal figures of the ninth century in both literary and political contexts. His contribution to relations between the eastern and western church can be considered to have had both positive and negative ramifications, and it will be argued that his translations of various Greek works into Latin played a significant role in achieving his political agenda, complex and convoluted as this was. Being one of relatively few Roman bilinguals in the latter part of the ninth century, Anastasius found that his linguistic skills opened an avenue into papal affairs that was not closed by even the greatest breaches of trust and violations of canonical law on his part. His chequered career spanning five pontificates will be reviewed in the first chapter. In Chapter 2, we discuss his corpus of works of translation, in particular the Collectanea, whose sole surviving witness, the Parisinus Latinus 5095, has been partially edited in this study. This collation and translation of seven documents pertaining to the life of Maximus the Confessor provides us with a unique insight into Anastasius' capacity as a translator, and into the political and cultural significance of the commissioning and dedication of his hagiographic and other translated works in general. These seven documents will be examined in detail in Chapter 3, and compared with the Greek tradition, where that has survived, in an effort to establish the codes governing translation in this period, and to establish which manuscripts of the Greek tradition correspond most closely to Anastasius' (lost) model. In Chapter 4, we analyse consistency of style and method by comparison with Anastasius' translation of the Historia Mystica attributed to Germanus of Constantinople. Anastasius' methodology will be compared and contrasted with that of his contemporary John Scotus Eriugena, to place his oeuvre in the broader context of bilingualism in the West in the ninth century. Part II contains a critical edition of the text with facing English translation and historical and linguistic annotations.
+Thesis	01front.pdf 265KB
+02part1chapters1-2.pdf 3,330KB
+03part1chapters3-4.pdf  3,047KB
+04part2texts_a.pdf 2,761KB
+05part2texts_b.pdf  4,490KB
+06part2texts_c.pdf 4,007KB
+07indices_and_bibliography.pdf 755KB
+ 
