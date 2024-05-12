@@ -3,6 +3,8 @@ import rtoml
 from urllib.parse import quote
 import re
 
+metadata_lookup = {}
+
 def find_files(directory, extensions):
     matches = []
     for root, _, files in os.walk(directory):
@@ -27,6 +29,10 @@ def find_folders_with_metadata(directory):
                 else:
                     folder_key = folder_name
                 folders[root] = folder_key
+                metadata_lookup[folder_key] = {
+                    'default_year': metadata.get('default_year', ''),
+                    'wiki': metadata.get('wiki', '')
+                }
             except Exception as e:
                 print(f"Error reading metadata.toml in {root}: {e}")
     return folders
@@ -81,7 +87,10 @@ def create_menu_html(file_tree, level=0):
     for name, path_or_subtree in sorted(file_tree.items(), key=sort_key):
         html += "<ul>\n"
         if isinstance(path_or_subtree, dict):  # It's a subdirectory
-            html += '\n<li data-jstree=\'{"icon":"fas fa-folder-open"}\'>'+name+'\n'+create_menu_html(path_or_subtree, level=level+1)+'</li>'
+            metadata_url_string = ""
+            if name in metadata_lookup and metadata_lookup[name]['wiki']:
+                metadata_url_string = ' data-metadataurl="'+metadata_lookup[name]['wiki']+'"'
+            html += '\n<li data-jstree=\'{"icon":"fas fa-folder-open"}\''+metadata_url_string+'>'+name+'\n'+create_menu_html(path_or_subtree, level=level+1)+'</li>'
         else:  # It's a file
             if name != "index.html":
                 link = quote(path_or_subtree.replace('\\', '/'))
