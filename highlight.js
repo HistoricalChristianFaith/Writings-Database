@@ -13,7 +13,6 @@ function highlightText(text) {
     var node;
     while (node = walker.nextNode()) {
         var regex = new RegExp(text, 'gi');
-        console.log("Testing...", node.nodeValue);
         if (regex.test(node.nodeValue)) {
           console.log("****found")
             // Split text node into parts and wrap the matched part in a span
@@ -28,7 +27,7 @@ window.addEventListener('load', function() {
     // Check if URL contains the highlight parameter
     if (window.location.hash) {
       console.log("***textparam detected=", window.location.hash)
-        var textToHighlight = decodeURIComponent(window.location.hash);
+        var textToHighlight = decodeURIComponent(window.location.hash.replace(/\+/g, ' '));
         if (textToHighlight.startsWith("#")) {
           textToHighlight = textToHighlight.substring(1);
         }
