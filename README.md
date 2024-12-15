@@ -10,6 +10,8 @@ They primarily come from the following sources:
 - Roger Pearse's Translation Work (https://www.roger-pearse.com/weblog/all-the-translations-on-this-site/)
 - Migne's Patrologia Latina / Patrologia Graeca, translated into English via ChatGPT (https://www.mlat.uzh.ch/browser?path=/38 and http://khazarzar.skeptik.net/pgm/PG_Migne/)
 
+For additional resources, check out the [Links Galore Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRkUFBfVVqv5Tr2aZS4apFNpTJ-ys6VqeQxgsAI1v7cH5putIgchYWJAVGHuu0lWGmdD2DU7Vb1o7XH/pubhtml?gid=1651648992)
+
 ### Pull Requests
 
 See a typo/mistake? Please send a pull request to fix it! 
