@@ -5,6 +5,7 @@ import re
 
 metadata_lookup = {}
 
+
 def find_files(directory, extensions):
     matches = []
     for root, _, files in os.walk(directory):
