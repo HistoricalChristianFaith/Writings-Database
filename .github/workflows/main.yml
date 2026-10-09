@@ -1,0 +1,54 @@
+on:
+  push:
+    branches:
+      - master
+name: 🚀 Deploy writings database on push
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v4
+
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.6
+      with:
+        server: ${{ secrets.ftp_host }}
+        username: ${{ secrets.ftp_user }}
+        password: ${{ secrets.ftp_pass }}
+        protocol: ftps
+        # The repo root IS the corpus. Commentaries-Interface's by_father.php reads it
+        # from the sibling ../writings-database/ folder on the server (the FTP account
+        # is rooted there, like the doctrine-database deploy). It needs every author
+        # folder's .html/.htm fragments, PDFs, images, metadata.toml, and the root
+        # menu.html (also used to detect the corpus root) — so don't exclude those.
+        local-dir: ./
+        server-dir: /
+        # Never ship repo meta files (CLAUDE.md, AGENTS.md, README.md, …), build
+        # scripts (compile_menu.py), or unlinked source/working files (.doc/.docx/
+        # .txt/.zip/.rtf) — nothing on the site references them.
+        exclude: |
+          **/.git*
+          **/.git*/**
+          **/.github/**
+          **/.vscode/**
+          **/.idea/**
+          **/.claude/**
+          **/__pycache__/**
+          **/.DS_Store
+          **/.env*
+          **/*.md
+          **/*.py
+          **/*.pyc
+          **/*.doc
+          **/*.docx
+          **/*.txt
+          **/*.zip
+          **/*.rtf
+          **/*.swp
+          **/*.swo
+          **/*~
+          **/*.tmp
+          **/*.bak
+          **/*.log
