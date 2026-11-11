@@ -26,3 +26,18 @@ check them against the print. The print uses "subnumeration" (unhyphenated) in r
 anf06 (Gregory Thaumaturgus, Dionysius, Julius Africanus, …) — scan `antenicenefathte0006jame` (Buffalo 1886),
 leaf = printed page + 12; extra OCRs `antenicenefather06buff`, `antenicenefather0006unse_h9i4`. Fathers2 OCR read
 "Heli" as "Hell" throughout Africanus. ThML Hebrew can be in reversed logical order (check it against the image).
+
+npnf201 (Eusebius, Church History) — scan `cu31924031002102` (Cornell, 1890), leaf = printed page + 13. The other
+archive.org candidates are different volumes. The work is split into 10 Book files: run prep per Book, and fix the
+leaf range by hand when a stray phrase hit widens it (Books 2 and 9). analyze's ThML range can be off by one at
+book edges (the previous book's last note, or front matter such as t10 in Book 1), so check th_lo/th_hi.
+- The print sets bare margin section numbers ("12", no period), and the file convention is one section per
+  paragraph, "N Text". Keep ours on every "N" vs CCEL "N." hunk. Sections that begin mid-sentence are not split.
+- Chapter headings: the files use the importer's Title Case, kept for consistency (the print uses sentence-ish case).
+- ThML Greek is systematically broken: `€`=ά, `ž`=ἔ, `Ž`=ᾷ, and `&amp; NNN·` (U+0387 terminator) with 139=ᾳ,
+  251=ῳ, 242=ῶ, 240=ώ, 231=ό, 252=ῴ, 191=ῥ, 187=ΐ (βρεουΐον). Some notes are set in a Greek font by mistake
+  ("Σεε αβόε, νοτε 5." = "See above, note 5."). Check every ThML note that carries Greek.
+- Structural damage found 2026-11-11: Book 4 Chs. I–V §4 and XI–XV come from a worse retyped lineage (typos like
+  "hte"; run-in sections "2At"; headings XII–XV run into the text; no notes). The notes in Books 9/10 were shifted:
+  Book 9 held the Martyrs-of-Palestine notes (a duplicate of Book 8's), Book 10 held Book IX's, and Book X's were
+  missing.
