@@ -45,3 +45,18 @@ book edges (the previous book's last note, or front matter such as t10 in Book 1
   Book 9 held the Martyrs-of-Palestine notes (a duplicate of Book 8's), Book 10 held Book IX's, and Book X's were
   missing. Book 4 was then fully collated: the retyped span had also dropped words (XV §3 "dwelleth at Smyrna
   to the church of God which"; "and our Lord Jesus Christ"), and ThML note t1099 dropped a sentence (eye-skip).
+- Learned across Books 2–10 (collated 2026-11-11/12 by per-Book lead agents; brief in
+  standardization/collate/EUSEBIUS_LEAD_BRIEF.md):
+  - fathers2 section starts are often misplaced in ours AND CCEL, frequently by one line off the margin numeral
+    (26 in Book 6 alone). Check every one, and also look for run-in numerals ("And 6 when").
+  - Unnumbered paragraph breaks inside a section are kept where the print has them.
+  - Lost notes show up in analyze as "drift" plus unmatched defs. In Book 5 a lost note left its garbage spliced into
+    the next two defs; in Book 8 a note cut off at its first Greek word did the same. The print sometimes sets two
+    notes under one marker (Book 7 XXIX §1), or a note with no marker (Book 8 XI).
+  - Whole notes or sentences can be missing: Book 3 lost the last six notes of XXXIX and ~120 words of the
+    Papias-on-Mark note.
+  - A note imported from ThML is trivially "identical to ThML", so the pipeline skips it. Proof such notes against
+    the print explicitly.
+  - Custom note text must use a plain "&amp;" (build re-escapes it). In notes, keep "§N" (no space) and the space
+    after an opening italic abbreviation ("<i>Ibid.</i> chap.").
+  - Parallel adjudicators sharing a scratchpad can overwrite each other's temp files: make them prefix their temp files.
