@@ -35,8 +35,13 @@ Notes: `"thml"`, `"ours"`, or a full custom note text (allowed markup: `<i>…</
 paragraph/line break inside a long note; plain `&` not `&amp;`; straight quotes; Unicode Greek with accents).
 
 Rules:
-- Match the print exactly, including its own typos and archaisms ("shew", "connexion", "It's", "partriarchs") — do
-  not modernize or correct. CCEL often silently corrects the print; that is a reason to keep ours.
+- Match the print exactly, including its archaisms and period spellings ("shew", "connexion", "to-day") — do not
+  modernize. CCEL often silently corrects the print; that alone is NOT a reason to take CCEL.
+- Exception — obvious print typos: when the print has an unmistakable typographical error (dropped/transposed/broken
+  letter "pruence", doubled word "yourself yourself", wrong verse number you can verify) AND the correct reading is
+  certain, take the corrected reading (often CCEL's). Check how others read it first (WebSearch: CCEL, New Advent,
+  other editions/reprints, the original language). If there is any doubt, keep the print. List every such
+  correction in `_report` under "print typos corrected", with the print's form.
 - Small caps in the print (section-opening words like "HE is not", "MSS.") → normal case (CCEL's form).
 - Beta-code Greek → the print's Greek in Unicode with accents (`(dia/)` → `(διά)`); CCEL's transliteration (`dia`) is
   not acceptable — read it off the image.

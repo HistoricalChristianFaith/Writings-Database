@@ -24,7 +24,7 @@ dn = [int(d[0]) for d in defs]
 if dn != list(range(1, len(dn) + 1)): fail.append('defs not 1..k in order')
 if len(rn) != len(dn): fail.append(f'{len(rn)} markers vs {len(dn)} defs')
 if re.search('[\x00\x01¶]', s): fail.append('leftover placeholder (\\x00/\\x01/¶)')
-bad_tags = set(re.findall(r'</?(\w+)', body)) - {'article', 'h1', 'h2', 'h3', 'h4', 'i', 'b', 'br', 'sup', 'a', 'em', 'section', 'hr', 'span'}
+bad_tags = set(re.findall(r'</?(\w+)', body)) - {'article', 'h1', 'h2', 'h3', 'h4', 'i', 'b', 'br', 'sup', 'a', 'em', 'section', 'hr', 'span', 'blockquote'}
 if bad_tags: fail.append(f'unexpected tags in body: {bad_tags}')
 bad_tags = set(re.findall(r'</?(\w+)', notes)) - {'section', 'hr', 'span', 'a', 'br', 'i', 'sup', 'b', 'article'}
 if bad_tags: fail.append(f'unexpected tags in notes: {bad_tags}')

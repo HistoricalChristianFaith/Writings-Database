@@ -73,7 +73,8 @@ other Claude attribution**. Add any new per-volume quirk you learned to `VOLUMES
 ## Conventions (CLAUDE.md format)
 Bare fragment in `<article class="writing">`, paragraphs as `<br><br>` (keep the file's existing `<br/>` vs `<br>`
 style), two-way-linked notes `rN`/`fnN` numbered 1..k in document order, multi-paragraph notes joined with `<br>`.
-Preserve the print exactly. Straight quotes, em dashes `—`, Unicode Greek.
+Preserve the print exactly, except obvious print typos whose correction is certain (see BRIEF.md; search online
+for how others read them first). Straight quotes, em dashes `—`, Unicode Greek.
 
 ## Cost
 About 200–250k subagent tokens per 100 review items for adjudication, plus roughly half that for the review. Fan out

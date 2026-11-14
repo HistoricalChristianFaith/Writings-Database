@@ -19,7 +19,11 @@ fragment contains **no** `<html>`/`<head>`/`<body>`/`<title>` and **no** `highli
   - reference: `…text<sup><a href="#fnN" id="rN">N</a></sup>`
   - definitions in a trailing section:
     `<section class="notes"><hr><span id="fnN"><a href="#rN">N</a>&nbsp;Footnote text</span><br>…</section>`
-- Preserve the source text **exactly** — structure only; no spelling/grammar/translation "fixes".
+- Preserve the source text **exactly** — structure only; no spelling/grammar/translation "fixes". One exception:
+  an **obvious typographical error** in the source (dropped/transposed/broken letter, doubled word, "pruence",
+  "yourself yourself") may be corrected when we are certain it is an error AND certain what it should be. Search
+  online first for how others (CCEL, other editions, reprints, the original language) read it. Period spellings and
+  archaisms ("shew", "connexion", "to-day") are not errors; when in doubt, keep the source.
 
 Example skeleton:
 ```html

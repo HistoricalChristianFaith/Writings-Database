@@ -2,7 +2,8 @@
 
 General (all fathers2 imports)
 - CCEL .txt flattens œ→oe (keeps æ); drops the opening single quote of nested quotations; compresses ". . ." to "...".
-- CCEL silently corrects the print's own typos. Keep the print's reading.
+- CCEL silently corrects the print's own typos. Take the correction only for an obvious typo whose fix is certain
+  (policy since 2026-11-14); otherwise keep the print's reading.
 - New Advent is NOT an independent witness: it has the same OCR errors as fathers2.
 - Original fathers2 footnote pages (with `<I>` and SPIonic Greek) are on Wayback:
   `web/2006id_/http://www.ccel.org:80/fathers2/<VOL>/footnote/fnNNN.htm`. They are a fallback witness for notes when
@@ -60,3 +61,26 @@ book edges (the previous book's last note, or front matter such as t10 in Book 1
   - Custom note text must use a plain "&amp;" (build re-escapes it). In notes, keep "§N" (no space) and the space
     after an opening italic abbreviation ("<i>Ibid.</i> chap.").
   - Parallel adjudicators sharing a scratchpad can overwrite each other's temp files: make them prefix their temp files.
+
+npnf207 (Cyril of Jerusalem, Gregory Nazianzen) — scan `cu31924079626705` (Cornell 1890), leaf = printed page + 75.
+No extra OCRs (the other archive.org copies 403/401). Orations 4 and 5 and the Introduction in
+`Gregory of Nazianzus/Orations/` are from King's *Julian the Emperor* (1888), not fathers2 — out of scope.
+24 orations collated 2026-11-13 by per-group lead agents (brief: standardization/collate/NAZIANZEN_LEAD_BRIEF.md).
+- prep's leaf range is often blown wide by stray phrase hits (shared Scripture phrases; Or. 45 repeats long passages
+  of Or. 38): set leaf_lo/hi by hand from the contiguous hit cluster.
+- analyze's run-in detector fires on years ("a.d. 361") and on the "</blockquote>1." intro boundary — false alarms.
+- Small caps → CCEL's form: "a.d." (CCEL has 135×, 0× "A.D."), "mss."/"MSS." as CCEL has it at each spot.
+- The print restores æ (Cæsarius, Nicæa, Hær.) where fathers2 has "ae"; but some spots really print "ae"
+  (Or. 21 "Haer. 68.7", Or. 1 "Caesarius", Or. 45 "Arimathaea"). Check the image, don't regex it.
+- Defective ellipses: the print often shows 1–2 dots where type dropped out; we normalize to ". . .".
+- The print sets "Introduction to …" headings and puts the oration title AFTER the editor's intro; the files keep
+  title-first with the intro in <blockquote> (house layout, 117 corpus files use <blockquote>; validate allows it).
+- Drift came from 1–3 lost markers or lost defs per oration (Or. 2: 205 markers off; Or. 43 note 146 held two notes
+  run together); Or. 42's last note (Col. iv. 18) sat in Or. 43's ThML range.
+- Errors shared by ours AND CCEL were common (same OCR lineage): "cats stones", "us His only sacrifice", "became That
+  which", "bent gain", "to the fortune" (=opportune, lost at a column break), dropped repeated words ("loveth most
+  most", "laughter laughter"). Read suspicious words in the print even when both agree.
+- 2026-11-14, under the new typo policy: 62 print typos corrected across 21 orations (hand fixes tagged
+  `"why": "print typo …"` in each merged.json). Many are wrong verse numbers in notes that were verified from the
+  body text (Cant. "xi." → ii. 15, "Cor. xvii. 7" → 2 Cor. xii. 7). New Advent modernizes spelling ("today",
+  "yourself"), so it is useless for hyphenation questions; CCEL is the better comparison.
