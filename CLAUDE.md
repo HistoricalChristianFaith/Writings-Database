@@ -3,6 +3,11 @@
 ## Git workflow
 - Commit directly on `master`. Do **not** create feature branches for changes in this repo.
 
+## Menu
+After adding, removing, or renaming a work (or a folder's `metadata.toml`), `git add` the change, then run
+`python3 compile_menu.py` and commit the regenerated `menu.html` with it. The script reads the git index, so
+unstaged new files won't appear.
+
 ## HTML works — standard format
 Each writing is a **bare semantic fragment**, not a full document. The site renderer injects the
 `<head>`, `<title>`, site chrome, CSS, and the `highlight.js` reader script at serve time — so a
