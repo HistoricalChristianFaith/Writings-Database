@@ -41,3 +41,10 @@ Body paragraph…<sup><a href="#fn1" id="r1">1</a></sup><br><br>
 
 Non-HTML writings (PDF/doc/docx/rtf, often a `Translation-*.pdf` plus a `note.txt`) live in their own
 work subfolders and are outside this format.
+
+## Modern (non-public-domain) translations — fixed wording
+- **Placeholder page** for a work with no public-domain translation: `<article class="writing writing-external">`,
+  `<h1>` title, then only an `<i>…</i>` note that starts **"No public-domain English translation of this work is
+  available."** and gives translator(s), title, publisher, year, ISBN, a publisher link (no affiliate links), and a
+  short description in our own words (not the publisher's blurb). Drop the `writing-external` class once a real text is added.
+- **Hosted works:** end the source note with **"Other English translations: …"** listing modern translations with links.
