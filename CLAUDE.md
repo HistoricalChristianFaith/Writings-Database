@@ -44,6 +44,12 @@ Body paragraph…<sup><a href="#fn1" id="r1">1</a></sup><br><br>
 </article>
 ```
 
+- **Colour (rare exception):** when colour carries meaning in the source (e.g. rubrication in Jerome's *Chronicle*),
+  put ONE `<style>` block right after `<article class="writing">`, scoped to `.writing` (e.g.
+  `<style>.writing .rubric{color:#b00}</style>`), and mark text with `<span class="rubric">…</span>`. Never inline
+  `style=""` attributes, never other CSS. Plain `<table>` (only `colspan`/`rowspan`) is allowed for parallel-column
+  texts and chronicle canons (precedents: Aristides' parallel versions, Jacob of Edessa's *Chronicle*).
+
 Non-HTML writings (PDF/doc/docx/rtf, often a `Translation-*.pdf` plus a `note.txt`) live in their own
 work subfolders and are outside this format.
 
