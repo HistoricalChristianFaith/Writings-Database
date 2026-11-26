@@ -1,6 +1,6 @@
 <h1>The Letters of St. Jerome</h1>
 
-Most letters are from Nicene and Post-Nicene Fathers, Series II, Vol. VI (Public Domain). For the letters not in the volume... Letters 106 and 120 are from tertullian.org/fathers, and the rest are translated via ChatGPT 3.5 from the Latin texts in Migne, Patrologiae Cursus Completus.
+Most letters are from Nicene and Post-Nicene Fathers, Series II, Vol. VI (Public Domain). For the letters not in the volume... Letters 106 and 120 are from tertullian.org/fathers, letters 93, 94 and 149–154 are Roger Pearse's public-domain translations (2026), and the rest are translated via ChatGPT 3.5 from the Latin texts in Migne, Patrologiae Cursus Completus.
 
 Alternative sources: [tertullian.org](https://www.tertullian.org/fathers2/NPNF2-06/Npnf2-06-03.htm#P1292_282474), [newadvent.org](https://www.newadvent.org/fathers/3001.htm)
 
@@ -157,7 +157,11 @@ Alternative sources: [tertullian.org](https://www.tertullian.org/fathers2/NPNF2-
 <li><a href='letter_146.md'>Letter 146. To Evangelus.</a></li>
 <li><a href='letter_147.md'>Letter 147. To Sabinianus</a></li>
 <li><a href='letter_148.md'>Letter 148. To the Matron Celantia.</a></li>
-<li><a href='letter_149.md'>Letter 149. On the Jewish Festivals.</a></li>
+<li><a href='letter_149.md'>Letter 149. On the Solemnities of Passover.</a></li>
 <li><a href='letter_150.md'>Letter 150. From Procopius to Jerome.</a></li>
+<li><a href='letter_151.md'>Letter 151. To Riparius.</a></li>
+<li><a href='letter_152.md'>Letter 152. To Riparius.</a></li>
+<li><a href='letter_153.md'>Letter 153. To Pope Boniface.</a></li>
+<li><a href='letter_154.md'>Letter 154. To Donatus.</a></li>
 </ul>
 </td></tr></tbody></table>
